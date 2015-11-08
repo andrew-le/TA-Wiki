@@ -330,7 +330,7 @@ D3 API总览
 * [ordinal.range](Ordinal-Scales#ordinal_range) - 取得或设置比例尺的值域。
 * [ordinal](Ordinal-Scales#_ordinal) - 取得输入值对应的输出值。
 
-## [d3.svg (SVG)](SVG)
+## SVG
 
 ### [形状](形状)
 
