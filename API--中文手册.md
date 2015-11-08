@@ -1,4 +1,4 @@
-> [Wiki](主页) ▸ **API--中文手册**
+> [Wiki](主页) ▸ **API  中文手册**
 
 * 本文档是D3官方文档中文翻译，并保持与[最新版](https://github.com/mbostock/d3/wiki/API-Reference)同步。
 * 如发现翻译不当或有其他问题可以通过以下方式联系译者:
