@@ -493,6 +493,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
   </tr>
   <tr valign="top">
     <td>Band Zoom<br><a href="http://bl.ocks.org/jroetman/9b4c0599a4996edef0ab"><img width="133" src="https://cloud.githubusercontent.com/assets/5098704/10553432/860c20ec-740f-11e5-8e79-e0b30f352012.png"></a></td>
+    <td>Item explorer<br><a href="http://bl.ocks.org/EE2dev/a3ee04578325668bd3f8"><img width="133" src="http://bl.ocks.org/EE2dev/raw/a3ee04578325668bd3f8/thumbnail.png"></a></td>
   </tr>
 
 </table>
@@ -851,6 +852,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Dual-scale Bar Chart](https://github.com/liufly/Dual-scale-D3-Bar-Chart)
 * [Diverging Stacked Bar Chart](http://bl.ocks.org/wpoely86/e285b8e4c7b84710e463)
 * [Horizontally Grouped Bar Chart](http://bl.ocks.org/erikvullings/51cc5332439939f1f292)
+* [Magical Bar Charts](http://www.ankerst.de/Mihael/proj/mbc/) - Mihael Ankerst
 
 #### Histogram
 
