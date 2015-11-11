@@ -299,7 +299,7 @@ These built-in types may be extended using a variety of modes:
 * in-out - copies and mirrors the easing function from [0,.5] and [.5,1].
 * out-in - copies and mirrors the easing function from [1,.5] and [.5,0].
 
-The default easing function is "cubic-in-out" which provides suitable [[slow-in slow-out|http://en.wikipedia.org/wiki/12_basic_principles_of_animation#Slow_in_and_slow_out]] animation.
+The default easing function is "cubic-in-out" which provides suitable [[slow-in slow-out|http://en.wikipedia.org/wiki/12_basic_principles_of_animation#Slow_In_and_Slow_Out]] animation.
 
 <a name="_ease" href="#_ease">#</a> <b>ease</b>(<i>t</i>)
 
