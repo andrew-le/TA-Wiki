@@ -186,7 +186,7 @@ D3 API总览
 * [d3.requote](格式化#d3_requote) - 将字符串转义为正则表达式。
 * [d3.round](格式化#d3_round) - 将值四舍五入到指定小数位。
 
-### [CSV格式化(d3.csv)](CSV)
+### [CSV格式化(d3.csv)](CSV格式化)
 
 * [d3.csv.formatRows](CSV#formatRows) - 格式化一组元组为CSV字符串。
 * [d3.csv.format](CSV#format) - 格式化一组对象为CSV字符串。
