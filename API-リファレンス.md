@@ -1,19 +1,19 @@
-> [Wiki](Home) ▸ **API Reference**
+> [Wiki](Home) ▸ **API リファレンス**
 
-Everything in D3 is scoped under the `d3` namespace.
+D3 ライブラリの全ては名前空間 `d3` 以下に存在します・
 
-D3 uses [semantic versioning](http://semver.org). You can find the current version of D3 as `d3.version`.
+D3 は[セマンティックバージョニング](http://semver.org)を使用しています。使用中の D3 のバージョンは `d3.version` として参照する事ができます。
 
 See one of:
 
-* [Behaviors](#d3behavior-behaviors) - reusable interaction behaviors
-* [Core](#d3-core) - selections, transitions, data, localization, colors, etc.
-* [Geography](#d3geo-geography) - project spherical coordinates, latitude & longitude math
-* [Geometry](#d3geom-geometry) - utilities for 2D geometry, such as Voronoi diagrams and quadtrees
-* [Layouts](#d3layout-layouts) - derive secondary data for positioning elements
-* [Scales](#d3scale-scales) - convert between data and visual encodings
-* [SVG](#d3svg-svg) - utilities for creating Scalable Vector Graphics
-* [Time](#d3time-time) - parse or format times, compute calendar intervals, etc.
+* [Behaviors](#d3behavior-behaviors) - 再利用可能なインタラクション挙動
+* [Core](#d3-core) - selection 、 transition 、 データ、ローカライズ、色、等
+* [Geography](#d3geo-geography) - 極座標データの表示、緯度と経度の計算
+* [Geometry](#d3geom-geometry) - ボロノイ図や四分木といった二次元幾何学ユーティリティ
+* [Layouts](#d3layout-layouts) - 要素の位置決めのための二次データの導出
+* [Scales](#d3scale-scales) - データから視覚情報への変換
+* [SVG](#d3svg-svg) - Scalable Vector Graphics 作成の為のユーティリティ
+* [Time](#d3time-time) - 時刻のパースとフォーマット、カレンダーと周期の計算、等
 
 ## [d3 (core)](Core)
 
