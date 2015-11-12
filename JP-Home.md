@@ -7,7 +7,7 @@
 * [はじめに](http://mbostock.github.com/d3/)
 * [[事例ギャラリー|Gallery]]
 * [[チュートリアル と 資料|JP-Tutorials]]
-* [[API Reference]]
+* [[API リファレンス]]
 * [Release Notes](/mbostock/d3/releases)
 * [Plugins](/d3/d3-plugins)
 * [d3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
