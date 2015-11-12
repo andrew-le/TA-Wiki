@@ -19,39 +19,39 @@ See one of:
 
 ### [Selections](Selections)
 
-* [d3.event](Selections#d3_event) - access the current user event for interaction.
-* [d3.mouse](Selections#d3_mouse) - gets the mouse position relative to a specified container.
-* [d3.select](Selections#d3_select) - select an element from the current document.
-* [d3.selectAll](Selections#d3_selectAll) - select multiple elements from the current document.
-* [d3.selection](Selections#d3_selection) - augment the selection prototype, or test instance types.
-* [d3.touch](Selections#d3_touch) - gets a touch position relative to a specified container.
-* [d3.touches](Selections#d3_touches) - gets the touch positions relative to a specified container.
-* [selection.append](Selections#append) - create and append new elements.
-* [selection.attr](Selections#attr) - get or set attribute values.
-* [selection.call](Selections#call) - call a function passing in the current selection.
-* [selection.classed](Selections#classed) - add or remove CSS classes.
-* [selection.data](Selections#data) - get or set data for a group of elements, while computing a relational join.
-* [selection.datum](Selections#datum) - get or set data for individual elements, without computing a join.
-* [selection.each](Selections#each) - call a function for each selected element.
-* [selection.empty](Selections#empty) - returns true if the selection is empty.
-* [selection.enter](Selections#enter) - returns placeholders for missing elements.
-* [selection.exit](Selections#exit) - returns elements that are no longer needed.
-* [selection.filter](Selections#filter) - filter a selection based on data.
-* [selection.html](Selections#html) - get or set inner HTML content.
-* [selection.insert](Selections#insert) - create and insert new elements before existing elements.
-* [selection.interrupt](Selections#interrupt) - immediately interrupt the current transition, if any.
-* [selection.node](Selections#node) - returns the first node in the selection.
-* [selection.on](Selections#on) - add or remove event listeners for interaction.
-* [selection.order](Selections#order) - reorders elements in the document to match the selection.
-* [selection.property](Selections#property) - get or set raw properties.
-* [selection.remove](Selections#remove) - remove elements from the document.
-* [selection.select](Selections#select) - subselect a descendant element for each selected element.
-* [selection.selectAll](Selections#selectAll) - subselect multiple descendants for each selected element.
-* [selection.size](Selections#size) - returns the number of elements in the selection.
-* [selection.sort](Selections#sort) - sort elements in the document based on data.
-* [selection.style](Selections#style) - get or set style properties.
-* [selection.text](Selections#text) - get or set text content.
-* [selection.transition](Selections#transition) - start a transition on the selected elements.
+* [d3.event](Selections#d3_event) - インタラクションのためのユーザイベントへアクセス
+* [d3.mouse](Selections#d3_mouse) - 指定されたコンテナに対する相対マウス位置を取得
+* [d3.select](Selections#d3_select) - 現在のドキュメントから一つの要素を選択
+* [d3.selectAll](Selections#d3_selectAll) - 現在のドキュメントから複数の要素を選択
+* [d3.selection](Selections#d3_selection) - selection プロトタイプの拡張、もしくはインスタンス型のテスト
+* [d3.touch](Selections#d3_touch) - 指定されたコンテナに対する相対タッチ位置を取得
+* [d3.touches](Selections#d3_touches) - 指定されたコンテナに対する複数の相対タッチ位置を取得
+* [selection.append](Selections#append) - 新しい要素の作成と追加
+* [selection.attr](Selections#attr) - 属性値の取得と設定
+* [selection.call](Selections#call) - 現在の selection を渡しての関数呼び出し
+* [selection.classed](Selections#classed) - CSS クラスの追加と削除
+* [selection.data](Selections#data) - データと要素の対応づけを伴う、要素のグループに対するデータの設定と取得
+* [selection.datum](Selections#datum) - データと要素の対応づけを伴わない、個々の要素に対するデータの設定と取得
+* [selection.each](Selections#each) - 選択された要素それぞれに対する関数呼び出し
+* [selection.empty](Selections#empty) - selection が空の場合 true を返す
+* [selection.enter](Selections#enter) - 存在しない要素のためのプレースホルダを返す
+* [selection.exit](Selections#exit) - 不必要になった要素を返す
+* [selection.filter](Selections#filter) - データに基づいた selection の絞り込み
+* [selection.html](Selections#html) - 要素の innnerHTML プロパティの設定と取得
+* [selection.insert](Selections#insert) - 要素が存在するようになる前の新しい要素の作成と挿入
+* [selection.interrupt](Selections#interrupt) - 現在の transition に対する即時割り込み
+* [selection.node](Selections#node) - selection 中の最初の要素を返す
+* [selection.on](Selections#on) - インタラクションのためにイベントリスナの追加と削除
+* [selection.order](Selections#order) - ドキュメント中の要素を selection に合うように並べ替える
+* [selection.property](Selections#property) - 未加工プロパティの取得
+* [selection.remove](Selections#remove) - ドキュメントからの要素の削除
+* [selection.select](Selections#select) - 選択された要素それぞれから一つの子要素を選択
+* [selection.selectAll](Selections#selectAll) - 選択された要素それぞれから複数の子要素を選択
+* [selection.size](Selections#size) - selection 中の要素の数を返す
+* [selection.sort](Selections#sort) - データに基づいたドキュメント中の要素のソート
+* [selection.style](Selections#style) - スタイルプロパティの設定と取得
+* [selection.text](Selections#text) - 要素の textContent プロパティの設定と取得
+* [selection.transition](Selections#transition) - 選択された要素の遷移を開始
 
 ### [Transitions](Transitions)
 
