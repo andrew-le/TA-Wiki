@@ -713,6 +713,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Mapping Solar Flares - An interactive map of flares observed on the Sun](http://www.scientificamerican.com/article/mapping-solar-flares-interactive/) - Monica Bobra & Chau Dang
 * [Mass Spectrometry (MS/MS spectrum) data viewer]
 (http://anno.semgen.info/) - Janko Diminic
+* [The Cancer Genome Atlas - Interactive Exploration of Patient Gender, Race and Age](http://www.enpicom.com/visual-lab/tcga-exploration/embed) - Nicola Bonzanni, Alvise Trevisan
 
 ### Collections
 
@@ -974,6 +975,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Interactive visualization that shows changes in the internal node tree of a quadtree as points are added](http://jimkang.com/quadtreevis/)
 * [How a quadtree is created](http://bl.ocks.org/4ndr01d3/727175afbdc58c3626b8)
 * [Descendants tree of circle nodes using the pack layout](https://chezsoi.org/lucas/genealogic-d3/skywalker.html)
+* [The Cancer Genome Atlas - Treemap and barchart interaction](http://www.enpicom.com/visual-lab/tcga-exploration/embed)
 
 #### Chord Layout (Circular Network)
 
