@@ -312,23 +312,23 @@ D3 API总览
 * [threshold.range](数值比例尺#threshold_range) - 取得或设置比例尺的值域（离散的值）。
 * [threshold](数值比例尺#_threshold) - 取得输入值对应的输出值。
 
-### [序数比例尺](Ordinal-Scales#ordinal)
+### [序数比例尺](序数比例尺#ordinal)
 
-* [d3.scale.category10](Ordinal-Scales#category10) - 构造一个10种颜色的序数比例尺。
-* [d3.scale.category20b](Ordinal-Scales#category20b) - 构造一个20种颜色的序数比例尺。
-* [d3.scale.category20c](Ordinal-Scales#category20c) - 构造一个20种颜色的序数比例尺。
-* [d3.scale.category20](Ordinal-Scales#category20) - 构造一个20种颜色的序数比例尺。
-* [d3.scale.ordinal](Ordinal-Scales#ordinal) - 构造一个序数比例尺。
-* [ordinal.copy](Ordinal-Scales#ordinal_copy) - 复制比例尺。
-* [ordinal.domain](Ordinal-Scales#ordinal_domain) - 取得或设置比例尺的定义域。
-* [ordinal.rangeBands](Ordinal-Scales#ordinal_rangeBands) - 为离散的块划分连续的值域。
-* [ordinal.rangeBand](Ordinal-Scales#ordinal_rangeBand) - 取得离散块的宽度。
-* [ordinal.rangeExtent](Ordinal-Scales#ordinal_rangeExtent) - 取得值域的范围。
-* [ordinal.rangePoints](Ordinal-Scales#ordinal_rangePoints) - 为离散的点划分连续的值域。
-* [ordinal.rangeRoundBands](Ordinal-Scales#ordinal_rangeRoundBands) - 为离散的块划分连续的值域。
-* [ordinal.rangeRoundPoints](Ordinal-Scales#ordinal_rangeRoundPoints) - 为离散的点划分连续的值域。
-* [ordinal.range](Ordinal-Scales#ordinal_range) - 取得或设置比例尺的值域。
-* [ordinal](Ordinal-Scales#_ordinal) - 取得输入值对应的输出值。
+* [d3.scale.category10](序数比例尺#category10) - 构造一个10种颜色的序数比例尺。
+* [d3.scale.category20b](序数比例尺#category20b) - 构造一个20种颜色的序数比例尺。
+* [d3.scale.category20c](序数比例尺#category20c) - 构造一个20种颜色的序数比例尺。
+* [d3.scale.category20](序数比例尺#category20) - 构造一个20种颜色的序数比例尺。
+* [d3.scale.ordinal](序数比例尺#ordinal) - 构造一个序数比例尺。
+* [ordinal.copy](序数比例尺#ordinal_copy) - 复制比例尺。
+* [ordinal.domain](序数比例尺#ordinal_domain) - 取得或设置比例尺的定义域。
+* [ordinal.rangeBands](序数比例尺#ordinal_rangeBands) - 为离散的块划分连续的值域。
+* [ordinal.rangeBand](序数比例尺#ordinal_rangeBand) - 取得离散块的宽度。
+* [ordinal.rangeExtent](序数比例尺#ordinal_rangeExtent) - 取得值域的范围。
+* [ordinal.rangePoints](序数比例尺#ordinal_rangePoints) - 为离散的点划分连续的值域。
+* [ordinal.rangeRoundBands](序数比例尺#ordinal_rangeRoundBands) - 为离散的块划分连续的值域。
+* [ordinal.rangeRoundPoints](序数比例尺#ordinal_rangeRoundPoints) - 为离散的点划分连续的值域。
+* [ordinal.range](序数比例尺#ordinal_range) - 取得或设置比例尺的值域。
+* [ordinal](序数比例尺#_ordinal) - 取得输入值对应的输出值。
 
 ## SVG
 
