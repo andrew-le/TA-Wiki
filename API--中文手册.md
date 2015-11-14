@@ -767,11 +767,11 @@ D3 API总览
 
 ## [d3.behavior (行为)](行为)
 
-### [拖动](拖动r)
+### [拖动](拖动)
 
-* [d3.behavior.drag](Drag-Behavior#drag)
-* [drag.on](Drag-Behavior#on)
-* [drag.origin](Drag-Behavior#origin)
+* [d3.behavior.drag](Drag-Behavior#drag) - 创建拖动行为。
+* [drag.on](Drag-Behavior#on) - 监听拖动事件。
+* [drag.origin](Drag-Behavior#origin) - 设置拖动行为的原点。
 
 ### [缩放](缩放)
 
