@@ -188,17 +188,17 @@ D3 API总览
 
 ### [CSV格式化(d3.csv)](CSV格式化)
 
-* [d3.csv.formatRows](CSV#formatRows) - 格式化一组元组为CSV字符串。
-* [d3.csv.format](CSV#format) - 格式化一组对象为CSV字符串。
-* [d3.csv.parseRows](CSV#parseRows) - 解析CSV字符串为元组，忽略首行。
-* [d3.csv.parse](CSV#parse) - 把首行数据CSV字符串解析为对象。
-* [d3.csv](CSV#csv) - 请求一个CSV文件。
-* [d3.dsv](CSV#dsv) - 为指定的分隔符和mime类型创建一个解析器/格式化器。
-* [d3.tsv.formatRows](CSV#tsv_formatRows) - 格式化一组元组为TSV字符串。
-* [d3.tsv.format](CSV#tsv_format) - 格式化一组对象为TSV字符串。
-* [d3.tsv.parseRows](CSV#tsv_parseRows) - 解析TSV字符串为元组，忽略首行。
-* [d3.tsv.parse](CSV#tsv_parse) - 把首行数据TSV字符串解析为对象。
-* [d3.tsv](CSV#tsv) - 请求一个TSV文件。
+* [d3.csv.formatRows](CSV格式化#formatRows) - 格式化一组元组为CSV字符串。
+* [d3.csv.format](CSV格式化#format) - 格式化一组对象为CSV字符串。
+* [d3.csv.parseRows](CSV格式化#parseRows) - 解析CSV字符串为元组，忽略首行。
+* [d3.csv.parse](CSV格式化#parse) - 把首行数据CSV字符串解析为对象。
+* [d3.csv](CSV格式化#csv) - 请求一个CSV文件。
+* [d3.dsv](CSV格式化#dsv) - 为指定的分隔符和mime类型创建一个解析器/格式化器。
+* [d3.tsv.formatRows](CSV格式化#tsv_formatRows) - 格式化一组元组为TSV字符串。
+* [d3.tsv.format](CSV格式化#tsv_format) - 格式化一组对象为TSV字符串。
+* [d3.tsv.parseRows](CSV格式化#tsv_parseRows) - 解析TSV字符串为元组，忽略首行。
+* [d3.tsv.parse](CSV格式化#tsv_parse) - 把首行数据TSV字符串解析为对象。
+* [d3.tsv](CSV格式化#tsv) - 请求一个TSV文件。
 
 ### [本地化](本地化)
 
