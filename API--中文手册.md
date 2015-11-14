@@ -330,99 +330,99 @@ D3 API总览
 * [ordinal.range](序数比例尺#ordinal_range) - 取得或设置比例尺的值域。
 * [ordinal](序数比例尺#_ordinal) - 取得输入值对应的输出值。
 
-## SVG
+## [SVG函数](SVG函数)
 
-### [形状](形状)
+### [形状](SVG-形状)
 
-* [arc.centroid](SVG-Shapes#arc_centroid) - 计算弧中心。
-* [arc.cornerRadius](SVG-Shapes#arc_cornerRadius) - 获取或设置拐角（corner）半径访问器。
-* [arc.endAngle](SVG-Shapes#arc_endAngle) - 获取或设置结束角度访问器。
-* [arc.innerRadius](SVG-Shapes#arc_innerRadius) - 获取或设置内半径访问器。
-* [arc.outerRadius](SVG-Shapes#arc_outerRadius) - 获取或设置外半径访问器。
-* [arc.padAngle](SVG-Shapes#arc_padAngle) - 获取或设置填补（pad）角度访问器。
-* [arc.padRadius](SVG-Shapes#arc_padRadius) - 获取或设置填补（pad）半径访问器。
-* [arc.startAngle](SVG-Shapes#arc_startAngle) - 获取或设置开始角度访问器。
-* [arc](SVG-Shapes#_arc) - 生成一个像饼图或圆环图中的固定弧度。
-* [area.angle](SVG-Shapes#area_radial_angle) - 获取或设置*角度*访问器。
-* [area.defined](SVG-Shapes#area_defined) - 控制面积在给定点是否是有定义的。
-* [area.defined](SVG-Shapes#area_radial_defined) - 控制径向面积在给定点是否是有定义的。
-* [area.endAngle](SVG-Shapes#area_radial_endAngle) - 获取或设置*角度*（顶线）访问器。
-* [area.innerRadius](SVG-Shapes#area_radial_innerRadius) - 获取或设置内*半径*（基线）访问器。
-* [area.interpolate](SVG-Shapes#area_interpolate) - 获取或设置插值模式。
-* [area.outerRadius](SVG-Shapes#area_radial_outerRadius) - 获取或设置外*半径*（顶线）访问器。
-* [area.radius](SVG-Shapes#area_radial_radius) - 获取或设置*半径*访问器。
-* [area.startAngle](SVG-Shapes#area_radial_startAngle) - 获取或设置*角度*（基线）访问器。
-* [area.tension](SVG-Shapes#area_tension) - 获取或设置基本样条线的张力。
-* [area.x0](SVG-Shapes#area_x0) - 获取或设置*x0*-坐标（基线）访问器。
-* [area.x1](SVG-Shapes#area_x1) - 获取或设置*x1*-坐标（顶线）访问器。
-* [area.x](SVG-Shapes#area_x) - 获取或设置*x*-坐标访问器。
-* [area.y0](SVG-Shapes#area_y0) - 获取或设置*y0*-坐标（基线）访问器。
-* [area.y1](SVG-Shapes#area_y1) - 获取或设置*y1*-坐标（顶线）访问器。
-* [area.y](SVG-Shapes#area_y) - 获取或设置*y*-坐标访问器。
-* [area](SVG-Shapes#_area) - 生成一个像面积图中的分段线性面积。
-* [area](SVG-Shapes#_area_radial) - 生成一个像极坐标面积图中的分段线性面积。
-* [chord.endAngle](SVG-Shapes#chord_endAngle) - 获取或设置圆弧结束角访问器。
-* [chord.radius](SVG-Shapes#chord_radius) - 获取或设置圆弧半径访问器。
-* [chord.source](SVG-Shapes#chord_source) - 获取或设置圆弧来源圆弧访问器。
-* [chord.startAngle](SVG-Shapes#chord_startAngle) - 获取或设置圆弧开始角访问器。
-* [chord.target](SVG-Shapes#chord_target) - 获取或设置目标圆弧访问器。
-* [chord](SVG-Shapes#_chord) - 在弦图中生成一个二次贝塞尔曲线连接两个弧。
-* [d3.svg.arc](SVG-Shapes#arc) - 新建一个弧度生成器。
-* [d3.svg.area.radial](SVG-Shapes#area_radial) - 新建一个径向面积生成器。
-* [d3.svg.area](SVG-Shapes#area) - 新建一个面积生成器。
-* [d3.svg.chord](SVG-Shapes#chord) - 新建一个弦生成器。
-* [d3.svg.diagonal.radial](SVG-Shapes#diagonal_radial) - 新建一个径向对角线生成器。
-* [d3.svg.diagonal](SVG-Shapes#diagonal) - 新建一个对角线生成器。
-* [d3.svg.line.radial](SVG-Shapes#line_radial) - 新建一个径向线生成器。
-* [d3.svg.line](SVG-Shapes#line) - 新建一个线生成器。
-* [d3.svg.symbolTypes](SVG-Shapes#symbolTypes) - 一组符号类型。
-* [d3.svg.symbol](SVG-Shapes#symbol) - 新建一个符号生成器。
-* [diagonal.projection](SVG-Shapes#diagonal_projection) - 设置或获取一个可选的点转换。
-* [diagonal.source](SVG-Shapes#diagonal_source) - 设置或获取源点访问器。
-* [diagonal.target](SVG-Shapes#diagonal_target) - 设置或获取目标点访问器。
-* [diagonal](SVG-Shapes#_diagonal) - 生成一个像节点链接图中的二维贝塞尔连接器。
-* [diagonal](SVG-Shapes#_diagonal_radial) - 生成一个像节点链接图中的二维径向贝塞尔连接器。
-* [line.angle](SVG-Shapes#line_radial_angle) - 设置或获取*角度* accessor.
-* [line.defined](SVG-Shapes#line_defined) - 控制线在给定点是否是定义的。
-* [line.defined](SVG-Shapes#line_radial_defined) - 控制径向线在给定点是否是定义的。
-* [line.interpolate](SVG-Shapes#line_interpolate) - 设置或获取插值模式。
-* [line.interpolate](SVG-Shapes#line_radial_interpolate) - 设置或获取径向弦的插值模式。
-* [line.radius](SVG-Shapes#line_radial_radius) - 设置或获取*半径*访问器。
-* [line.tension](SVG-Shapes#line_radial_tension) - 设置或获取径向基本样条线的张力。
-* [line.tension](SVG-Shapes#line_tension) - 设置或获取基本样条线的张力。
-* [line.x](SVG-Shapes#line_x) - 设置或获取*x*-坐标访问器。
-* [line.y](SVG-Shapes#line_y) - 设置或获取*y*-坐标访问器。
-* [line](SVG-Shapes#_line) - 生成一个像线图中的分段线段。
-* [line](SVG-Shapes#_line_radial) - 生成一个像极线图中的分段线段。
-* [symbol.size](SVG-Shapes#symbol_size) - 设置或获取符号尺寸（平方像素）访问器。
-* [symbol.type](SVG-Shapes#symbol_type) - 设置或获取符号类型访问器。
-* [symbol](SVG-Shapes#_symbol) - 生成一个像散点图中的符号。
+* [arc.centroid](SVG-形状#arc_centroid) - 计算弧中心。
+* [arc.cornerRadius](SVG-形状#arc_cornerRadius) - 获取或设置拐角（corner）半径访问器。
+* [arc.endAngle](SVG-形状#arc_endAngle) - 获取或设置结束角度访问器。
+* [arc.innerRadius](SVG-形状#arc_innerRadius) - 获取或设置内半径访问器。
+* [arc.outerRadius](SVG-形状#arc_outerRadius) - 获取或设置外半径访问器。
+* [arc.padAngle](SVG-形状#arc_padAngle) - 获取或设置填补（pad）角度访问器。
+* [arc.padRadius](SVG-形状#arc_padRadius) - 获取或设置填补（pad）半径访问器。
+* [arc.startAngle](SVG-形状#arc_startAngle) - 获取或设置开始角度访问器。
+* [arc](SVG-形状#_arc) - 生成一个像饼图或圆环图中的固定弧度。
+* [area.angle](SVG-形状#area_radial_angle) - 获取或设置*角度*访问器。
+* [area.defined](SVG-形状#area_defined) - 控制面积在给定点是否是有定义的。
+* [area.defined](SVG-形状#area_radial_defined) - 控制径向面积在给定点是否是有定义的。
+* [area.endAngle](SVG-形状#area_radial_endAngle) - 获取或设置*角度*（顶线）访问器。
+* [area.innerRadius](SVG-形状#area_radial_innerRadius) - 获取或设置内*半径*（基线）访问器。
+* [area.interpolate](SVG-形状#area_interpolate) - 获取或设置插值模式。
+* [area.outerRadius](SVG-形状#area_radial_outerRadius) - 获取或设置外*半径*（顶线）访问器。
+* [area.radius](SVG-形状#area_radial_radius) - 获取或设置*半径*访问器。
+* [area.startAngle](SVG-形状#area_radial_startAngle) - 获取或设置*角度*（基线）访问器。
+* [area.tension](SVG-形状#area_tension) - 获取或设置基本样条线的张力。
+* [area.x0](SVG-形状#area_x0) - 获取或设置*x0*-坐标（基线）访问器。
+* [area.x1](SVG-形状#area_x1) - 获取或设置*x1*-坐标（顶线）访问器。
+* [area.x](SVG-形状#area_x) - 获取或设置*x*-坐标访问器。
+* [area.y0](SVG-形状#area_y0) - 获取或设置*y0*-坐标（基线）访问器。
+* [area.y1](SVG-形状#area_y1) - 获取或设置*y1*-坐标（顶线）访问器。
+* [area.y](SVG-形状#area_y) - 获取或设置*y*-坐标访问器。
+* [area](SVG-形状#_area) - 生成一个像面积图中的分段线性面积。
+* [area](SVG-形状#_area_radial) - 生成一个像极坐标面积图中的分段线性面积。
+* [chord.endAngle](SVG-形状#chord_endAngle) - 获取或设置圆弧结束角访问器。
+* [chord.radius](SVG-形状#chord_radius) - 获取或设置圆弧半径访问器。
+* [chord.source](SVG-形状#chord_source) - 获取或设置圆弧来源圆弧访问器。
+* [chord.startAngle](SVG-形状#chord_startAngle) - 获取或设置圆弧开始角访问器。
+* [chord.target](SVG-形状#chord_target) - 获取或设置目标圆弧访问器。
+* [chord](SVG-形状#_chord) - 在弦图中生成一个二次贝塞尔曲线连接两个弧。
+* [d3.svg.arc](SVG-形状#arc) - 新建一个弧度生成器。
+* [d3.svg.area.radial](SVG-形状#area_radial) - 新建一个径向面积生成器。
+* [d3.svg.area](SVG-形状#area) - 新建一个面积生成器。
+* [d3.svg.chord](SVG-形状#chord) - 新建一个弦生成器。
+* [d3.svg.diagonal.radial](SVG-形状#diagonal_radial) - 新建一个径向对角线生成器。
+* [d3.svg.diagonal](SVG-形状#diagonal) - 新建一个对角线生成器。
+* [d3.svg.line.radial](SVG-形状#line_radial) - 新建一个径向线生成器。
+* [d3.svg.line](SVG-形状#line) - 新建一个线生成器。
+* [d3.svg.symbolTypes](SVG-形状#symbolTypes) - 一组符号类型。
+* [d3.svg.symbol](SVG-形状#symbol) - 新建一个符号生成器。
+* [diagonal.projection](SVG-形状#diagonal_projection) - 设置或获取一个可选的点转换。
+* [diagonal.source](SVG-形状#diagonal_source) - 设置或获取源点访问器。
+* [diagonal.target](SVG-形状#diagonal_target) - 设置或获取目标点访问器。
+* [diagonal](SVG-形状#_diagonal) - 生成一个像节点链接图中的二维贝塞尔连接器。
+* [diagonal](SVG-形状#_diagonal_radial) - 生成一个像节点链接图中的二维径向贝塞尔连接器。
+* [line.angle](SVG-形状#line_radial_angle) - 设置或获取*角度* accessor.
+* [line.defined](SVG-形状#line_defined) - 控制线在给定点是否是定义的。
+* [line.defined](SVG-形状#line_radial_defined) - 控制径向线在给定点是否是定义的。
+* [line.interpolate](SVG-形状#line_interpolate) - 设置或获取插值模式。
+* [line.interpolate](SVG-形状#line_radial_interpolate) - 设置或获取径向弦的插值模式。
+* [line.radius](SVG-形状#line_radial_radius) - 设置或获取*半径*访问器。
+* [line.tension](SVG-形状#line_radial_tension) - 设置或获取径向基本样条线的张力。
+* [line.tension](SVG-形状#line_tension) - 设置或获取基本样条线的张力。
+* [line.x](SVG-形状#line_x) - 设置或获取*x*-坐标访问器。
+* [line.y](SVG-形状#line_y) - 设置或获取*y*-坐标访问器。
+* [line](SVG-形状#_line) - 生成一个像线图中的分段线段。
+* [line](SVG-形状#_line_radial) - 生成一个像极线图中的分段线段。
+* [symbol.size](SVG-形状#symbol_size) - 设置或获取符号尺寸（平方像素）访问器。
+* [symbol.type](SVG-形状#symbol_type) - 设置或获取符号类型访问器。
+* [symbol](SVG-形状#_symbol) - 生成一个像散点图中的符号。
 
-### [轴](轴)
+### [轴](SVG-轴)
 
-* [axis.innerTickSize](SVG-Axes#innerTickSize) - 指定内刻度大小。
-* [axis.orient](SVG-Axes#orient) - 设置或者取得轴的方向。
-* [axis.outerTickSize](SVG-Axes#outerTickSize) - 指定外刻度大小。
-* [axis.scale](SVG-Axes#scale) - 设置或者取得比例尺。
-* [axis.tickFormat](SVG-Axes#tickFormat) - 重载标签的刻度格式化。
-* [axis.tickPadding](SVG-Axes#tickPadding) - 指定刻度和刻度标签之间的间距。
-* [axis.tickSize](SVG-Axes#tickSize) - 指定主要的次要的和尾部的刻度。
-* [axis.ticks](SVG-Axes#ticks) - 控制轴的刻度如何生成。
-* [axis.tickValues](SVG-Axes#tickValues) - 明确地指定刻度值。
-* [axis](SVG-Axes#_axis) - 为给定的选择器或过渡创建或者更新轴。
-* [d3.svg.axis](SVG-Axes#axis) - 创建一个新的轴生成器。
+* [axis.innerTickSize](SVG-轴#innerTickSize) - 指定内刻度大小。
+* [axis.orient](SVG-轴#orient) - 设置或者取得轴的方向。
+* [axis.outerTickSize](SVG-轴#outerTickSize) - 指定外刻度大小。
+* [axis.scale](SVG-轴#scale) - 设置或者取得比例尺。
+* [axis.tickFormat](SVG-轴#tickFormat) - 重载标签的刻度格式化。
+* [axis.tickPadding](SVG-轴#tickPadding) - 指定刻度和刻度标签之间的间距。
+* [axis.tickSize](SVG-轴#tickSize) - 指定主要的次要的和尾部的刻度。
+* [axis.ticks](SVG-轴#ticks) - 控制轴的刻度如何生成。
+* [axis.tickValues](SVG-轴#tickValues) - 明确地指定刻度值。
+* [axis](SVG-轴#_axis) - 为给定的选择器或过渡创建或者更新轴。
+* [d3.svg.axis](SVG-轴#axis) - 创建一个新的轴生成器。
 
-### [刷子](刷子)
+### [刷子](SVG-控件)
 
-* [brush.clear](SVG-Controls#brush_clear) - 重置拖选范围。
-* [brush.empty](SVG-Controls#brush_empty) - 拖选是否为空。
-* [brush.event](SVG-Controls#brush_event) - 在设置范围之后分发拖选事件。
-* [brush.extent](SVG-Controls#brush_extent) - 拖选范围可以是0,1，2维的。
-* [brush.on](SVG-Controls#brush_on) - 监听拖选何时改变。
-* [brush.x](SVG-Controls#brush_x) - 拖选的<i>x</i>-比例，用于水平拖选。
-* [brush.y](SVG-Controls#brush_y) - 拖选的<i>y</i>-比例，用于垂直拖选。
-* [brush](SVG-Controls#_brush) - 将拖选应用在指定的选择器和过渡上。
-* [d3.svg.brush](SVG-Controls#brush) - 点击和拖曳来选择一个1维或2维区域。
+* [brush.clear](SVG-控件#brush_clear) - 重置拖选范围。
+* [brush.empty](SVG-控件#brush_empty) - 拖选是否为空。
+* [brush.event](SVG-控件#brush_event) - 在设置范围之后分发拖选事件。
+* [brush.extent](SVG-控件#brush_extent) - 拖选范围可以是0,1，2维的。
+* [brush.on](SVG-控件#brush_on) - 监听拖选何时改变。
+* [brush.x](SVG-控件#brush_x) - 拖选的<i>x</i>-比例，用于水平拖选。
+* [brush.y](SVG-控件#brush_y) - 拖选的<i>y</i>-比例，用于垂直拖选。
+* [brush](SVG-控件#_brush) - 将拖选应用在指定的选择器和过渡上。
+* [d3.svg.brush](SVG-控件#brush) - 点击和拖曳来选择一个1维或2维区域。
 
 ## [d3.time (时间)](时间)
 
