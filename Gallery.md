@@ -406,6 +406,13 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
              <a href="http://visualcinnamon.com/occupations" target="_blank"><img width="133"       src="https://raw.githubusercontent.com/nbremer/thumbnails/master/Small%20Multiple%20Packing.png"></a></td>
 <td>Nested Layouts<br><br><a href="http://emptypipes.org/2015/10/11/layouts-upon-layouts/"><img width="133" align="center" src="http://emptypipes.org/img/layouts_upon_layouts_itemprop.png"></a></td>
     </tr>
+    <tr>
+         <td>Radar Chart Redesign</br>
+             <a href="http://www.visualcinnamon.com/2015/10/different-look-d3-radar-chart.html" target="_blank"><img width="133"       src="https://raw.githubusercontent.com/nbremer/thumbnails/master/D3%20Radar%20Chart%20Redesign.png"></a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+    </tr>
 
 </table>
 
