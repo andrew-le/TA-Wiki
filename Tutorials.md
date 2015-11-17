@@ -70,7 +70,7 @@ Please feel free to add links to your work!
 * [Multiple area charts with d3.js](http://tympanus.net/codrops/2012/08/29/multiple-area-charts-with-d3-js/)
 * [Creating a Polar Area Diagram](http://kreese.net/blog/2012/08/26/d3-js-creating-a-polar-area-diagram-radial-bar-chart/) - Kristopher Reese
 * [Smooth Transitioning of Polar Area Diagrams](http://kreese.net/blog/2013/06/26/d3-js-smooth-transitioning-of-polar-area-diagram/) - Kristopher Reese
-* [Building a lightweight, flexible d3.js dashboard (3-part series)](http://ufert.se/user-acquisition/mobile-game-monetization/building-a-lightweight-flexible-d3-js-dashboard-part-1-of-2/) - Eric Seufert
+* [Building a lightweight, flexible d3.js dashboard (3-part series)](http://mobiledevmemo.com/building-a-lightweight-flexible-d3-js-dashboard-part-1-of-2/) - Eric Seufert
 * [Integrating D3 with a CouchDB database](https://gist.github.com/anonymous/9275891) - Reinhard Engel and Simon Metson
 * [An interactive explanation of quadtrees](http://jimkang.com/quadtreevis/) - Jim Kang
 * [An A to Z of extra features for the d3 force layout](http://www.coppelia.io/an-a-to-z-of-extra-features-for-the-d3-force-layout/) - Simon Raper
