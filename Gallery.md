@@ -409,7 +409,10 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr>
          <td>Radar Chart Redesign</br>
              <a href="http://www.visualcinnamon.com/2015/10/different-look-d3-radar-chart.html" target="_blank"><img width="133"       src="https://raw.githubusercontent.com/nbremer/thumbnails/master/D3%20Radar%20Chart%20Redesign.png"></a></td>
-         <td></td>
+         <td>Circos.js
+             <a href="http://bl.ocks.org/nicgirault/777c8f74aaf95e46d7e7" target="_blank">
+             <img width="133"       src="https://cdn.rawgit.com/nicgirault/circosJS/master/demo/screenshot.png">
+         </td>
          <td></td>
          <td></td>
     </tr>
