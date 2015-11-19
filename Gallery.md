@@ -184,7 +184,10 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
         <td>Wimbledon 2013<br><a href="http://charts.animateddata.co.uk/tennis/"><img width="133" src="http://animateddata.co.uk/img/ext/w2012-match-tree.jpg"></a></td>
         <td>Force directed tag/site explorer<br><a href="http://ramblings.mcpher.com/Home/excelquirks/gassites/d3nodefocus"><img width="133" src="http://xliberation.com/googlecharts/1731.png"></a></td>
-        <td>-<br/><a href="#"><img width="133" src="#"></a></td>
+        <td>Circos.js
+            <a href="http://bl.ocks.org/nicgirault/777c8f74aaf95e46d7e7" target="_blank">
+            <img width="133"       src="https://cdn.rawgit.com/nicgirault/circosJS/master/demo/screenshot.png">
+        </td>
         <td>Airline data from Fusion Tables<br/><a href="http://xliberation.com/googlecharts/d3flights.html"><img width="133" src="http://xliberation.com/googlecharts/1746.png"></a></td>
     </tr>
     <tr valign="top">
@@ -409,10 +412,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr>
          <td>Radar Chart Redesign</br>
              <a href="http://www.visualcinnamon.com/2015/10/different-look-d3-radar-chart.html" target="_blank"><img width="133"       src="https://raw.githubusercontent.com/nbremer/thumbnails/master/D3%20Radar%20Chart%20Redesign.png"></a></td>
-         <td>Circos.js
-             <a href="http://bl.ocks.org/nicgirault/777c8f74aaf95e46d7e7" target="_blank">
-             <img width="133"       src="https://cdn.rawgit.com/nicgirault/circosJS/master/demo/screenshot.png">
-         </td>
+         <td></td>
          <td></td>
          <td></td>
     </tr>
