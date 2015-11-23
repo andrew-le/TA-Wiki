@@ -8,7 +8,7 @@ A scale object, such as that returned by [d3.scale.linear](Quantitative-Scales#l
 
 Linear scales are the most common scale, and a good default choice to map a continuous input domain to a continuous output range. The mapping is *linear* in that the output range value *y* can be expressed as a linear function of the input domain value *x*: *y* = *mx* + *b*. The input domain is typically a dimension of the data that you want to visualize, such as the height of students (measured in meters) in a sample population. The output range is typically a dimension of the desired output visualization, such as the height of bars (measured in pixels) in a histogram.  
 
-The state dimensions are [domain](#linear_domain), [range](#linear_range), [output interpolator](#linear_interpolate) and [clamping behavior](linear_clamp).
+The state dimensions are [domain](#linear_domain), [range](#linear_range), [output interpolator](#linear_interpolate) and [clamping behavior](#linear_clamp).
 
 <a name="linear" href="Quantitative-Scales#linear">#</a> d3.scale.<b>linear</b>()
 
