@@ -1,6 +1,6 @@
 > [Wiki](Home) ▸ [[API Reference]] ▸ [[Layouts]] ▸ **Stack Layout**
 
-The stack layout takes an array of layer objects, each having a series (array) of *point objects* as a member.  The point objects contain a pair of ordinates (as a minimum) that map the horizontal position of each point and it's vertical thickness.  The output from the stack layout is the same array of layers, but with state added onto the *point objects* to facilitate the selected stacking strategy.  
+The stack layout takes an array of layer objects, each having a series (array) of *point objects* as a member.  The point objects contain a pair of ordinates (as a minimum) that map the horizontal position of each point and its vertical thickness.  The output from the stack layout is the same array of layers, but with state added onto the *point objects* to facilitate the selected stacking strategy.  
 The layout computes a baseline for the first layer which it then propagated to the above layers, so as to produce a stacked data set.  
 Several baseline algorithms are supported, along with sorting heuristics to improve perception, as described in [“Stacked Graphs—Geometry & Aesthetics”](http://www.leebyron.com/else/streamgraph/download.php?file=stackedgraphs_byron_wattenberg.pdf) by Byron & Wattenberg.
 
