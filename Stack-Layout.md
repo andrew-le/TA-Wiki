@@ -126,7 +126,7 @@ function x(d) {
 
 The *x*-accessor is invoked for each input value, for each input layer, being passed the current data (d) and index (i). The return value of the accessor must be a number.
 
-The *x*-coordinate only affects the behavior of the “wiggle” [offset](#offset); changing this accessor does *not* affect how data is grouped into stacks. Although the *x*-accessor is invoked for all layers (not just the bottommost layer), the stack layout assumes that the *x*-coordinates of all layers are consistent. In other words, the stack layout requires that layers be homogenous: each must contain the same number of values, at the same *x*-coordinates. If your data is not so regular, you will need to reinterpolate the data before computing the stack.
+The *x*-coordinate only affects the behavior of the “wiggle” [offset](#offset); changing this accessor does *not* affect how data is grouped into stacks. Although the *x*-accessor is invoked for all layers (not just the bottommost layer), **the stack layout assumes that the *x*-coordinates of all layers are homogenous and consistent**. In other words, each layer must contain the same number of values, at the same *x*-coordinates, in the same order. If your data is irregular, you will need to reinterpolate or reorder the data before computing the stack.
 
 <a name="y" href="Stack-Layout#y">#</a> stack.<b>y</b>([<i>accessor</i>])
 
