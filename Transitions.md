@@ -369,7 +369,7 @@ Returns a numeric interpolator between the two numbers *a* and *b*; the interpol
 
 Returns a string interpolator between the two strings *a* and *b*. The string interpolator finds numbers embedded in *a* and *b*, where each number is of the form:
 
-```javascript
+```
 /[-+]?(?:\d+\.?\d*|\.?\d+)(?:[eE][-+]?\d+)?/g
 ```
 
