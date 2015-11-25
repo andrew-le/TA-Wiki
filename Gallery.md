@@ -258,7 +258,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     </tr>
     <tr valign="top">
         <td>The Movie Network<br><a href="http://bl.ocks.org/paulovn/9686202"><img width="133" src="http://bl.ocks.org/paulovn/raw/9686202/thumbnail-s.png"></a></td>
-        <td>Bowls with Liquid<br><a href="http://invision-web.net/ticket-status/"><img width="133" src="http://invision-web.net/ticket-status/preview.png" /></a></td>
+        <td></td>
         <td>BiPartite Visualization<br><a href="http://bl.ocks.org/NPashaP/9796212"><img width="133" src="http://bl.ocks.org/NPashaP/raw/9796212/thumbnail.png"></a></td>
         <td>BeerViz<br><a href="http://seekshreyas.com/beerviz/"><img width="133" src="https://dl.dropboxusercontent.com/u/2670838/Markdown/img/beerviz.png"></a></td>
     </tr>
