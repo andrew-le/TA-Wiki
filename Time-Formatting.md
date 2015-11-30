@@ -51,7 +51,7 @@ format.parse("2011-01-01"); // returns a Date
 format(new Date(2011, 0, 1)); // returns a string
 ```
 
-<a name="_format" href="Time-Formatting#_format">#</a> d3.time.<b>format</b>(<i>date</i>)
+<a name="_format" href="Time-Formatting#_format">#</a> <b>format</b>(<i>date</i>)
 
 Formats the specified *date*, returning the corresponding string. The *date* must be a JavaScript [Date](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Date) object. 
 
@@ -71,7 +71,7 @@ date = new Date(time); // convert a time in milliseconds to a Date object
 
 If you prefer to be explicit, you can also use the date object's [getTime](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Date/getTime) method, but the + operator is shorter and possibly faster.
 
-<a name="parse" href="Time-Formatting#parse">#</a> d3.time.format.<b>parse</b>(<i>string</i>)
+<a name="parse" href="Time-Formatting#parse">#</a> format.<b>parse</b>(<i>string</i>)
 
 Parses the specified *string*, returning the corresponding date object. If the parsing fails, returns null. Unlike "natural language" date parsers (including JavaScript's built-in [parse](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Date/parse)), this method is strict: if the specified string does not exactly match the associated format specifier, this method returns null. For example, if the associated format is the full ISO 8601 string "%Y-%m-%dT%H:%M:%SZ", then the string "2011-07-01T19:15:28Z" will be parsed correctly, but "2011-07-01T19:15:28", "2011-07-01 19:15:28" and "2011-07-01" will return null, despite being valid 8601 dates. (Note that the hard-coded "Z" here is different from `%Z`, the time zone offset.) If desired, you can use multiple formats to try multiple format specifiers sequentially.
 
