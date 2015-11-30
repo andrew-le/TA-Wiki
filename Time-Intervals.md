@@ -25,31 +25,31 @@ Returns the specified *interval*. The following intervals are supported:
 * d3.time.[month](#month)
 * d3.time.[year](#year)
 
-<a name="_interval" href="#_interval">#</a> <i>interval</i>(<i>date</i>)
+<a name="_interval" href="#_interval">#</a> d3.time.<i>interval</i>(<i>date</i>)
 
 Alias for *interval*.floor(*date*). For example, `d3.time.day(new Date())` returns midnight (12:00 AM) on the current day, in local time.
 
-<a name="interval_floor" href="#interval_floor">#</a> <i>interval</i>.<b>floor</b>(<i>date</i>)
+<a name="interval_floor" href="#interval_floor">#</a> d3.time.<i>interval</i>.<b>floor</b>(<i>date</i>)
 
 Rounds down the specified *date*, returning the latest time interval before or equal to *date*. For example, `d3.time.day.floor(new Date())` returns midnight (12:00 AM) on the current day, in local time.
 
-<a name="interval_round" href="#interval_round">#</a> <i>interval</i>.<b>round</b>(<i>date</i>)
+<a name="interval_round" href="#interval_round">#</a> d3.time.<i>interval</i>.<b>round</b>(<i>date</i>)
 
 Rounds up or down the specified *date*, returning the closest time interval to *date*. For example, `d3.time.day.round(new Date())` returns midnight (12:00 AM) on the current day if it is on or before noon, and midnight of the following day if it is after noon.
 
-<a name="interval_ceil" href="#interval_ceil">#</a> <i>interval</i>.<b>ceil</b>(<i>date</i>)
+<a name="interval_ceil" href="#interval_ceil">#</a> d3.time.<i>interval</i>.<b>ceil</b>(<i>date</i>)
 
 Rounds up the specified *date*, returning the earliest time interval after or equal to *date*. For example, `d3.time.day.ceil(new Date())` returns midnight (12:00 AM) on the following day, in local time (unless you happen to run this code at exactly midnight, in which case it returns the current time).
 
-<a name="interval_range" href="#interval_range">#</a> <i>interval</i>.<b>range</b>(<i>start</i>, <i>stop</i>[, <i>step</i>])
+<a name="interval_range" href="#interval_range">#</a> d3.time.<i>interval</i>.<b>range</b>(<i>start</i>, <i>stop</i>[, <i>step</i>])
 
 Returns every time interval after or equal to *start* and before *stop*.  If *step* is specified, then every *step*'th interval will be returned, based on the interval number (such as day of month for d3.time.day). For example, a *step* of 2 will return the 1st, 3rd, 5th *etc.* of the month with d3.time.day.
 
-<a name="interval_offset" href="#interval_offset">#</a> <i>interval</i>.<b>offset</b>(<i>date</i>, <i>step</i>)
+<a name="interval_offset" href="#interval_offset">#</a> d3.time.<i>interval</i>.<b>offset</b>(<i>date</i>, <i>step</i>)
 
 Returns a new date equal to *date* plus *step* intervals. If *step* is negative, then the returned date will be before the specified *date*; if *step* is zero, then a copy of the specified *date* is returned. This method does not round the specified *date* to the interval. For example, if it is currently 5:34 PM, then `d3.time.day.offset(new Date(), 1)` returns 5:34 PM tomorrow (even if Daylight Savings Time changes!).
 
-<a name="interval_utc" href="#interval_utc">#</a> <i>interval</i>.<b>utc</b>
+<a name="interval_utc" href="#interval_utc">#</a> d3.time.<i>interval</i>.<b>utc</b>
 
 Returns a corresponding time interval in UTC rather than local time. For example, `d3.time.day.range(start, stop)` returns local time days between *start* and *stop*, while `d3.time.day.utc.range(start, stop)` returns UTC days between *start* and *stop*.
 
