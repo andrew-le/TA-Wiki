@@ -314,21 +314,21 @@ D3 API总览
 
 ### [序数比例尺](序数比例尺#ordinal)
 
-* [d3.scale.category10](序数比例尺#category10) - 构造一个10种颜色的序数比例尺。
-* [d3.scale.category20b](序数比例尺#category20b) - 构造一个20种颜色的序数比例尺。
-* [d3.scale.category20c](序数比例尺#category20c) - 构造一个20种颜色的序数比例尺。
-* [d3.scale.category20](序数比例尺#category20) - 构造一个20种颜色的序数比例尺。
 * [d3.scale.ordinal](序数比例尺#ordinal) - 构造一个序数比例尺。
-* [ordinal.copy](序数比例尺#ordinal_copy) - 复制比例尺。
-* [ordinal.domain](序数比例尺#ordinal_domain) - 取得或设置比例尺的定义域。
-* [ordinal.rangeBands](序数比例尺#ordinal_rangeBands) - 为离散的块划分连续的值域。
-* [ordinal.rangeBand](序数比例尺#ordinal_rangeBand) - 取得离散块的宽度。
-* [ordinal.rangeExtent](序数比例尺#ordinal_rangeExtent) - 取得值域的范围。
-* [ordinal.rangePoints](序数比例尺#ordinal_rangePoints) - 为离散的点划分连续的值域。
-* [ordinal.rangeRoundBands](序数比例尺#ordinal_rangeRoundBands) - 为离散的块划分连续的值域。
-* [ordinal.rangeRoundPoints](序数比例尺#ordinal_rangeRoundPoints) - 为离散的点划分连续的值域。
-* [ordinal.range](序数比例尺#ordinal_range) - 取得或设置比例尺的值域。
-* [ordinal](序数比例尺#_ordinal) - 取得输入值对应的输出值。
+* [ordinal](序数比例尺#_ordinal) - 获取输入值对应的输出值。
+* [ordinal.domain](序数比例尺#ordinal_domain) - 获取或指定比例尺的输入域。
+* [ordinal.range](序数比例尺#ordinal_range) - 获取或指定比例尺的输出范围。
+* [ordinal.rangePoints] (序数比例尺#ordinal_rangePoints) - 指定输出范围为连续区间。
+* [ordinal.rangeRoundPoints](序数比例尺#ordinal_rangeRoundPoints) - 指定输出范围为连续区间，刻度点均为整数。
+* [ordinal.rangeBands](序数比例尺#ordinal_rangeBands) - 指定输出范围为连续区间。
+* [ordinal.rangeRoundBands](序数比例尺#ordinal_rangeRoundBands) - 指定输出范围为连续区间，区间段的起点均为整数。
+* [ordinal.rangeBand] (序数比例尺#ordinal_rangeBand) - 获取区间段的宽度。
+* [ordinal.rangeExtent] (序数比例尺#ordinal_rangeExtent) - 获取当前比例尺的输出范围，未被切分的。
+* [ordinal.copy](序数比例尺#ordinal_copy) - 深度拷贝当前比例尺对象。
+* [d3.scale.category10](序数比例尺#category10) - 构造一个有10种颜色的序数比例尺。
+* [d3.scale.category20](序数比例尺#category20) - 构造一个有20种颜色的序数比例尺。
+* [d3.scale.category20b](序数比例尺#category20b) - 构造一个另外20种颜色的序数比例尺。
+* [d3.scale.category20c](序数比例尺#category20c) - 构造一个另外20种颜色的序数比例尺。
 
 ## [SVG函数](SVG函数)
 
