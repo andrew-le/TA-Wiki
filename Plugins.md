@@ -43,6 +43,7 @@ Please feel free to add links to your work!
 * [Vertical Sankey](https://github.com/benlogan1981/VerticalSankey) ([demo](http://benlogan1981.github.io/VerticalSankey/UBS.html))
 * [Word cloud layout](https://github.com/jasondavies/d3-cloud)
 * [Zoom interpolator](https://github.com/d3/d3-plugins/tree/master/interpolate-zoom) (deprecated)
+* [Venn Layout](https://github.com/christophe-g/vennLayout)
 
 ## Geographic Plugins
 
