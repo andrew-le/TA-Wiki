@@ -504,7 +504,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
   <tr valign="top">
     <td>Band Zoom<br><a href="http://bl.ocks.org/jroetman/9b4c0599a4996edef0ab"><img width="133" src="https://cloud.githubusercontent.com/assets/5098704/10553432/860c20ec-740f-11e5-8e79-e0b30f352012.png"></a></td>
     <td>Item explorer<br><a href="http://bl.ocks.org/EE2dev/a3ee04578325668bd3f8"><img width="133" src="http://bl.ocks.org/EE2dev/raw/a3ee04578325668bd3f8/thumbnail.png"></a></td>
-    <td>Image Map<br><a href="https://gist.github.com/nswamy14/df13d67b6efeb19eb640"><img width="133" src="http://bl.ocks.org/nswamy14/raw/df13d67b6efeb19eb640/thumbnail.png"></a></td>
+    <td>Image Map<br><a href="http://bl.ocks.org/nswamy14/df13d67b6efeb19eb640"><img width="133" src="http://bl.ocks.org/nswamy14/raw/df13d67b6efeb19eb640/thumbnail.png"></a></td>
   </tr>
 
 </table>
