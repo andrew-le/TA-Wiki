@@ -273,6 +273,7 @@ See one of:
 * [log.domain](Quantitative-Scales#log_domain) - get or set the scale's input domain.
 * [log.range](Quantitative-Scales#log_range) - get or set the scale's output range.
 * [log.rangeRound](Quantitative-Scales#log_rangeRound) - set the scale's output range, and enable rounding.
+* [log.base](Quantitative-Scales#log_base) - get or set the scale's logarithmic base.
 * [log.interpolate](Quantitative-Scales#log_interpolate) - get or set the scale's output interpolator.
 * [log.clamp](Quantitative-Scales#log_clamp) - enable or disable clamping of the output range.
 * [log.nice](Quantitative-Scales#log_nice) - extend the scale domain to nice powers of ten.
