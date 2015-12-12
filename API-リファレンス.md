@@ -55,44 +55,46 @@ See one of:
 
 ### [Transitions](Transitions)
 
-* [d3.ease](Transitions#d3_ease) - customize transition timing.
-* [d3.timer](Transitions#d3_timer) - start a custom animation timer.
-* [d3.interpolate](Transitions#d3_interpolate) - interpolate two values.
-* [d3.interpolateArray](Transitions#d3_interpolateArray) - interpolate two arrays of values.
-* [d3.interpolateHcl](Transitions#d3_interpolateHcl) - interpolate two HCL colors.
-* [d3.interpolateHsl](Transitions#d3_interpolateHsl) - interpolate two HSL colors.
-* [d3.interpolateLab](Transitions#d3_interpolateLab) - interpolate two L\*a\*b\* colors.
-* [d3.interpolateNumber](Transitions#d3_interpolateNumber) - interpolate two numbers.
-* [d3.interpolateObject](Transitions#d3_interpolateObject) - interpolate two arbitrary objects.
-* [d3.interpolateRgb](Transitions#d3_interpolateRgb) - interpolate two RGB colors.
-* [d3.interpolateRound](Transitions#d3_interpolateRound) - interpolate two integers.
+* [d3.ease](Transitions#d3_ease) - 遷移タイミングをカスタマイズ
+* [d3.timer](Transitions#d3_timer) - カスタムアニメーションタイマの開始
+* [d3.interpolate](Transitions#d3_interpolate) - 二値の補間
+* [d3.interpolateArray](Transitions#d3_interpolateArray) - 二つの配列の値の補間
+* [d3.interpolateHcl](Transitions#d3_interpolateHcl) - 二つの HCL 形式色データの補間
+* [d3.interpolateHsl](Transitions#d3_interpolateHsl) - 二つの HSL 形式色データの補間
+* [d3.interpolateLab](Transitions#d3_interpolateLab) - 二つの L\*a\*b\* 形式色データの補間
+* [d3.interpolateNumber](Transitions#d3_interpolateNumber) - 二つの数値の補間
+* [d3.interpolateNumber](Transitions#d3_interpolateNumber) - 二つの任意のオブジェクトの補間
+* [d3.interpolateRgb](Transitions#d3_interpolateRgb) - 二つの RGB 形式色データの補間
+* [d3.interpolateRound](Transitions#d3_interpolateRound) - 二つの整数の補間
+* [d3.interpolateRound](Transitions#d3_interpolateRound) - 二つの文字列の補間
 * [d3.interpolateString](Transitions#d3_interpolateString) - interpolate two strings.
-* [d3.interpolateTransform](Transitions#d3_interpolateTransform) - interpolate two 2D matrix transforms.
-* [d3.interpolateZoom](Transitions#d3_interpolateZoom) - zoom and pan between two points smoothly.
-* [d3.interpolators](Transitions#d3_interpolators) - register a custom interpolator.
-* [d3.timer.flush](Transitions#d3_timer_flush) - immediately execute any zero-delay timers.
-* [d3.transition](Transitions#d3_transition) - start an animated transition.
-* [ease](Transitions#_ease) - a parametric easing function.
-* [interpolate](Transitions#_interpolate) - a parametric interpolation function.
-* [transition.attr](Transitions#attr) - smoothly transition to the new attribute value.
-* [transition.attrTween](Transitions#attrTween) - smoothly transition between two attribute values
-* [transition.call](Transitions#call) - call a function passing in the current transition.
-* [transition.delay](Transitions#delay) - specify per-element delay in milliseconds.
-* [transition.duration](Transitions#duration) - specify per-element duration in milliseconds.
-* [transition.each](Transitions#each) - add a listener for transition end events.
-* [transition.ease](Transitions#ease) - specify transition easing function.
-* [transition.empty](Transitions#empty) - returns true if the transition is empty.
-* [transition.filter](Transitions#filter) - filter a transition based on data.
-* [transition.node](Transitions#node) - returns the first node in the transition.
-* [transition.remove](Transitions#remove) - remove selected elements at the end of a transition.
-* [transition.select](Transitions#select) - start a transition on a descendant element for each selected element.
-* [transition.selectAll](Transitions#selectAll) - start a transition on multiple descendants for each selected element.
-* [transition.size](Transitions#size) - returns the number of elements in the selection.
-* [transition.style](Transitions#style) - smoothly transition to the new style property value.
-* [transition.styleTween](Transitions#styleTween) - smoothly transition between two style property values.
-* [transition.text](Transitions#text) - set the text content when the transition starts.
-* [transition.transition](Transitions#transition) - when this transition ends, start another one on the same elements.
-* [transition.tween](Transitions#tween) - specify a custom tween operator to run as part of the transition.
+* [d3.interpolateTransform](Transitions#d3_interpolateTransform) - 二つの二次元配列の補間
+* [d3.interpolateZoom](Transitions#d3_interpolateZoom) - 二つの点の滑らかなズームとパン
+* [d3.interpolators](Transitions#d3_interpolators) - カスタム補間関数の登録
+* [d3.timer.flush](Transitions#d3_timer_flush) - ゼロ遅延タイマの即時実行
+* [d3.transition](Transitions#d3_transition) - 遷移アニメーションの開始
+* [ease](Transitions#_ease) - パラメータ制御平滑化関数
+* [interpolate](Transitions#_interpolate) - パラメータ制御補間関数
+* [transition.attr](Transitions#attr) - 新しい属性値へ滑らかに遷移
+* [transition.attrTween](Transitions#attrTween) - 二つの属性値の間で滑らかに遷移
+* [transition.call](Transitions#call) - 現在の transition に対する関数の呼び出し
+* [transition.delay](Transitions#delay) - 要素毎のミリセカンド単位の遅延の指定
+* [transition.duration](Transitions#duration) - 要素毎のミリセカンド単位の持続時間の指定
+* [transition.each](Transitions#each) - 遷移終了イベントのリスナを追加
+* [transition.ease](Transitions#ease) - 遷移平滑化関数の指定
+* [transition.empty](Transitions#empty) - transition が空のとき true を返す
+* [transition.filter](Transitions#filter) - データに基づいた transition の絞り込み
+* [transition.node](Transitions#node) - transition の最初のノードを返す
+* [transition.remove](Transitions#remove) - transition の終了時に指定された要素を削除
+* [transition.select](Transitions#select) - 選択された要素それぞれのうち一つの子要素について遷移を開始
+* [transition.selectAll](Transitions#selectAll) - 選択された要素の全ての子要素について遷移を開始
+* [transition.size](Transitions#size) - selection 中の要素の数を返す
+* [transition.style](Transitions#style) - 新しいスタイルプロパティ値へ滑らかに遷移
+* [transition.styleTween](Transitions#styleTween) - 二つのスタイルプロパティ値の間で滑らかに遷移
+* [transition.text](Transitions#text) - 遷移開始時に内容テキストを設定
+* [transition.transition](Transitions#transition) - この遷移が終了したら、同じ要素で別の新しい遷移を開始
+* [transition.tween](Transitions#tween) - transition の一部として実行される、カスタム tween 演算子を指定
+
 
 ### [Working with Arrays](Arrays)
 
