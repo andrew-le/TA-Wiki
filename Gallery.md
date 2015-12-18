@@ -412,7 +412,9 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr>
          <td>Radar Chart Redesign</br>
              <a href="http://www.visualcinnamon.com/2015/10/different-look-d3-radar-chart.html" target="_blank"><img width="133"       src="https://raw.githubusercontent.com/nbremer/thumbnails/master/D3%20Radar%20Chart%20Redesign.png"></a></td>
-         <td></td>
+         <td>Volcano Plot with Voronoi Overlay</br>
+             <a href="http://www.enpicom.com/visual-lab/interactive-volcano-plot/tutorial/" target="_blank"><img src="http://www.enpicom.com/wp-content/uploads/2015/12/volcano-full.png"></a>
+         </td>
          <td></td>
          <td></td>
     </tr>
