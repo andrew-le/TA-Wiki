@@ -22,7 +22,7 @@ D3 API总览
 
 ## [d3 (核心函数)](核心函数)
 
-### [选择器](选择器)
+### [选择](选择器)
 
 * [d3.event](选择器#d3_event) - 访问用于交互的当前用户事件。
 * [d3.mouse](选择器#d3_mouse) - 获取相对于指定容器的鼠标位置。
@@ -758,7 +758,7 @@ D3 API总览
 * [polygon.centroid](Polygon-Geom#centroid) - 计算多边形的面积中心。
 * [polygon.clip](Polygon-Geom#clip) - 对这个多边形进行执行的多边形剪切。
 
-### [赫尔](赫尔图)
+### [凸包](赫尔图)
 
 * [d3.geom.hull](Hull-Geom#hull) - 使用默认访问器创建一个convex hull布局。
 * [hull](Hull-Geom#_hull) - 为给定的点数组计算convex hull。
