@@ -416,7 +416,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
              <a href="http://www.enpicom.com/visual-lab/interactive-volcano-plot/tutorial/" target="_blank"><img src="http://www.enpicom.com/wp-content/uploads/2015/12/volcano-full.png"></a>
          </td>
          <td>
-             Bullet Charts with Fitbit Data
+             Fitbit Bullet Charts
              <a href="https://www.infino.me/share/U02LP4gt8mRvvTJ7gfV12A/" target="_blank">
                 <img src="http://www.infino.me/screenshots/U02LP4gt8mRvvTJ7gfV12A.jpeg">
              </a>
