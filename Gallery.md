@@ -421,7 +421,13 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
                 <img src="http://www.infino.me/screenshots/U02LP4gt8mRvvTJ7gfV12A.jpeg">
              </a>
          </td>
-         <td></td>
+         <td>
+             What Kills Us
+             <a href="https://www.infino.me/mortality/usmap" target="_blank">
+                <img src="https://www.infino.me/static/img/screenshots/wonder.png">
+             </a>
+         </td>
+
     </tr>
 
 </table>
