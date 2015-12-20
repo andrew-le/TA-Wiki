@@ -418,7 +418,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
          <td>
              Bullet Charts with Fitbit Data
              <a href="https://www.infino.me/share/U02LP4gt8mRvvTJ7gfV12A/" target="_blank">
-                <img src="https://www.infino.me/screenshots/U02LP4gt8mRvvTJ7gfV12A.jpeg" style="height: 100% !important;">
+                <img src="http://www.infino.me/screenshots/U02LP4gt8mRvvTJ7gfV12A.jpeg">
              </a>
          </td>
          <td></td>
