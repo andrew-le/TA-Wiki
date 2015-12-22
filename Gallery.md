@@ -212,7 +212,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Kent + Sussex river levels mapped<br><a href="http://maps-n-apps.github.io/Rivers_Viz/"><img width="133" src="http://mapsnapps.com/public/themes/portfolio-monstra-theme/assets/blogimages/d3map.png"></a></td>
         <td>CoreNLP Sentence Parse Tree<br><a href="http://nlpviz.bpodgursky.com/home"><img width="133" src="http://bpodgursky.files.wordpress.com/2013/08/nlp-screenshot-cropped.png"></a></td>
         <td>Publications in journals over time<br><a href="http://neuralengr.com/asifr/journals"><img width="133" src="http://neuralengr.com/asifr/journals/journals.png"></a></td>
-        <td>Another state budget visualization with open api<br><a href="http://budzet.aws.af.cm"><img width="133" src="http://www.demodems.org/gtt/otvoreni-budzet-d3.png"></a></td>
+        <td>Another state budget visualization with open api<br><a href="http://statick.org:3000"><img width="133" src="http://www.demodems.org/gtt/otvoreni-budzet-d3.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Interactive Bible contradictions & bar charts [<a href="https://github.com/danielgtaylor/bibviz">source</a>]<br/><a href="http://bibviz.com/"><img width="133" src="http://bibviz.com/img/square.png"/></a></td>
