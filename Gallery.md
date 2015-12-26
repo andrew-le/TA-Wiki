@@ -429,6 +429,13 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
          </td>
 
     </tr>
+    <tr>
+     <td>Cluster Purity Visualizer<br>
+         <a href="http://bl.ocks.org/nswamy14/e28ec2c438e9e8bd302f">
+            <img width="133" src="http://bl.ocks.org/nswamy14/raw/e28ec2c438e9e8bd302f/thumbnail.png">
+         </a>
+     </td>
+    </tr>
 
 </table>
 
