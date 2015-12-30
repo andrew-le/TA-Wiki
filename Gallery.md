@@ -438,7 +438,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 
     <td>Platlets<br>
         <a href="http://bl.ocks.org/lokesh005/1b23c84b68f5be134ff0">         
-          <img width="133" src="http://bl.ocks.org/lokesh005/raw/1b23c84b68f5be134ff0/f.png">
+          <img width="133" src="http://bl.ocks.org/lokesh005/raw/1b23c84b68f5be134ff0/Pl.png">
         </a>
     </td>
     </tr>
