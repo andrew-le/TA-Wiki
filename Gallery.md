@@ -448,7 +448,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         </a>
     </td>
 
-    <td>Interactive Clustergram<br>
+    <td>Clustergrammer: interactive clustergram/heatmap maker<br>
         <a href="http://amp.pharm.mssm.edu/clustergrammer/">         
           <img width="133" src="http://amp.pharm.mssm.edu/clustergrammer/static/img/harmonizome.png">
         </a>
