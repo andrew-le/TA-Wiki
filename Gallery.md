@@ -1300,6 +1300,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Ubiq Analytics: MySQL Analytics & Reporting made easy](http://www.ubiq.co)
 * [Viima: Visual Idea Management Software](https://www.viima.com)
 * [Branch: Explore Biological Data with Decision Trees](http://biobranch.org/)
+* [Viz: Create A Thematic Map In Minutes](http://viz.socialcops.com)
 
 #### Store Apps
 * [Presentation Next: A Windows 8 HTML5/SVG Presentation Builder](http://apps.microsoft.com/windows/en-us/app/presentation-next/57c55802-1bdd-48c9-bf8b-e9e3c24cf051)
