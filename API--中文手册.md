@@ -182,7 +182,7 @@ D3 API总览
 ### [格式化](格式化)
 
 * [d3.format](格式化#d3_format) - 将一个数组格式化为字符串。
-* [d3.formatPrefix](格式化#d3_formatPrefix) - 为指定的值和精度返回[SI 前缀](http://en.wikipedia.org/wiki/Metric_prefix)。
+* [d3.formatPrefix](格式化#d3_formatPrefix) - 为指定的值和精度返回[SI 前缀](https://zh.wikipedia.org/wiki/国际单位制词头 "https://zh.wikipedia.org/wiki/国际单位制词头")。
 * [d3.requote](格式化#d3_requote) - 将字符串转义为正则表达式。
 * [d3.round](格式化#d3_round) - 将值四舍五入到指定小数位。
 
