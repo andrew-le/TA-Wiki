@@ -107,5 +107,5 @@ Constructs a new UTC time formatter using the given *specifier*. (Equivalent to 
 The full [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601) UTC time format: "%Y-%m-%dT%H:%M:%S.%LZ". Where available, this method will use [Date.toISOString](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Date/toISOString) to format and the [Date constructor](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Date) to parse strings. If you depend on strict validation of the input format according to ISO 8601, you should construct a time format explicitly instead:
 
 ```js
-var iso = d3.time.format.utc("%Y-%m-%dT%H:%M:%S.%LZ");
+var iso = d3.time.format.utc("%Y-%m-%dT%H:%M:%S.%L%Z");
 ```
