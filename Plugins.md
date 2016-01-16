@@ -3,7 +3,7 @@
 Please feel free to add links to your work!
 
 * [2D Histogram](https://github.com/herkulano/d3-plugin-hist2d)
-* [3D Force Layout](https://github.com/ggeoffrey/d3.layout.force3D)
+* [3D Force Layout](https://github.com/ggeoffrey/d3.layout.force3D) ([minimalist demo](http://ggeoffrey.github.io/d3.layout.force3D/))
 * [Adjacency Matrix](https://github.com/emeeks/d3-plugins/tree/master/adjacencyMatrix)
 * [Arc Diagram](https://github.com/goodmami/d3-plugins/tree/master/arcdiagram)
 * [Bayesian Network](https://github.com/crealytics/d3-bayesian-network)
