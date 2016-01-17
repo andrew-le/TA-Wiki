@@ -927,6 +927,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Multiple Area Charts with D3.JS](http://tympanus.net/codrops/2012/08/29/multiple-area-charts-with-d3-js/)
 * [Multiple time-series with object constancy](http://bl.ocks.org/mbostock/4175202) - Nikhil Sonnad
 * [Overlapped distribution Area chart](http://bl.ocks.org/nswamy14/083a1e3181c81428f817) - Narayana Swamy
+* [Mortgage overpayment calculator in D3 4.0](https://github.com/paulhoughton/mortgage)
 
 #### Pie Chart
 
@@ -1326,6 +1327,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [TechanJS](http://techanjs.org/): Financial charting and technical analysis - [candlestick](http://bl.ocks.org/andredumas/27c4a333b0e0813e093d), [ohlc](http://bl.ocks.org/andredumas/06ad3573c0053d0e1fc7) and [other technical analysis tools](http://bl.ocks.org/andredumas/edf630690c10b89be390)
 * [BlackHole.js: you can make the same visualization such as GitHub Visualizer and WBCA](https://github.com/artzub/blackhole.js)
 * [Vega: A Visualization Grammar built on D3](https://vega.github.io)
+* [Victory: d3 components for React](http://victory.formidable.com/)
 
 ### Games
 
