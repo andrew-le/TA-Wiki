@@ -154,7 +154,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
         <td>Concept network browser<br/><a href="http://www.findtheconversation.com/concept-map"><img width="133" src="http://www.findtheconversation.com/concept-map-d3-wiki.png"></a></td>
         <td>Circular heat chart<br><a href="http://prcweb.co.uk/circularheatchart"><img width="133" src="http://prcweb.co.uk/img/ext/circularheat.jpg"></a></td>
-        <td>Convert any page into bubbles<br><a href="http://www.infocaptor.com/bubble-my-page"><img width="133" src="http://www.infocaptor.com/wikipedia_visualization.png"></a></td>
+        <td>Timeseries<br><a href="http://mlvl.github.io/timeseries/"><img width="133" src="http://mlvl.github.io/timeseries/images/timeseries-sm.png"></a></td>
         <td>Directed Graph Editor<br><a href="http://bl.ocks.org/rkirsling/5001347"><img width="133" src="http://bl.ocks.org/rkirsling/raw/5001347/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
@@ -501,9 +501,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
   <tr valign="top">
     <td>Waterfall Chart<br><a href="http://bl.ocks.org/chucklam/f3c7b3e3709a0afd5d57"><img width="133" src="http://bl.ocks.org/chucklam/raw/f3c7b3e3709a0afd5d57/thumbnail.png"></a></td>
     <td>Diverging Stacked Bar Chart<br><a href="http://bl.ocks.org/wpoely86/e285b8e4c7b84710e463"><img width="133" src="http://bl.ocks.org/wpoely86/raw/e285b8e4c7b84710e463/thumbnail.png"></a></td>
-    <td>Timeseries<br><a href="http://mlvl.github.io/timeseries/"><img width="133" src="http://mlvl.github.io/timeseries/images/timeseries-sm.png"></a></td>
-   
-
 
   </tr>
 </table>
