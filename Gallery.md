@@ -442,6 +442,12 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         </a>
     </td>
 
+    <td>Map with Latitude & Longitude<br>
+        <a href="http://bl.ocks.org/lokesh005/7640d9b562bf59b561d6">         
+          <img width="133" src="http://bl.ocks.org/lokesh005/raw/7640d9b562bf59b561d6/India.jpg">
+        </a>
+    </td>
+
     <td>Higher education data explorer by parliamentary constituency<br>
         <a href="https://www.ucas.com/corporate/data-and-analysis/ucas-undergraduate-releases/he-entry-rates">         
           <img width="133" src="https://cloud.githubusercontent.com/assets/16351706/11899207/5ab41c12-a595-11e5-919c-25627c7a70c2.png">
