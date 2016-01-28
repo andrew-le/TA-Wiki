@@ -57,6 +57,7 @@ Please feel free to add links to your work!
 * [Playing with React & D3.js](https://github.com/freddyrangel/playing-with-react-and-d3) by Freddy Rangel
 * [Introduction to D3.js (Traditional Chinese)](http://www.slideshare.net/kurotanshi/study4tw-d3js) by Kuro Hsu
 * [Building a chart with D3 and TypeScript](https://hstefanski.wordpress.com/2015/06/07/creating-a-chart-with-d3-and-typescript-part-1/) by [Hugues Stefanski](https://github.com/Ledragon)
+* [From Zero to D3](http://www.coppelia.io/2016/01/from-zero-to-d3/) by Simon Raper
 
 ### Specific Techniques
 
