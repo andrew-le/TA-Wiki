@@ -379,10 +379,10 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Zoomable Unilevel Partition<br><a href="http://bl.ocks.org/apoorvnandan/8eb44a1990d4d9250700"><img width="133" src="https://5a44583fb28d25c751971f24d9bfeab2b7c159c6.googledrive.com/host/0B4hMaI5ok_84fi1oYWN6RzJCQ1BfTk5MSnVBQjdsMFhCeVBpZ19YMHpsTVdlM0FNZ2pWTTQ/thumbnail.png"></a></td>
         <td>Apps Script dependency analysis<br><a href="http://ramblings.mcpher.com/Home/excelquirks/drivesdk/vizdependencies"><img width="133" src="https://googledrive.com/host/0B92ExLh4POiZfkZsSDMwaHZUV3hneWdEbVV5aWVqenpWNjYtc29oYUZyYzVKVE50eFBMQm8/vizgas.png"></a></td>
         <td> Editable Tree <br> <a target="_blank" href="http://www.mockapi.io/#/docs"> <img width="133" src="http://www.mockapi.io/images/d3gallery.gif"> </a> </td>
-        <td>Automated Biography of a Nation<br> <a href="http://annalyn-ng.com/sg50/chart.html"> <img width="133" src="https://annalyzin.files.wordpress.com/2015/06/chartstill.png"> </a> </td>
+        <td>Automated Biography of a Nation<br> <a href="https://annalyzin.wordpress.com/2015/06/04/automated-biography/"> <img width="133" src="https://annalyzin.files.wordpress.com/2015/06/chartstill.png"> </a> </td>
     </tr>
     <tr valign="top">
-        <td>Star Wars Character Profiles<br><a href="http://annalyn-ng.com/starwarsb5/chart.html"><img width="133" src="https://annalyzin.files.wordpress.com/2015/06/swcstill1.png"></a></td>
+        <td>Star Wars Character Profiles<br><a href="https://annalyzin.wordpress.com/2015/06/01/you-are-who-you-like/"><img width="133" src="https://annalyzin.files.wordpress.com/2015/06/swcstill1.png"></a></td>
         <td>Global Refugee Flows - 2 Dynamic Chord Diagrams<br><a href="http://wp.me/pBH3w-a5"><img width="133" src="https://csaladenes.files.wordpress.com/2015/06/refugees.gif"></a></td>
         <td>Ontology Visualization <br><br><a href="http://vowl.visualdataweb.org/webvowl/"><img width="133" src="http://vowl.visualdataweb.org/webvowl/webvowl_thumbnail.png"></a></td>
         <td>Vertical Sankey<br><br><a href="http://benlogan1981.github.io/VerticalSankey/UBS.html"><img width="133" src="http://benlogan1981.github.io/VerticalSankey/images/UbsExampleVS.png"></a></td>
@@ -764,8 +764,8 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [BridgeViz](http://home.deib.polimi.it/saidinejad/VizDemo/index.html) - [Diego Bogni](https://github.com/diego89b) and [Hassan Saidinejad](http://home.deib.polimi.it/saidinejad/)
 * [NCAR Ensemble Skew-T Viewer](http://www.image.ucar.edu/wrfdart/ensemble/sounding.php) - Ryan Sobash
 * [Pazzla: Photo Mosaics of Instagram Pictures](http://pazzla.qoollo.com/) - Petr Devaikin
-* [Automated Biography of a Nation](http://annalyn-ng.com/sg50/chart.html) - Annalyn Ng
-* [Star Wars Character Profiles](http://annalyn-ng.com/starwarsb5/chart.html) - Annalyn Ng
+* [Automated Biography of a Nation](https://annalyzin.wordpress.com/2015/06/04/automated-biography/) - Annalyn Ng
+* [Star Wars Character Profiles](https://annalyzin.wordpress.com/2015/06/01/you-are-who-you-like/) - Annalyn Ng
 * [Refugee dynamics - what does the data say? A visual exploratory of refugee flows over the world using dynamic chord diagrams](http://wp.me/pBH3w-a5) - Denes Csala
 * [A World of Change - Climate change through the lens of Google search](http://news-lab-trends-experiment.appspot.com/) - Pitch Interactive & Michael Chang
 * [Mapping Solar Flares - An interactive map of flares observed on the Sun](http://www.scientificamerican.com/article/mapping-solar-flares-interactive/) - Monica Bobra & Chau Dang
