@@ -39,7 +39,7 @@ The *sign* can be:
 
 The *symbol* can be:
 
-* currency ("$") - a currency symbol should be prefixed (or suffixed) per the locale.
+* currency ("$") - indicates that a currency symbol should be prefixed (or suffixed) per the locale. See (Localization)[https://github.com/mbostock/d3/wiki/Localization#locale] for more information on how to set the locale currency symbol. 
 * base ("#") - for binary, octal, or hexadecimal output, prefix by "0b", "0o", or "0x", respectively.
 
 The "0" option enables zero-padding.
