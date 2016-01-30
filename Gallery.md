@@ -920,6 +920,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Fixed-width Histogram, Irwin–Hall distribution](http://bl.ocks.org/mbostock/3048450)
 * [Fixed-width Histogram of Durations, log-normal distribution](http://bl.ocks.org/mbostock/3048166)
 * [Variable-width Histogram](http://bl.ocks.org/mbostock/1624660)
+* [Histogram with labels](http://bl.ocks.org/domajno/64d132eba16a9f1510d4)
 
 #### Line and Area Chart
 
