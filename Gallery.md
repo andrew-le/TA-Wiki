@@ -922,6 +922,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Variable-width Histogram](http://bl.ocks.org/mbostock/1624660)
 * [Histogram with labels](http://bl.ocks.org/domajno/64d132eba16a9f1510d4)
 * [Histogram overlaid with cumulative percentage line like Excel histograms](http://bl.ocks.org/daluu/f58884c24ff893186416)
+* [Histogram using pareto distribution](http://bl.ocks.org/curran/11301130)
 
 #### Line and Area Chart
 
@@ -1113,7 +1114,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Colorful Development: 2 Interactive Colorwheels + Zoomable World Map](https://csaladenes.wordpress.com/2015/03/27/colorful-development-cartagena-datafest-2015/) - Denes Csala
 * [Access to Water Supply and Sanitation (JMP WHO/UNICEF) - Animated/Map+Chart](http://braimbault.github.io/d3_WSS_explore/) - Bruno Raimbault
 * [Toledo Flood Hazard Visualizer (Association of State Floodplain Managers) - Interactive (Leaflet) Map & Charts]
-(http://floodatlas.org/toledofloodhazards) - Lizzi Slivinski 
+(http://floodatlas.org/toledofloodhazards) - Lizzi Slivinski
 
 #### Misc Charts
 
@@ -1129,6 +1130,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Hierarchical Edge Bundling](http://bl.ocks.org/mbostock/1044242)
 * [Spiral for John Hunter](http://bl.ocks.org/mbostock/3543186)
 * [Hexagonal Heatmaps for e.g. Self Organizing Maps (SOM)](http://www.visualcinnamon.com/2013/07/self-organizing-maps-adding-boundaries.html) and [code](http://bl.ocks.org/nbremer/6052681)
+* [Basic Pareto Chart without the cumulative percentage line](http://bl.ocks.org/curran/11301130)
 
 #### Miscellaneous visualizations
 
@@ -1346,7 +1348,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 ### Wish List
 
 * arc diagram
-* gantt, other timelines and timing diagram
+* gantt chart, other timelines, and timing diagram
 * fibonacci scale
 * data table (maybe the airline table at the bottom of [the crossfilter example](http://square.github.com/crossfilter/)?)
 * hypergraph
