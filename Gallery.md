@@ -461,6 +461,11 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="http://amp.pharm.mssm.edu/clustergrammer/static/img/harmonizome.png">
         </a>
     </td>
+    <td>Spirograph<br>
+        <a href="http://nylen.io/d3-spirograph/">
+          <img width="133" src="https://cloud.githubusercontent.com/assets/227022/12709554/e91c2e36-c872-11e5-8d76-f039cb642717.png">
+        </a>
+     </td>
 
     </tr>
 
