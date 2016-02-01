@@ -777,6 +777,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Mass Spectrometry (MS/MS spectrum) data viewer]
 (http://anno.semgen.info/) - Janko Diminic
 * [The Cancer Genome Atlas - Interactive Exploration of Patient Gender, Race and Age](http://www.enpicom.com/visual-lab/tcga-exploration/embed) - Nicola Bonzanni, Alvise Trevisan
+* [Spirograph simulator](http://nylen.io/d3-spirograph/) - James Nylen
 
 ### Collections
 
