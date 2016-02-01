@@ -922,7 +922,13 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Variable-width Histogram](http://bl.ocks.org/mbostock/1624660)
 * [Histogram with labels](http://bl.ocks.org/domajno/64d132eba16a9f1510d4)
 * [Histogram overlaid with cumulative percentage line like Excel histograms](http://bl.ocks.org/daluu/f58884c24ff893186416)
+* [Cumulative Histogram](http://bl.ocks.org/daluu/5f67cefcf26483c6b555)
 * [Histogram using pareto distribution](http://bl.ocks.org/curran/11301130)
+
+#### Pareto Chart
+
+* [Simple Example Pareto Chart](http://bl.ocks.org/daluu/d43ec5e610dd5dedbbe1)
+* [Basic Pareto Chart/Histogram without the cumulative percentage line](http://bl.ocks.org/curran/11301130)
 
 #### Line and Area Chart
 
@@ -1130,7 +1136,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Hierarchical Edge Bundling](http://bl.ocks.org/mbostock/1044242)
 * [Spiral for John Hunter](http://bl.ocks.org/mbostock/3543186)
 * [Hexagonal Heatmaps for e.g. Self Organizing Maps (SOM)](http://www.visualcinnamon.com/2013/07/self-organizing-maps-adding-boundaries.html) and [code](http://bl.ocks.org/nbremer/6052681)
-* [Basic Pareto Chart without the cumulative percentage line](http://bl.ocks.org/curran/11301130)
 
 #### Miscellaneous visualizations
 
