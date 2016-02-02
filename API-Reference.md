@@ -267,7 +267,7 @@ See one of:
 * [pow.tickFormat](Quantitative-Scales#pow_tickFormat) - get a formatter for displaying tick values.
 * [pow.exponent](Quantitative-Scales#pow_exponent) - get or set the exponent power.
 * [pow.copy](Quantitative-Scales#pow_copy) - create a new scale from an existing scale.
-* [d3.scale.log](Quantitative-Scales#log) - construct a quantitative scale with an logarithmic transform.
+* [d3.scale.log](Quantitative-Scales#log) - construct a quantitative scale with a logarithmic transform.
 * [log](Quantitative-Scales#_log) - get the range value corresponding to a given domain value.
 * [log.invert](Quantitative-Scales#log_invert) - get the domain value corresponding to a given range value.
 * [log.domain](Quantitative-Scales#log_domain) - get or set the scale's input domain.
