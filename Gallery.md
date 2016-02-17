@@ -134,8 +134,8 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Wind History<br><a href="http://windhistory.com/"><img width="133" src="http://d3js.org/ex/windhistory.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Cubic Hamiltonian Graphs<br><a href="http://www.christophermanning.org/projects/building-cubic-hamiltonian-graphs-from-lcf-notation/"><img width="133" src="http://d3js.org/ex/lcf.png"></a></td>
-        <td>Force-Directed Voronoi<br><a href="http://www.christophermanning.org/projects/voronoi-diagram-with-force-directed-nodes-and-delaunay-links/"><img width="133" src="http://d3js.org/ex/force-voronoi.png"></a></td>
+        <td>Cubic Hamiltonian Graphs<br><a href="http://www.christophermanning.org/projects/building-cubic-hamiltonian-graphs-from-lcf-notation"><img width="133" src="http://d3js.org/ex/lcf.png"></a></td>
+        <td>Force-Directed Voronoi<br><a href="http://www.christophermanning.org/projects/voronoi-diagram-with-force-directed-nodes-and-delaunay-links"><img width="133" src="http://d3js.org/ex/force-voronoi.png"></a></td>
         <td>Trulia Trends<br><a href="http://www.trulia.com/blog/trends/house-hunter-by-day-not-so-much-after-midnight/"><img width="133" src="http://d3js.org/ex/house-heatmap.png"></a></td>
         <td>Trulia Trends<br><a href="http://www.trulia.com/blog/trends/where-are-house-hunters-searching/"><img width="133" src="http://d3js.org/ex/house-map.png"></a></td>
     </tr>
@@ -681,7 +681,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Places in the Game of Thrones](http://www.jeromecukier.net/projects/agot/places.html) - Jérôme Cukier
 * [A Visit From The Goon Squad - Interactive Character Map](http://www.filosophy.org/projects/goonsquad/) - Filip Zembowicz
 * [Twitter Influencer Visualization](http://www.influencermoth.com/) - Erik Driessen
-* [Chicago Ward Remap Outlines](http://www.christophermanning.org/projects/chicago-ward-remap-outlines/) - Christopher Manning
+* [Chicago Ward Remap Outlines](http://www.christophermanning.org/projects/chicago-ward-remap-outlines) - Christopher Manning
 * [Minute: record of all of my keystrokes](http://macwright.org/minute/) - Tom MacWright
 * [Olympic Medal Rivalry](http://blog.new-bamboo.co.uk/2012/06/22/olympic-medal-rivalry) - Makoto Inoue
 * [Visualizing U.S. Births and Deaths in Real-Time](http://nowherenearithaca.blogspot.com/2012/12/simulating-us-birthsdeaths-in-real-time.html) - Brad Flyon
@@ -1042,8 +1042,8 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 #### Misc Trees and Graphs
 
 * [Connections in time](http://maxdemarzi.com/2012/03/08/connections-in-time/)
-* [Voronoi Diagram with Force Directed Nodes and Delaunay Links](http://www.christophermanning.org/projects/voronoi-diagram-with-force-directed-nodes-and-delaunay-links/)
-* [Building Cubic Hamiltonian Graphs from LCF Notation](http://www.christophermanning.org/projects/building-cubic-hamiltonian-graphs-from-lcf-notation/)
+* [Voronoi Diagram with Force Directed Nodes and Delaunay Links](http://www.christophermanning.org/projects/voronoi-diagram-with-force-directed-nodes-and-delaunay-links)
+* [Building Cubic Hamiltonian Graphs from LCF Notation](http://www.christophermanning.org/projects/building-cubic-hamiltonian-graphs-from-lcf-notation)
 * [Circular tree. Will your team win the NCAA Tournament?](http://thepowerrank.com/visual/NCAA_Tournament_Predictions)
 * [Bracket Layout](http://blockses.appspot.com/2503502)
 * [SCION simulation environment](http://bit.ly/PvWgUH)
