@@ -80,7 +80,7 @@ Constructs a new HCL color with the specified hue *h*, chroma *c*, and luminance
 
 <a href="#d3_hcl">#</a> d3.<b>hcl</b>(<i>color</i>)
 
-Constructs a new HCL color by parsing the specified color string. If color is not a string, it is coerced to a string; thus, this constructor can also be used to create a copy of an existing color, or force the conversion of a d3.rgb color to HCL. The color string may be in a variety of formats:
+Constructs a new HCL color by parsing the specified *color* string. If *color* is not a string, it is coerced to a string; thus, this constructor can also be used to create a copy of an existing color, or force the conversion of a [d3.rgb](#d3_rgb) color to HCL. The color string may be in a variety of formats:
 
 * rgb decimal - "rgb(255,255,255)"
 * hsl decimal - "hsl(120,50%,20%)"
@@ -114,7 +114,7 @@ Constructs a new L\*a\*b\* color with the specified lightness *l*, *a*, and *b*;
 
 <a href="#d3_lab">#</a> d3.<b>lab</b>(<i>color</i>)
 
-onstructs a new L\*a\*b\* color by parsing the specified color string. If color is not a string, it is coerced to a string; thus, this constructor can also be used to create a copy of an existing color, or force the conversion of a d3.rgb color to L\*a\*b\*. The color string may be in a variety of formats:
+Constructs a new L\*a\*b\* color by parsing the specified *color* string. If *color* is not a string, it is coerced to a string; thus, this constructor can also be used to create a copy of an existing color, or force the conversion of a [d3.rgb](#d3_rgb) color to L\*a\*b\*. The color string may be in a variety of formats:
 
 * rgb decimal - "rgb(255,255,255)"
 * hsl decimal - "hsl(120,50%,20%)"
