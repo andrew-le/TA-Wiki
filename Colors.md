@@ -76,7 +76,7 @@ Converts this HSL color to an RGB hexadecimal string, such as "#f7eaba".
 
 <a name="d3_hcl" href="#d3_hcl">#</a> d3.<b>hcl</b>(<i>h</i>, <i>c</i>, <i>l</i>)
 
-Constructs a new HCL color with the specified hue, chroma, and luminance. The hue must be a number in the range [0,360]. The chroma and luminance must be in the range [0,1] (not percentages). These values are available as the h, c, and l attributes of the returned object.
+Constructs a new HCL color with the specified hue *h*, chroma *c*, and luminance *l*. The hue must be a number in the range [0,360]. The chroma and luminance must be in the range [0,1] (not percentages). These values are available as the `h`, `c`, and `l` attributes of the returned object.
 
 <a href="#d3_hcl">#</a> d3.<b>hcl</b>(<i>color</i>)
 
@@ -110,7 +110,7 @@ Converts this HCL color to an RGB hexadecimal string, such as "#f7eaba".
 
 <a name="d3_lab" href="#d3_lab">#</a> d3.<b>lab</b>(<i>l</i>, <i>a</i>, <i>b</i>)
 
-Constructs a new L\*a\*b\* color with the specified lightness, a, and b with a and b being the color-opponent dimensions. The lightness must be in a range from [0,100]. These values are available as the l, a, and b attributes of the returned object.
+Constructs a new L\*a\*b\* color with the specified lightness *l*, *a*, and *b*; with a and b being the color-opponent dimensions. The lightness must be in a range from [0,100]. These values are available as the `l`, `a`, and `b` attributes of the returned object.
 
 <a href="#d3_lab">#</a> d3.<b>lab</b>(<i>color</i>)
 
