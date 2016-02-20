@@ -76,23 +76,31 @@ Converts this HSL color to an RGB hexadecimal string, such as "#f7eaba".
 
 <a name="d3_hcl" href="#d3_hcl">#</a> d3.<b>hcl</b>(<i>h</i>, <i>c</i>, <i>l</i>)
 
-???
+Constructs a new HCL color with the specified hue, chroma, and luminance. The hue must be a number in the range [0,360]. The chroma and luminance must be in the range [0,1] (not percentages). These values are available as the h, c, and l attributes of the returned object.
 
 <a href="#d3_hcl">#</a> d3.<b>hcl</b>(<i>color</i>)
 
-???
+Constructs a new HCL color by parsing the specified color string. If color is not a string, it is coerced to a string; thus, this constructor can also be used to create a copy of an existing color, or force the conversion of a d3.rgb color to HCL. The color string may be in a variety of formats:
+
+* rgb decimal - "rgb(255,255,255)"
+* hsl decimal - "hsl(120,50%,20%)"
+* rgb hexadecimal - "#ffeeaa"
+* rgb shorthand hexadecimal - "#fea"
+* named - "red", "white", "blue"
+        
+The resulting color is stored as hue in the range [0,360], and chroma and luminance values in the range [0,1]. These values are available as the h, c and l attributes of the returned object. The list of supported [named colors](http://www.w3.org/TR/SVG/types.html#ColorKeywords) is specified by CSS.
 
 <a name="hcl_brighter" href="#hcl_brighter">#</a> hcl.<b>brighter</b>([<i>k</i>])
 
-???
+Returns a brighter copy of this color. The luminance channel is multiplied by 18 * *k*. If the gamma value *k* is omitted, it defaults to 1. The greatest brightness possible is 100.
 
 <a name="hcl_darker" href="#hcl_darker">#</a> hcl.<b>darker</b>([<i>k</i>])
 
-???
+Returns a darker copy of this color. The luminance channel is multiplied by -18 * *k*. If the gamma value *k* is omitted, it defaults to 1. The lowest darkness possible is 0.
 
 <a name="hcl_rgb" href="#hcl_rgb">#</a> hcl.<b>rgb</b>()
 
-???
+Returns the equivalent color in RGB space; see [d3.rgb](#d3_rgb) for details on the returned object.
 
 <a name="hcl_toString" href="#hcl_toString">#</a> hcl.<b>toString</b>()
 
@@ -102,23 +110,31 @@ Converts this HCL color to an RGB hexadecimal string, such as "#f7eaba".
 
 <a name="d3_lab" href="#d3_lab">#</a> d3.<b>lab</b>(<i>l</i>, <i>a</i>, <i>b</i>)
 
-???
+Constructs a new L\*a\*b\* color with the specified lightness, a, and b with a and b being the color-opponent dimensions. The lightness must be in a range from [0,100]. These values are available as the l, a, and b attributes of the returned object.
 
 <a href="#d3_lab">#</a> d3.<b>lab</b>(<i>color</i>)
 
-???
+onstructs a new L\*a\*b\* color by parsing the specified color string. If color is not a string, it is coerced to a string; thus, this constructor can also be used to create a copy of an existing color, or force the conversion of a d3.rgb color to L\*a\*b\*. The color string may be in a variety of formats:
+
+* rgb decimal - "rgb(255,255,255)"
+* hsl decimal - "hsl(120,50%,20%)"
+* rgb hexadecimal - "#ffeeaa"
+* rgb shorthand hexadecimal - "#fea"
+* named - "red", "white", "blue"
+    
+The resulting color is stored as lightness in the range [0,100], and corresponding a and b values. These values are available as the l, a, and b attributes of the returned object. The list of supported [named colors](http://www.w3.org/TR/SVG/types.html#ColorKeywords) is specified by CSS. If the color is specified in RGB space, it is converted to L\*a\*b\* by first being converted to XYZ space, then to RGB space.
 
 <a name="lab_brighter" href="#lab_brighter">#</a> lab.<b>brighter</b>([<i>k</i>])
 
-???
+Returns a brighter copy of this color. The lightness channel is multiplied by 18 * *k*. If the gamma value *k* is omitted, it defaults to 1. The greatest brightness possible is 100.
 
 <a name="lab_darker" href="#lab_darker">#</a> lab.<b>darker</b>([<i>k</i>])
 
-???
+Returns a darker copy of this color. The lightness channel is multiplied by -18 * *k*. If the gamma value *k* is omitted, it defaults to 1. The lowest darkness possible is 0.
 
 <a name="lab_rgb" href="#lab_rgb">#</a> lab.<b>rgb</b>()
 
-???
+Returns the equivalent color in RGB space; see [d3.rgb](#d3_rgb) for details on the returned object.
 
 <a name="lab_toString" href="#lab_toString">#</a> lab.<b>toString</b>()
 
