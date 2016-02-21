@@ -471,6 +471,11 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://raw.githubusercontent.com/thetylerwolf/tylernwolf.com/master/image/corrdisp_viz.png"
         </a>
      </td>
+    <td>Timeline Chart<br>
+        <a href="https://github.com/commodityvectors/d3-timeline">
+          <img height="133" src="https://raw.githubusercontent.com/commodityvectors/d3-timeline/master/usage.gif"
+        </a>
+     </td>
 
     </tr>
 
