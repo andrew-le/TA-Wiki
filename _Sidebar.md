@@ -15,6 +15,8 @@ Data Driven Documents
 ###External
 - [Official site](https://d3js.org/)
 - [Examples on bl.ocks.org](http://bl.ocks.org/mbostock)
+- [D3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
+- [D3.js Google Group](http://groups.google.com/group/d3-js)
 
 ###[[API Reference]]
 - [[Core]]
