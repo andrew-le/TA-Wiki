@@ -12,6 +12,10 @@ Data Driven Documents
 - [[Learning paths]] 
 - [[Upgrading to 3.0]] 
 
+###External
+- [Official site](https://d3js.org/)
+- [Examples on bl.ocks.org](http://bl.ocks.org/mbostock)
+
 ###[[API Reference]]
 - [[Core]]
 - [[Scales]]
