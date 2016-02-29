@@ -1,20 +1,15 @@
 [[[https://d3js.org/logo.svg|alt="D3js Logo"|height=210px|width=210px]]](https://d3js.org)
 
-Data Driven Documents
+Data-Driven Documents
 ===============
 
 - [[Home]] 
 - [[Gallery]] 
 - [[Plugins]] 
-
-###Instructions
 - [[Tutorials]] 
-- [[Learning paths]] 
-- [[Upgrading to 3.0]] 
+- [Examples](http://bl.ocks.org/mbostock)
 
-###External
-- [Official site](https://d3js.org/)
-- [Examples on bl.ocks.org](http://bl.ocks.org/mbostock)
+###Help
 - [D3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
 - [D3.js Google Group](http://groups.google.com/group/d3-js)
 
