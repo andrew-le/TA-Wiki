@@ -1,4 +1,4 @@
-[[[http://www.brother.com/library/websites/com/common/img/head_brotherlogo.gif|alt="Brother Logo"|height=210px|width=210px]]](https://d3js.org)
+ [[[https://d3js.org/logo.svg|alt="D3js Logo"|height=210px|width=210px]]](https://d3js.org)
 
 Data-Driven Documents
 ===============
