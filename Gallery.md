@@ -1129,7 +1129,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [All 2012 US flights from Google Fusion](http://xliberation.com/googlecharts/d3flights.html)
 * [San Francisco Contours](http://bl.ocks.org/karmadude/5820393) - Liji Jinaraj
 * [Global Oil Production & Consumption since 1965](http://labs.wnstnsmth.net/worldoil) - [Timo Grossenbacher](http://wnstnsmth.net)
-* [Nielsen Media Markets](http://bl.ocks.org/simzou/6459889) - Simon Zou
+* [Nielsen Media Markets](http://bl.ocks.org/simzou/6459889), [code](https://github.com/simzou/nielsen-dma/) - Simon Zou
 * [d3.micromaps](https://github.com/jazzido/d3micromaps) — An implementation of [Linked Micromaps Plots](http://mason.gmu.edu/~dcarr/lib/v9n1.pdf) (D. Carr et al.) by [Manuel Aristarán](http://jazzido.com)
 * [Visualization of the Persecution of the Baha'i community in Iran using d3.js, leaflet and Crossfilter](http://threatwiki.thesentinelproject.org/iranvisualization) - Jérôme Gagnon-Voyer
 * [Visualization of the Persecution of the Baha'i community in Iran using d3.js, leaflet and Crossfilter](http://threatwiki.thesentinelproject.org/iranvisualization) - Jérôme Gagnon-Voyer
