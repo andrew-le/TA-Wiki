@@ -80,7 +80,7 @@ Please feel free to add links to your work!
 
 ### D3 v4
 * [Let’s Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/)
-* [Reactive visualizations with D3 v4](https://docs.google.com/presentation/d/1piFaL4ttKNAv6_lkUgJLLSIRSah7blvd8ghqMFEeNnk/edit#slide=id.g100bd858fa_0_167)
+* [Reactive visualizations with D3 v4](https://t.co/4lp3OwO2xi)
 * [A simple D3 plugin](https://537.io/a-simple-d3-plugin/)
 * [Notes from the Unconf 2015](https://github.com/visfest/topics2015/wiki/Session-3A:-D3-v4-(modular))
 
