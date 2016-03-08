@@ -15,6 +15,7 @@ Please feel free to add links to your work!
 * [Contour plot](https://github.com/d3/d3-plugins/tree/master/geom/contour)
 * [Color wheel](https://github.com/betweentwobrackets/d3-colorwheel)
 * [Cubehelix color scheme](https://github.com/d3/d3-plugins/tree/master/cubehelix)
+* [dTree Family Tree](https://github.com/ErikGartner/dTree)
 * [Fisheye distortion](https://github.com/d3/d3-plugins/tree/master/fisheye)
 * [Flame graph](https://github.com/cimi/d3-flame-graphs) ([demo](http://cimi.github.io/d3-flame-graphs/))
 * [Flextree](https://github.com/Klortho/d3-flextree) ([demo](http://klortho.github.io/d3-flextree/))
