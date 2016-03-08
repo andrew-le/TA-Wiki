@@ -78,6 +78,12 @@ Please feel free to add links to your work!
 * [Stream data to create realtime, live-updating D3.js charts](http://www.pubnub.com/blog/stream-data-to-create-realtime-charts-w-d3js-and-rickshaw/) - Ian Jennings
 * [Graphing memory usage in realtime using D3.js and Rickshaw](http://www.pubnub.com/blog/graphing-node-js-memory-usage-d3-js-rickshaw/) - Ian Jennings
 
+### D3 v4
+* [Let’s Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/)
+* [Reactive visualizations with D3 v4](https://docs.google.com/presentation/d/1piFaL4ttKNAv6_lkUgJLLSIRSah7blvd8ghqMFEeNnk/edit#slide=id.g100bd858fa_0_167)
+* [A simple D3 plugin](https://537.io/a-simple-d3-plugin/)
+* [Notes from the Unconf 2015](https://github.com/visfest/topics2015/wiki/Session-3A:-D3-v4-(modular))
+
 ## Blogs
 
 * [Mike Bostock](http://bost.ocks.org/mike/)
