@@ -473,14 +473,14 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
      </td>
     <td>Timeline Chart<br>
         <a href="https://github.com/commodityvectors/d3-timeline">
-          <img height="133" src="https://raw.githubusercontent.com/commodityvectors/d3-timeline/master/usage.gif"
+          <img width="133" src="https://raw.githubusercontent.com/commodityvectors/d3-timeline/master/usage.gif"
         </a>
      </td>
      </tr>
      <tr>
      <td>Tree of Life<br>
         <a href="http://taxontree.bpodgursky.com">
-           <img height="133" src="https://bpodgursky.files.wordpress.com/2016/02/col-screenshot.png"
+           <img width="133" src="https://bpodgursky.files.wordpress.com/2016/02/col-screenshot.png"
         </a>
       </td>
     </tr>
