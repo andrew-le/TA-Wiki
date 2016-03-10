@@ -21,7 +21,7 @@ Data-Driven Documents
 - [[Layouts]]
 - [[Geo]]
 - [[Geometry]]
-- [[Behaviors]]
+- [[Behavior]]
 
 ###Translations (unofficial)
 - [한국어](/zziuni/d3/wiki)
