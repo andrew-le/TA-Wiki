@@ -96,13 +96,13 @@ D3 состоит из:
 
 ### [[Working with Arrays|Arrays]] ### [[Работа с массивами|Массивы]]
 
-* [[d3.ascending|Arrays#d3_ascending]] - compare two values for sorting.
-* [[d3.descending|Arrays#d3_descending]] - compare two values for sorting.
+* [[d3.ascending|Arrays#d3_ascending]] - сравнение 2 массивов по условию возрастания.
+* [[d3.descending|Arrays#d3_descending]] - сравнение 2 массивов по условию убывания.
 * [[d3.min|Arrays#d3_min]] - поиск минимального значения в массиве.
 * [[d3.max|Arrays#d3_max]] - поиск максимального значения в массиве.
 * [[d3.extent|Arrays#d3_extent]] - поиск минимального и максимального элементов в массиве.
 * [[d3.sum|Arrays#d3_sum]] - суммирование всех элементов массива, состоящего из чисел.
-* [[d3.mean|Arrays#d3_mean]] - арифмитическое среднее элементов массива, состоящего из чисел.
+* [[d3.mean|Arrays#d3_mean]] - арифметическое среднее элементов массива, состоящего из чисел.
 * [[d3.median|Arrays#d3_median]] - медиана (квантиль уровня 0.5) массива, состоящего из чисел.
 * [[d3.quantile|Arrays#d3_quantile]] - поиск квантили для упорядоченного массива, состоящего из чисел.
 * [[d3.bisect|Arrays#d3_bisect]] - поиск значения в упорядоченном массиве.
@@ -110,9 +110,9 @@ D3 состоит из:
 * [[d3.bisectLeft|Arrays#d3_bisectLeft]] - поиск значения в упорядоченном массиве.
 * [[d3.bisector|Arrays#d3_bisector]] - bisect using an accessor or comparator.
 * [d3.shuffle](Arrays#d3_shuffle) - перемешать элементы массива случайным образом.
-* [[d3.permute|Arrays#d3_permute]] - reorder an array of elements according to an array of indexes.
-* [[d3.zip|Arrays#d3_zip]] - transpose a variable number of arrays.
-* [[d3.transpose|Arrays#d3_transpose]] - transpose an array of arrays.
+* [[d3.permute|Arrays#d3_permute]] - переупорядочить массив элементов, в соответствии с массивом индексов.
+* [[d3.zip|Arrays#d3_zip]] - транспонировать переменное количество массивов.
+* [[d3.transpose|Arrays#d3_transpose]] - транспонировать массив массивов.
 * [[d3.pairs|Arrays#d3_pairs]] - returns an array of adjacent pairs of elements.
 * [[d3.keys|Arrays#d3_keys]] - список ключей ассоциативного массива.
 * [[d3.values|Arrays#d3_values]] - список значений ассоциативного массива.
@@ -156,8 +156,8 @@ D3 состоит из:
 
 ### [[Loading External Resources|Requests]]
 
-* [[d3.xhr|Requests#d3_xhr]] - request a resource using XMLHttpRequest.
-* [xhr.header](Requests#header) - set a request header.
+* [[d3.xhr|Requests#d3_xhr]] - запрашивать ресурс с использованием XMLHttpRequest.
+* [xhr.header](Requests#header) - установить заголовок запроса.
 * [xhr.mimeType](Requests#mimeType) - set the Accept request header and override the response MIME type.
 * [xhr.response](Requests#response) - set a response mapping function.
 * [xhr.get](Requests#get) - GET запрос.
@@ -174,7 +174,7 @@ D3 состоит из:
 
 ### [[String Formatting|Formatting]]
 
-* [[d3.format|Formatting#d3_format]] - format a number as a string.
+* [[d3.format|Formatting#d3_format]] - форматировать число в виде строки.
 * [d3.formatPrefix](Formatting#d3_formatPrefix) - returns the [SI prefix](http://en.wikipedia.org/wiki/Metric_prefix) for the specified value and precision.
 * [[d3.requote|Formatting#d3_requote]] - quote a string for use in a regular expression.
 * [[d3.round|Formatting#d3_round]] - rounds a value to some digits after the decimal point.
