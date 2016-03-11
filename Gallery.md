@@ -251,7 +251,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Data Heatmap with Sorting Functions<br><a href="http://bl.ocks.org/ianyfchang/8119685"><img width="133" src="http://bl.ocks.org/ianyfchang/raw/8119685/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Node-Link Tree Showing Branches of Government<br><a href="http://greencracker.net/wp-content/uploads/2013/11/final-cafe-press-dimensions-1106.jpg"><img width="133" src="http://greencracker.net/wp-content/uploads/2013/12/tree_thumb.jpg"></a></td>
+     
         <td>3D Force Layout<br><a href="https://vida.io/documents/N4jSip7n68yQ48DXp"><img width="133" src="https://s3.amazonaws.com/vida-production/thumbnails/N4jSip7n68yQ48DXp"></a></td>
         <td>Lifespan<br><a href="http://www.cotrino.com/2014/02/lifespan-longevidad-animal/"><img width="133" src="https://raw.github.com/cotrino/experimentos/mr/lifespan.png"></a></td>
         <td>Choropleth word map<br><a href="http://www.ezglot.com/word-of-the-day.php"><img width="133" src="http://www.ezglot.com/hund-map.png" alt="word of the day"></a></td>
@@ -313,7 +313,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
         <td>Create D3 Visualizations<br><a href="https://my.infocaptor.com/free_data_visualization.php"><img width="133" src="http://www.infocaptor.com/dashboard/wp-content/uploads/2014/10/image-358.jpg"></a></td>
         <td>-<br><a href="#"><img width="133" src="#"></a></td>
-        <td>Simple bar chart with lede & nut graf layout<br><a href="http://greencracker.net/?p=1874"><img width="133" src="http://greencracker.net/wp-content/uploads/2014/11/Screen-Shot-2014-11-16-at-12.32.51-PM.png"></a></td>
+        
         <td>Node Focusable Tree<br><a href="http://codepen.io/mikefab/full/IDdts/"><img width="133" src="http://s12.postimg.org/abee893h9/node_focusable_radial_tree.jpg"></a></td>
     </tr>
     <tr valign="top">
