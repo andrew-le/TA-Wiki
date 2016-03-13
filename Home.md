@@ -77,7 +77,7 @@ When developing locally, note that your browser may enforce strict permissions f
 
 or for Python 3+
 
-    python -m http.server 8888 &
+    python3 -m http.server 8888 &
 
 If you have PHP installed you could try
 
