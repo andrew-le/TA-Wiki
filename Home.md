@@ -89,7 +89,7 @@ or if you are running Ruby you can use
 
 Once this is running, go to <http://localhost:8888/>.
 
-Or if you are running nodejs you can do
+Or if you are running Node.js you can do
 
     npm install http-server -g
     http-server
