@@ -2,14 +2,14 @@
 
 See one of:
 
-* [[Selections]] - for DOM element selectors and operators.
-* [[Transitions]] - for transition selection that apply operators smoothly over time.
-* [[Arrays]] - for out of the box array operations.
-* [[Math]] - for javascript Math addons.
-* [[Requests]] - for requesting data from a source.
-* [[Formatting]] - for easy formatting of numbers.
-* [[CSV]] - for reading CSV and TSV files.
-* [[Localization]] - for localization of certain D3 generated values.
-* [[Colors]] - for color formatting an manipulation.
-* [[Namespaces]] - for simplified dealing with namespaces.
-* [[Internals]] - for implementing reusable components.
+* [[Selections]] - DOM element selectors and operators.
+* [[Transitions]] - selections that apply operators smoothly over time.
+* [[Arrays]] - built-in array operations.
+* [[Math]] - javascript Math addons.
+* [[Requests]] - tools for requesting data from non-local sources.
+* [[Formatting]] - easy formatting of numbers.
+* [[CSV]] - reading CSV and TSV files.
+* [[Localization]] - localization of certain D3 generated values.
+* [[Colors]] - color formatting and manipulation.
+* [[Namespaces]] - tools for dealing with namespaces.
+* [[Internals]] - implementing reusable components.
