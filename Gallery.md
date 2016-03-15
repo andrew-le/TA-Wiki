@@ -592,6 +592,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <table>
   <tr valign="top">
     <td>Normal distribution<br><a href="https://dtab.io/sheets/56e845da4030182e337c6c2b"><img width="133" src="http://i.imgur.com/uJPr4YF.png"></a></td>
+    <td>Linear regression<br><a href="https://dtab.io/sheets/56d0a87264e47ee60a95f652"><img width="133" src="http://i.imgur.com/3z8xPkq.png"></a></td>
   </tr>
 </table>
 
