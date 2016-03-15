@@ -587,6 +587,14 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
   </tr>
 </table>
 
+## Statistics
+
+<table>
+  <tr valign="top">
+    <td>Normal distribution<br><a href="https://dtab.io/sheets/56e845da4030182e337c6c2b"><img width="133" src="http://i.imgur.com/uJPr4YF.png"></a></td>
+  </tr>
+</table>
+
 ## Examples
 * [Visualizing the attendees at the World Economic Forum – Braid.io]
 (http://braid.io/tile/wef-attendees-2016) - Braid.io
