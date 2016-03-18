@@ -26,6 +26,7 @@ Please feel free to add links to your work!
 * [Hexagonal binning](https://github.com/d3/d3-plugins/tree/master/hexbin)
 * [Hive plot](https://github.com/d3/d3-plugins/tree/master/hive)
 * [Horizon chart](https://github.com/d3/d3-plugins/tree/master/horizon)
+* [Icon array](https://github.com/tomgp/d3-iconarray)
 * [JSONP](https://github.com/d3/d3-plugins/tree/master/jsonp)
 * [Keybinding](https://github.com/d3/d3-plugins/tree/master/keybinding)
 * [Lasso selection](https://github.com/d3/d3-plugins/tree/master/lasso)
