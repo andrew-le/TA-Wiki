@@ -1360,6 +1360,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [NVD3](http://nvd3.org/)
 * [Dimple](http://dimplejs.org/)
 * [C3:D3-based reusable chart library](http://c3js.org/)
+* [Configurable Chart Collection: A variety of visualizations with a declarative and extensible API.  Includes line/area/bar/stacked charts, pie/donut charts, scatter plots, swimlanes, flamechart, sunburst, data tables, etc.](https://github.com/drarmstr/c3)
 * [Cubism.js: Time Series Visualization](http://square.github.com/cubism/)
 * [Crossfilter](http://square.github.com/crossfilter/)
 * [Rickshaw: JavaScript toolkit for creating interactive real-time graphs](https://github.com/shutterstock/rickshaw)
