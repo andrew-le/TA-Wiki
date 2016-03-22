@@ -79,7 +79,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     </tr>
     <tr valign="top">
         <td>Political Influence<br><a href="http://www.brightpointinc.com/political_influence/" title="political influence d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/PoliticalInfluence_202px.png"></a></td>
-        <td>Federal Budget<br><a href="http://www.brightpointinc.com/2013-federal-budget/" title="federal budget d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Budget_202px.png"></a></td>
+        <td>Federal Budget<br><a href="http://vizuly.io/product/weighted-tree/?demo=d3js" title="federal budget d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Budget_202px.png"></a></td>
         <td>US Trade Deficit<br><a href="http://www.brightpointinc.com/united-states-trade-deficit/" title="US Trade Deficit d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Deficit_202px.png"></a></td>
         <td>Sequences sunburst<br><a href="http://bl.ocks.org/kerryrodden/7090426"><img width="133" src="https://gist.githubusercontent.com/kerryrodden/7090426/raw/66e9ce05ea907b3cb6b753cacc61aba45a78e21f/thumbnail.gif"></a></td>
     </tr>
