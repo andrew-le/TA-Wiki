@@ -12,6 +12,7 @@ Data-Driven Documents
 ###Help
 - [D3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
 - [D3.js Google Group](http://groups.google.com/group/d3-js)
+- [D3.js on Gitter](https://gitter.im/mbostock/d3)
 
 ###[[API Reference]]
 - [[Core]]
