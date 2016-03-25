@@ -78,13 +78,13 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Facebook IPO<br><a href="http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html"><img width="133" src="http://d3js.org/ex/facebook-ipo.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Political Influence<br><a href="http://www.brightpointinc.com/political_influence/" title="political influence d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/PoliticalInfluence_202px.png"></a></td>
+<td>D3 Mobile Application<br><a href="http://vizuly.io/product/mobile-app/?demo=d3js" title="D3 Mobile Application"><img width="133" src="http://vizuly.io/vizuly/assets/Mobile.gif"></a></td>
         <td>Federal Budget<br><a href="http://vizuly.io/product/weighted-tree/?demo=d3js" title="federal budget d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Budget_202px.png"></a></td>
         <td>US Trade Deficit<br><a href="http://www.brightpointinc.com/united-states-trade-deficit/" title="US Trade Deficit d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Deficit_202px.png"></a></td>
         <td>Sequences sunburst<br><a href="http://bl.ocks.org/kerryrodden/7090426"><img width="133" src="https://gist.githubusercontent.com/kerryrodden/7090426/raw/66e9ce05ea907b3cb6b753cacc61aba45a78e21f/thumbnail.gif"></a></td>
     </tr>
     <tr valign="top">
-        <td>D3 Mobile Application<br><a href="http://vizuly.io/product/mobile-app/?demo=d3js" title="D3 Mobile Application"><img width="133" src="http://vizuly.io/vizuly/assets/Mobile.gif"></a></td>
+        <td>Political Influence<br><a href="http://www.brightpointinc.com/political_influence/" title="political influence d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/PoliticalInfluence_202px.png"></a></td>
         <td>Radial Progress Component<br><a href="http://vizuly.io/product/radial-progress/?demo=d3js" title="radial progress component d3.js"><img width="133" src="http://www.brightpointinc.com/clients/brightpointinc.com/library/radialProgress/image.gif"></a></td>
         <td>Corona Radar<br><br><a href="http://vizuly.io/product/corona/?demo=d3js" title="Corona Radar d3.js"><img width="133" src="http://vizuly.io/vizuly/assets/Corona_D3.gif"></a></td>
         <td>NFL Predictions<br><a href="http://www.brightpointinc.com/2015-nfl-predictions/" title="2015 NFL Predictions"><img width="133" src="http://www.brightpointinc.com/labs/nfl_predictions/assets/nfl_predictions.png"></a></td>
