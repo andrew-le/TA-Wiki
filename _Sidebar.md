@@ -1,4 +1,4 @@
-[[https://avatars1.githubusercontent.com/u/16595034?v=3&s=200|alt="IST - ES logo"]](https://avatars1.githubusercontent.com/u/16595034?v=3&s=200)
+[[[https://d3js.org/logo.svg|alt="D3js Logo"|height=210px|width=210px]]](https://d3js.org)
 
 Data-Driven Documents
 ===============
