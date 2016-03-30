@@ -85,7 +85,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     </tr>
     <tr valign="top">
         <td>Halo<br><a href="http://vizuly.io/product/halo/?demo=d3js" title="vizuly halo chart"><img width="133" src="http://vizuly.io/vizuly/assets/Halo.gif"></a></td>
-        <td>Radial Progress Component<br><a href="http://vizuly.io/product/radial-progress/?demo=d3js" title="radial progress component d3.js"><img width="133" src="http://www.brightpointinc.com/clients/brightpointinc.com/library/radialProgress/image.gif"></a></td>
+        <td>Radial Progress<br><a href="http://vizuly.io/product/radial-progress/?demo=d3js" title="radial progress component d3.js"><img width="133" src="http://www.brightpointinc.com/clients/brightpointinc.com/library/radialProgress/image.gif"></a></td>
 <td>NFL Predictions<br><a href="http://www.brightpointinc.com/2015-nfl-predictions/" title="2015 NFL Predictions"><img width="133" src="http://www.brightpointinc.com/labs/nfl_predictions/assets/nfl_predictions.png"></a></td>
         <td>Corona Radar<br><br><a href="http://vizuly.io/product/corona/?demo=d3js" title="Corona Radar d3.js"><img width="133" src="http://vizuly.io/vizuly/assets/Corona_D3.gif"></a></td>
     </tr>
