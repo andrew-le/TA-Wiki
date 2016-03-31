@@ -1,9 +1,9 @@
 > [Wiki](主页) ▸ **API--中文手册**
-
 * 本文档是D3官方文档中文翻译，并保持与[最新版](https://github.com/mbostock/d3/wiki/API-Reference)同步。
 * 如发现翻译不当或有其他问题可以通过以下方式联系译者:
 * 邮箱：zhang_tianxu@sina.com
-* QQ群：[D3.js](http://jq.qq.com/?_wv=1027&k=239rjew)437278817，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)436442115
+* QQ群：[D3.js](http://jq.qq.com/?_wv=1027&k=239rjew):437278817，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)：436442115
+* Github小组：[VisualCrew](https://github.com/VisualCrew)：https://github.com/VisualCrew
 
 D3库中所有函数都在“d3”命名空间内。
 
@@ -787,3 +787,10 @@ D3 API总览
 * [zoom.x](Zoom-Behavior#x) - 可选比例尺，其定义域绑定到视口的_x_范围。
 * [zoom.y](Zoom-Behavior#y) - 可选比例尺，其定义域绑定到视口的_y_范围。
 * [zoom](Zoom-Behavior#_zoom) - 给指定的元素应用缩放行为。
+
+------
+
+|本文参与  |人员   |组织   |时间   |
+|------   |------ |------|------|
+|翻译      |[大傻](https://github.com/tianxuzhang)|[VisualCrew小组](https://github.com/VisualCrew)|20150801| 
+|校对/排版 |[大傻](https://github.com/tianxuzhang)|[VisualCrew小组](https://github.com/VisualCrew)|20160331 |
