@@ -488,6 +488,11 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
            <img width="133" src="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/img/MITChangepoints.png"
         </a>
       </td>
+      <td>NFL and NBA Team Skills<br>
+        <a href="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/sportskills.html">
+           <img width="133" src="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/img/sportscreen.png"
+        </a>
+      </td
     </tr>
 
 </table>
