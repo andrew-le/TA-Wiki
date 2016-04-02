@@ -179,7 +179,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Day/Hour Heatmap<br><a href="http://bl.ocks.org/tjdecke/5558084"><img width="133" src="https://gist.github.com/tjdecke/5558084/raw/thumbnail2.png"></a></td>
         <td>Sunburst and parse.com<br><a href="http://xliberation.com/parse/colortable/parsed3.html"><img width="133" src="http://xliberation.com/googlecharts/1716.png"></a></td>
         <td>Worldwide remittance flows<br><a href="http://remittances.herokuapp.com/?en"><img width="133" src="https://raw.github.com/ilyabo/remittances/mr/design/screenshots/explore-en-square-200px.png"></a></td>
-        <td>Language Network<br><a href="http://www.cotrino.com/2012/11/language-network/"><img width="133" src="https://raw.github.com/cotrino/experimentos/mr/langnet.png"></a></td>
+        <td>Language Network<br><a href="http://www.cotrino.com/2012/11/language-network/"><img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/langnet.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Wimbledon 2013<br><a href="http://charts.animateddata.co.uk/tennis/"><img width="133" src="http://animateddata.co.uk/img/ext/w2012-match-tree.jpg"></a></td>
@@ -206,7 +206,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Interactive Sales Data Pie Chart<br><a href="https://live.zoomdata.com/zoomdata/visualization?__target=embedded&key=52265abb6abdbcaa8c217789#51db7ad4e4b04caf9ab346db-51db7ad4e4b04caf9ab346d5"><img width="133" src="https://dl.dropboxusercontent.com/u/56332995/sales%20interactive%20pie%20d3js.png"></a></td>
         <td>Wikistalker - Wikipedia Visualization<br><a href="http://sepans.com/wikistalker"><img width="133" src="http://sepans.com/sp/wp-content/uploads/2013/07/wikistalker_history.png"></a></td>
         <td>D3 Cesium - Health and Wealth of Nations<br><a href="http://cesiumjs.org/demos/d3.html"><img width="133" src="http://cesiumjs.org/demos/images/d3.png"></a></td>
-        <td>Starpaths<br><a href="http://www.cotrino.com/2013/05/starpaths/"><img width="133" src="https://raw.github.com/cotrino/experimentos/mr/starpaths.png"></a></td>
+        <td>Starpaths<br><a href="http://www.cotrino.com/2013/05/starpaths/"><img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/starpaths.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Kent + Sussex river levels mapped<br><a href="http://maps-n-apps.github.io/Rivers_Viz/"><img width="133" src="http://mapsnapps.com/public/themes/portfolio-monstra-theme/assets/blogimages/d3map.png"></a></td>
@@ -253,7 +253,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
      
         <td>3D Force Layout<br><a href="https://vida.io/documents/N4jSip7n68yQ48DXp"><img width="133" src="https://s3.amazonaws.com/vida-production/thumbnails/N4jSip7n68yQ48DXp"></a></td>
-        <td>Lifespan<br><a href="http://www.cotrino.com/2014/02/lifespan-longevidad-animal/"><img width="133" src="https://raw.github.com/cotrino/experimentos/mr/lifespan.png"></a></td>
+        <td>Lifespan<br><a href="http://www.cotrino.com/2014/02/lifespan-longevidad-animal/"><img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/lifespan.png"></a></td>
         <td>Choropleth word map<br><a href="http://www.ezglot.com/word-of-the-day.php"><img width="133" src="http://www.ezglot.com/hund-map.png" alt="word of the day"></a></td>
     </tr>
     <tr valign="top">
@@ -492,7 +492,12 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <a href="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/sportskills.html">
            <img width="133" src="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/img/sportscreen.png"
         </a>
-      </td
+      </td>
+      <td>KnowledgeMap<br>
+        <a href="http://www.cotrino.com/2016/03/knowledgemap/">
+           <img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/knowledgemap.png"
+        </a>
+      </td>
     </tr>
 
 </table>
@@ -815,6 +820,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 (http://anno.semgen.info/) - Janko Diminic
 * [The Cancer Genome Atlas - Interactive Exploration of Patient Gender, Race and Age](http://www.enpicom.com/visual-lab/tcga-exploration/embed) - Nicola Bonzanni, Alvise Trevisan
 * [Spirograph simulator](http://nylen.io/d3-spirograph/) - James Nylen
+* [KnowledgeMap](http://www.cotrino.com/2016/03/knowledgemap/) - José Cotrino
 
 ### Collections
 
