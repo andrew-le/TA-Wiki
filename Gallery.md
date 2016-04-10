@@ -662,7 +662,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Collusion FireFox Addon](http://collusion.toolness.org/) - Atul Varma
 * [UK University Statistics](http://keminglabs.com/ukuni/) - Keming Labs ([Kevin Lynagh](http://github.com/lynaghk))
 * [Slopegraphs](http://skedasis.com/d3/slopegraph/) - Hamilton Ulmer
-* [Marmoset chimerism dotplot](http://goo.gl/UEaFW) - David Rio Deiros
+* [DNAism: Horizon Charts for Genomics](https://github.com/drio/dnaism) - David Rio Deiros
 * [UN Global Pulse 2010 Visualization](http://www.visualizing.org/visualizations/un-global-pulse-visualization) - Eduardo Graells & Ruth Garcia
 * [U.S. Population Pyramid](http://vis.stanford.edu/jheer/d3/pyramid/shift.html) - Jeff Heer
 * WindHistory.com: [maps](http://windhistory.com/map.html#9.00/37.8931/-121.7366) and [charts](http://windhistory.com/station.html?KSAF) - Nelson Minar
