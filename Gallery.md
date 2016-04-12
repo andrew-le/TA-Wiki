@@ -468,34 +468,39 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
      </td>
      <td>Interactive Bar/line/scatter<br>
         <a href="http://tylernwolf.com/#/portfolio/corrdisp?utm_source=d3&utm_medium=link&utm_campaign=finviz">
-          <img width="133" src="https://raw.githubusercontent.com/thetylerwolf/tylernwolf.com/master/image/corrdisp_viz.png"
+          <img width="133" src="https://raw.githubusercontent.com/thetylerwolf/tylernwolf.com/master/image/corrdisp_viz.png">
         </a>
      </td>
     <td>Timeline Chart<br>
         <a href="https://github.com/commodityvectors/d3-timeline">
-          <img width="133" src="https://raw.githubusercontent.com/commodityvectors/d3-timeline/master/usage.gif"
+          <img width="133" src="https://raw.githubusercontent.com/commodityvectors/d3-timeline/master/usage.gif">
         </a>
      </td>
      </tr>
      <tr>
      <td>Tree of Life<br>
         <a href="http://taxontree.bpodgursky.com">
-           <img width="133" src="https://bpodgursky.files.wordpress.com/2016/02/col-screenshot.png"
+           <img width="133" src="https://bpodgursky.files.wordpress.com/2016/02/col-screenshot.png">
         </a>
       </td>
      <td>Change points in social networks<br>
         <a href="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8//proximitynetwork.html">
-           <img width="133" src="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/img/MITChangepoints.png"
+           <img width="133" src="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/img/MITChangepoints.png">
         </a>
       </td>
       <td>NFL and NBA Team Skills<br>
         <a href="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/sportskills.html">
-           <img width="133" src="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/img/sportscreen.png"
+           <img width="133" src="https://fbe94b5b83362330a8429bb16098a3285147bcbf.googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/img/sportscreen.png">
         </a>
       </td>
       <td>KnowledgeMap<br>
         <a href="http://www.cotrino.com/2016/03/knowledgemap/">
-           <img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/knowledgemap.png"
+           <img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/knowledgemap.png">
+        </a>
+      </td>
+      <td>Galaxy Chart<br>
+        <a href="https://risacher.org/galaxy-chart/">
+          <img width="133" src="https://risacher.org/galaxy-chart/galaxy-chart.PNG">
         </a>
       </td>
     </tr>
