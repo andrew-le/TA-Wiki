@@ -498,6 +498,8 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
            <img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/knowledgemap.png">
         </a>
       </td>
+    </tr>
+    <tr>
       <td>Galaxy Chart<br>
         <a href="https://risacher.org/galaxy-chart/">
           <img width="133" src="https://risacher.org/galaxy-chart/galaxy-chart.PNG">
