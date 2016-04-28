@@ -17,7 +17,7 @@
 ## 浏览器支持
 D3支持的主流浏览器不包括IE8及以前的版本。D3测试了Firefox、Chrome、Safari、Opera和IE9。D3的大部分组件可以在旧的浏览器运行。D3核心库的最低运行要求：支持JavaScript和[W3C DOM](http://www.w3.org/DOM/) API。对于IE8，建议使用兼容性库[Aight](https://github.com/shawnbot/aight)库。D3采用的是Selectors API的第一级标准，你要是考虑兼容性可以预加载[Sizzle](http://sizzlejs.com/)库。你得使用主流的浏览器以便可以支持SVG和CSS3的转场特效。D3不是一个兼容的层，所以并不是所有的浏览器都支持这些标准。
 
-D3也可以通过一些[自定义模块](https://github.com/mbostock/smash/wiki)来根据需求增添需要的（非DOM）特性，D3也可以在[WebWorker](https://html.spec.whatwg.org/multipage/workers.html)上运行。
+D3也可以通过一些[自定义模块](https://github.com/mbostock/smash/wiki)来根据需求增添需要的（非DOM）特性，并在[WebWorker](https://html.spec.whatwg.org/multipage/workers.html)上运行。
 
 ## 安装
 下载最新的版本，并在你的代码中引用它:
