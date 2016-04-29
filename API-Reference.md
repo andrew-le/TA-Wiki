@@ -145,7 +145,7 @@ See one of:
 * [set.remove](Arrays#set_remove) - removes the specified value.
 * [set.values](Arrays#set_values) - returns the set’s array of values.
 * [set.forEach](Arrays#set_forEach) - calls the specified function for each value in the set.
-* [set.empty](Arrays#set_empty) - returns true if the set has at least one value.
+* [set.empty](Arrays#set_empty) - returns false if the set has at least one value.
 * [set.size](Arrays#set_size) - returns the number of values in the set.
 
 ### [Math](Math)
