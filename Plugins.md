@@ -48,6 +48,7 @@ Please feel free to add links to your work!
 * [Word cloud layout](https://github.com/jasondavies/d3-cloud)
 * [Zoom interpolator](https://github.com/d3/d3-plugins/tree/master/interpolate-zoom) (deprecated)
 * [Venn Layout](https://github.com/christophe-g/d3-venn)
+* [Venn Diagram] (https://github.com/benfred/venn.js) ([demo](http://benfred.github.io/venn.js/examples/venn_venn.html))
 
 ## Geographic Plugins
 
