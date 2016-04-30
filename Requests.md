@@ -26,7 +26,7 @@ Creates an asynchronous request for specified *url*. An optional *mime type* may
 
 If *value* is specified, sets the request header with the specified *name* to the specified value. If *value* is null, removes the request header with the specified *name*. If *value* is not specified, returns the current value of the request header with the specified *name*. Header names are case-insensitive.
 
-Request headers can only be modified before the request is [sent](#sent). Therefore, you cannot pass a callback to the [d3.xhr constructor](#d3_xhr) if you wish to specify a header. Instead, use [xhr.get](#get) or similar. For example:
+Request headers can only be modified before the request is [sent](#send). Therefore, you cannot pass a callback to the [d3.xhr constructor](#d3_xhr) if you wish to specify a header. Instead, use [xhr.get](#get) or similar. For example:
 
 ```js
 d3.csv("/path/to/file.csv")
