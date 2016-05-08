@@ -378,6 +378,8 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
         <td>Zoomable Unilevel Partition<br><a href="http://bl.ocks.org/apoorvnandan/8eb44a1990d4d9250700"><img width="133" src="https://5a44583fb28d25c751971f24d9bfeab2b7c159c6.googledrive.com/host/0B4hMaI5ok_84fi1oYWN6RzJCQ1BfTk5MSnVBQjdsMFhCeVBpZ19YMHpsTVdlM0FNZ2pWTTQ/thumbnail.png"></a></td>
         <td>Apps Script dependency analysis<br><a href="http://ramblings.mcpher.com/Home/excelquirks/drivesdk/vizdependencies"><img width="133" src="https://googledrive.com/host/0B92ExLh4POiZfkZsSDMwaHZUV3hneWdEbVV5aWVqenpWNjYtc29oYUZyYzVKVE50eFBMQm8/vizgas.png"></a></td>
+
+
         <td> Editable Tree <br> <a target="_blank" href="http://www.mockapi.io/#/docs"> <img width="133" src="http://www.mockapi.io/images/d3gallery.gif"> </a> </td>
         <td>Automated Biography of a Nation<br> <a href="https://annalyzin.wordpress.com/2015/06/04/automated-biography/"> <img width="133" src="https://annalyzin.files.wordpress.com/2015/06/chartstill.png"> </a> </td>
     </tr>
@@ -505,7 +507,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://risacher.org/galaxy-chart/galaxy-chart.PNG">
         </a>
       </td>
-    </tr><tr>
+
        <td>Configurable circular timer<br><a href="http://ramblings.mcpher.com/Home/excelquirks/bigapps/bigquiz/dashtimer"><img width="133" src="https://storage.googleapis.com/goinggas.com/assets/images/d3/configtimer.png"></a></td>
        <td>Clock built with Configurable circular timer<br><a href="http://ramblings.mcpher.com/Home/excelquirks/bigapps/bigquiz/clocktimer"><img width="133" src="https://storage.googleapis.com/goinggas.com/assets/images/d3/configTimerclock.png"></a></td></tr>
 </table>
