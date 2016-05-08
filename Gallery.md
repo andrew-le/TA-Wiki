@@ -505,8 +505,9 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://risacher.org/galaxy-chart/galaxy-chart.PNG">
         </a>
       </td>
-    </tr>
-
+    </tr><tr>
+       <td>Configurable circular timer<br><a href="http://ramblings.mcpher.com/Home/excelquirks/bigapps/bigquiz/dashtimer"><img width="133" src="https://storage.googleapis.com/goinggas.com/assets/images/d3/configtimer.png"></a></td>
+       <td>Clock built with Configurable circular timer<br><a href="http://ramblings.mcpher.com/Home/excelquirks/bigapps/bigquiz/clocktimer"><img width="133" src="https://storage.googleapis.com/goinggas.com/assets/images/d3/configTimerclock.png"></a></td></tr>
 </table>
 
 
