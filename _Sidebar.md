@@ -1,8 +1,3 @@
-[[[https://sergheimangul.files.wordpress.com/2016/05/rop_logo1.png|alt="D3js Logo"|height=210px|width=210px]]](https://d3js.org)
-
-Read Origin Protocol
-===============
-
 - [[Home]] 
 - [[Gallery]] 
 - [[Plugins]] 
