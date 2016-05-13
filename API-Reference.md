@@ -1,5 +1,7 @@
 > [Wiki](Home) ▸ **API Reference**
 
+**The D3 4.0 API Reference has moved; [see the README](https://github.com/d3/d3/blob/master/README.md#api-reference). This page describes the D3 3.x API.**
+
 Everything in D3 is scoped under the `d3` namespace.
 
 D3 uses [semantic versioning](http://semver.org). You can find the current version of D3 as `d3.version`.
