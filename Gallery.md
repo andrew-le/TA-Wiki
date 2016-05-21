@@ -634,7 +634,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 ## Examples
 * [Data From a Local NGO - Prayaas]
 (https://prayaas.iiita.ac.in/visual.php)
-[https://github.com/aedorado/d3-visuals] (Source) by [https://github.com/aedorado/] (Anurag El Dorado)
+[Source] (https://github.com/aedorado/d3-visuals) by [Anurag El Dorado] (https://github.com/aedorado/)
 * [Visualizing the attendees at the World Economic Forum – Braid.io]
 (http://braid.io/tile/wef-attendees-2016) - Braid.io
 * [Presidents of USA and their Birth Signs – Sankey Visualization](http://www.infocaptor.com/dashboard/presidents-of-usa-and-their-birth-signs-sankey-visualization) - Sankey Viz
