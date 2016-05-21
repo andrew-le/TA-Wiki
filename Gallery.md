@@ -632,6 +632,8 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 </table>
 
 ## Examples
+* [Data From a Local NGO]
+(https://prayaas.iiita.ac.in/visual.php) - Prayaas
 * [Visualizing the attendees at the World Economic Forum – Braid.io]
 (http://braid.io/tile/wef-attendees-2016) - Braid.io
 * [Presidents of USA and their Birth Signs – Sankey Visualization](http://www.infocaptor.com/dashboard/presidents-of-usa-and-their-birth-signs-sankey-visualization) - Sankey Viz
