@@ -13,7 +13,7 @@
 * [d3-js Google Group](http://groups.google.com/group/d3-js)
 * [d3-js Slack Channel](https://groups.google.com/forum/#!topic/d3-js/vJ3kxaMSkQU%5B1-25%5D)
 * [d3-js Gitter Channel](https://gitter.im/d3/d3)
-* [d3-js IRC Channel]( #d3.js on irc.freenode.net )
+* d3-js IRC Channel => #d3.js on irc.freenode.net
 
 ### Translations (Unofficial)
 
