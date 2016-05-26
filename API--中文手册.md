@@ -11,7 +11,6 @@ D3 使用[语义版本命名](http://semver.org)。 你可以使用“d3.version
 
 D3 API总览
 
-* [行为](#d3behavior-behaviors) - 可重用的交互行为。
 * [核心](#d3-core) - 包括选择器，过渡，数据处理，本地化，颜色等。
 * [地理](#d3geo-geography) - 球面坐标，经纬度运算。
 * [几何](#d3geom-geometry) - 提供绘制2D几何图形的实用工具。
