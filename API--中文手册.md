@@ -16,7 +16,7 @@ D3 API总览
 * [几何](#user-content-d3geom-几何) - 提供绘制2D几何图形的实用工具。
 * [布局](#d3layout-布局) - 推导定位元素的辅助数据。
 * [比例尺](#user-content-d3scale-比例尺) - 数据编码和视觉编码之间转换。
-* [可缩放矢量图形](#d3svg-svg) - 提供用于创建可伸缩矢量图形的实用工具。
+* [可缩放矢量图形](#user-content-svg函数) - 提供用于创建可伸缩矢量图形的实用工具。
 * [时间](#user-content-d3time-时间) - 解析或格式化时间，计算日历的时间间隔等。
 * [行为](#user-content-d3behavior-行为) - 可重用交互行为
 
