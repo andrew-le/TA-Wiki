@@ -1,6 +1,6 @@
 > [Wiki](Home) ▸ **Gallery**
 
-Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbostock](http://bl.ocks.org/mbostock). If you want to share an example and don't have your own hosting, consider using [Gist](http://gist.github.com) and [bl.ocks.org](http://bl.ocks.org). If you want to share or view live examples try [runnable.com](http://runnable.com/d3.js) or [vida.io](https://vida.io/explore).
+Welcome to the **D3 gallery**! More examples arme available on [bl.ocks.org/mbostock](http://bl.ocks.org/mbostock). If you want to share an example and don't have your own hosting, consider using [Gist](http://gist.github.com) and [bl.ocks.org](http://bl.ocks.org). If you want to share or view live examples try [runnable.com](http://runnable.com/d3.js) or [vida.io](https://vida.io/explore).
 
 ## Visual Index
 
@@ -426,7 +426,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
          <td>
              What Kills Us
              <a href="https://www.infino.me/mortality/usmap" target="_blank">
-                <img width="133" src="https://www.infino.me/static/img/screenshots/mort.png">
+                <img width="133" src="https://www.infino.me/static/img/screenshots/mort.png?v=2">
              </a>
          </td>
 
