@@ -420,7 +420,7 @@ Welcome to the **D3 gallery**! More examples arme available on [bl.ocks.org/mbos
          <td>
              Fitbit Bullet Charts
              <a href="https://www.infino.me/share/U02LP4gt8mRvvTJ7gfV12A/" target="_blank">
-                <img width="133" src="http://www.infino.me/screenshots/bullets.jpg">
+                <img width="133" src="http://www.infino.me/static/img/screenshots/bullets.jpg">
              </a>
          </td>
          <td>
