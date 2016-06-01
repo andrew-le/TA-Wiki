@@ -799,3 +799,5 @@ D3 API总览
 |------   |------ |------|------|
 |翻译      |[大傻](https://github.com/tianxuzhang)|[VisualCrew小组](https://github.com/VisualCrew)|20150801| 
 |校对/排版 |[大傻](https://github.com/tianxuzhang)|[VisualCrew小组](https://github.com/VisualCrew)|20160331 |
+|         |[WeiFei365](https://github.com/WeiFei365)|[VisualCrew小组](https://github.com/VisualCrew)|2015-12-01 15:12:24|
+|         |[liang42hao](https://github.com/liang42hao)|[VisualCrew小组](https://github.com/VisualCrew)|2016-01-11 19:27:12|
