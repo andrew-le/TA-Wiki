@@ -548,6 +548,20 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <td>Animated Donut Chart with Labels<br><a href="http://bl.ocks.org/dbuezas/9306799"><img width="133" src="https://gist.githubusercontent.com/dbuezas/9306799/raw/ceb4d5cdaeebe4acd83d7cb1b1fe9cccb624ab5a/thumbnail.gif"></a></td>
     <td>Stacked Bar Charts on time scale<br><a href="http://bl.ocks.org/anupsavvy/9513382"><img width="133" src="http://bl.ocks.org/anupsavvy/raw/9513382/thumbnail.png"></a></td>
   </tr>
+<tr valign="top">
+	<td>
+		Line Chart - Zoom, Stack, Stream<br><a href="http://vizuly.io/product/line-area-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/LineArea.gif"></a>
+	</td>
+	<td>
+		Column Chart - Zoom, Stack, Group<br><a href="http://vizuly.io/product/column-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/column_d3_gallery.gif"></a>
+	</td>
+	<td>
+		Scatter Plot<br><a href="http://vizuly.io/product/scatter-plot/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/scatter_d3_gallery.gif"></a>
+	</td>
+	<td>
+		Bar Chart - Zoom, Stack, Group<br><a href="http://vizuly.io/product/bar-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/bar_d3_gallery.gif"></a>
+	</td>
+</tr>
   <tr valign="top">
     <td>Bar Chart Multiples<br><a href="https://vida.io/documents/ZCzewTza4ZSzMWSBG"><img width="133" src="https://s3.amazonaws.com/vida-production/thumbnails/ZCzewTza4ZSzMWSBG" width="100"></a></td>
     <td>d3pie - pie chart generator and lib<br><a href="http://d3pie.org"><img width="133" src="http://d3pie.org/website/images/d3pie-screenshot.png"></a></td>
