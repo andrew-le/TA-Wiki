@@ -556,7 +556,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 		Column Chart - Zoom, Stack, Group<br><a href="http://vizuly.io/product/column-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/column_d3_gallery.png"></a>
 	</td>
 	<td>
-		Scatter Plot<br><a href="http://vizuly.io/product/scatter-plot/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/scatter_d3_gallery.png"></a>
+		Scatter Plot - Transitions, Skins<br><a href="http://vizuly.io/product/scatter-plot/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/scatter_d3_gallery.png"></a>
 	</td>
 	<td>
 		Bar Chart - Zoom, Stack, Group<br><a href="http://vizuly.io/product/bar-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/bar_d3_gallery.png"></a>
