@@ -1,9 +1,14 @@
 > [Wiki](主页) ▸ **API--中文手册**
-* 本文档是D3官方文档中文翻译，并保持与[最新版](https://github.com/mbostock/d3/wiki/API-Reference)同步。
-* 如发现翻译不当或有其他问题可以通过以下方式联系译者:
-* 邮箱：zhang_tianxu@sina.com
-* QQ群：[D3.js](http://jq.qq.com/?_wv=1027&k=239rjew):437278817，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)：436442115
-* Github小组：[VisualCrew](https://github.com/VisualCrew)：https://github.com/VisualCrew
+
+-------------
+
++ 本文档由[VisualCrew小组](https://github.com/VisualCrew)耗时两年翻译，并保持与[最新版](https://github.com/mbostock/d3/wiki/API-Reference)同步。
++ 如发现翻译不当或有其他问题可以通过以下方式联系译者:
+    - 邮箱：zhang_tianxu@sina.com
+    - QQ群：[D3.js](http://jq.qq.com/?_wv=1027&k=239rjew):437278817，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)：436442115
++ API使用方法可参考：https://github.com/tianxuzhang/d3-api-demo
+
+-------------
 
 D3库中所有函数都在“d3”命名空间内。
 
@@ -437,18 +442,18 @@ D3 API总览
 
 ### [时间比例尺](时间比例尺)
 
-* [d3.time.scale](Time-Scales#scale) - 构造一个线性时间比例尺。
-* [scale.clamp](Time-Scales#clamp) - 指定输出范围是否闭合。
-* [scale.copy](Time-Scales#copy) - 创建比例尺的副本。
-* [scale.domain](Time-Scales#domain) - 取得或设置比例尺度的定义域。
-* [scale.interpolate](Time-Scales#interpolate) - 取得或设置比例尺的输出插值器。
-* [scale.invert](Time-Scales#invert) - 取得给定输出值对应定义域中的值。
-* [scale.nice](Time-Scales#nice) - 扩展比例尺的定义域为一个优化的整数值。
-* [scale.rangeRound](Time-Scales#rangeRound) - 设置比例尺的四舍五入输出范围。
-* [scale.range](Time-Scales#range) - 取得或设置比例尺的输出范围。
-* [scale.tickFormat](Time-Scales#tickFormat) - 取得用于展示刻度值的格式化器。
-* [scale.ticks](Time-Scales#ticks) - 取得定义域中有代表性的值。
-* [scale](Time-Scales#_scale) - 取得给定定义域中值对应的输出范围中的值。
+* [d3.time.scale](时间比例尺#scale) - 构造一个线性时间比例尺。
+* [scale.clamp](时间比例尺#clamp) - 指定输出范围是否闭合。
+* [scale.copy](时间比例尺#copy) - 创建比例尺的副本。
+* [scale.domain](时间比例尺#domain) - 取得或设置比例尺度的定义域。
+* [scale.interpolate](时间比例尺#interpolate) - 取得或设置比例尺的输出插值器。
+* [scale.invert](时间比例尺#invert) - 取得给定输出值对应定义域中的值。
+* [scale.nice](时间比例尺#nice) - 扩展比例尺的定义域为一个优化的整数值。
+* [scale.rangeRound](时间比例尺#rangeRound) - 设置比例尺的四舍五入输出范围。
+* [scale.range](时间比例尺#range) - 取得或设置比例尺的输出范围。
+* [scale.tickFormat](时间比例尺#tickFormat) - 取得用于展示刻度值的格式化器。
+* [scale.ticks](时间比例尺#ticks) - 取得定义域中有代表性的值。
+* [scale](时间比例尺#_scale) - 取得给定定义域中值对应的输出范围中的值。
 
 ### [时间间隔](时间间隔)
 
