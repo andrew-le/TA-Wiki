@@ -518,6 +518,11 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
       <img width="133" src="http://i.imgur.com/edgPOlO.png">
     </a>
   </td>
+<td>Time Data Availability<br>
+   <a href="http://github.com/flrs/visavail">
+      <img width="133" src="https://raw.githubusercontent.com/flrs/visavail/master/thumb.png">
+   </a>
+</td>
 </table>
 
 
