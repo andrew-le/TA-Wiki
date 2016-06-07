@@ -520,7 +520,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
   </td>
 <td>Time Data Availability<br>
    <a href="http://github.com/flrs/visavail">
-      <img width="133" src="https://raw.githubusercontent.com/flrs/visavail/master/thumb.png">
+      <img width="133" src="https://raw.githubusercontent.com/flrs/visavail/master/thumb.jpg">
    </a>
 </td>
 </table>
