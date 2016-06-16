@@ -588,6 +588,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <td>Waterfall Chart<br><a href="http://bl.ocks.org/chucklam/f3c7b3e3709a0afd5d57"><img width="133" src="http://bl.ocks.org/chucklam/raw/f3c7b3e3709a0afd5d57/thumbnail.png"></a></td>
     <td>Diverging Stacked Bar Chart<br><a href="http://bl.ocks.org/wpoely86/e285b8e4c7b84710e463"><img width="133" src="http://bl.ocks.org/wpoely86/raw/e285b8e4c7b84710e463/thumbnail.png"></a></td>
     <td>World Map with heat color Example<br><a href="http://bl.ocks.org/ChumaA/385a269db46ae56444772b62f1ae82bf"><img width="133" src="http://bl.ocks.org/ChumaA/raw/385a269db46ae56444772b62f1ae82bf/9fdc3c723d18c4643d625479fa98c57580db6b8e/thumbnail.png"></a></td>
+    <td>Twitter stream geographical visualization<br><a href="http://statick.org:3001"><img width="133" src="http://statick.org:3001/geovis2.png"></a></td>
   </tr>
 </table>
 
