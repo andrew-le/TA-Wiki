@@ -259,7 +259,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
         <td>The Movie Network<br><a href="http://bl.ocks.org/paulovn/9686202"><img width="133" src="http://bl.ocks.org/paulovn/raw/9686202/thumbnail-s.png"></a></td>
         <td></td>
-        <td>BiPartite Visualization<br><a href="http://bl.ocks.org/NPashaP/9796212"><img width="133" src="http://bl.ocks.org/NPashaP/raw/9796212/thumbnail.png"></a></td>
+        <td>BiPartite Visualization<br><a href="http://bl.ocks.org/NPashaP/cd80ab54c52f80c4d84cad0ba9da72c2"><img width="133" src="https://gist.githubusercontent.com/NPashaP/cd80ab54c52f80c4d84cad0ba9da72c2/raw/6c96c4ee6328f356e832036a2e34458e6907fec7/thumbnail.png"></a></td>
         <td>BeerViz<br><a href="http://seekshreyas.com/beerviz/"><img width="133" src="https://dl.dropboxusercontent.com/u/2670838/Markdown/img/beerviz.png"></a></td>
     </tr>
     <tr valign="top">
