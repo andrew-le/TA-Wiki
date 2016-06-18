@@ -528,6 +528,11 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
       <img width="133" src="https://raw.githubusercontent.com/kopplr/IRA-Website/master/images/d3_thumbnail.png">
    </a>
 </td>
+<td>Sankey map<br>
+   <a href="http://bl.ocks.org/UNFPAmaldives/2c0a7c30d35f2c106bb54a6bdafc76a0">
+      <img width="133" src="https://gist.githubusercontent.com/UNFPAmaldives/2c0a7c30d35f2c106bb54a6bdafc76a0/raw/28d17c8242d6361d571ae8346b01a23f076941b8/SankeyMap.jpg">
+   </a>
+</td>
 </table>
 
 
@@ -1249,7 +1254,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Rounded Rectangles](http://bl.ocks.org/mbostock/1123639)
 * [Spermatozoa](http://bl.ocks.org/mbostock/1136236)
 * [Spline, Zoom and Pan](http://bl.ocks.org/mbostock/1182434)
-* [Arc Tweens](http://bl.ocks.org/mbostock/1098617)
+* [Arc Neonates](http://bl.ocks.org/mbostock/1098617)
 * [Show Reel](http://bl.ocks.org/mbostock/1256572)
 * [VVVV viewer](http://vvvvjs.quasipartikel.at/)
 * [Merge Sort](http://bl.ocks.org/mbostock/1243323)
