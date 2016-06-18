@@ -529,8 +529,8 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
    </a>
 </td>
 <td>Sankey map<br>
-   <a href="http://bl.ocks.org/UNFPAmaldives/2c0a7c30d35f2c106bb54a6bdafc76a0">
-      <img width="133" src="https://gist.githubusercontent.com/UNFPAmaldives/2c0a7c30d35f2c106bb54a6bdafc76a0/raw/28d17c8242d6361d571ae8346b01a23f076941b8/SankeyMap.jpg">
+   <a href="http://bl.ocks.org/UNFPAmaldives/2fb5fde367cd583b5487544aa529407d">
+      <img width="133" src="https://gist.githubusercontent.com/UNFPAmaldives/2fb5fde367cd583b5487544aa529407d/raw/85cfe7c70e43b751dda142745803b12a0df59ae5/SankeyMap.png">
    </a>
 </td>
 </table>
