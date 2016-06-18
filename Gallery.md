@@ -528,7 +528,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
       <img width="133" src="https://raw.githubusercontent.com/kopplr/IRA-Website/master/images/d3_thumbnail.png">
    </a>
 </td>
-<td>Sankey + Leaflet Migration Map<br>
+<td>Sankey + Leaflet: Map of Migration in the 2014 Maldives Census<br>
    <a href="http://bl.ocks.org/UNFPAmaldives/2fb5fde367cd583b5487544aa529407d">
       <img width="133" src="https://gist.githubusercontent.com/UNFPAmaldives/2fb5fde367cd583b5487544aa529407d/raw/85cfe7c70e43b751dda142745803b12a0df59ae5/SankeyMap.png">
    </a>
