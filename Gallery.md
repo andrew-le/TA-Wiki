@@ -255,12 +255,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>3D Force Layout<br><a href="https://vida.io/documents/N4jSip7n68yQ48DXp"><img width="133" src="https://s3.amazonaws.com/vida-production/thumbnails/N4jSip7n68yQ48DXp"></a></td>
         <td>Lifespan<br><a href="http://www.cotrino.com/2014/02/lifespan-longevidad-animal/"><img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/lifespan.png"></a></td>
         <td>Choropleth word map<br><a href="http://www.ezglot.com/word-of-the-day.php"><img width="133" src="http://www.ezglot.com/hund-map.png" alt="word of the day"></a></td>
-    </tr>
-    <tr valign="top">
         <td>The Movie Network<br><a href="http://bl.ocks.org/paulovn/9686202"><img width="133" src="http://bl.ocks.org/paulovn/raw/9686202/thumbnail-s.png"></a></td>
-        <td></td>
-        <td>BiPartite Visualization<br><a href="http://bl.ocks.org/NPashaP/cd80ab54c52f80c4d84cad0ba9da72c2"><img width="133" src="https://gist.githubusercontent.com/NPashaP/cd80ab54c52f80c4d84cad0ba9da72c2/raw/6c96c4ee6328f356e832036a2e34458e6907fec7/thumbnail.png"></a></td>
-        <td>BeerViz<br><a href="http://seekshreyas.com/beerviz/"><img width="133" src="https://dl.dropboxusercontent.com/u/2670838/Markdown/img/beerviz.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Graceful Tree Conjecture<br><a href="http://bl.ocks.org/NPashaP/7683252"><img width="133" src="http://bl.ocks.org/NPashaP/raw/7683252/thumbnail.png"></a></td>
@@ -533,6 +528,14 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
       <img width="133" src="https://gist.githubusercontent.com/UNFPAmaldives/2fb5fde367cd583b5487544aa529407d/raw/85cfe7c70e43b751dda142745803b12a0df59ae5/SankeyMap.png">
    </a>
 </td>
+</tr>
+<tr>
+       <td>BiPartite Visualization<br><a href="http://bl.ocks.org/NPashaP/cd80ab54c52f80c4d84cad0ba9da72c2"><img width="133" src="https://gist.githubusercontent.com/NPashaP/cd80ab54c52f80c4d84cad0ba9da72c2/raw/6c96c4ee6328f356e832036a2e34458e6907fec7/thumbnail.png"></a></td>
+
+<td>Gauge Visualization<br><a href="http://bl.ocks.org/NPashaP/59c2c7483fb61070486835d15c807941"><img width="133" src="https://gist.githubusercontent.com/NPashaP/59c2c7483fb61070486835d15c807941/raw/32c7355cce047a0e384bf16bd4cee165a16d1105/thumbnail.png"></a></td>
+<td></td><td></td>
+</tr>
+
 </table>
 
 
