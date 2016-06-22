@@ -1113,9 +1113,9 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Gravity by Disqus](http://disqus.com/gravity)
 * [Navigate site by tags focus](http://xliberation.com/googlecharts/d3nodefocustagsite.html)
 * [Interactive process map and documentation](https://github.com/nylen/d3-process-map)
-* [Scatterplot with CSS Sprites and Interaction](https://www.comparacaodefundos.com/blog/como-ganhar-a-copa/#x-axis-menu)
+* [Scatterplot with CSS Sprites and Interaction](http://codepen.io/abensur/pen/NGKdZm)
 * [Clustering a Force layout with a Quadtree](http://bl.ocks.org/4ndr01d3/2686646672a92aa89a0e)
-* [Scales in our Solar System](http://www.visualcinnamon.com/2015/01/scales-in-our-solar-system-enormity-of.html)
+* [Scales in our Solar System](httpMiscelo//www.visualcinnamon.com/2015/01/scales-in-our-solar-system-enormity-of.html)
 * [Connectome explorer for the "brain" of C. elegans](https://elegans.herokuapp.com)
 * [Ontology Visualization (VOWL)](http://vowl.visualdataweb.org/webvowl/)
 
@@ -1289,7 +1289,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Battle Statistics from the MMO game World of Tanks](http://www.polsci.ucsb.edu/faculty/glasgow/research/d3/WoTkillratio.html) - Garrett Glasgow
 * [Tendulkar's Rise and Fall](https://my.infocaptor.com/dash/mt.php?pa=tendulkar_5425757cbb623)
 * [Dijkstra algorithm solves the single-source shortest path problem](http://bl.ocks.org/lafarer/7d8ecbf7b06b2ef0f72b)  - Eric Lafargue
-
+* [Deviation Chart and history controls with React.js](http://codepen.io/abensur/pen/NGKdZm)
 
 #### Charts using the [reusable API](http://bost.ocks.org/mike/chart/)
 
