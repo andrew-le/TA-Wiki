@@ -96,7 +96,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Koalas to the Max<br><a href="http://www.koalastothemax.com/"><img width="133" src="http://d3js.org/ex/koalas.png"></a></td>
 
         <td>Sankey Creator<br><a href="http://infocaptor.com/sankey-diagram-software.php" title="Sankey Visualization Builder"><img width="133" src="http://infocaptor.com/img/sankey_infocaptor.gif"></a></td>
-        
+
         <td>Convert any page into bubbles<br><a href="http://www.infocaptor.com/bubble-my-page"><img width="133" src="http://www.infocaptor.com/wikipedia_visualization.png"></a></td>
 
         <td>D3 Builder<br><a href="https://my.infocaptor.com/free_data_visualization.php"><img width="133" src="http://www.infocaptor.com/dashboard/wp-content/uploads/2014/10/image-358.jpg"></a></td>
@@ -251,7 +251,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Data Heatmap with Sorting Functions<br><a href="http://bl.ocks.org/ianyfchang/8119685"><img width="133" src="http://bl.ocks.org/ianyfchang/raw/8119685/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
-     
+
         <td>3D Force Layout<br><a href="https://vida.io/documents/N4jSip7n68yQ48DXp"><img width="133" src="https://s3.amazonaws.com/vida-production/thumbnails/N4jSip7n68yQ48DXp"></a></td>
         <td>Lifespan<br><a href="http://www.cotrino.com/2014/02/lifespan-longevidad-animal/"><img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/lifespan.png"></a></td>
         <td>Choropleth word map<br><a href="http://www.ezglot.com/word-of-the-day.php"><img width="133" src="http://www.ezglot.com/hund-map.png" alt="word of the day"></a></td>
@@ -308,7 +308,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
         <td>Create D3 Visualizations<br><a href="https://my.infocaptor.com/free_data_visualization.php"><img width="133" src="http://www.infocaptor.com/dashboard/wp-content/uploads/2014/10/image-358.jpg"></a></td>
         <td>-<br><a href="#"><img width="133" src="#"></a></td>
-        
+
         <td>Node Focusable Tree<br><a href="http://codepen.io/mikefab/full/IDdts/"><img width="133" src="http://s12.postimg.org/abee893h9/node_focusable_radial_tree.jpg"></a></td>
     </tr>
     <tr valign="top">
@@ -434,19 +434,19 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
      </td>
 
     <td>Platlets<br>
-        <a href="http://bl.ocks.org/lokesh005/1b23c84b68f5be134ff0">         
+        <a href="http://bl.ocks.org/lokesh005/1b23c84b68f5be134ff0">
           <img width="133" src="http://bl.ocks.org/lokesh005/raw/1b23c84b68f5be134ff0/Pl.png">
         </a>
     </td>
 
     <td>Map with Latitude & Longitude<br>
-        <a href="http://bl.ocks.org/lokesh005/7640d9b562bf59b561d6">         
+        <a href="http://bl.ocks.org/lokesh005/7640d9b562bf59b561d6">
           <img width="133" src="http://bl.ocks.org/lokesh005/raw/7640d9b562bf59b561d6/India.jpg">
         </a>
     </td>
 
     <td>Higher education data explorer by parliamentary constituency<br>
-        <a href="https://www.ucas.com/corporate/data-and-analysis/ucas-undergraduate-releases/he-entry-rates">         
+        <a href="https://www.ucas.com/corporate/data-and-analysis/ucas-undergraduate-releases/he-entry-rates">
           <img width="133" src="https://cloud.githubusercontent.com/assets/16351706/11899207/5ab41c12-a595-11e5-919c-25627c7a70c2.png">
         </a>
     </td>
@@ -454,7 +454,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     </tr>
     <tr>
     <td>Clustergrammer: interactive clustergram/heatmap maker<br>
-        <a href="http://amp.pharm.mssm.edu/clustergrammer/">         
+        <a href="http://amp.pharm.mssm.edu/clustergrammer/">
           <img width="133" src="http://amp.pharm.mssm.edu/clustergrammer/static/img/harmonizome.png">
         </a>
     </td>
@@ -1113,9 +1113,8 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Gravity by Disqus](http://disqus.com/gravity)
 * [Navigate site by tags focus](http://xliberation.com/googlecharts/d3nodefocustagsite.html)
 * [Interactive process map and documentation](https://github.com/nylen/d3-process-map)
-* [Scatterplot with CSS Sprites and Interaction](http://codepen.io/abensur/pen/NGKdZm)
 * [Clustering a Force layout with a Quadtree](http://bl.ocks.org/4ndr01d3/2686646672a92aa89a0e)
-* [Scales in our Solar System](httpMiscelo//www.visualcinnamon.com/2015/01/scales-in-our-solar-system-enormity-of.html)
+* [Scales in our Solar System](http://www.visualcinnamon.com/2015/01/scales-in-our-solar-system-enormity-of.html)
 * [Connectome explorer for the "brain" of C. elegans](https://elegans.herokuapp.com)
 * [Ontology Visualization (VOWL)](http://vowl.visualdataweb.org/webvowl/)
 
