@@ -5,9 +5,9 @@ Data-Driven Documents
 
 - [[Home]]
 - [[Gallery]]
-- [[Plugins]]
-- [[Tutorials]]
 - [Examples](http://bl.ocks.org/mbostock)
+- [[Tutorials]]
+- [[Plugins]]
 
 ###Help
 - [D3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
