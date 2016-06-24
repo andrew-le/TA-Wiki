@@ -7,7 +7,7 @@ Please feel free to add links to your work!
 * [Adjacency Matrix](https://github.com/emeeks/d3-plugins/tree/master/adjacencyMatrix)
 * [Arc Diagram](https://github.com/goodmami/d3-plugins/tree/master/arcdiagram)
 * [Bayesian Network](https://github.com/crealytics/d3-bayesian-network)
-* [Beeswarm Layout](https://github.com/Kcnarf/d3.layout.beeswarm) ([demo](http://bl.ocks.org/http://blockbuilder.org/Kcnarf/5c989173d0e0c74ab4b62161b33bb0a8))
+* [Beeswarm Layout](https://github.com/Kcnarf/d3.layout.beeswarm) ([demo](http://bl.ocks.org/Kcnarf/5c989173d0e0c74ab4b62161b33bb0a8))
 * [Box plot](https://github.com/d3/d3-plugins/tree/master/box) ([demo](http://bl.ocks.org/mbostock/4061502))
 * [Bullet chart](https://github.com/d3/d3-plugins/tree/master/bullet)
 * [Chernoff face](https://github.com/d3/d3-plugins/tree/master/chernoff)
