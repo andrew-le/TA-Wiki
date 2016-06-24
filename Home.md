@@ -3,11 +3,11 @@
 ## Resources
 
 * [Introduction](http://d3js.org/)
-* [API Reference](/mbostock/d3/wiki/API-Reference)
-* [Release Notes](/mbostock/d3/releases)
-* [Examples Gallery](/mbostock/d3/wiki/Gallery)
-* [Tutorials and Talks](/mbostock/d3/wiki/Tutorials)
-* [Plugins](/mbostock/d3/wiki/Plugins)
+* [API Reference](/d3/d3/wiki/API-Reference)
+* [Release Notes](/d3/d3/releases)
+* [Examples Gallery](/d3/d3/wiki/Gallery)
+* [Tutorials and Talks](/d3/d3/wiki/Tutorials)
+* [Plugins](/d3/d3/wiki/Plugins)
 * [d3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
 * [d3-js Google Group](http://groups.google.com/group/d3-js)
 * [d3-js Slack Channel](https://groups.google.com/forum/#!topic/d3-js/vJ3kxaMSkQU%5B1-25%5D)
@@ -16,12 +16,12 @@
 
 ### Translations (Unofficial)
 
-* [中文手册](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
 * [한국어](/zziuni/d3/wiki)
-* [日本語](/mbostock/d3/wiki/JP-Home)
-* [简体中文](/mbostock/d3/wiki/CN-Home)
-* [繁體中文](/mbostock/d3/wiki/TW-Home)
-* [Русский](/mbostock/d3/wiki/API-Reference-\(русскоязычная-версия\))
+* [日本語](/d3/d3/wiki/JP-Home)
+* [中文手册](/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
+* [简体中文](/d3/d3/wiki/CN-Home)
+* [繁體中文](/d3/d3/wiki/TW-Home)
+* [Русский](/d3/d3/wiki/API-Reference-\(русскоязычная-версия\))
 * [Türkçe](/ahmetkurnaz/d3/wiki)
 * [Indonesian](/widiantonugroho/d3/wiki)
 * [Português](/jeanbauer/d3/wiki)
@@ -54,7 +54,7 @@ D3 can also run within a [WebWorker](http://www.whatwg.org/specs/web-apps/curren
 
 Download the latest version here:
 
-* <https://github.com/mbostock/d3/releases>
+* <https://github.com/d3/d3/releases>
 
 Or, to link directly to the latest release, copy this snippet:
 
@@ -68,9 +68,9 @@ If you prefer to pin to a specific release, try [CDNJS](https://cdnjs.com/librar
 
 If you want the full repository including tests, download or clone the D3 git repository:
 
-* <https://github.com/mbostock/d3/zipball/master>
+* <https://github.com/d3/d3/zipball/master>
 
-D3 is also available via numerous package managers, including: [NPM](https://npmjs.org/package/d3) (Node.js), [Bower](http://bower.io/search/?q=d3), [Browserify](http://browserify.org/), [Component](http://component.io/), [Jam](http://jamjs.org/packages/#/details/d3), [Composer / Packagist](https://packagist.org/packages/mbostock/d3) (PHP), [SPM](https://spmjs.org/gallery/d3/), [JSPM](http://jspm.io/), [NuGet](https://www.nuget.org/packages/d3/) (.Net), and [AMD](https://github.com/amdjs/amdjs-api/blob/master/AMD.md) (e.g., [RequireJS](http://requirejs.org/)). The official releases of D3 are on [NPM](https://npmjs.org/package/d3) and [GitHub](/mbostock/d3) only; support for other package managers is unofficial and maintained by contributors.
+D3 is also available via numerous package managers, including: [NPM](https://npmjs.org/package/d3) (Node.js), [Bower](http://bower.io/search/?q=d3), [Browserify](http://browserify.org/), [Component](http://component.io/), [Jam](http://jamjs.org/packages/#/details/d3), [Composer / Packagist](https://packagist.org/packages/mbostock/d3) (PHP), [SPM](https://spmjs.org/gallery/d3/), [JSPM](http://jspm.io/), [NuGet](https://www.nuget.org/packages/d3/) (.Net), and [AMD](https://github.com/amdjs/amdjs-api/blob/master/AMD.md) (e.g., [RequireJS](http://requirejs.org/)). The official releases of D3 are on [NPM](https://npmjs.org/package/d3) and [GitHub](/d3/d3) only; support for other package managers is unofficial and maintained by contributors.
 
 ## Using
 
@@ -125,7 +125,7 @@ If you want to modify how D3 is implemented, click the "Fork" button in the top-
 git clone git://github.com/username/d3.git
 ```
 
-The D3 repository should work out of the box if you just want to create new visualizations using D3. On the other hand, if you want to extend D3 with new features, fix bugs, or run tests, you should [fork the D3 repository](/mbostock/d3), and install [Node.js](http://nodejs.org/) (version 0.10.x or higher). From the root directory of this repository, you can then install D3's dependencies:
+The D3 repository should work out of the box if you just want to create new visualizations using D3. On the other hand, if you want to extend D3 with new features, fix bugs, or run tests, you should [fork the D3 repository](/d3/d3), and install [Node.js](http://nodejs.org/) (version 0.10.x or higher). From the root directory of this repository, you can then install D3's dependencies:
 
     npm install
 
