@@ -58,7 +58,7 @@ var document = jsdom.jsdom(),
 
 ## Local Development
 
-When developing locally, your browser may enforce strict permissions for reading files out of the local file system. You should run a local web server to server files rather than trying to run out of file://. Node’s [http-server](https://www.npmjs.com/package/http-server) is recommended. To install:
+When developing locally, your browser may enforce strict permissions for reading files out of the local file system. You should run a local web server to server files rather than trying to run out of file://…. Node’s [http-server](https://www.npmjs.com/package/http-server) is recommended. To install:
 
 ```
 npm install -g http-server
@@ -70,4 +70,4 @@ To run:
 http-server &
 ```
 
-This will start the server on http://localhost:8080 from the current working directory.
+This will start the server on <http://localhost:8080> from the current working directory.
