@@ -1,7 +1,4 @@
-> [Wiki](Home) ▸ [[API Reference]] ▸ **Geo**
+**This page has moved!**
 
-See one of:
-
-* [[Paths|Geo-Paths]] - display geographic shapes.
-* [[Projections|Geo-Projections]] - convert locations (latitude and longitude) to pixel coordinates.
-* [Streams](Geo-Streams) - streaming geometry transformations.
+See the [D3 4.0 API Reference](https://github.com/d3/d3/blob/master/API.md#geographies-d3-geo).
+<br>See the [D3 3.x API Reference](https://github.com/d3/d3-3.x-api-reference/blob/master/Geo.md).

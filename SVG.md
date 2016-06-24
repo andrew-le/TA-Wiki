@@ -1,7 +1,4 @@
-> [Wiki](Home) ▸ [[API Reference]] ▸ **SVG**
+**This page has moved!**
 
-See one of:
-
-* [[Shapes|SVG-Shapes]] - generate geometric shapes and primitives in SVG.
-* [[Axes|SVG-Axes]] - generate standard axes for visualizations in SVG.
-* [[Controls|SVG-Controls]] - generate standard interactive visualization controls in SVG.
+See the [D3 4.0 API Reference](https://github.com/d3/d3/blob/master/API.md).
+<br>See the [D3 3.x API Reference](https://github.com/d3/d3-3.x-api-reference/blob/master/SVG.md).

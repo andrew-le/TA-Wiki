@@ -1,8 +1,4 @@
-> [Wiki](Home) ▸ [[API Reference]] ▸ **Geometry**
+**This page has moved!**
 
-See one of:
-
-* [[Voronoi|Voronoi-Geom]] - compute the Voronoi tesselation or Delaunay triangulation from a set of points.
-* [[Quadtree|Quadtree-Geom]] - compute a quadtree from a set of points.
-* [[Hull|Hull-Geom]] - compute the convex hull of a set of points.
-* [[Polygon|Polygon-Geom]] - perform polygon operations, such as computing area and clipping.
+See the [D3 4.0 API Reference](https://github.com/d3/d3/blob/master/API.md).
+<br>See the [D3 3.x API Reference](https://github.com/d3/d3-3.x-api-reference/blob/master/Geometry.md).

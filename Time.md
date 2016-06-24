@@ -1,7 +1,4 @@
-> [Wiki](Home) ▸ [[API Reference]] ▸ **Time**
+**This page has moved!**
 
-See one of:
-
-* [[Time Formatting]] - convert between times and strings.
-* [[Time Scales]] - compute visual encodings of times.
-* [[Time Intervals]] - perform simple time arithmetic.
+See the [D3 4.0 API Reference](https://github.com/d3/d3/blob/master/API.md).
+<br>See the [D3 3.x API Reference](https://github.com/d3/d3-3.x-api-reference/blob/master/Time.md).

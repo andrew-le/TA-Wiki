@@ -1,7 +1,4 @@
-> [Wiki](Home) ▸ [[API Reference]] ▸ **Scales**
+**This page has moved!**
 
-See one of:
-
-* [[Quantitative Scales]] - for continuous input domains, such as numbers.
-* [[Ordinal Scales]] - for discrete input domains, such as names or categories.
-* [[Time Scales]] - for time domains.
+See the [D3 4.0 API Reference](https://github.com/d3/d3/blob/master/API.md#scales-d3-scale).
+<br>See the [D3 3.x API Reference](https://github.com/d3/d3-3.x-api-reference/blob/master/Scales.md).
