@@ -41,3 +41,33 @@ Or, for the minified version:
 ```
 
 If you prefer to pin to a specific release, try [CDNJS](https://cdnjs.com/libraries/d3) or [npmcdn](https://npmcdn.com/d3@next/).
+
+## Supported Environments
+
+D3 supports so-called “modern” browsers, which generally means everything _except_ IE8 and older versions. D3 is tested against Firefox, Chrome, Safari, Opera, IE9+, Android and iOS. Parts of D3 may work in older browsers, as the core D3 library has minimal requirements: JavaScript and the [W3C DOM](http://www.w3.org/DOM/) API. D3 uses the [Selectors API](http://www.w3.org/TR/selectors-api/) Level 1, but you can preload [Sizzle](http://sizzlejs.com/) for compatibility. You'll need a modern browser to use [SVG](http://www.w3.org/TR/SVG/) and [CSS3 Transitions](http://www.w3.org/TR/css3-transitions/). D3 is not a compatibility layer, so if your browser doesn't support standards, you're out of luck. Sorry!
+
+D3 also runs on [Node](http://nodejs.org/) and [web workers](http://www.whatwg.org/specs/web-apps/current-work/multipage/workers.html). To use the DOM in Node, you must provide your own DOM implementation; [JSDOM](https://github.com/tmpvar/jsdom) is recommend. To avoid defining a global `document`, pass a DOM element to d3.select or a NodeList to d3.selectAll, like so:
+
+```js
+var d3 = require("d3"),
+    jsdom = require("jsdom");
+
+var document = jsdom.jsdom(),
+    svg = d3.select(document.body).append("svg");
+```
+
+## Local Development
+
+When developing locally, your browser may enforce strict permissions for reading files out of the local file system. You should run a local web server to server files rather than trying to run out of file://. Node’s [http-server](https://www.npmjs.com/package/http-server) is recommended. To install:
+
+```
+npm install -g http-server
+```
+
+To run:
+
+```
+http-server &
+```
+
+This will start the server on http://localhost:8080 from the current working directory.
