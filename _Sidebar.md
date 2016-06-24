@@ -14,15 +14,37 @@ Data-Driven Documents
 - [D3.js Google Group](http://groups.google.com/group/d3-js)
 - [D3.js on Gitter](https://gitter.im/d3/d3)
 
-###[[API Reference]]
-- [[Core]]
-- [[Scales]]
-- [[SVG]]
-- [[Time]]
-- [[Layouts]]
-- [[Geo]]
-- [[Geometry]]
-- [[Behaviors]]
+### [API Reference](https://github.com/d3/d3/blob/master/API.md)
+* [Arrays](https://github.com/d3/d3/blob/master/API.md#arrays-d3-array)
+* [Axes](https://github.com/d3/d3/blob/master/API.md#axes-d3-axis)
+* [Brushes](https://github.com/d3/d3/blob/master/API.md#brushes-d3-brush)
+* [Chords](https://github.com/d3/d3/blob/master/API.md#chords-d3-chord)
+* [Collections](https://github.com/d3/d3/blob/master/API.md#collections-d3-collection)
+* [Colors](https://github.com/d3/d3/blob/master/API.md#colors-d3-color)
+* [Delimiter-Separated Values](https://github.com/d3/d3/blob/master/API.md#delimiter-separated-values-d3-dsv)
+* [Dispatches](https://github.com/d3/d3/blob/master/API.md#dispatches-d3-dispatch)
+* [Dragging](https://github.com/d3/d3/blob/master/API.md#dragging-d3-drag)
+* [Easings](https://github.com/d3/d3/blob/master/API.md#easings-d3-ease)
+* [Forces](https://github.com/d3/d3/blob/master/API.md#forces-d3-force)
+* [Geographies](https://github.com/d3/d3/blob/master/API.md#geographies-d3-geo)
+* [Hierarchies](https://github.com/d3/d3/blob/master/API.md#hierarchies-d3-hierarchy)
+* [Interpolators](https://github.com/d3/d3/blob/master/API.md#interpolators-d3-interpolate)
+* [Number Formats](https://github.com/d3/d3/blob/master/API.md#number-formats-d3-format)
+* [Paths](https://github.com/d3/d3/blob/master/API.md#paths-d3-path)
+* [Polygons](https://github.com/d3/d3/blob/master/API.md#polygons-d3-polygon)
+* [Quadtrees](https://github.com/d3/d3/blob/master/API.md#quadtrees-d3-quadtree)
+* [Queues](https://github.com/d3/d3/blob/master/API.md#queues-d3-queue)
+* [Random Numbers](https://github.com/d3/d3/blob/master/API.md#random-numbers-d3-random)
+* [Requests](https://github.com/d3/d3/blob/master/API.md#requests-d3-request)
+* [Scales](https://github.com/d3/d3/blob/master/API.md#scales-d3-scale)
+* [Selections](https://github.com/d3/d3/blob/master/API.md#selections-d3-selection)
+* [Shapes](https://github.com/d3/d3/blob/master/API.md#shapes-d3-shape)
+* [Time Formats](https://github.com/d3/d3/blob/master/API.md#time-formats-d3-time-format)
+* [Time Intervals](https://github.com/d3/d3/blob/master/API.md#time-intervals-d3-time)
+* [Timers](https://github.com/d3/d3/blob/master/API.md#timers-d3-timer)
+* [Transitions](https://github.com/d3/d3/blob/master/API.md#transitions-d3-transition)
+* [Voronoi Diagrams](https://github.com/d3/d3/blob/master/API.md#voronoi-diagrams-d3-voronoi)
+* [Zooming](https://github.com/d3/d3/blob/master/API.md#zooming-d3-zoom)
 
 ###Translations (unofficial)
 - [한국어](/zziuni/d3/wiki)
