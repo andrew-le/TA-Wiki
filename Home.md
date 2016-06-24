@@ -35,10 +35,16 @@ If you use NPM, `npm install d3@next`. Otherwise, download the [latest release](
 <script src="https://d3js.org/d3.v4.0.0-alpha.50.js"></script>
 ```
 
-Or, for the minified version:
+For the minified version:
 
 ```html
 <script src="https://d3js.org/d3.v4.0.0-alpha.50.min.js"></script>
+```
+
+You can also load the D3 microlibraries separately. For example, [d3-color](https://github.com/d3/d3-color):
+
+```html
+<script src="https://d3js.org/d3-color.v1.min.js"></script>
 ```
 
 If you prefer to pin to a specific release, try [CDNJS](https://cdnjs.com/libraries/d3) or [npmcdn](https://npmcdn.com/d3@next/).
