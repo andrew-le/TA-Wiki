@@ -5,7 +5,7 @@
 * [Introduction](http://d3js.org/)
 * [API Reference](/d3/d3/blob/master/API.md)
 * [Release Notes](/d3/d3/blob/master/CHANGES.md)
-* [Examples Gallery](/d3/d3/wiki/Gallery) and [mbostock’s blocks](http://bl.ocks.org/mbostock)
+* [Gallery](/d3/d3/wiki/Gallery) and [mbostock’s blocks](http://bl.ocks.org/mbostock)
 * [Tutorials and Talks](/d3/d3/wiki/Tutorials)
 * [Plugins](/d3/d3/wiki/Plugins)
 * [d3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
