@@ -3,7 +3,7 @@
 ## Resources
 
 * [Introduction](http://d3js.org/)
-* [API Reference](/d3/d3/wiki/API-Reference)
+* [API Reference](/d3/d3/blob/master/API.md)
 * [Release Notes](/d3/d3/releases)
 * [Examples Gallery](/d3/d3/wiki/Gallery)
 * [Tutorials and Talks](/d3/d3/wiki/Tutorials)
