@@ -47,8 +47,7 @@ Data-Driven Documents
 * [Zooming](https://github.com/d3/d3/blob/master/API.md#zooming-d3-zoom)
 
 ###Translations (unofficial)
-- [D3.js 3.x 中文手册](https://github.com/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
-- [D3.js 4.0 中文手册](https://github.com/tianxuzhang/d3.v4-API-Translation)
+- [中文手册 (4.0)](https://github.com/tianxuzhang/d3.v4-API-Translation) [(3.x)](https://github.com/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
 - [한국어](/zziuni/d3/wiki)
 - [日本語](/mbostock/d3/wiki/JP-Home)
 - [繁體中文](/mbostock/d3/wiki/TW-Home)
