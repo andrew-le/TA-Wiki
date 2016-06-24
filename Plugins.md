@@ -17,6 +17,7 @@ Please feel free to add links to your work!
 * [Contour plot](https://github.com/d3/d3-plugins/tree/master/geom/contour)
 * [Color wheel](https://github.com/betweentwobrackets/d3-colorwheel)
 * [Cubehelix color scheme](https://github.com/d3/d3-plugins/tree/master/cubehelix)
+* [Distance-limited Voronoi](https://github.com/Kcnarf/d3.geom.distanceLimitedVoronoi) ([demo](http://bl.ocks.org/Kcnarf/6d5ace3aa9cc1a313d72b810388d1003))
 * [dTree Family Tree](https://github.com/ErikGartner/dTree)
 * [Find Peaks](https://github.com/efekarakus/d3-peaks/tree/master)
 * [Fisheye distortion](https://github.com/d3/d3-plugins/tree/master/fisheye)
