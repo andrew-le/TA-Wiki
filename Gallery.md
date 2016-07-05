@@ -532,7 +532,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <tr>
        <td>BiPartite Viz<br><a href="http://bl.ocks.org/NPashaP/cd80ab54c52f80c4d84cad0ba9da72c2"><img width="133" src="https://gist.githubusercontent.com/NPashaP/cd80ab54c52f80c4d84cad0ba9da72c2/raw/6c96c4ee6328f356e832036a2e34458e6907fec7/thumbnail.png"></a></td>
 
-<td>Gauge Viz<br><a href="http://bl.ocks.org/NPashaP/59c2c7483fb61070486835d15c807941"><img width="133" src="https://gist.githubusercontent.com/NPashaP/59c2c7483fb61070486835d15c807941/raw/32c7355cce047a0e384bf16bd4cee165a16d1105/thumbnail.png"></a></td>
+<td>Gauge Viz<br><a href="http://bl.ocks.org/NPashaP/ba4c802d5ef68f70c019a9706f77ebf1"><img width="133" src="https://gist.githubusercontent.com/NPashaP/ba4c802d5ef68f70c019a9706f77ebf1/raw/6d49945f1e7f12a194a2fcc6962c0574a258bf31/thumbnail.png"></a></td>
 
 <td>Chord Viz<br><a href="http://bl.ocks.org/npashap/54cf6b3b370e85e3f8374943f5150f53"><img width="133" src="https://gist.githubusercontent.com/NPashaP/54cf6b3b370e85e3f8374943f5150f53/raw/5bd2ee259f95ab1a3b14516b3b5176aa25f72343/thumbnail.png"></a></td>
 
