@@ -878,6 +878,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [The Cancer Genome Atlas - Interactive Exploration of Patient Gender, Race and Age](http://www.enpicom.com/visual-lab/tcga-exploration/embed) - Nicola Bonzanni, Alvise Trevisan
 * [Spirograph simulator](http://nylen.io/d3-spirograph/) - James Nylen
 * [KnowledgeMap](http://www.cotrino.com/2016/03/knowledgemap/) - José Cotrino
+* [Mova: Movement Analytics Platform](http://www.sfu.ca/~oalemi/movan/) - Omid Alemi
 
 ### Collections
 
