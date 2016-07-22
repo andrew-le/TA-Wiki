@@ -59,6 +59,7 @@ Please feel free to add links to your work!
 * [From Zero to D3](http://www.coppelia.io/2016/01/from-zero-to-d3/) by Simon Raper
 * [Let's Learn D3.js](https://buildingvts.com/let-s-learn-d3-js-708577173130) by Andrew Lin
 * [Moreal D3.js Wiki](https://kb.moreal.co/d3) by Crypteia Networks
+* [10 D3 Must Knows](http://animateddata.co.uk/articles/d3/whatisd3/) by Peter Cook
 
 ### Specific Techniques
 
