@@ -1447,7 +1447,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Lepracursor](http://sepans.com/sp/postes/lepracursor/), a d3.js based library which adds a virtual pointer to the page that grows in number with every click
 * [iopctrl.js: User interface controls and gauges](http://iop.io/iopctrl)
 * [MetricsGraphics.js: A library optimized for visualizing and laying out time-series data](http://metricsgraphicsjs.org/) - Ali Almossawi and Hamilton Ulmer
-* [matta](http://github.com/carnby/matta): d3.js charts in the IPython notebook.
+* [matta](http://github.com/carnby/matta): d3.js charts in the IPython notebook
 * [TechanJS](http://techanjs.org/): Financial charting and technical analysis - [candlestick](http://bl.ocks.org/andredumas/27c4a333b0e0813e093d), [ohlc](http://bl.ocks.org/andredumas/06ad3573c0053d0e1fc7) and [other technical analysis tools](http://bl.ocks.org/andredumas/edf630690c10b89be390)
 * [BlackHole.js: you can make the same visualization such as GitHub Visualizer and WBCA](https://github.com/artzub/blackhole.js)
 * [Vega: A Visualization Grammar built on D3](https://vega.github.io)
