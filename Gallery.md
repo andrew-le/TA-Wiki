@@ -538,7 +538,9 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 
 <td>Bosnia and Herzegovina 2013 Census Visualization<br/><a href="http://statick.org:3002"><img width="133" src="http://statick.org:3002/vis.png"></a></td>
 </tr>
-
+<tr>
+<td>3D Torus with Force Layout<br/><a href="http://www.vizarto.com/gallery/torus/"><img width="133" src="http://i.imgur.com/3IZGC56.jpg"></a></td>
+</tr>
 </table>
 
 
