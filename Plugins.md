@@ -12,6 +12,7 @@ Please feel free to add links to your work!
 * [Bullet chart](https://github.com/d3/d3-plugins/tree/master/bullet)
 * [Chernoff face](https://github.com/d3/d3-plugins/tree/master/chernoff)
 * [Circular Brush](https://github.com/emeeks/d3.svg.circularbrush)
+* [Circular Segment](https://github.com/chandramouli-sastry/d3-csegment)
 * [Comic.js](https://github.com/balint42/comic.js)
 * [Container](https://github.com/binaworks/d3-container)
 * [Contour plot](https://github.com/d3/d3-plugins/tree/master/geom/contour)
