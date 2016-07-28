@@ -1,9 +1,9 @@
 > [Wiki](Home) ▸ [[API--中文手册]] ▸ [[SVG函数]] ▸ **SVG 形状**
 
-* 本文档是D3官方文档中文翻译，并保持与[最新版](https://github.com/mbostock/d3/wiki/API-Reference)同步。
 * 如发现翻译不当或有其他问题可以通过以下方式联系译者:
 * 邮箱：zhang_tianxu@sina.com
-* QQ群：[D3数据可视化](http://jq.qq.com/?_wv=1027&k=ZGcqYF)205076374，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)436442115
+* QQ群：[D3.js](http://jq.qq.com/?_wv=1027&k=239rjew):437278817，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)：436442115
+* Github小组：[VisualCrew](https://github.com/VisualCrew)
 
 SVG有大量的内置建议图形。例如：轴对齐矩形和圆形。为了更大的灵活性，可以使用SVG的路径（[path](http://www.w3.org/TR/SVG/paths.html#PathElement "http://www.w3.org/TR/SVG/paths.html#PathElement")）元素结合D3的路径数据生成器.
 
@@ -624,21 +624,21 @@ The endAngle-accessor is invoked in a similar manner as other value functions in
 ```
 
 
-<a name="diagonal" href="SVG-Shapes#diagonal">#</a> d3.svg.**diagonal**()
+<a name="diagonal" href="SVG-Shapes#diagonal">#</a> d3.svg.<b>diagonal</b>()
 
-使用默认的访问函数（即假设输入数据是一个属性名与访问器相匹配的对象；详见下文）构造一个新的对角线生成器；返回的函数会生成一条贝塞尔曲线（Bézier）来连接source和target两端；当连接节点时，切线被指定用来产生平滑的扇入扇出，如一个[node-link diagram](http://mbostock.github.com/d3/ex/tree.html)图：
+使用默认的配置构造一个对角线生成器，所有的默认配置请参考下面的 API 详细介绍；返回值可以用来当做函数使用来生成三次贝塞尔曲线数据，该曲线的若干条切线可以保证节点连接处会有平滑的介入效果；[node-link diagram](http://mbostock.github.com/d3/ex/tree.html) 效果图如下：
 
 ![diagonal](diagonal.png)
  
-虽然对角线默认为笛卡尔（轴对齐）的方向，但是可以用于使用投影([projection](#diagonal_projection))的径向或其他方向；
+虽然对角线生成器默认是笛卡尔（轴对齐）的定位方式，但依然可以自定义 [projection](#diagonal_projection) 来生成径向或其他任意定位方式的路径数据。
 
-<a name="_diagonal" href="SVG-Shapes#_diagonal">#</a> **diagonal**(*datum*[, *index*])
+<a name="_diagonal" href="SVG-Shapes#_diagonal">#</a> <b>diagonal</b>(<i>datum</i>[, <i>index</i>])
 
-根据指定的数据*datum*返回path的路径数据字符串；一个可选的*index*属性可以被指定，被用来传递给对角线生成器的函数。
+根据指定的 *datum* 数据参数，生成 path 的路径数据字符串；一个可选的 *index* 参数，会传递给对角线生成器的函数。
 
-<a name="diagonal_source" href="SVG-Shapes#diagonal_source">#</a> diagonal.**source**([*source*])
+<a name="diagonal_source" href="SVG-Shapes#diagonal_source">#</a> diagonal.<b>source</b>([<i>source</i>])
 
-如果*source* 指定，设置*source* 访问器为指定的函数或常量；如果*source* 未指定，返回当前的*source* 访问器；*source* 访问器旨在返回描述对角线起点的对象，返回的对象随后将会被传递给[projection](#diagonal_projection)；默认的访问器是假定输入数据对象的属性名和访问器相匹配的，如：
+如果指定了 *source* 参数，则设置起点存取器为 *source* 函数；如果未指定，则返回当前的起点存取器；该存取器函数的返回值会被直接传递给 [projection](#diagonal_projection) 当做入参，存取器的目的是能够得到一个包含 *x*、*y* 坐标的对象，如 ```{ x, y }```；*source* 也可以是常量；默认的起点存取器形如：
 
 ```javascript
 function source(d) {
@@ -646,11 +646,11 @@ function source(d) {
 }
 ```
 
-*source* 访问器就像D3中其他值函数一样方式被调用的；函数的`this` 就是当前元素的选择；（技术上来说，调用对角线函数的`this` 是相同的；然而，通常情况下，这个符号生成器被传递给了[attr](选择器#attr) 操作符，`this` 上下文将关联DOM元素）；函数需要传递两个参数：当前的数据d和当前所在索引i；另外，也可以指定*source* 访问器为一个常数；
+起点存取器的调用类似于 D3 中其他的大多数函数调用；函数的 *this* 对象指向了当前的 *DOM*，函数的两个入参：*d* 指向了当前 *DOM* 所绑定的数据、*i* 表示当前 *DOM* 所在的 *DOM* 树的索引。
 
-<a name="diagonal_target" href="SVG-Shapes#diagonal_target">#</a> diagonal.**target**([*target*])
+<a name="diagonal_target" href="SVG-Shapes#diagonal_target">#</a> diagonal.<b>target</b>([<i>target</i>])
 
-如果*target* 指定，设置*target* 访问器为指定的函数或常量；如果*target* 未指定，返回当前的*target* 访问器；*target* 访问器旨在返回描述对角线终点的对象，返回的对象随后将会被传递给[projection](#diagonal_projection)；默认的访问器是假定输入数据对象的属性名和访问器相匹配的，如：
+如果指定了 *target* 参数，则设置末点存取器为 *target* 函数；如果未指定，则返回当前的末点存取器；该存取器函数的返回值会被直接传递给 [projection](#diagonal_projection) 当做入参，存取器的目的是能够得到一个包含 *x*、*y* 坐标的对象，如 ```{ x, y }```；*target* 也可以是常量；默认的末点存取器形如：
 
 ```javascript
 function target(d) {
@@ -658,11 +658,12 @@ function target(d) {
 }
 ```
 
-*target* 访问器就像D3中其他值函数一样方式被调用的；函数的`this` 就是选择中的当前元素；函数需要传递两个参数：当前的数据d和当前所在索引i；另外，也可以指定*target* 访问器为一个常数而不是函数。
+末点存取器的调用类似于 D3 中其他的大多数函数调用；函数的 *this* 对象指向了当前的 *DOM*，函数的两个入参：*d* 指向了当前 *DOM* 所绑定的数据、*i* 表示当前 *DOM* 所在的 *DOM* 树的索引。
 
-<a name="diagonal_projection" href="SVG-Shapes#diagonal_projection">#</a> diagonal.**projection**([*projection*])
 
-如果投影*projection* 指定，设置*projection* 为指定的函数；如果*projection* 未指定，返回当前的*projection* ；投影*projection*转换形如的点`{x, y}`（例如由来源和目标返回的）为两元素的数字数组；默认的访问器假定输入端是一个包含*x* 和*y* 两个属性的对象，如：
+<a name="diagonal_projection" href="SVG-Shapes#diagonal_projection">#</a> diagonal.<b>projection</b>([<i>projection</i>])
+
+如果指定了 *projection* 参数，则设置投影函数为 *projection*；如果未指定，则返回当前的投影函数；投影函数会转换形如 ```{ x, y }``` 的坐标系统为 ```[x, y]```；默认的投影函数形如：
 
 ```javascript
 function projection(d) {
@@ -670,7 +671,7 @@ function projection(d) {
 }
 ```
 
-默认的访问器是兼容D3的布局的，包括：[树布局](树布局)、[分区布局](分区布局)和[簇布局](簇布局)；例如，要产生一个径向对角线，假定属性*y*是以像素为单位，并且*x*属性是定义以度为单位的角度，像这样：
+默认的投影函数兼容 D3 的大部分布局，包括：[tree](Tree-Layout.md)、[partition](Partition-Layout.md)、[cluster](Cluster-Layout.md)；例如，一个生成径向对角线的方式如下：
 
 ```javascript
 function projection(d) {
@@ -679,20 +680,37 @@ function projection(d) {
 }
 ```
 
-*projection* 是类似于D3中其他值函数一样方式被调用的；这个*projection* 函数需要传递两个参数：当前的source 或target 端（从当前数据d中得到）和当前的索引i；
+投影函数的调用类似于 D3 中其他的大多数函数调用；函数的两个入参：*d* 指向了当前 *DOM* 所绑定的数据（source 或者 target）、*i* 表示当前 *DOM* 所在的 *DOM* 树的索引。
 
-<a name="diagonal_radial" href="SVG-Shapes#diagonal_radial">#</a> d3.svg.diagonal.**radial**()
+<a name="diagonal_radial" href="SVG-Shapes#diagonal_radial">#</a> d3.svg.diagonal.<b>radial</b>()
 
 …
 
-<a name="_diagonal_radial" href="SVG-Shapes#_diagonal_radial">#</a> **diagonal**(*datum*[, *index*])
+<a name="_diagonal_radial" href="SVG-Shapes#_diagonal_radial">#</a> <b>diagonal</b>(<i>datum</i>[, <i>index</i>])
 
-根据指定的数据*datum*返回path的路径数据字符串；一个可选的*index* 属性可以被指定，被用来传递给对角线生成器的函数。
+根据指定的 *datum* 数据参数，生成 path 的路径数据字符串；一个可选的 *index* 参数，会传递给对角线生成器的函数。
 
-* SVG元素部分 咕噜译 20141128 00:17:16
-* Line部分 咕噜译 2014-11-29 04:34:09
-* Symbol 部分 咕噜译 2014-11-29 8:00
-* Chord 部分 咕噜译 2014-11-29 8:00
-* Area部分 Harry译  20140419 咕噜校对 2014-11-29 10:18:17
-* Diagonal部分 魏飞 译 20140418 17.14.18咕噜校对 2014-11-29 11:06:40
-* Arc部分 魏飞 译 20140716 19-25咕噜校对2014-11-29 10:49:56
+
+------
+
+**changelog**
+
+
+* SVG 元素部分
+    * [[大傻](https://github.com/tianxuzhang)] 译于 2014-11-28 00:17:16
+* Line 部分
+    * [[大傻](https://github.com/tianxuzhang)] 译于 2014-11-29 04:34:09
+* Symbol 部分
+    * [[大傻](https://github.com/tianxuzhang)] 译于 2014-11-29 08:00
+* Chord 部分
+    * [[大傻](https://github.com/tianxuzhang)] 译于 2014-11-29 08:00
+* Area部分
+    * [Harry] 译于 2014-04-19
+    * [[大傻](https://github.com/tianxuzhang)] 校于 2014-11-29 10:18:17
+* Diagonal部分
+    * [[二傻](https://github.com/weifei365)] 译于 2014-04-18 17:14:18
+    * [[大傻](https://github.com/tianxuzhang)] 校于 2014-11-29 11:06:40
+    * [[二傻](https://github.com/weifei365)] 校于 2016-07-28
+* Arc部分
+    * [[二傻](https://github.com/weifei365)] 译于 2014-07-16 19:25
+    * [[大傻](https://github.com/tianxuzhang)] 校于 2014-11-29 10:49:56
