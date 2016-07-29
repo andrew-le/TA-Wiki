@@ -11,7 +11,7 @@
 * [Plugins](/d3/d3/wiki/Plugins)
 * [d3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
 * [d3-js Google Group](http://groups.google.com/group/d3-js)
-* [d3-js Slack Channel](https://d3js.slack.com) ([Invites](https://d3-slackin.herokuapp.com/))
+* [d3-js Slack Channel](https://d3js.slack.com) ([Invite](https://d3-slackin.herokuapp.com/))
 * [d3-js Gitter Channel](https://gitter.im/d3/d3)
 * d3-js IRC Channel => #d3.js on irc.freenode.net
 
@@ -29,7 +29,7 @@
 
 ## Installing
 
-If you use NPM, `npm install d3@next`. Otherwise, download the [latest release](https://npmcdn.com/d3@next/build/). The released bundle supports AMD, CommonJS, and vanilla environments. Create a [custom bundle using Rollup](http://bl.ocks.org/mbostock/bb09af4c39c79cffcde4) or your preferred bundler. You can also load directly from [d3js.org](https://d3js.org):
+If you use NPM, `npm install d3`. Otherwise, download the [latest release](https://npmcdn.com/d3/build/). The released bundle supports AMD, CommonJS, and vanilla environments. Create a [custom bundle using Rollup](http://bl.ocks.org/mbostock/bb09af4c39c79cffcde4) or your preferred bundler. You can also load directly from [d3js.org](https://d3js.org):
 
 ```html
 <script src="https://d3js.org/d3.v4.js"></script>
@@ -47,7 +47,7 @@ You can also use the standalone D3 microlibraries. For example, [d3-selection](h
 <script src="https://d3js.org/d3-selection.v1.min.js"></script>
 ```
 
-If you prefer to pin to a specific release, try [CDNJS](https://cdnjs.com/libraries/d3) or [npmcdn](https://npmcdn.com/d3@next/).
+If you prefer to pin to a specific release, try [CDNJS](https://cdnjs.com/libraries/d3) or [npmcdn](https://npmcdn.com/d3/).
 
 ## Supported Environments
 
