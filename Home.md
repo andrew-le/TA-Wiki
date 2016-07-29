@@ -11,7 +11,7 @@
 * [Plugins](/d3/d3/wiki/Plugins)
 * [d3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
 * [d3-js Google Group](http://groups.google.com/group/d3-js)
-* [d3-js Slack Channel](https://groups.google.com/forum/#!topic/d3-js/vJ3kxaMSkQU%5B1-25%5D)
+* [d3-js Slack Channel](https://d3js.slack.com) ([Invites](https://d3-slackin.herokuapp.com/))
 * [d3-js Gitter Channel](https://gitter.im/d3/d3)
 * d3-js IRC Channel => #d3.js on irc.freenode.net
 
