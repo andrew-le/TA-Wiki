@@ -2,7 +2,7 @@
 
 Please feel free to add links to your work!
 
-Many of the tutorials are version 3 specific, if you run into issues with missing methods in version 4 make sure to check [the changelog](https://github.com/d3/d3/blob/master/CHANGES.md) and update the offending methods to follow along.
+Tutorials may not be up-to-date with the latest version 4.0 of D3; consider reading them alongside the latest [release notes](https://github.com/d3/d3/releases), the [4.0 summary](https://github.com/d3/d3/releases/tag/v4.0.0), and the [4.0 changes](https://github.com/d3/d3/blob/master/CHANGES.md).
 
 ### Introductions & Core Concepts
 
