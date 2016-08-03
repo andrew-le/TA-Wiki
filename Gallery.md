@@ -540,6 +540,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 </tr>
 <tr>
 <td>3D Torus with Force Layout<br/><a href="http://www.vizarto.com/gallery/torus/"><img width="133" src="http://i.imgur.com/3IZGC56.jpg"></a></td>
+<td>3D Honeycomb Bar Chart<br/><a href="http://www.vizarto.com/gallery/honeycomb/"><img width="133" src="http://i.imgur.com/F0pazGV.jpg"></a></td>
 <td>3D Bar Chart<br/><a href="http://vizarto.com/gallery/3dbar/"><img width="133" src="http://i.imgur.com/CFtrj9r.jpg"></a></td>
 </tr>
 </table>
