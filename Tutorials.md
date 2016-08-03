@@ -2,6 +2,8 @@
 
 Please feel free to add links to your work!
 
+Many of the tutorials are version 3 specific, if you run into issues with missing methods in version 4 make sure to check [the changelog](https://github.com/d3/d3/blob/master/CHANGES.md) and update the offending methods to follow along.
+
 ### Introductions & Core Concepts
 
 * [Introduction](https://d3js.org/#introduction)
