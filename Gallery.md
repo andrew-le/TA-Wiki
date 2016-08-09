@@ -459,7 +459,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         </a>
     </td>
     <td>Spirograph<br>
-        <a href="http://nylen.io/d3-spirograph/">
+        <a href="https://github.com/nylen/d3-spirograph/">
           <img width="133" src="https://cloud.githubusercontent.com/assets/227022/12709554/e91c2e36-c872-11e5-8d76-f039cb642717.png">
         </a>
      </td>
@@ -883,7 +883,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Mass Spectrometry (MS/MS spectrum) data viewer]
 (http://anno.semgen.info/) - Janko Diminic
 * [The Cancer Genome Atlas - Interactive Exploration of Patient Gender, Race and Age](http://www.enpicom.com/visual-lab/tcga-exploration/embed) - Nicola Bonzanni, Alvise Trevisan
-* [Spirograph simulator](http://nylen.io/d3-spirograph/) - James Nylen
+* [Spirograph simulator](https://github.com/nylen/d3-spirograph/) - James Nylen
 * [KnowledgeMap](http://www.cotrino.com/2016/03/knowledgemap/) - José Cotrino
 * [Mova: Movement Analytics Platform](http://www.sfu.ca/~oalemi/movan/) - Omid Alemi
 
