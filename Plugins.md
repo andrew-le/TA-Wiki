@@ -2,6 +2,8 @@
 
 Please feel free to add links to your work!
 
+For more information on creating your own plugin, see [Let's Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/).
+
 * [2D Histogram](https://github.com/herkulano/d3-plugin-hist2d)
 * [3D Force Layout](https://github.com/ggeoffrey/d3.layout.force3D) ([minimalist demo](http://ggeoffrey.github.io/d3.layout.force3D/))
 * [Adjacency Matrix](https://github.com/emeeks/d3-plugins/tree/master/adjacencyMatrix)
