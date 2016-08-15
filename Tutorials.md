@@ -82,6 +82,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [An A to Z of extra features for the d3 force layout](http://www.coppelia.io/an-a-to-z-of-extra-features-for-the-d3-force-layout/) - Simon Raper
 * [Stream data to create realtime, live-updating D3.js charts](http://www.pubnub.com/blog/stream-data-to-create-realtime-charts-w-d3js-and-rickshaw/) - Ian Jennings
 * [Graphing memory usage in realtime using D3.js and Rickshaw](http://www.pubnub.com/blog/graphing-node-js-memory-usage-d3-js-rickshaw/) - Ian Jennings
+* [D3 in Nodejs, for static dataviz](https://github.com/bradoyler/d3-node)
 
 ### D3 v4
 * [Let’s Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/)
