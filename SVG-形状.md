@@ -5,17 +5,17 @@
 * QQ群：[D3.js](http://jq.qq.com/?_wv=1027&k=239rjew):437278817，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)：436442115
 * Github小组：[VisualCrew](https://github.com/VisualCrew)
 
-SVG有大量的内置图形。例如：轴对齐矩形和圆形。也可以结合D3的路径数据生成器使用SVG的路径（[path](http://www.w3.org/TR/SVG/paths.html#PathElement "http://www.w3.org/TR/SVG/paths.html#PathElement")）元素。
+SVG有大量的内置图形。例如：轴对齐矩形和圆形。在D3中结合D3的路径数据生成器和SVG的路径（[path](http://www.w3.org/TR/SVG/paths.html#PathElement "http://www.w3.org/TR/SVG/paths.html#PathElement")）元素能更加灵活地绘制图形。
 
-形状生成器，例如[d3.svg.arc](#arc)返回的，既是一个对象又是一个函数。也就是说，你可以像其他函数一样调用形状生成器。像D3中的其他类一样，形状生成器对象遵循链式语法。
+形状生成器，例如[d3.svg.arc](#arc)返回的，既是一个对象又是一个函数。也就是说，你可以像其他函数一样调用形状生成器。形状生成器对象遵循链式语法。
 
 ## SVG 元素
 
-所有的SVG形状都可以使用 [transform](http://www.w3.org/TR/SVG/coords.html#TransformAttribute "http://www.w3.org/TR/SVG/coords.html#TransformAttribute")  属性转换。你可以将转换直接应用在SVG形状上，或者应用在含 [g](http://www.w3.org/TR/SVG/struct.html#Groups "http://www.w3.org/TR/SVG/struct.html#Groups") 的元素上。这样你可以旋转或者转换形状。形状可使用 [fill](http://www.w3.org/TR/SVG/painting.html#FillProperties "http://www.w3.org/TR/SVG/painting.html#FillProperties") 和 [stroke](http://www.w3.org/TR/SVG/painting.html#StrokeProperties "http://www.w3.org/TR/SVG/painting.html#StrokeProperties") 样式填充或者描边（你也可以使用同名称的属性，但是当兼容外部样式时推荐使用样式）。
+所有的SVG形状都可以使用[transform](http://www.w3.org/TR/SVG/coords.html#TransformAttribute "http://www.w3.org/TR/SVG/coords.html#TransformAttribute")属性。你可以将转换直接应用在SVG形状上，或者应用在[g](http://www.w3.org/TR/SVG/struct.html#Groups "http://www.w3.org/TR/SVG/struct.html#Groups")元素上。这样你可以旋转或者转换形状。形状可使用 [fill](http://www.w3.org/TR/SVG/painting.html#FillProperties "http://www.w3.org/TR/SVG/painting.html#FillProperties") 和 [stroke](http://www.w3.org/TR/SVG/painting.html#StrokeProperties "http://www.w3.org/TR/SVG/painting.html#StrokeProperties") 样式填充或者描边（你也可以使用同名称的属性，但为了兼容外部样式时推荐使用样式）。
 
 <a name="svg_rect" href="SVG-Shapes#svg_rect">#</a> svg:**rect** x="0" y="0" width="0" height="0" rx="0" ry="0"
 
-矩形元素 [rect](http://www.w3.org/TR/SVG/shapes.html#RectElement "http://www.w3.org/TR/SVG/shapes.html#RectElement") 定义一个轴对齐的矩形。矩形的左上角使用*x*，*y*属性定位，使用*width*和*height*指定尺寸。使用可选参数*rx* 和 *ry*可以生成圆角矩形。
+矩形元素 [rect](http://www.w3.org/TR/SVG/shapes.html#RectElement "http://www.w3.org/TR/SVG/shapes.html#RectElement") 定义一个轴对齐的矩形。使用*x*，*y*属性定位矩形的左上角，使用*width*和*height*指定尺寸。使用可选参数*rx* 和 *ry*可以生成圆角矩形。
 
 <a name="svg_circle" href="SVG-Shapes#svg_circle">#</a> svg:**circle** cx="0" cy="0" r="0"
 
@@ -39,7 +39,7 @@ SVG有大量的内置图形。例如：轴对齐矩形和圆形。也可以结�
 
 <a name="svg_text" href="SVG-Shapes#svg_text">#</a> svg:**text** x="0" y="0" dx="0" dy="0" text-anchor="start"
 
-文本元素[text](http://www.w3.org/TR/SVG/text.html#TextElement)定义文本组成的图形元素。文本元素的文本内容（参见文本操作符[text](选择器#text)）定义用来渲染的字符。文本元素的锚点使用*x*，*y*属性控制。另外，文本可以使用*dx*，*dy*属性偏移。横向文本对齐由text-anchor属性控制，下面是一些例子：
+文本元素[text](http://www.w3.org/TR/SVG/text.html#TextElement)定义由文本组成的图形元素。使用*x*，*y*属性来控制文本元素的锚点。另外，可以使用*dx*，*dy*属性控制文本元素的偏移。由text-anchor属性控制横向文本对齐方式，下面是一些例子：
 
 ```xml
 <svg:text text-anchor="start">left-align, bottom-baseline</svg:text>
@@ -53,7 +53,7 @@ SVG有大量的内置图形。例如：轴对齐矩形和圆形。也可以结�
 <svg:text dy=".71em" text-anchor="end">right-align, top-baseline</svg:text>
 ```
 
-有一个更好的方法来指定文字的基线，即使用SVG的基线对齐属性([baseline alignment properties](http://www.w3.org/TR/SVG/text.html#BaselineAlignmentProperties))，但是这不是被浏览器广泛地支持的。最后，字体的颜色通常使用*fill*样式指定（你也可以使用*stroke*），字体使用*font*，*font-family*，*font-size*和相关的样式控制。一些浏览器也支持CSS3属性，例如*text-shadow*。
+可以用SVG的基线对齐属性([baseline alignment properties](http://www.w3.org/TR/SVG/text.html#BaselineAlignmentProperties))指定文字的基线。字体的颜色通常使用*fill*样式指定（你也可以使用*stroke*），字体使用*font*，*font-family*，*font-size*和相关的样式控制。一些浏览器也支持CSS3属性，例如*text-shadow*。
 
 <a name="svg_path" href="SVG-Shapes#svg_path">#</a> svg:**path** d="" transform=""
 
