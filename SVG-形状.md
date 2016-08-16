@@ -414,17 +414,12 @@ area.defined(function(d) { return !isNaN(d[1]); });
 
 <a name="arc_innerRadius" href="SVG-Shapes#arc_innerRadius">#</a> arc.**innerRadius**([*radius*])
 
-如果指定*radius* ，则设置内半径访问器outerRadius-accessor为指定值或函数；如果未指定*radius*，则返回当前的内半径访问器；访问器参数传递给弧生成器时调用；默认访问器假定输入数据是带有适当命名属性的对象：
+通常情况下，指定内半径访问器是由于：输入数据是不同的格式、或你想要应用比例尺，亦或你想为圆环指定个恒定的内半径。内半径访问器会像D3的其他函数一样被调用；函数中的this代表选择中的当前元素（技术上来说，this上下文调用弧函数；然而一般情况下，弧生成器传递给attr操作符， this上下文将关联DOM元素）；函数传递两个参数：当前数据d和索引i；当然，也可以指定其为一个常数而不是函数。默认访问器假定输入数据是带有适当命名属性的对象：
 
 ```javascript
 function innerRadius(d) {
   return d.innerRadius;
 }
-```
-**次段建议替换为下面新增内容**
-```
-通常情况下，指定内半径访问器 innerRadius-accessor是由于：输入数据是不同的格式、或你想要应用比例尺，亦或你想为圆环指定个恒定的内半径。
-内半径访问器会像D3的其他函数一样被调用；函数中的this代表选择中的当前元素（技术上来说，this上下文调用弧函数；然而一般情况下，弧生成器传递给attr操作符， this上下文将关联DOM元素）；函数传递两个参数：当前数据d和索引i；当然，也可以指定其为一个常数而不是函数。
 ```
 
 **新增内容**
@@ -434,18 +429,14 @@ The arc generator arguments (typically `d` and `i`) and context (`this`) are pas
 
 <a name="arc_outerRadius" href="SVG-Shapes#arc_outerRadius">#</a> arc.**outerRadius**([*radius*])
 
-如果指定半径*radius*，则设置外半径访问器outerRadius-accessor为指定值或函数；如果未指定*radius*，则返回当前的外半径访问器；访问器参数传递给弧生成器时调用；默认访问器假定输入数据是带有适当命名属性的对象：
+通常情况下，指定外半径访问器是由于：输入数据是不同的格式、或你想要应用比例尺，亦或你想为圆环指定个恒定的外半径。外半径访问器会像D3的其他函数一样被调用；函数中的this代表选择中的当前元素（技术上来说，this上下文调用弧函数；然而一般情况下，弧生成器传递给attr操作符， this上下文将关联DOM元素）；函数传递两个参数：当前数据d和索引i；当然，也可以指定其为一个常数而不是函数；默认访问器假定输入数据是带有适当命名属性的对象：
 
 ```javascript
 function outerRadius(d) {
   return d.outerRadius;
 }
 ```
-**次段建议替换为下面新增内容**
-```
-通常情况下，指定外半径访问器 innerRadius-accessor是由于：输入数据是不同的格式、或你想要应用比例尺，亦或你想为圆环指定个恒定的外半径。
-外半径访问器会像D3的其他函数一样被调用；函数中的this代表选择中的当前元素（技术上来说，this上下文调用弧函数；然而一般情况下，弧生成器传递给attr操作符， this上下文将关联DOM元素）；函数传递两个参数：当前数据d和索引i；当然，也可以指定其为一个常数而不是函数。
-```
+
 **New Content 新增内容**
 ```
 The arc generator arguments (typically `d` and `i`) and context (`this`) are passed through to the accessor function. An outer radius accessor function is useful for handling data in a different format or for applying a [quantitative scale](Quantitative Scales) to encode data. A constant outer radius may be used to create a standard pie or donut chart.
