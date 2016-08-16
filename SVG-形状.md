@@ -5,17 +5,17 @@
 * QQ群：[D3.js](http://jq.qq.com/?_wv=1027&k=239rjew):437278817，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)：436442115
 * Github小组：[VisualCrew](https://github.com/VisualCrew)
 
-SVG有大量的内置建议图形。例如：轴对齐矩形和圆形。为了更大的灵活性，可以使用SVG的路径（[path](http://www.w3.org/TR/SVG/paths.html#PathElement "http://www.w3.org/TR/SVG/paths.html#PathElement")）元素结合D3的路径数据生成器.
+SVG有大量的内置图形。例如：轴对齐矩形和圆形。也可以结合D3的路径数据生成器使用SVG的路径（[path](http://www.w3.org/TR/SVG/paths.html#PathElement "http://www.w3.org/TR/SVG/paths.html#PathElement")）元素。
 
-形状生成器，例如[d3.svg.arc](#arc)返回的，既是一个对象又是一个函数。也就是说，你可以像其他函数一样调用shape，并且shape含有额外的方法来改变它的行为。像D3中的其他类一样，shape对象遵循链式语法由setter方法返回shape自己。允许在一个简单的申明中调用多个setter方法。、
+形状生成器，例如[d3.svg.arc](#arc)返回的，既是一个对象又是一个函数。也就是说，你可以像其他函数一样调用形状生成器。像D3中的其他类一样，形状生成器对象遵循链式语法。
 
-## SVG Elements
+## SVG 元素
 
-所有的SVG形状都可以使用 [transform](http://www.w3.org/TR/SVG/coords.html#TransformAttribute "http://www.w3.org/TR/SVG/coords.html#TransformAttribute")  属性转换。你可以将转换直接应用在shape上，或者应用在含 [g](http://www.w3.org/TR/SVG/struct.html#Groups "http://www.w3.org/TR/SVG/struct.html#Groups") 的元素上。这样，当形状是定义为“轴对齐”的，这只意味着在本地坐标系中轴对齐；你可以旋转或者转换形状。形状可使用 [fill](http://www.w3.org/TR/SVG/painting.html#FillProperties "http://www.w3.org/TR/SVG/painting.html#FillProperties") 和 [stroke](http://www.w3.org/TR/SVG/painting.html#StrokeProperties "http://www.w3.org/TR/SVG/painting.html#StrokeProperties") 样式填充或者描边（你也可以使用同名称的属性，但是当兼容外部样式时推荐使用样式）。
+所有的SVG形状都可以使用 [transform](http://www.w3.org/TR/SVG/coords.html#TransformAttribute "http://www.w3.org/TR/SVG/coords.html#TransformAttribute")  属性转换。你可以将转换直接应用在SVG形状上，或者应用在含 [g](http://www.w3.org/TR/SVG/struct.html#Groups "http://www.w3.org/TR/SVG/struct.html#Groups") 的元素上。这样你可以旋转或者转换形状。形状可使用 [fill](http://www.w3.org/TR/SVG/painting.html#FillProperties "http://www.w3.org/TR/SVG/painting.html#FillProperties") 和 [stroke](http://www.w3.org/TR/SVG/painting.html#StrokeProperties "http://www.w3.org/TR/SVG/painting.html#StrokeProperties") 样式填充或者描边（你也可以使用同名称的属性，但是当兼容外部样式时推荐使用样式）。
 
 <a name="svg_rect" href="SVG-Shapes#svg_rect">#</a> svg:**rect** x="0" y="0" width="0" height="0" rx="0" ry="0"
 
-矩形元素 [rect](http://www.w3.org/TR/SVG/shapes.html#RectElement "http://www.w3.org/TR/SVG/shapes.html#RectElement") 定义一个轴对齐的矩形。矩形的左上角使用*x*，*y*属性定位，使用*width*和*height*指定尺寸。圆角矩形可以使用可选参数*rx* 和 *ry*生成。
+矩形元素 [rect](http://www.w3.org/TR/SVG/shapes.html#RectElement "http://www.w3.org/TR/SVG/shapes.html#RectElement") 定义一个轴对齐的矩形。矩形的左上角使用*x*，*y*属性定位，使用*width*和*height*指定尺寸。使用可选参数*rx* 和 *ry*可以生成圆角矩形。
 
 <a name="svg_circle" href="SVG-Shapes#svg_circle">#</a> svg:**circle** cx="0" cy="0" r="0"
 
@@ -31,15 +31,15 @@ SVG有大量的内置建议图形。例如：轴对齐矩形和圆形。为了�
 
 <a name="svg_polyline" href="SVG-Shapes#svg_polyline">#</a> svg:**polyline** points=""
 
-折线元素[polyline](http://www.w3.org/TR/SVG/shapes.html#PolylineElement)定义一组相连的直线段。通常，polyline 元素定义开放形状。使用*points*属性指定构成折线的点。注意：在D3中通常将[d3.svg.line](#line) 路径生成器和path元素一起使用会更方便灵活。
+折线元素[polyline](http://www.w3.org/TR/SVG/shapes.html#PolylineElement)定义一组相连的直线段。通常折线元素定义的是开放的形状。使用*points*属性指定构成折线的点。在D3中推荐将[d3.svg.line](#line)路径生成器和path元素一起使用，这样会更方便灵活。
 
 <a name="svg_polygon" href="SVG-Shapes#svg_polygon">#</a> svg:**polygon** points=""
 
-多边形元素[polygon](http://www.w3.org/TR/SVG/shapes.html#PolygonElement)定义一个由一组相连的直线段构成的闭合图形。使用points属性指定构成多边形的点。注意：在D3中通常将[d3.svg.line](#line) 路径生成器和path元素一起使用会更方便灵活。线可以使用路径关闭命令([closepath](http://www.w3.org/TR/SVG/paths.html#PathDataClosePathCommand))"Z"闭合。
+多边形元素[polygon](http://www.w3.org/TR/SVG/shapes.html#PolygonElement)定义一个由一组相连的直线段构成的闭合图形。使用points属性指定构成多边形的点。注意：在D3中通常将[d3.svg.line](#line) 路径生成器和path元素一起使用。线可以使用路径关闭命令([closepath](http://www.w3.org/TR/SVG/paths.html#PathDataClosePathCommand))"Z"闭合。
 
 <a name="svg_text" href="SVG-Shapes#svg_text">#</a> svg:**text** x="0" y="0" dx="0" dy="0" text-anchor="start"
 
-文本元素[text](http://www.w3.org/TR/SVG/text.html#TextElement)定义文本组成的图形元素。文本元素的文本内容（参见文本操作符[text](选择器#text)）定义用来渲染的字符。文本元素的锚点使用*x*，*y*属性控制。另外，文本可以使用*dx*，*dy*属性偏移。这个偏移在你可以使用与字体大小相关的“em”单元控制文本的边沿和基线时尤其方便。横向文本对齐由text-anchor属性控制，下面是一些例子：
+文本元素[text](http://www.w3.org/TR/SVG/text.html#TextElement)定义文本组成的图形元素。文本元素的文本内容（参见文本操作符[text](选择器#text)）定义用来渲染的字符。文本元素的锚点使用*x*，*y*属性控制。另外，文本可以使用*dx*，*dy*属性偏移。横向文本对齐由text-anchor属性控制，下面是一些例子：
 
 ```xml
 <svg:text text-anchor="start">left-align, bottom-baseline</svg:text>
@@ -53,15 +53,15 @@ SVG有大量的内置建议图形。例如：轴对齐矩形和圆形。为了�
 <svg:text dy=".71em" text-anchor="end">right-align, top-baseline</svg:text>
 ```
 
-有可能有一个更好的方法来指定文字的基线，使用SVG的基线对齐属性([baseline alignment properties](http://www.w3.org/TR/SVG/text.html#BaselineAlignmentProperties))，但是这不是被浏览器广泛地支持的。最后，字体的颜色通常使用*fill*样式指定（你也可以使用*stroke*），字体使用*font*，*font-family*，*font-size*和相关的样式控制。一些浏览器也支持CSS3属性，例如*text-shadow*。
+有一个更好的方法来指定文字的基线，即使用SVG的基线对齐属性([baseline alignment properties](http://www.w3.org/TR/SVG/text.html#BaselineAlignmentProperties))，但是这不是被浏览器广泛地支持的。最后，字体的颜色通常使用*fill*样式指定（你也可以使用*stroke*），字体使用*font*，*font-family*，*font-size*和相关的样式控制。一些浏览器也支持CSS3属性，例如*text-shadow*。
 
 <a name="svg_path" href="SVG-Shapes#svg_path">#</a> svg:**path** d="" transform=""
 
 路径元素[path](http://www.w3.org/TR/SVG/paths.html#PathElement)代表了形状的轮廓可以被填充，描边，用做剪裁路径，或者这三者的任意组合。*d*属性定义了路径数据，这是路径命令的一个迷你语言([mini-language](http://www.w3.org/TR/SVG/paths.html#PathData))，例如*moveto* (M)，*lineto* (L)和*closepath* (Z)。路径元素是一个SVG中所有其他形状的概括，几乎可以用来画出任何东西！
 
-## Path Data Generators
+## 路径数据生成器
 
-为了简化路径元素的*d*属性的构造，D3包含很多辅助类用来生成路径数据。如果你熟悉Protovis，你就会发现这些路径生成器和Protovis的标记类型是相似的：每个生成器就是一个数据的函数。所以，如果你的数据是*xy*坐标序列。你可以定义访问器函数，路径生成器用来制造路径数据。例如，你可以这样定义生成器：
+为了简化路径元素的*d*属性的构造，D3包含很多辅助类用来生成路径数据。如果你的数据是*xy*坐标序列，你可以定义访问器函数，然后用路径生成器制造路径数据。例如：
 
 ```js
 var line = d3.svg.line()
