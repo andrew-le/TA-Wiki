@@ -710,7 +710,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Social web use in 2009](http://n79.org/infographics/asg1/) - Nikhil Bobb
 * [Visualizing opinons around the world (zoomable world map and interactive pie chart)](http://theartofasking.com/question/wjucdg6k) - Siamac Fazli, Bastian Venthur
 * [A Photographer's infographic](https://googledrive.com/host/0ByMecxlAS3YxQ3hoU21tdUNnc1E/photos.html) - Najeem Muhammed
-* [Visualizing word density in the Bible](http://stanford.edu/~garylee/bibly) - Gary Lee
 * [Visualizing document similarity over time](http://www.davidmasad.com/sandbox/FirmClusters.html) - David Masad
 * [Drought during Month](http://bost.ocks.org/mike/drought/) - Mike Bostock
 * [Interactive Publication History](http://www.cs.umd.edu/~bederson/papers/index.html) - Ben Bederson
@@ -792,7 +791,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Forecast of Mexican 2012 presidential election](http://www.diegovalle.net/electometer) - Diego Valle-Jones
 * [Romanian parliamentarian bubble chart. In Romanian](http://improve.ro/sandbox/politicians/v1.1/) - Harta Politicii
 * [Linked Jazz network graph](http://linkedjazz.org/network/) - Matt Miller
-* [Bibly v2: Visualizing word distribution within the KJV bible](http://stanford.edu/~garylee/bibly/) - GARY LEE & ANIRUDH VENKATESH
 * [A physics model of a physics model](http://michiel.wordpress.com/2012/07/13/a-physics-model-of-a-physics-model/) - Michiel van der Blonk
 * [The first thing that should be shown in any Trigonometry class](http://www.humblesoftware.com/demos/trig_d3)
 * [How educated are world leaders?](http://skyrill.com/leaders/) - Ali Almossawi
