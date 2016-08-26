@@ -1405,7 +1405,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 
 #### Products
 * [InfoCaptor: Tableau like Drag and Drop D3 Chart Builder](http://www.infocaptor.com)
-* [Bitdeli: Custom analytics with Python and GitHub](https://bitdeli.com/)
 * [Chart.io: The Easiest Business Dashboard You'll Ever Use](http://chart.io/)
 * [Cube: Time Series Data Collection & Analysis](http://square.github.com/cube/)
 * [Datacopia.com: Automated data visualization, Charts, and Analysis](http://www.datacopia.com)
