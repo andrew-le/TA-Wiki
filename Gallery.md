@@ -704,7 +704,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Hurricane #Sandy Twitter DataViz](http://geo-odyssey.com/links/sandy/) - Chris Cantey, Caroline Rose, Morgan Jarocki, UW-Madison
 * [Distribution of Grant Awards in Fiscal Year 2013](http://www.visualizing.org/sprint/launch/50407), ([github](https://github.com/artzub/wbgds/tree/v23)), [global-development-sprint version 23](http://www.visualizing.org/sprint/global-development-sprint) - [Artem Zubkov](https://github.com/artzub)
 * [Commuting Scales, Lausanne Campus commuters](http://choros.ch/cs/) - Boris Beaude and Luc Guillemot
-* [Disk Space Visualization](http://wheresmydiskspace.com/) - Lou Montulli
 * [Visualization of the Flask Source Code](http://www.andreas-dewes.de/code_is_beautiful) - Andreas Dewes ([bl.ocks.org](http://bl.ocks.org/adewes/4710330))
 * [Violence in Nepal](http://nepal.icbl.org/data-ncbl-main) - Shirish Pandey
 * [Photography Stats Analysis (bottom of the page)](http://remiescola.fr/about/index2.html) - Remi Escola
