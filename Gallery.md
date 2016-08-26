@@ -683,7 +683,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Presidents of USA and their Birth Signs – Sankey Visualization](http://www.infocaptor.com/dashboard/presidents-of-usa-and-their-birth-signs-sankey-visualization) - Sankey Viz
 * [Replay Edits - Visualizing the edits in a Wikipedia article](https://cosmiclattes.github.io/wikireplay/player.html) - Jeph Paul
 * [India SECC Census Explorer](https://gramener.com/playground/secc/) - [Pratap Vardhan](https://twitter.com/PratapVardhan)
-* [Israel election 2015 - coalition builder](http://www.coalitiongame2015.com) - Ran Ruder
 * [Light up! Denver](http://glennaxie.com/light-up-denver/) - Glenna Xie
 * [TwitterBeater - Real time visualisation of tweets](http://twitterbeater.datageeklab.com) - David Martín-Corral
 * [Gaussian function - Random variable](http://plnkr.co/GOH3XH/) - Samy Badjoudj
@@ -1158,7 +1157,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 
 #### Chord Layout (Circular Network)
 
-* [Football passes](http://www.tips-for-excel.com/MCFC/Passes.html)
 * [Selecties EK 2012](http://www.nu.nl/files/datajournalistiek/ek/ek2012.htm#.UKJ5yuOe8ww)
 * [Remittance flows](http://www.torre.nl/remittances/)
 * [Dependencies Between Classes](http://bl.ocks.org/mbostock/1046712)
@@ -1387,7 +1385,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Zoomable Partition Charts directly from Excel](http://ramblings.mcpher.com/Home/excelquirks/d3/partition) - Bruce McPherson
 * [SHEETSEE.JS: Fill up Websites with Stuff from Google Spreasheet](http://jllord.github.com/sheetsee.js/) -Jessica Lord
 * [Web reporting with D3js and R using RStudio Shiny](http://timelyportfolio.blogspot.com/2012/12/d3-shiny-and-r-reporting-performance.html) - klr @timelyportfolio
-* [Dex the Data Explorer](http://dexvis.com) - Patrick Martin
 * [d3.js partition chart serving data from parse.com](http://ramblings.mcpher.com/Home/excelquirks/parse/d3parse) - Bruce McPherson
 * [Force directed node focus generated from Excel](http://ramblings.mcpher.com/Home/excelquirks/gassites/d3nodefocus) - Bruce McPherson
 * [US Airline performance bigdata direct from Google Fusion](http://ramblings.mcpher.com/Home/excelquirks/d3/flights) - Bruce McPherson
