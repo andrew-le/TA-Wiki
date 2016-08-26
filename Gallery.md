@@ -1291,7 +1291,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Metro Maps of the News](http://metro.ezyang.com/)
 * [Life expectancy: small multiples](http://bl.ocks.org/d/2361485/)
 * [Semi-manual force layout of cablegate reference graphs](http://bl.ocks.org/mbostock/4589092)
-* [Digital Clock By Virtual Force](http://jklabz.com/d3/digital_clock/digital_clock.html)
 * [Radar Chart or Spider Chart](http://www.visualcinnamon.com/2013/09/making-d3-radar-chart-look-bit-better.html)
 * [Battle Statistics from the MMO game World of Tanks](http://www.polsci.ucsb.edu/faculty/glasgow/research/d3/WoTkillratio.html) - Garrett Glasgow
 * [Tendulkar's Rise and Fall](https://my.infocaptor.com/dash/mt.php?pa=tendulkar_5425757cbb623)
