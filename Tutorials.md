@@ -51,8 +51,6 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Visualizing Data with D3.js](http://uwdata.github.io/d3-tutorials/#/) - Tutorials for [Data Visualization Course](http://cse.uw.edu/512) at University of Washington (compiled by Kanit "Ham" Wongsuphasawat)
 * [On D3 Components](http://ag.svbtle.com/on-d3-components) by Pedram Emrouznejad
 * [Notes on my D3 Visualizations Development Workflow](https://thoughtstreams.io/paltman/developing-d3-visualizations/) by Patrick Altman
-* [Make a Force-Directed China Map with D3.js (Chinese)](http://www.ourd3js.com/wordpress/?p=318) by Mantouhuahua
-* [The Force-Directed Relationship Diagram with D3.js (Chinese)](http://www.ourd3js.com/wordpress/?p=606) by Mantouhuahua
 * [Introduction to D3.js(Traditional Chinese)](http://blog.infographics.tw/2015/03/d3js-the-introduction/) by infographics.tw
 * [Learn D3.js from scratch(Italian)](http://www.neposlab.com/series/d3js/) by Carlo
 * [Playing with React & D3.js](https://github.com/freddyrangel/playing-with-react-and-d3) by Freddy Rangel
@@ -63,6 +61,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Moreal D3.js Wiki](https://kb.moreal.co/d3) by Crypteia Networks
 * [10 D3 Must Knows](http://animateddata.co.uk/articles/d3/whatisd3/) by Peter Cook
 * [Let's Make a Grid - Applying data joins, selections, and click events](http://cagrimmett.com/til/2016/08/17/d3-lets-make-a-grid.html) by Chuck Grimmett
+* [Learning D3.js - a very simple tutorial] by Geoff Lui
 
 ### Specific Techniques
 
