@@ -102,7 +102,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [PubNub](http://www.pubnub.com/blog/tag/d3-js/)
 * [infographics.tw](http://blog.infographics.tw/tag/d3js/)
 * [neposlab.com (italian)](http://www.neposlab.com/tag/d3js/)
-* [Learning D3.js - a very simple tutorial (Chinese)](http://d3.decembercafe.org)
+* [Learning D3.js(Chinese)](http://d3.decembercafe.org)
 
 ## Books
 
@@ -116,6 +116,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Visual Storytelling with D3](http://ritchiesking.com/book/)<br>Ritchie King, Addison-Wesley, 2014
 * [D3 on AngularJS](https://leanpub.com/d3angularjs)<br>Ari Lerner + Victor Powell, Leanpub, 2014
 * [Data Visualization with d3.js Cookbook](http://oreil.ly/1JCkacm)
+* [JingTong D3.js (Chinese)](http://item.jd.com/11757441.html)
 
 ## Courses
 
