@@ -61,7 +61,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Moreal D3.js Wiki](https://kb.moreal.co/d3) by Crypteia Networks
 * [10 D3 Must Knows](http://animateddata.co.uk/articles/d3/whatisd3/) by Peter Cook
 * [Let's Make a Grid - Applying data joins, selections, and click events](http://cagrimmett.com/til/2016/08/17/d3-lets-make-a-grid.html) by Chuck Grimmett
-* [Learning D3.js - a very simple tutorial](http://d3.decembercafe.org) by Geoff Lui
+* [Learning D3.js - a very simple tutorial (Chinese)](http://d3.decembercafe.org) by Geoff Lui
 
 ### Specific Techniques
 
