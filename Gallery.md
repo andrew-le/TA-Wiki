@@ -747,7 +747,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Color: a color matching game](http://color.method.ac/) - Maria Munuera and Mark MacKay
 * [NCAA 2012 March Madness Power Rankings](http://thepowerrank.com/visual/NCAA_Tournament_Predictions) - Angi Chau
 * [iTunes Music Library Artist/Genre Graph](http://cgmartin.com/itunes-library-network-graph/) - Christopher Martin
-* [Visualising New Zealand's Stolen Vehicle Database Part2](http://markhansen.co.nz/stolen-vehicles-pt2/) and [source code](https://github.com/mhansen/stolen-vehicles-pt2)
+* [Visualising New Zealand's Stolen Vehicle Database Part2](https://github.com/mhansen/stolen-vehicles-pt2)
 * [Visualizing San Francisco Home Price Ranges](http://trends.truliablog.com/vis/pricerange-sf/)
 * [Daily data return rates for seismic networks in the EarthScope USArray](http://anf.ucsd.edu/tools/data_return_rates/) - [Rob Newman, Array Network Facility, UCSD](https://github.com/robnewman)
 * [What Size Am I? Finding dresses that fit](http://sizes.darkgreener.com/) - Anna Powell-Smith
