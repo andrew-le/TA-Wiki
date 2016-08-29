@@ -804,7 +804,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [UK Rainfall 1910-2012](http://prcweb.co.uk/lab/rainfall) - Peter Cook
 * [Modal Logic Playground](http://rkirsling.github.com/modallogic/) - Ross Kirsling
 * [Collection of 9 dynamical systems examples](http://sigsystext.com) - interactive examples found under educational material - Sean Summers
-* [Expected university tuition growth 2030](http://rumachine.com/tuition/expectedgrowth.html) - Sean Summers
 * [Standings Slopegraph - Slopegraph of weekly NHL standings for 2012-13 season](http://standings.laserdeathstehr.com/), ([Github](https://github.com/nstehr/NHL-Slopegraph)) - Nathan Stehr
 * [Amsterdam Economic Performance 1995-2011](http://www.iconomical.com/customers/Amsterdam-EZ/release/) - Iconomical
 * [Examination Results in Karnataka, India](http://sslc.klp.org.in) | Dashboard with maps - [Sajjad Anwar](http://twitter.com/geohacker)
@@ -850,15 +849,13 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Can we have a Pie  chart like this?](http://bl.ocks.org/anwargm/11145882) - Anwarhusen Malgave
 * [And like this? A Pie  chart with dofferent angle](http://bl.ocks.org/anwargm/11152574) - Anwarhusen Malgave
 * [DogeOS/SmartOS SMF browser](http://www.dogeos.net/smfgraph/) - LI, Yu
-* [Members of the Lower House of the Parliament of India](http://www.datafootprints.com/loksabha/) - Raj Verma
 * [Archive of polling data for Austria](http://www.strategieanalysen.at/umfragen/) - Flooh Perlot
 * [Visualizing MBTA Data](http://mbtaviz.github.io/) - Michael Barry and Brian Card
 * [Visualizing Joyce's 'Ulysses': "Sirens" as a Graphic Score](http://y-li.me/x/sirens) - Emily Fuhrman
 * [Visualizing film dialogue - 255 fuck in Pulp Fiction](http://graphoverflow.com/graphs/pulp-fiction.html) - Sarath Saleem
-* [US Health Expenditure Comparison Tool](http://cs.ucla.edu/~wuxu/visual_masters/), [Github](https://github.com/shawnhero/dataVis) — Shawn W
+* [US Health Expenditure Comparison Tool](https://github.com/shawnhero/dataVis) — Shawn W
 * [Drug adverse events](http://googledrive.com/host/0BwcmXsFAhzhoOTdydHhoRktlOUU/app/#/) - Etienne Ramstein
 * [Gene functional interaction networks](http://imp.princeton.edu/) - Aaron Wong
-* [Interactive Netcdf climate data plots](https://willospace.pythonanywhere.com) - Will Sijp
 * [Shrimp](http://ontoserver.csiro.au/shrimp) demonstrates a DAG Tree layout for browsing SNOMED CT - Michael Lawley, CSIRO
 * [Multi-line chart](http://bl.ocks.org/maithuy/5766374df8119e76969b) demonstrates the LendingClub.com's net annualized return of loans by vintage - Thuy Nguyen
 * [Circle Packing - Stories and other Interactive Animations](http://www.primordion.com/Xholon/gwt/XholonCirclePacking.html) - Ken Webb
@@ -1013,7 +1010,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Hierarchical Bar Chart](http://bl.ocks.org/mbostock/1283663)
 * [Grouped Bar Chart](http://bl.ocks.org/mbostock/882152)
 * [Stacked Bar Chart](http://bl.ocks.org/mbostock/1134768)
-* [Reorderable Stacked Bar Chart](http://bl.ocks.org/mbostock/1327441)
 * [Dynamic Bar Charts](https://github.com/mlarocca/Dynamic-Charts)
 * [Sortable bars: Foreign aid, corruption and internet use](http://theoldbeggar.com/aid/) - Nikhil Sonnad
 * [Grouped and Stacked Bar Chart](https://github.com/gencay/stackedGroupedChart)
@@ -1196,7 +1192,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Projection Transitions](http://bl.ocks.org/mbostock/3711652) and [Comparing Map Projections](http://bl.ocks.org/mbostock/3711245)
 * [Composite Map Projection](http://cartography.oregonstate.edu/demos/CompositeMapProjection/)
 * [World Boundaries TopoJSON](http://bl.ocks.org/mbostock/4091835)
-* [Mapbox: add vector features to your map with D3](http://mapbox.com/mapbox.js/example/vectors-with-d3/)
 * [DataMaps: Interactive maps for data visualizations.](http://datamaps.github.com/) - Mark DiMarco
 * [We ♥ France: transition between the Hexagon and a heart ](http://blog.lightjs.org/2012/09/d3-js-fun-france-2/)
 * [Cartogram.js: Continuous Area Cartograms](http://prag.ma/code/d3-cartogram/) - Shawn Allen
@@ -1277,7 +1272,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Drag rectangle](http://bl.ocks.org/mbostock/1629464)
 * [Elastic collisions](http://bl.ocks.org/mbostock/1706523)(http://bl.ocks.org/1706849)
 * [Collision-based rankings](http://cs.ecs.baylor.edu/~rivas_perea/csi3334s15/rankings.html)
-* [Collider - a d3.js game](http://blog.latentflip.com/post/18195267992/d3-collider)
 * [alpha-shapes aka concave hulls](http://bl.ocks.org/mbostock/1552725)
 * [Conway's Game of life as a scrolling background](http://markmarkoh.com/rhok)
 * [Simple Dashboard Example](http://bl.ocks.org/mbostock/3287802)
@@ -1395,7 +1389,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 #### Online Editors
 
 * [Bar chart code generator and online editor](http://www.d3-generator.com/)
-* [D3 bar chart online editor-Chinese](http://www.bangongyun.com/chart)
 * [Live coding based on Bret Victor's Inventing on Principle talk](http://livecoding.gabrielflor.it)
 * [Tributary](http://enjalot.com/tributary/2165875/sinwaves.js)
 * [D3.js playground](http://phrogz.net/JS/d3-playground/#BlankDefault)
@@ -1410,7 +1403,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Datacopia.com: Automated data visualization, Charts, and Analysis](http://www.datacopia.com)
 * [DropTask: Visual task management application using D3 for visuals](https://www.droptask.com)
 * [Explore Analytics: cloud-based data analytics and visualization](http://exploreanalytics.com/)
-* [Fast Multidimensional Filtering for Coordinated Views](http://square.github.com/tesseract/)
 * [Free Chart Builder in the cloud](https://my.infocaptor.com/free_data_visualization.php)
 * [Meshu turns your places into beautiful objects.](http://meshu.io/)
 * [Mohiomap: A Visual Memory for Evernote](https://www.moh.io/)
