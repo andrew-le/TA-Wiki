@@ -20,7 +20,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Contour plot](https://github.com/d3/d3-plugins/tree/master/geom/contour)
 * [Color wheel](https://github.com/betweentwobrackets/d3-colorwheel)
 * [Cubehelix color scheme](https://github.com/d3/d3-plugins/tree/master/cubehelix)
-* [D3 Symbol Extra (d3-symbol-extra)](https://github.com/YellowTugboat/d3-symbol-extra) 
+* [D3 Symbol Extra (d3-symbol-extra)](https://github.com/YellowTugboat/d3-symbol-extra) ([demo](http://bl.ocks.org/kbuhrer/858e65ae9840f22da4f51b5e1121e765))
 * [Distance-limited Voronoi](https://github.com/Kcnarf/d3.geom.distanceLimitedVoronoi) ([demo](http://bl.ocks.org/Kcnarf/6d5ace3aa9cc1a313d72b810388d1003))
 * [dTree Family Tree](https://github.com/ErikGartner/dTree)
 * [Find Peaks](https://github.com/efekarakus/d3-peaks/tree/master)
