@@ -91,6 +91,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Reactive visualizations with D3 v4](https://t.co/4lp3OwO2xi)
 * [A simple D3 plugin](https://537.io/a-simple-d3-plugin/)
 * [Notes from the Unconf 2015](https://github.com/visfest/topics2015/wiki/Session-3A:-D3-v4-(modular))
+* [D3 in Depth](http://d3indepth.com) (covers v4)
 
 ## Blogs
 
@@ -118,6 +119,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [D3 on AngularJS](https://leanpub.com/d3angularjs)<br>Ari Lerner + Victor Powell, Leanpub, 2014
 * [Data Visualization with d3.js Cookbook](http://oreil.ly/1JCkacm)
 * [JingTong D3.js (Chinese)](http://item.jd.com/11757441.html)
+* [D3 in Depth](http://d3indepth.com)
 
 ## Courses
 
