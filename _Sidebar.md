@@ -15,7 +15,7 @@ Data-Driven Documents
 - [D3.js on Gitter](https://gitter.im/d3/d3)
 
 ### [API Reference](https://github.com/d3/d3/blob/master/API.md)
-* [Arrays](https://github.com/d3/d3/blob/master/API.md#arrays-d3-array)
+* [Arrays](https://github.com/d3/d3/sblob/master/API.md#arrays-d3-array)
 * [Axes](https://github.com/d3/d3/blob/master/API.md#axes-d3-axis)
 * [Brushes](https://github.com/d3/d3/blob/master/API.md#brushes-d3-brush)
 * [Chords](https://github.com/d3/d3/blob/master/API.md#chords-d3-chord)
