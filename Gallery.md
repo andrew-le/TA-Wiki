@@ -684,9 +684,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Replay Edits - Visualizing the edits in a Wikipedia article](https://cosmiclattes.github.io/wikireplay/player.html) - Jeph Paul
 * [India SECC Census Explorer](https://gramener.com/playground/secc/) - [Pratap Vardhan](https://twitter.com/PratapVardhan)
 * [Light up! Denver](http://glennaxie.com/light-up-denver/) - Glenna Xie
-* [TwitterBeater - Real time visualisation of tweets](http://twitterbeater.datageeklab.com) - David Martín-Corral
 * [Gaussian function - Random variable](http://plnkr.co/GOH3XH/) - Samy Badjoudj
-* [Logistic Map](http://datageeklab.com/stuff/logisticmap) - David Martín-Corral
 * [Spotify Artist Explorer](https://artistexplorer.spotify.com) — Faruk Sahin
 * [History of trending topics of twitter](http://tt-history.appspot.com) — Mustafa ilhan
 * [Visualizing cricket](http://live.cricket.com.au/#/5010/1) — Cricket Australia ([Roman Kalyakin](http://www.placefaraway.com))
@@ -717,7 +715,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [The Wealth & Health of Nations](http://bost.ocks.org/mike/nations/)
 * [Bézier Curves](http://www.jasondavies.com/animated-bezier/), [Collatz Graph](http://www.jasondavies.com/collatz-graph/), [Word Cloud](http://www.jasondavies.com/wordcloud/) and many [Mathematical Visualisations](http://www.jasondavies.com/toys/) - Jason Davies
 * [Koalas to the Max!](http://www.koalastothemax.com/) - Vadim Ogievetsky
-* [Urban Water Explorer](http://www.visualizing.org/visualizations/urban-water-explorer/) - Jan Willem Tulp
 * [What Do You Work For?](http://www.datavizchallenge.org/viz/73) - Jeffrey Baumes
 * [Misc. Examples](http://labratrevenge.com/experiments) - Justin Palmer
 * [Collusion FireFox Addon](http://collusion.toolness.org/) - Atul Varma
