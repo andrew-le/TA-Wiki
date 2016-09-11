@@ -1164,7 +1164,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Visualizing Overlapping Sets](http://radialsets.org) - [Bernd Landauer](http://syrenio.com/)
 * [Visualizing Package Dependencies](http://redotheweb.com/DependencyWheel/)
 * [Switching behavior between phone brands of the Dutch ](http://www.visualcinnamon.com/2014/02/switching-behavior-between-phone-brands.html) and [Code](http://bl.ocks.org/nbremer/raw/6540350/)
-* [BeerViz - Visualizing Beers and their relations](http://seekshreyas.com/beerviz/)
+* [BeerViz - Visualizing Beers and their relations](http://seekshreyas.github.io/beerviz/)
 * [Explaining a Chord Diagram with Animation & Storytelling](http://www.visualcinnamon.com/2014/12/using-data-storytelling-with-chord.html)
 * [Refugee flows - 2 dynamic chord diagrams updated simultaneously](http://wp.me/pBH3w-a5)
 * [Web Application and Combining Data Records](http://bl.ocks.org/anuwatb/b8d0c748441d81006103)
