@@ -14,6 +14,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [d3/d3-selection-multi](https://github.com/d3/d3-selection-multi) - multi-value syntax for selections and transitions.
 * [d3/d3-tile](https://github.com/d3/d3-tile) - compute the quadtree tiles to display in a rectangular viewport. 
 * [1wheel/d3-jetpack-module](https://github.com/1wheel/d3-jetpack-module) - snippets, conventions, and convenience.
+* [benfred/venn.js](https://github.com/benfred/venn.js) - area-proportional Venn and Euler diagrams.
 * [Fil/d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) - spherical Voronoi and Delaunay.
 * [pbeshai/d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) - smoothly interpolate between arbitrary paths.
 * [pbeshai/d3-line-chunked](https://github.com/pbeshai/d3-line-chunked) - visual styling for missing data in lines.
@@ -71,6 +72,5 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Vertical Sankey](https://github.com/benlogan1981/VerticalSankey) ([demo](http://benlogan1981.github.io/VerticalSankey/UBS.html))
 * [Word cloud layout](https://github.com/jasondavies/d3-cloud)
 * [Venn Layout](https://github.com/christophe-g/d3-venn)
-* [Venn Diagram] (https://github.com/benfred/venn.js) ([demo](http://benfred.github.io/venn.js/examples/venn_venn.html))
 * [Geodesic grid](https://github.com/d3/d3-plugins/tree/master/geodesic)
 * [Polyhedral geographic projections](https://github.com/d3/d3-plugins/tree/master/geo/polyhedron)
