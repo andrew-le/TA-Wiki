@@ -1,9 +1,14 @@
 > [Wiki](Home) ▸ [[API--中文手册]] ▸ [[SVG函数]] ▸ **SVG 轴**
 
-* 本文档是D3官方文档中文翻译，并保持与[最新版](https://github.com/mbostock/d3/wiki/API-Reference)同步。
-* 如发现翻译不当或有其他问题可以通过以下方式联系译者:
-* 邮箱：zhang_tianxu@sina.com
-* QQ群：[D3数据可视化](http://jq.qq.com/?_wv=1027&k=ZGcqYF)205076374，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)436442115
+-------------
+
++ 本文档由[VisualCrew小组](https://github.com/VisualCrew)耗时两年翻译，并保持与[最新版](https://github.com/mbostock/d3/wiki/API-Reference)同步。
++ 如发现翻译不当或有其他问题可以通过以下方式联系译者:
+    - 邮箱：zhang_tianxu@sina.com
+    - QQ群：[D3.js](http://jq.qq.com/?_wv=1027&k=239rjew):437278817，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)：436442115
++ API使用方法可参考：https://github.com/tianxuzhang/d3-api-demo
+
+-------------
 
 D3的轴组件([axis component](http://bl.ocks.org/mbostock/1166403))自动展示比例尺参照的线。这使得你可以专注于展示数据，而轴组件需要关心绘制坐标轴和刻度标记的繁琐任务。
 
@@ -102,6 +107,11 @@ var xAxis = d3.svg.axis()
 
 注意:对于对数比例尺，刻度的数值不能自定义；然而，刻度的数值标签**可以**通过[ticks](#ticks)自定义。同样，对数比例尺刻度的格式器通常是通过ticks而不是tickFormat指定，以保持默认标签隐藏(label-hiding)行为。
 
-* axis.scale  axis.orient小屁孩翻译，咕噜校正20140425 21:40:39
-* axis.tickPadding  axis.tickFormat魏飞20140427译 咕噜校对 2014-11-29 17:03:41
-* 其余 咕噜译 2014-11-29 16:56:20
+------
+
+|本文参与  |人员   |组织   |时间   |
+|------   |------ |------|------|
+|翻译(axis.scale、axis.orient)      |小屁孩|-|20140425 21:40:39| 
+|翻译(axis.tickPadding、axis.tickFormat)      |[WeiFei365](https://github.com/WeiFei365)|[VisualCrew小组](https://github.com/VisualCrew)|2014-11-29 17:03:41| 
+|翻译(其余)、校对 |[大傻](https://github.com/tianxuzhang)|[VisualCrew小组](https://github.com/VisualCrew)|2014-11-29 16:56:20 |
+|校对/排版/案例补充         |[liang42hao](https://github.com/liang42hao)|[VisualCrew小组](https://github.com/VisualCrew)|2016-03-02T20:16:32Z|
