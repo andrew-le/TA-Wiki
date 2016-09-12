@@ -14,6 +14,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [d3/d3-selection-multi](https://github.com/d3/d3-selection-multi) - multi-value syntax for selections and transitions.
 * [d3/d3-tile](https://github.com/d3/d3-tile) - compute the quadtree tiles to display in a rectangular viewport. 
 * [1wheel/d3-jetpack-module](https://github.com/1wheel/d3-jetpack-module) - snippets, conventions, and convenience.
+* [tomgp/d3-iconarray](https://github.com/tomgp/d3-iconarray) - draw an array of icons.
 * [pbeshai/d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) - smoothly interpolate between arbitrary paths.
 * [pbeshai/d3-line-chunked](https://github.com/pbeshai/d3-line-chunked) - visual styling for missing data in lines.
 * [pbeshai/d3-scale-interactive](https://github.com/pbeshai/d3-scale-interactive) - a GUI for editing scales.
@@ -40,7 +41,6 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Container](https://github.com/binaworks/d3-container)
 * [Contour plot](https://github.com/d3/d3-plugins/tree/master/geom/contour)
 * [Color wheel](https://github.com/betweentwobrackets/d3-colorwheel)
-* [D3 Symbol Extra (d3-symbol-extra)](https://github.com/YellowTugboat/d3-symbol-extra) ([demo](http://bl.ocks.org/kbuhrer/858e65ae9840f22da4f51b5e1121e765))
 * [Distance-limited Voronoi](https://github.com/Kcnarf/d3.geom.distanceLimitedVoronoi) ([demo](http://bl.ocks.org/Kcnarf/6d5ace3aa9cc1a313d72b810388d1003))
 * [dTree Family Tree](https://github.com/ErikGartner/dTree)
 * [Find Peaks](https://github.com/efekarakus/d3-peaks/tree/master)
@@ -52,7 +52,6 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Graph analysis](https://github.com/d3/d3-plugins/tree/master/graph) (inactive)
 * [Hive plot](https://github.com/d3/d3-plugins/tree/master/hive)
 * [Horizon chart](https://github.com/d3/d3-plugins/tree/master/horizon)
-* [Icon array](https://github.com/tomgp/d3-iconarray)
 * [JSONP](https://github.com/d3/d3-plugins/tree/master/jsonp)
 * [Keybinding](https://github.com/d3/d3-plugins/tree/master/keybinding)
 * [Lasso selection](https://github.com/d3/d3-plugins/tree/master/lasso)
