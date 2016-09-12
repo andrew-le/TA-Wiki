@@ -13,7 +13,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [d3/d3-hcg](https://github.com/d3/d3-hcg) - the hue-chroma-grayness color space derived from Munsell.
 * [d3/d3-selection-multi](https://github.com/d3/d3-selection-multi) - multi-value syntax for selections and transitions.
 * [d3/d3-hsv](https://github.com/d3/d3-hsv) - the hue-saturation-value color space. 
-* [d3/d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic) - sequential, diverging and categorical color scales derived from ColorBrewer.
+* [d3/d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic) - color schemes derived from ColorBrewer.
 
 ## v3
 
