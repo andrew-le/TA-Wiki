@@ -19,7 +19,10 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [vijithassar/d3-rect](https://github.com/vijithassar/d3-rect) - draw rectangles.
 * [vijithassar/d3-parent](https://github.com/vijithassar/d3-parent) - select an ancestor element.
 * [pbeshai/d3-line-chunked](https://github.com/pbeshai/d3-line-chunked) - visual styling for missing data in lines.
+* [pbeshai/d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) - smoothly interpolate between arbitrary paths.
+* [pbeshai/d3-scale-interactive](https://github.com/pbeshai/d3-scale-interactive) - a GUI for editing scales.
 * [1wheel/d3-jetpack-module](https://github.com/1wheel/d3-jetpack-module) - snippets, conventions, and convenience.
+* [YellowTugboat/d3-symbol-extra](https://github.com/YellowTugboat/d3-symbol-extra) - extended symbol types.
 
 ## v3
 
