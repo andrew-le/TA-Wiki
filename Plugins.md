@@ -2,7 +2,7 @@
 
 Please feel free to add links to your work!
 
-For more information on creating your own plugin, see [Let's Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/).
+For more information on creating your own plugin, see [Let's Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/). All D3 4.x+ plugins should be published with the [d3-module keyword on npm](https://www.npmjs.com/browse/keyword/d3-module) .
 
 ## v4
 
