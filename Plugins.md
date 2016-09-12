@@ -5,23 +5,22 @@ Please feel free to add links to your work!
 For more information on creating your own plugin, see [Let's Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/). All D3 4.x+ plugins should be published with the [d3-module keyword on npm](https://www.npmjs.com/browse/keyword/d3-module) .
 
 ## v4
-
 * [d3/d3-geo-projection](https://github.com/d3/d3-geo-projection) - extended geographic projections.
-* [d3/d3-sankey](https://github.com/d3/d3-sankey) - visualize flow between nodes in a directed acyclic network.
-* [d3/d3-tile](https://github.com/d3/d3-tile) - compute the quadtree tiles to display in a rectangular viewport. 
-* [d3/d3-hexbin](https://github.com/d3/d3-hexbin) - group two-dimensional points into hexagonal bins.
 * [d3/d3-hcg](https://github.com/d3/d3-hcg) - the hue-chroma-grayness color space derived from Munsell.
-* [d3/d3-selection-multi](https://github.com/d3/d3-selection-multi) - multi-value syntax for selections and transitions.
+* [d3/d3-hexbin](https://github.com/d3/d3-hexbin) - group two-dimensional points into hexagonal bins.
 * [d3/d3-hsv](https://github.com/d3/d3-hsv) - the hue-saturation-value color space. 
+* [d3/d3-sankey](https://github.com/d3/d3-sankey) - visualize flow between nodes in a directed acyclic network.
 * [d3/d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic) - color schemes derived from ColorBrewer.
-* [vijithassar/d3-history](https://github.com/vijithassar/d3-history) - deep-linking for dynamic user interfaces.
-* [vijithassar/d3-textwrap](https://github.com/vijithassar/d3-textwrap) - wrap long lines of text in SVG.
-* [vijithassar/d3-rect](https://github.com/vijithassar/d3-rect) - draw rectangles.
-* [vijithassar/d3-parent](https://github.com/vijithassar/d3-parent) - select an ancestor element.
-* [pbeshai/d3-line-chunked](https://github.com/pbeshai/d3-line-chunked) - visual styling for missing data in lines.
-* [pbeshai/d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) - smoothly interpolate between arbitrary paths.
-* [pbeshai/d3-scale-interactive](https://github.com/pbeshai/d3-scale-interactive) - a GUI for editing scales.
+* [d3/d3-selection-multi](https://github.com/d3/d3-selection-multi) - multi-value syntax for selections and transitions.
+* [d3/d3-tile](https://github.com/d3/d3-tile) - compute the quadtree tiles to display in a rectangular viewport. 
 * [1wheel/d3-jetpack-module](https://github.com/1wheel/d3-jetpack-module) - snippets, conventions, and convenience.
+* [pbeshai/d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) - smoothly interpolate between arbitrary paths.
+* [pbeshai/d3-line-chunked](https://github.com/pbeshai/d3-line-chunked) - visual styling for missing data in lines.
+* [pbeshai/d3-scale-interactive](https://github.com/pbeshai/d3-scale-interactive) - a GUI for editing scales.
+* [vijithassar/d3-history](https://github.com/vijithassar/d3-history) - deep-linking for dynamic user interfaces.
+* [vijithassar/d3-parent](https://github.com/vijithassar/d3-parent) - select an ancestor element.
+* [vijithassar/d3-rect](https://github.com/vijithassar/d3-rect) - draw rectangles.
+* [vijithassar/d3-textwrap](https://github.com/vijithassar/d3-textwrap) - wrap long lines of text in SVG.
 * [YellowTugboat/d3-symbol-extra](https://github.com/YellowTugboat/d3-symbol-extra) - extended symbol types.
 
 ## v3
