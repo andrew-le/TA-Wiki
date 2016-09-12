@@ -10,10 +10,10 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [d3/d3-sankey](https://github.com/d3/d3-sankey) - visualize flow between nodes in a directed acyclic network.
 * [d3/d3-tile](https://github.com/d3/d3-tile) - compute the quadtree tiles to display in a rectangular viewport. 
 * [d3/d3-hexbin](https://github.com/d3/d3-hexbin) - group two-dimensional points into hexagonal bins.
-* d3/d3-hcg - the hue-chroma-grayness color space derived from the Munsell color system.
-* d3/d3-selection-multi - multi-value syntax for selections and transitions.
-* d3/d3-hsv - the hue-saturation-value color space. 
-* d3/d3-scale-chromatic - sequential, diverging and categorical color scales derived from ColorBrewer.
+* [d3/d3-hcg](https://github.com/d3/d3-hcg) - the hue-chroma-grayness color space derived from Munsell.
+* [d3/d3-selection-multi](https://github.com/d3/d3-selection-multi) - multi-value syntax for selections and transitions.
+* [d3/d3-hsv](https://github.com/d3/d3-hsv) - the hue-saturation-value color space. 
+* [d3/d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic) - sequential, diverging and categorical color scales derived from ColorBrewer.
 
 ## v3
 
