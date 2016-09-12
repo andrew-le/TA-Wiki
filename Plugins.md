@@ -4,6 +4,19 @@ Please feel free to add links to your work!
 
 For more information on creating your own plugin, see [Let's Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/).
 
+## v4
+
+* [d3/d3-geo-projection](https://github.com/d3/d3-geo-projection) - extended geographic projections
+* [d3/d3-sankey](https://github.com/d3/d3-sankey) - Sankey diagrams ([demo](http://bost.ocks.org/mike/sankey/))
+* [d3/d3-tile](https://github.com/d3/d3-tile) - zoomable quadtree tiles
+* [d3/d3-hexbin](https://github.com/d3/d3-hexbin) - hexagonal binning
+* d3/d3-hcg
+* d3/d3-selection-multi
+* d3/d3-hsv
+* d3/d3-scale-chromatic
+
+## v3
+
 * [2D Histogram](https://github.com/herkulano/d3-plugin-hist2d)
 * [3D Force Layout](https://github.com/ggeoffrey/d3.layout.force3D) ([minimalist demo](http://ggeoffrey.github.io/d3.layout.force3D/))
 * [Adjacency Matrix](https://github.com/emeeks/d3-plugins/tree/master/adjacencyMatrix)
@@ -29,7 +42,6 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Force-directed labels](https://github.com/d3/d3-plugins/tree/master/force_labels)
 * [Geometric primitives, labels, connections and more](https://github.com/christabor/d3-geometer)
 * [Graph analysis](https://github.com/d3/d3-plugins/tree/master/graph) (inactive)
-* [Hexagonal binning](https://github.com/d3/d3-hexbin)
 * [Hive plot](https://github.com/d3/d3-plugins/tree/master/hive)
 * [Horizon chart](https://github.com/d3/d3-plugins/tree/master/horizon)
 * [Icon array](https://github.com/tomgp/d3-iconarray)
@@ -43,7 +55,6 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Parallel sets](https://github.com/jasondavies/d3-parsets)
 * [Q-Q plot](https://github.com/d3/d3-plugins/tree/master/qq)
 * [Rollup (PivotGraph) layout](https://github.com/d3/d3-plugins/tree/master/rollup)
-* [Sankey diagram](https://github.com/d3/d3-sankey) ([demo](http://bost.ocks.org/mike/sankey/))
 * [Sankey diagram (by @soxofaan)](https://github.com/soxofaan/d3-plugin-captain-sankey)
 * [Sankey diagram (by @emeeks, multi-part)](https://github.com/emeeks/d3-plugins/tree/master/sankey)
 * [Superformula](https://github.com/d3/d3-plugins/tree/master/superformula)
@@ -53,10 +64,5 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Word cloud layout](https://github.com/jasondavies/d3-cloud)
 * [Venn Layout](https://github.com/christophe-g/d3-venn)
 * [Venn Diagram] (https://github.com/benfred/venn.js) ([demo](http://benfred.github.io/venn.js/examples/venn_venn.html))
-
-## Geographic Plugins
-
-* [Extended geographic projections](https://github.com/d3/d3-geo-projection)
 * [Geodesic grid](https://github.com/d3/d3-plugins/tree/master/geodesic)
 * [Polyhedral geographic projections](https://github.com/d3/d3-plugins/tree/master/geo/polyhedron)
-* [Zoomable quadtree tiles](https://github.com/d3/d3-tile)
