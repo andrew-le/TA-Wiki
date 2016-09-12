@@ -14,6 +14,12 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [d3/d3-selection-multi](https://github.com/d3/d3-selection-multi) - multi-value syntax for selections and transitions.
 * [d3/d3-hsv](https://github.com/d3/d3-hsv) - the hue-saturation-value color space. 
 * [d3/d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic) - color schemes derived from ColorBrewer.
+* [vijithassar/d3-history](https://github.com/vijithassar/d3-history) - deep-linking for dynamic user interfaces.
+* [vijithassar/d3-textwrap](https://github.com/vijithassar/d3-textwrap) - wrap long lines of text in SVG.
+* [vijithassar/d3-rect](https://github.com/vijithassar/d3-rect) - draw rectangles.
+* [vijithassar/d3-parent](https://github.com/vijithassar/d3-parent) - select an ancestor element.
+* [pbeshai/d3-line-chunked](https://github.com/pbeshai/d3-line-chunked) - visual styling for missing data in lines.
+* [1wheel/d3-jetpack-module](https://github.com/1wheel/d3-jetpack-module) - snippets, conventions, and convenience.
 
 ## v3
 
