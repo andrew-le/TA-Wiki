@@ -546,6 +546,9 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <td>Chord Viz<br><a href="http://bl.ocks.org/npashap/2d76492981106691cdcf843d7e3f765a"><img width="133" src="https://gist.githubusercontent.com/NPashaP/2d76492981106691cdcf843d7e3f765a/raw/ff1ccb6429650cf7bd44d913a9c401e6ead59cb0/thumbnail.png"></a></td>
 
 </tr>
+<tr>
+<td>Russian State Duma<br /><a href="http://petr-devaikin.github.io/duma/en/" target="_blank"><img width="133" src="http://petr-devaikin.github.io/duma/screen2.jpg.jpg" alt="Visualization of Russian State Duma structure"></a></td>
+</tr>
 </table>
 
 
@@ -877,6 +880,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Spirograph simulator](https://github.com/nylen/d3-spirograph/) - James Nylen
 * [KnowledgeMap](http://www.cotrino.com/2016/03/knowledgemap/) - José Cotrino
 * [Mova: Movement Analytics Platform](http://www.sfu.ca/~oalemi/movan/) - Omid Alemi
+* [Russian State Duma Structure](http://petr-devaikin.github.io/duma/en/) - Petr Devaikin
 
 ### Collections
 
