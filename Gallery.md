@@ -547,7 +547,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 
 </tr>
 <tr>
-<td>Russian State Duma<br /><a href="http://petr-devaikin.github.io/duma/en/" target="_blank"><img width="133" src="http://petr-devaikin.github.io/duma/screen2.jpg.jpg" alt="Visualization of Russian State Duma structure"></a></td>
+<td>Russian State Duma<br /><a href="http://petr-devaikin.github.io/duma/en/" target="_blank"><img width="133" src="http://petr-devaikin.github.io/duma/screen2.jpg" alt="Visualization of Russian State Duma structure"></a></td>
 </tr>
 </table>
 
