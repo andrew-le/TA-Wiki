@@ -2,7 +2,7 @@
 
 -------------
 
-+ 本文档由[VisualCrew小组](https://github.com/VisualCrew)耗时两年翻译，并保持与[最新版](https://github.com/mbostock/d3/wiki/API-Reference)同步。
++ 本文档由[VisualCrew小组](https://github.com/VisualCrew)耗时两年翻译，保持与[D3 V3最后一版（3.5.17）](https://github.com/d3/d3-3.x-api-reference/blob/master/API-Reference.md)一致。D3 V4最新版API请参考[d3.v4-API-Translation](https://github.com/tianxuzhang/d3.v4-API-Translation)。
 + 如发现翻译不当或有其他问题可以通过以下方式联系译者:
     - 邮箱：zhang_tianxu@sina.com
     - QQ群：[D3.js](http://jq.qq.com/?_wv=1027&k=239rjew):437278817，[大数据可视化](http://jq.qq.com/?_wv=1027&k=S8wGMe)：436442115
