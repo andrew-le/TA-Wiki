@@ -360,7 +360,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Radial Boxplot<br><a href="http://bl.ocks.org/davidwclin/ad5d13db260caeffe9b3"><img width="133" src="http://bl.ocks.org/davidwclin/raw/ad5d13db260caeffe9b3/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Pazzla: Mosaics of Instagram Pictures<br /><a href="http://pazzla.qoollo.com" target="_blank"><img width="133" src="http://petr-devaikin.github.io/img/pazzla.jpg" alt="Pazzla: Mosaics of Instagram Pictures"></a></td>
+        <td>Pazzla: Mosaics of Instagram Pictures<br /><a href="http://pazzla.qoollo.com" target="_blank"><img width="133" src="http://petrdevaikin.com/img/pazzla.jpg" alt="Pazzla: Mosaics of Instagram Pictures"></a></td>
         <td>Community Pop-Culture References Heatmap<br /><a href="http://communitypoprefs.com/" target="_blank"><img width="133" src="http://i.imgur.com/t4Df6VD.jpg" alt="Community Pop-Culture References Heatmap"></a></td>
         <td>Top baby names bump chart<br><a href="http://www.visualcinnamon.com/babynamesus"><img width="133" src="https://raw.githubusercontent.com/nbremer/thumbnails/master/Babynames%20Combined.png"></a></td>
         <td>Real time electric consumption in Spain
@@ -547,7 +547,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 
 </tr>
 <tr>
-<td>Russian State Duma<br /><a href="http://petr-devaikin.github.io/duma/en/" target="_blank"><img width="133" src="http://petr-devaikin.github.io/duma/screen2.jpg" alt="Visualization of Russian State Duma structure"></a></td>
+<td>Russian State Duma<br /><a href="http://petrdevaikin.com/duma/en/" target="_blank"><img width="133" src="http://petrdevaikin.com/duma/screen2.jpg" alt="Visualization of Russian State Duma structure"></a></td>
 </tr>
 </table>
 
@@ -863,8 +863,8 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [RGB-plot](https://csaladenes.wordpress.com/2014/12/07/colorful-development-rgb-coded-multidimensional-hdi/) - Denes Csala
 * [nextflu: real-time tracking of influenza virus evolution](http://nextflu.org) - Trevor Bedford
 * [I See Hue: How People Perceive Hues](http://iseehue.herokuapp.com/) - Petr Devaikin
-* [Max Katz Crowdfunding Campaign (Age and Gender)](http://petr-devaikin.github.io/katz/eng/) - Petr Devaikin
-* [Max Katz Crowdfunding Campaign Timeline](http://petr-devaikin.github.io/katz/eng/timeline/) - Petr Devaikin
+* [Max Katz Crowdfunding Campaign (Age and Gender)](http://petrdevaikin.com/katz/eng/) - Petr Devaikin
+* [Max Katz Crowdfunding Campaign Timeline](http://petrdevaikin.com/katz/eng/timeline/) - Petr Devaikin
 * [Visualizing Cash Flows](http://bl.ocks.org/Neilos/584b9a5d44d5fe00f779) - Neil Atkinson
 * [BridgeViz](http://home.deib.polimi.it/saidinejad/VizDemo/index.html) - [Diego Bogni](https://github.com/diego89b) and [Hassan Saidinejad](http://home.deib.polimi.it/saidinejad/)
 * [NCAR Ensemble Skew-T Viewer](http://www.image.ucar.edu/wrfdart/ensemble/sounding.php) - Ryan Sobash
@@ -880,7 +880,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Spirograph simulator](https://github.com/nylen/d3-spirograph/) - James Nylen
 * [KnowledgeMap](http://www.cotrino.com/2016/03/knowledgemap/) - José Cotrino
 * [Mova: Movement Analytics Platform](http://www.sfu.ca/~oalemi/movan/) - Omid Alemi
-* [Russian State Duma Structure](http://petr-devaikin.github.io/duma/en/) - Petr Devaikin
+* [Russian State Duma Structure](http://petrdevaikin.com/duma/en/) - Petr Devaikin
 
 ### Collections
 
