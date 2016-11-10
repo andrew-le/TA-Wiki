@@ -613,6 +613,9 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <td>World Map with heat color Example<br><a href="http://bl.ocks.org/ChumaA/385a269db46ae56444772b62f1ae82bf"><img width="133" src="http://bl.ocks.org/ChumaA/raw/385a269db46ae56444772b62f1ae82bf/9fdc3c723d18c4643d625479fa98c57580db6b8e/thumbnail.png"></a></td>
     <td>Twitter stream geographical visualization<br><a href="http://statick.org:3001"><img width="133" src="http://www.demodems.org/gtt/geovis2.png"></a></td>
   </tr>
+  <tr valign="top">
+    <td>Dendrogram + Grouped Bar<br><a href="https://bl.ocks.org/dahis39/f28369f0b17b456ac2f1fa9b937c5002"><img width="133" src="https://gist.githubusercontent.com/dahis39/f28369f0b17b456ac2f1fa9b937c5002/raw/67e0ca422cae469bdd0c200105d0bc8dcb834231/thumbnail.png"></a></td>
+  </tr>
 </table>
 
 ## Techniques, Interaction & Animation
