@@ -83,7 +83,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Stream data to create realtime, live-updating D3.js charts](http://www.pubnub.com/blog/stream-data-to-create-realtime-charts-w-d3js-and-rickshaw/) - Ian Jennings
 * [Graphing memory usage in realtime using D3.js and Rickshaw](http://www.pubnub.com/blog/graphing-node-js-memory-usage-d3-js-rickshaw/) - Ian Jennings
 * [D3 in Nodejs, for static dataviz](https://github.com/bradoyler/d3-node)
-* [An Introduction to Motion Capture Data Visualization with D3](http://omid.al/posts/2016-08-23-MocapVis-D3.html) - Omid Alemi
+* [An Introduction to Motion Capture Data Visualization with D3](https://omid.al/posts/2016-08-23-MocapVis-D3.html) - Omid Alemi
 * [Bringing SVG files to life with d3.js](https://datascience.blog.wzb.eu/2016/08/29/bringing-svg-to-life-with-d3-js/)
 
 ### D3 v4
