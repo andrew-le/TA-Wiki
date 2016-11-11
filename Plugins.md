@@ -29,6 +29,8 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [vijithassar/d3-textwrap](https://github.com/vijithassar/d3-textwrap) - wrap long lines of text in SVG.
 * [YellowTugboat/d3-symbol-extra](https://github.com/YellowTugboat/d3-symbol-extra) - extended symbol types.
 * [skokenes/d3-lasso](https://github.com/skokenes/d3-lasso) - lasso select elements
+* [dbarton-uk/d3-pathLayout](https://github.com/dbarton-uk/d3-pathLayout) - Maps node coordinates to an SVG path
+
 
 ## v3
 
