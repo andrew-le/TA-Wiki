@@ -113,7 +113,8 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Data Visualization with d3.js](http://www.packtpub.com/data-visualization-with-d3js/book)<br>Swizec Teller, Packt Publishing, October 2013
 * [Data Visualization with D3.js Cookbook](http://www.packtpub.com/data-visualization-with-d3-js-cookbook/book)<br>Nick Qi Zhu, Packt Publishing, October 2013
 * [Mastering D3.js](https://www.packtpub.com/web-development/mastering-d3js)<br>Pablo Navarro Castillo, Packt Publishing, August 2014
-* [D3.js in Action](http://www.manning.com/meeks/)<br>Elijah Meeks, Manning Publications, 2014
+* [D3.js in Action, 1st Edition (D3v3)](https://www.manning.com/books/d3-js-in-action)<br>Elijah Meeks, Manning Publications, 2014
+* [D3.js in Action, 2nd Edition (D3v4)](https://www.manning.com/books/d3js-in-action-second-edition)<br>Elijah Meeks, Manning Publications, 2017
 * [Learning D3.js Mapping](https://www.packtpub.com/web-development/learning-d3js-mapping)<br> Thomas Newton, Oscar Villarreal, Packt Publishing, 2014
 * [Visual Storytelling with D3](http://ritchiesking.com/book/)<br>Ritchie King, Addison-Wesley, 2014
 * [D3 on AngularJS](https://leanpub.com/d3angularjs)<br>Ari Lerner + Victor Powell, Leanpub, 2014
