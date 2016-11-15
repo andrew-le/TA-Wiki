@@ -30,6 +30,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [YellowTugboat/d3-symbol-extra](https://github.com/YellowTugboat/d3-symbol-extra) - extended symbol types.
 * [skokenes/d3-lasso](https://github.com/skokenes/d3-lasso) - lasso select elements
 * [dbarton-uk/d3-pathLayout](https://github.com/dbarton-uk/d3-pathLayout) - Maps node coordinates to an SVG path
+* [rwakulszowa/d3-mesh](https://github.com/rwakulszowa/d3-mesh) - easily divide area into regular cells
 
 
 ## v3
