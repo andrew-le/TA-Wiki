@@ -101,6 +101,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Jim Vallandingham](http://vallandingham.me/)
 * [Bharat Bhole](http://knowledgestockpile.blogspot.com/search/label/D3)
 * [Peter Cook](http://animateddata.co.uk/articles/)
+* [Robert James Liguori](http://robertjliguori.blogspot.com/search/label/D3)
 * [PubNub](http://www.pubnub.com/blog/tag/d3-js/)
 * [infographics.tw](http://blog.infographics.tw/tag/d3js/)
 * [neposlab.com (italian)](http://www.neposlab.com/tag/d3js/)
