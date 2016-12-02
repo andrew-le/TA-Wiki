@@ -17,6 +17,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [benfred/venn.js](https://github.com/benfred/venn.js) - area-proportional Venn and Euler diagrams.
 * [binaworks/d3-container](https://github.com/binaworks/d3-container) - a reusable margin convention.
 * [emeeks/d3-bboxCollide](https://github.com/emeeks/d3-bboxCollide) - bounding-box collision detection.
+* [etiennecrb/d3-xyzoom](https://github.com/etiennecrb/d3-xyzoom) - independent zoom scaling on x and y axis.
 * [Fil/d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) - spherical Voronoi and Delaunay.
 * [pbeshai/d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) - smoothly interpolate between arbitrary paths.
 * [pbeshai/d3-line-chunked](https://github.com/pbeshai/d3-line-chunked) - visual styling for missing data in lines.
