@@ -536,7 +536,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 
 <td>Chord Viz<br><a href="http://bl.ocks.org/NPashaP/ba4c802d5ef68f70c019a9706f77ebf1"><img width="133" src="https://gist.githubusercontent.com/NPashaP/ba4c802d5ef68f70c019a9706f77ebf1/raw/6d49945f1e7f12a194a2fcc6962c0574a258bf31/thumbnail.png"></a></td>
 
-<td>Bosnia and Herzegovina 2013 Census Visualization<br/><a href="http://statick.org:3002"><img width="133" src="http://statick.org:3002/vis.png"></a></td>
+<td>Bosnia and Herzegovina 2013 Census Visualization<br/><a href="http://census-ba.statick.org"><img width="133" src="http://census-ba.statick.org/vis.png"></a></td>
 </tr>
 <tr>
 <td>3D Torus with Force Layout<br/><a href="http://www.vizarto.com/gallery/torus/"><img width="133" src="http://i.imgur.com/3IZGC56.jpg"></a></td>
@@ -611,7 +611,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <td>Waterfall Chart<br><a href="http://bl.ocks.org/chucklam/f3c7b3e3709a0afd5d57"><img width="133" src="http://bl.ocks.org/chucklam/raw/f3c7b3e3709a0afd5d57/thumbnail.png"></a></td>
     <td>Diverging Stacked Bar Chart<br><a href="http://bl.ocks.org/wpoely86/e285b8e4c7b84710e463"><img width="133" src="http://bl.ocks.org/wpoely86/raw/e285b8e4c7b84710e463/thumbnail.png"></a></td>
     <td>World Map with heat color Example<br><a href="http://bl.ocks.org/ChumaA/385a269db46ae56444772b62f1ae82bf"><img width="133" src="http://bl.ocks.org/ChumaA/raw/385a269db46ae56444772b62f1ae82bf/9fdc3c723d18c4643d625479fa98c57580db6b8e/thumbnail.png"></a></td>
-    <td>Twitter stream geographical visualization<br><a href="http://statick.org:3001"><img width="133" src="http://www.demodems.org/gtt/geovis2.png"></a></td>
+    <td>Twitter stream geographical visualization<br><a href="http://twitter-stream.statick.org"><img width="133" src="http://lessgeneric.com/wp-content/uploads/2016/06/vis.png"></a></td>
   </tr>
   <tr valign="top">
     <td>Dendrogram + Grouped Bar<br><a href="https://bl.ocks.org/dahis39/f28369f0b17b456ac2f1fa9b937c5002"><img width="133" src="https://gist.githubusercontent.com/dahis39/f28369f0b17b456ac2f1fa9b937c5002/raw/67e0ca422cae469bdd0c200105d0bc8dcb834231/thumbnail.png"></a></td>
