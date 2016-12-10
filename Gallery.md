@@ -550,6 +550,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <td>Russian State Duma<br /><a href="http://petrdevaikin.com/duma/en/" target="_blank"><img width="133" src="http://petrdevaikin.com/duma/screen2.jpg" alt="Visualization of Russian State Duma structure"></a></td>
 <td>Circular visualization of integer sequences from OEIS<br /><a href="http://proj.mkonrad.net/d3-int-seq/" target="_blank"><img width="133" src="https://mkonrad.net/img_gen/d3-int-seq-oeis-150x150-6f7929.png" alt="Circular visualization of integer sequences from OEIS"></a></td>
 <td>Curve Comparison Tool<br><a href="https://cemrajc.github.io/d3-curve-comparison"><img width="133" src="http://i.imgur.com/oCUoxXm.png" alt="Useful tool for looking at the different curves offered by D3 v4."></a></td>
+<td>Flight Visualization<br><a href="http://www.decembercafe.org/demo/plane/"><img width="133" src="http://lzhlzz.github.io/img/20161210_2_plane.gif" alt="Flight Visualization By D3 v4.x and Leaflet"></a></td>
 </tr>
 </table>
 
