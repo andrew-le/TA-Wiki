@@ -658,7 +658,9 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <td>Image Map<br><a href="http://bl.ocks.org/nswamy14/df13d67b6efeb19eb640"><img width="133" src="http://bl.ocks.org/nswamy14/raw/df13d67b6efeb19eb640/thumbnail.png"></a></td>
 <td>Voronoi diagram second level<br><a href="http://corpglory.com/demo/vcflower/"><img width="133" src="https://trello-attachments.s3.amazonaws.com/56f83905c78cced7c8141dbd/387x387/b7e2cfb815526a80543a92992524ba08/smallRectPreview.png"></a></td>
   </tr>
-
+  <tr valign="top">
+    <td>Firework ~ Night<br><a href="http://www.decembercafe.org/demo/firework/"><img width="133" src="http://lzhlzz.github.io/img/20161210_firework.gif"></a></td>
+  </tr>
 </table>
 
 ## Maps
