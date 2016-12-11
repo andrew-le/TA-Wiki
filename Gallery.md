@@ -552,6 +552,10 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <td>Curve Comparison Tool<br><a href="https://cemrajc.github.io/d3-curve-comparison"><img width="133" src="http://i.imgur.com/oCUoxXm.png" alt="Useful tool for looking at the different curves offered by D3 v4."></a></td>
 <td>Flight Visualization<br><a href="http://www.decembercafe.org/demo/plane/"><img width="133" src="http://lzhlzz.github.io/img/20161210_2_plane.gif" alt="Flight Visualization By D3 v4.x and Leaflet"></a></td>
 </tr>
+
+<tr>
+<td>D3.js v4.x Modules<br><a href="http://www.decembercafe.org/demo/d3modules/"><img width="133" src="http://lzhlzz.github.io/img/20161211_d3modules.png" alt="D3.js v4.x Modules"></a></td>
+</tr>
 </table>
 
 
