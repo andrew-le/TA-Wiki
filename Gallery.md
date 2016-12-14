@@ -1147,7 +1147,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Collapsible, with Labels](http://bl.ocks.org/mbostock/1249394)
 * [Indented Tree (Collapsible)](http://bl.ocks.org/mbostock/1093025)
 * [Vertical, Collapsible Wikipedia Tree](http://bergeron.im/wikitree/)
-* [Radial Reingold–Tilford Tree](http://txt2vz.appspot.com/)
+* [Radial Reingold–Tilford Tree for text visualisation](http://txt2vz.appspot.com/)
 
 
 #### Misc Trees and Graphs
