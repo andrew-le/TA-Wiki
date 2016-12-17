@@ -828,8 +828,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Worldwide remittance flows](http://remittances.herokuapp.com/?en) - David Bauer, Ilya Boyandin und René Stalder
 * [Evolution of the Firefox Codebase](http://almossawi.com/firefox) - Ali Almossawi
 * [Language Network](http://www.cotrino.com/2012/11/language-network/) - José Cotrino
-* [Superposed areas for comparing 2 values](https://www.googledrive.com/host/0BwcmXsFAhzhocERSRHc0c0hxaTQ/echr.html) - Etienne Ramstein
-* [Object constancy through many types of buble charts](https://www.googledrive.com/host/0BwcmXsFAhzhoRWh5SjNyV2hLNlE/dashboard.html) - Etienne Ramstein
 * [The Fundamental Theorem of Arithmetic](http://freelanceastrophysicist.com/PrimeTheorem/FToA.html), [source](https://gist.github.com/freelanceastro/5686772) - [Adam Becker](http://freelanceastro.com)
 * [Global Oil Production & Consumption since 1965](http://labs.timogrossenbacher.ch/worldoil) - [Timo Grossenbacher](http://timogrossenbacher.ch)
 * [Swiss Votes Explorer](http://labs.timogrossenbacher.ch/swissvotesexplorer) - [Timo Grossenbacher](http://timogrossenbacher.ch)
@@ -868,7 +866,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [Visualizing Joyce's 'Ulysses': "Sirens" as a Graphic Score](http://y-li.me/x/sirens) - Emily Fuhrman
 * [Visualizing film dialogue - 255 fuck in Pulp Fiction](http://graphoverflow.com/graphs/pulp-fiction.html) - Sarath Saleem
 * [US Health Expenditure Comparison Tool](https://github.com/shawnhero/dataVis) — Shawn W
-* [Drug adverse events](http://googledrive.com/host/0BwcmXsFAhzhoOTdydHhoRktlOUU/app/#/) - Etienne Ramstein
+* [Drug adverse events](https://openfda-visualization.firebaseapp.com/#/) - Etienne Ramstein
 * [Gene functional interaction networks](http://imp.princeton.edu/) - Aaron Wong
 * [Shrimp](http://ontoserver.csiro.au/shrimp) demonstrates a DAG Tree layout for browsing SNOMED CT - Michael Lawley, CSIRO
 * [Multi-line chart](http://bl.ocks.org/maithuy/5766374df8119e76969b) demonstrates the LendingClub.com's net annualized return of loans by vintage - Thuy Nguyen
