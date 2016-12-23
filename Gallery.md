@@ -1437,6 +1437,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 
 #### Libraries
 
+* [ThreesyLine: Create a simple line chart. Based on D3 v4](https://github.com/threesy/threesy-line)
 * [Dc.js](http://nickqizhu.github.com/dc.js/)
 * [NVD3](http://nvd3.org/)
 * [Dimple](http://dimplejs.org/)
