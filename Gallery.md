@@ -901,6 +901,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [KnowledgeMap](http://www.cotrino.com/2016/03/knowledgemap/) - José Cotrino
 * [Mova: Movement Analytics Platform](http://www.sfu.ca/~oalemi/movan/) - Omid Alemi
 * [Russian State Duma Structure](http://petrdevaikin.com/duma/en/) - Petr Devaikin
+* [H1b Salaries](http://www.h1bsalary.info) - Si Thu Latt
 
 ### Collections
 
