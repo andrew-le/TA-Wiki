@@ -564,7 +564,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 </td>
 </tr>
 <tr>
-<td>H1b Salaries<br><a href="http://www.h1bsalary.info/index.html?employerName=AMAZON%20CORPORATE%20LLC&year=2016"><img width="133" src="http://i.imgur.com/yCyjDBA.png" alt="H1b Salaries visualization with D3 v4"></a></td>
+<td>US H1b Worker Salaries<br><a href="http://www.h1bsalary.info/index.html?employerName=AMAZON%20CORPORATE%20LLC&year=2016"><img width="133" src="http://i.imgur.com/yCyjDBA.png" alt="H1b Salaries visualization with D3 v4"></a></td>
 </tr>
 </table>
 
@@ -901,7 +901,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 * [KnowledgeMap](http://www.cotrino.com/2016/03/knowledgemap/) - José Cotrino
 * [Mova: Movement Analytics Platform](http://www.sfu.ca/~oalemi/movan/) - Omid Alemi
 * [Russian State Duma Structure](http://petrdevaikin.com/duma/en/) - Petr Devaikin
-* [H1b Salaries](http://www.h1bsalary.info) - Si Thu Latt
+* [US H1b Worker Salaries](http://www.h1bsalary.info) - Si Thu Latt
 
 ### Collections
 
