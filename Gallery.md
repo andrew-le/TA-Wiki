@@ -700,7 +700,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 </table>
 
 ## Examples
-* [Padma Awards - India's  Honour System - Interactive Explorer](http://padmaawards.gov.in:8888/) - [Pratap Vardhan](https://twitter.com/PratapVardhan)
+* [Padma Awards - India's  Honour System - Interactive Explorer](http://dashboard-padmaawards.gov.in/) - [Pratap Vardhan](https://twitter.com/PratapVardhan)
 * [Data From a Local NGO - Prayaas]
 (https://prayaas.iiita.ac.in/visual.php)
 [Source] (https://github.com/aedorado/d3-visuals) by [Anurag El Dorado] (https://github.com/aedorado/)
