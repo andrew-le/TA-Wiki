@@ -167,7 +167,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <td>What makes us happy?<br><a href="http://charts.animateddata.co.uk/whatmakesushappy/"><img width="133" src="http://animateddata.co.uk/img/ext/what-makes-us-happy2.jpg"></a></td>
         <td>Simple SOM Animation<br><a href="http://bl.ocks.org/e-/5244131"><img width="133" src="https://gist.github.com/e-/5244131/raw/2b721ed08e2361731b4d45370c9c8ddec63304e0/thumbnail.png"></a></td>
         <td>A mower demo<br><a href="http://bertranddechoux.github.io/d3js-sandbox/mower-demo/index.html"><img width="133" src="https://raw.github.com/BertrandDechoux/d3js-sandbox/gh-pages/mower-demo/screenshot.png"></a></td>
-        <td>Map and context with brushing<br><a href="http://rbspd3.herokuapp.com"><img width="133" src="https://raw.github.com/sdelarquier/rbspd3/mr/snapshot.png"></a></td>
+        <td>Confusion Matrix<br><a href="https://bl.ocks.org/arpitnarechania/dbf03d8ef7fffa446379d59db6354bac"><img width="133" src="https://gist.githubusercontent.com/arpitnarechania/dbf03d8ef7fffa446379d59db6354bac/raw/1445686d596b42a2283c268dbf9ed34fd3f5038d/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Binary tree with transitions<br><a href="http://animateddata.co.uk/lab/d3-tree"><img width="133" src="http://animateddata.co.uk/img/ext/tree.jpg"></a></td>
@@ -566,6 +566,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <tr>
 <td>US H1b Worker Salaries<br><a href="http://www.h1bsalary.info/index.html?employerName=AMAZON%20CORPORATE%20LLC&year=2016"><img width="133" src="http://i.imgur.com/yCyjDBA.png" alt="H1b Salaries visualization with D3 v4"></a></td>
 <td>Correlation Matrix<br><a href="https://bl.ocks.org/arpitnarechania/caeba2e6579900ea12cb2a4eb157ce74"><img width="133" src="https://gist.githubusercontent.com/arpitnarechania/caeba2e6579900ea12cb2a4eb157ce74/raw/414c6c79a27ea2e379f2045a795844e0a8ffe722/thumbnail.png"></a></td>
+        <td>Map and context with brushing<br><a href="http://rbspd3.herokuapp.com"><img width="133" src="https://raw.github.com/sdelarquier/rbspd3/mr/snapshot.png"></a></td>
 </tr>
 </table>
 
