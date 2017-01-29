@@ -630,6 +630,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
   </tr>
   <tr valign="top">
     <td>Dendrogram + Grouped Bar<br><a href="https://bl.ocks.org/dahis39/f28369f0b17b456ac2f1fa9b937c5002"><img width="133" src="https://gist.githubusercontent.com/dahis39/f28369f0b17b456ac2f1fa9b937c5002/raw/67e0ca422cae469bdd0c200105d0bc8dcb834231/thumbnail.png"></a></td>
+    <td>Multiseries Floating Bar Chart<br><a href="https://bl.ocks.org/arpitnarechania/4c803717a57f747c774b5e83903ddde4"><img width="133" src="https://gist.githubusercontent.com/arpitnarechania/4c803717a57f747c774b5e83903ddde4/raw/f608b586b819323f5e840543c30df466deeaeed4/thumbnail.png"></a></td>
   </tr>
 </table>
 
