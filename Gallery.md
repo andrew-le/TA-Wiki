@@ -565,6 +565,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 </tr>
 <tr>
 <td>US H1b Worker Salaries<br><a href="http://www.h1bsalary.info/index.html?employerName=AMAZON%20CORPORATE%20LLC&year=2016"><img width="133" src="http://i.imgur.com/yCyjDBA.png" alt="H1b Salaries visualization with D3 v4"></a></td>
+<td>Correlation Matrix<br><a href="https://bl.ocks.org/arpitnarechania/caeba2e6579900ea12cb2a4eb157ce74"><img width="133" src="https://gist.githubusercontent.com/arpitnarechania/caeba2e6579900ea12cb2a4eb157ce74/raw/414c6c79a27ea2e379f2045a795844e0a8ffe722/thumbnail.png"></a></td>
 </tr>
 </table>
 
