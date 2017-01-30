@@ -33,6 +33,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [dbarton-uk/d3-pathLayout](https://github.com/dbarton-uk/d3-pathLayout) - Maps node coordinates to an SVG path
 * [rwakulszowa/d3-mesh](https://github.com/rwakulszowa/d3-mesh) - easily divide area into regular cells
 * [herkulano/d3-hist2d](https://github.com/herkulano/d3-hist2d) - two-dimensional histogram
+* [AndreaSimeone/d3-hypergraph](https://github.com/AndreaSimeone/d3-hypergraph) - hypergraphs linking using force layout
 
 
 ## v3
