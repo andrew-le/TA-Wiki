@@ -203,7 +203,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Google calendar like visualization<br><a href="http://bl.ocks.org/chaitanyagurrapu/6007521"><img width="133" src="http://bl.ocks.org/chaitanyagurrapu/raw/6007521/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Kagi Chart<br><a href="https://bl.ocks.org/arpitnarechania/41d53792f562df4a2ad6f704ef242af5"><img width="133" src="https://gist.githubusercontent.com/arpitnarechania/41d53792f562df4a2ad6f704ef242af5/raw/29b18c0ec9bd4864b7d0a08beebecad6687089da/thumbnail.png"></a></td>
+        <td>Kagi Chart<br><a href="https://bl.ocks.org/arpitnarechania/41d53792f562df4a2ad6f704ef242af5"><img width="200" src="https://gist.githubusercontent.com/arpitnarechania/41d53792f562df4a2ad6f704ef242af5/raw/29b18c0ec9bd4864b7d0a08beebecad6687089da/thumbnail.png"></a></td>
         <td>Wikistalker - Wikipedia Visualization<br><a href="http://sepans.com/wikistalker"><img width="133" src="http://sepans.com/sp/wp-content/uploads/2013/07/wikistalker_history.png"></a></td>
         <td>D3 Cesium - Health and Wealth of Nations<br><a href="http://cesiumjs.org/demos/d3.html"><img width="133" src="http://cesiumjs.org/demos/images/d3.png"></a></td>
         <td>Starpaths<br><a href="http://www.cotrino.com/2013/05/starpaths/"><img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/starpaths.png"></a></td>
