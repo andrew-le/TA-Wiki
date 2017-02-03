@@ -1478,6 +1478,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 
 * [Insanity](https://github.com/jirislav/Insanity) is an D3js based online game developed to train people's reaction time and awareness. Try it here: http://insanity.jkozlovsky.cz/
 * [Cure](https://bitbucket.org/sulab/thecure) is an D3js based game that utilizes crowdsourcing to aid in selecting genes that are predictive of breast cancer recurrence. Try it here: http://genegames.org/cure/
+* [color-linez](https://github.com/four-js/color-linez) is an D3js based color matching game. Try it here: https://four-js.github.io/color-linez/
 
 ### Wish List
 
