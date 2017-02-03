@@ -569,6 +569,9 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Map and context with brushing<br><a href="http://rbspd3.herokuapp.com"><img width="133" src="https://raw.github.com/sdelarquier/rbspd3/mr/snapshot.png"></a></td>
         <td>Interactive Sales Data Pie Chart<br><a href="https://live.zoomdata.com/zoomdata/visualization?__target=embedded&key=52265abb6abdbcaa8c217789#51db7ad4e4b04caf9ab346db-51db7ad4e4b04caf9ab346d5"><img width="133" src="https://dl.dropboxusercontent.com/u/56332995/sales%20interactive%20pie%20d3js.png"></a></td>
 </tr>
+<tr>
+        <td>Bertifier - to visually encode and reorder data<br><a href="http://www.bertifier.com"><img width="133" src="http://charles.perin.free.fr/data/proj/bertifier_thumbnail.png"></a></td>
+</tr>
 </table>
 
 
