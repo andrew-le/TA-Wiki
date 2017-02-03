@@ -242,7 +242,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Relative Size Of The Planets<br><a href="http://www.ununpentium.co.uk/pages/planets.jsp"><img width="133" src="http://i39.tinypic.com/ngsoj8.png"></a></td>
         <td>AWS EC2 Price Comparison Chart<br><a href="http://kenlin.com/x/aws-price-comparison-chart/"><img width="133" src="https://raw2.github.com/kenklin/aws-price-comparison-chart/mr/aws-price-comparison-chart-small.png"></a></td>
         <td>Condegram Spiral Plot<br><a href="https://bl.ocks.org/arpitnarechania/027e163073864ef2ac4ceb5c2c0bf616"><img width="200" src="https://gist.githubusercontent.com/arpitnarechania/027e163073864ef2ac4ceb5c2c0bf616/raw/3c73dd679a0d9a132f40be2e717ac3073dde00f4/thumbnail.png"></a></td>
-        <td>-<br><a href="#"><img width="133" src="#"></a></td>
+        <td>Dot Matrix Chart<br><a href="http://bl.ocks.org/arpitnarechania/71740f18ae4ef6052ebe8e7ced9cff1b"><img width="200" src="https://gist.githubusercontent.com/arpitnarechania/71740f18ae4ef6052ebe8e7ced9cff1b/raw/5dc7fd3c01de9dd1c53f355e020e996363a2a268/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Reusable VIS Components(responsive)<br><a href="http://hijiangtao.github.io/ss-vis-component/"><img width="133" src="https://raw.githubusercontent.com/hijiangtao/ss-vis-component/gh-pages/assets/Example.png"></a></td>
