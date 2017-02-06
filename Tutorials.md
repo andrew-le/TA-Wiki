@@ -131,6 +131,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 
 ## Talks and Videos
 
+* [Building Data Visualizations with D3 and Angular 2 (Video)](https://www.packtpub.com/web-development/building-data-visualizations-d3-and-angular-2-video) <br> Matt Dionis, Packt, January 2017
 * [Build Interactive JavaScript Charts with D3 v4](https://egghead.io/courses/build-interactive-javascript-charts-with-d3-v4) <br> Ben Clinkinbeard, November 2016
 * [Introduction to D3](https://www.youtube.com/watch?v=8jvoTV54nXw)<br>Curran Kelleher, Bay Area D3 Meetup, April 2015
 * [Free tagtree screencast - thinking with joins](https://www.tagtree.tv/d3-episode2-thinking-with-joins?share_code=unloveable-peanut)
