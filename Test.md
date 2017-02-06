@@ -20,25 +20,5 @@
 						<td>Force-Directed Graph<br>
 								<a href="http://bl.ocks.org/mbostock/4062045"><img width="133" src="https://camo.githubusercontent.com/d7b97d7c0873e949f827918763174efcca6c4a5f/687474703a2f2f64336a732e6f72672f65782f666f7263652e706e67" data-canonical-src="http://d3js.org/ex/force.png"></a> </td>
 				</tr>
-				<tr valign="top">
-						<td>Circle Packing<br>
-								<a href="http://bl.ocks.org/mbostock/4063530"><img width="133" src="https://camo.githubusercontent.com/428c04c95f2a18ce7178d9d6135f1eab8df10ebd/687474703a2f2f64336a732e6f72672f65782f7061636b2e706e67" data-canonical-src="http://d3js.org/ex/pack.png"></a> </td>
-						<td>Population Pyramid<br>
-								<a href="http://bl.ocks.org/mbostock/4062085"><img width="133" src="https://camo.githubusercontent.com/50b7a4e7dde966c373c0e4d24bd8ec9629600ad5/687474703a2f2f64336a732e6f72672f65782f706f70756c6174696f6e2e706e67" data-canonical-src="http://d3js.org/ex/population.png"></a> </td>
-						<td>Stacked Bars<br>
-								<a href="http://bl.ocks.org/mbostock/3943967"><img width="133" src="https://camo.githubusercontent.com/df07db20685c0d417539705bd096d8ea9ccff48a/687474703a2f2f64336a732e6f72672f65782f737461636b2e706e67" data-canonical-src="http://d3js.org/ex/stack.png"></a> </td>
-						<td>Streamgraph<br>
-								<a href="http://bl.ocks.org/mbostock/4060954"><img width="133" src="https://camo.githubusercontent.com/3cbc8c7898d1336e83e499cb66274c15e63f65bf/687474703a2f2f64336a732e6f72672f65782f73747265616d2e706e67" data-canonical-src="http://d3js.org/ex/stream.png"></a> </td>
-				</tr>
-				<tr valign="top">
-						<td>Sunburst<br>
-								<a href="http://bl.ocks.org/mbostock/4063423"><img width="133" src="https://camo.githubusercontent.com/1415e2af369262e466534480edbc7baa883e5b58/687474703a2f2f64336a732e6f72672f65782f73756e62757273742e706e67" data-canonical-src="http://d3js.org/ex/sunburst.png"></a> </td>
-						<td>Node-Link Tree<br>
-								<a href="http://bl.ocks.org/mbostock/4063550"><img width="133" src="https://camo.githubusercontent.com/e646acd936244a6db8a140fb0e1e421d95b97d8e/687474703a2f2f64336a732e6f72672f65782f747265652e706e67" data-canonical-src="http://d3js.org/ex/tree.png"></a> </td>
-						<td>Treemap<br>
-								<a href="http://bl.ocks.org/mbostock/4063582"><img width="133" src="https://camo.githubusercontent.com/e6612268ca90a8c2f6d1da62f85d7d86616c37de/687474703a2f2f64336a732e6f72672f65782f747265656d61702e706e67" data-canonical-src="http://d3js.org/ex/treemap.png"></a> </td>
-						<td>Voronoi Diagram<br>
-								<a href="http://bl.ocks.org/mbostock/4060366"><img width="133" src="https://camo.githubusercontent.com/8b8bb466c9e6bdeae752ecab321227d2dced4546/687474703a2f2f64336a732e6f72672f65782f766f726f6e6f692e706e67" data-canonical-src="http://d3js.org/ex/voronoi.png"></a> </td>
-				</tr>
 		</tbody>
 </table>
