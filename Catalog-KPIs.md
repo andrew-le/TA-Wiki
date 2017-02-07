@@ -33,7 +33,14 @@
 								<a href="https://github.com/intelligaia/catalog-KPIs/issues/7">![](https://cloud.githubusercontent.com/assets/21331368/20885447/d326b942-bb16-11e6-98fa-40f98f1f3b2e.jpg)</a>
 					  		<p>This chart delivers the fundamental information necessary to assess the sales funnel.</p>
 						</td>
-						 
+						 <td width="33%">**Opportunity Sales funnel**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/7">![](https://cloud.githubusercontent.com/assets/21331368/20885447/d326b942-bb16-11e6-98fa-40f98f1f3b2e.jpg)</a>
+					  		<p>This chart delivers the fundamental information necessary to assess the sales funnel.</p>
+						</td>
+						<td width="33%">**Opportunity Sales funnel**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/7">![](https://cloud.githubusercontent.com/assets/21331368/20885447/d326b942-bb16-11e6-98fa-40f98f1f3b2e.jpg)</a>
+					  		<p>This chart delivers the fundamental information necessary to assess the sales funnel.</p>
+						</td>
 				</tr>
 		</tbody>
 </table>
