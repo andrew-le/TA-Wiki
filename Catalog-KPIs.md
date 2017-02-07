@@ -172,5 +172,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>In Nutshell, you can close a lead with three statuses: won, lost, or cancelled. Canceling may mean that your team canceled the lead due to requirements that were not met, as opposed to the Company or Person backing out (Losing a lead).</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**Probability of Closing the Deals**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/37">![](https://cloud.githubusercontent.com/assets/21331368/21641708/9e1f1542-d2a3-11e6-8939-b918506bf38d.png)</a>
+					  		<p>Your quote to closure ratio measures the number of formal opportunity given that have translated into an actual sale. This metric enables you to get a feel for the impact that price has on your sales funnel.</p>
+						</td>
+						 <td width="33%">**Revenue/ Benefit or wins by type**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/38">![](https://cloud.githubusercontent.com/assets/21331368/21837561/e54f9cd0-d7f2-11e6-92b2-e9a0ac9c5372.png)</a>
+					  		<p>Most of the time you have open - i.e. still in progress. Closed - can be either closed won, or closed lost (so disqualified etc). Then closed won are just your deals that have been set as won (according to the stage set in the opp).</p>
+						</td>
+						<td width="33%">**Type of product benefits from closed Leads.**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/39">![](https://cloud.githubusercontent.com/assets/11552289/20714304/977bb3f6-b671-11e6-9953-b0b3ca3ff934.jpg)</a>
+					  		<p>In Nutshell, you can close a lead with three statuses: won, lost, or cancelled. Canceling may mean that your team canceled the lead due to requirements that were not met, as opposed to the Company or Person backing out (Losing a lead).</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
