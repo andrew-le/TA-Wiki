@@ -102,5 +102,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>Deferred revenue is not yet revenue. It is an amount that was received by a company in advance of earning it. The amount unearned (and therefore deferred) as of the date of the financial statements should be reported as a liability. The title of the liability account might be Unearned Revenues or Deferred Revenues.</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**Usage Revenue**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/22">![](https://cloud.githubusercontent.com/assets/21331368/21344721/27361ebc-c6c3-11e6-8134-ca2f6bea6981.png)</a>
+					  		<p>The income generated from sale of goods or services, or any other use of capital or assets, associated with the main operations of an organization before any costs or expenses are deducted</p>
+						</td>
+						 <td width="33%">**Unbilled Revenue**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/23">![](https://cloud.githubusercontent.com/assets/21331368/21307379/4035b062-c5fb-11e6-8584-132e4e41b6d3.jpg)</a>
+					  		<p>The Unbilled Revenue Accrual process enables you to create accounting entries to accrue revenue for uninvoiced activity. Use this process, for example, to send revenue activity to the general ledger weekly when invoices are created monthly.</p>
+						</td>
+						<td width="33%">**Churn**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/24">![](https://cloud.githubusercontent.com/assets/11552289/21138390/e3ac67b0-c153-11e6-9ab6-362369fbaa77.png)</a>
+					  		<p>The churn rate, also known as the rate of attrition, is the percentage of subscribers to a service who discontinue their subscriptions to that service within a given time period. For a company to expand its clientele, its growth rate, as measured by the number of new customers, must exceed its churn rate.</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
