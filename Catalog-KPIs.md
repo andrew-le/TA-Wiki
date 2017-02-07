@@ -242,5 +242,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>'Quarter - Q1, Q2, Q3, Q4' ... A quarter refers to one-fourth of a year and is typically expressed as "Q." The four quarters that make up the year are: January, February and March (Q1); April, May and June (Q2); July, August and September (Q3); and October, November and December (Q4)</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**Sales this Year**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/52">![](https://cloud.githubusercontent.com/assets/21331368/21544303/d1ff5084-cdf3-11e6-9642-f3830a1796d8.jpg)</a>
+					  		<p>The quantity or number of products sold or services provided by a company in a particular period of time: higher/lower/total sales volume(s) boost/increase sales volume. sales volume grows/increases/falls Annual sales volume increased 17.5% in 2010.</p>
+						</td>
+						 <td width="33%">**Quote Conversion**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/53">![](https://cloud.githubusercontent.com/assets/21331368/21633214/32c20e06-d273-11e6-9970-9df1d6358651.jpg)</a>
+					  		<p>Measures the number of formal quotes sent out by your sales team compared to the number of deals closed.</p>
+						</td>
+						<td width="33%">**Quote to Close**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/54">![](https://cloud.githubusercontent.com/assets/21331368/21641379/711330e4-d2a1-11e6-94a6-c983b19410b2.png)</a>
+					  		<p>Your quote to closure ratio measures the number of formal opportunity given that have translated into an actual sale. This metric enables you to get a feel for the impact that price has on your sales funnel.</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
