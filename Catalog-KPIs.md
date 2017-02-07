@@ -73,5 +73,20 @@ No: of Quoted Opportunities / No: of Opportunities</p>
 					  		<p>Total Value is the sum of all opportunities (excluding milestone percentages). This shows your pipeline’s maximum income.</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**TCCV -Total contract committed value**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/16">![](https://cloud.githubusercontent.com/assets/11552289/20790710/99bf181e-b7df-11e6-8aae-05cad5010dee.jpg)</a>
+					  		<p>Total Contract Value (TCV) is a metric that represents the value of one-time and recurring charges. It does not include usage charges. TCV is a projection of your booking revenue and can be useful when planning expenditure and managing the growth of your business.</p>
+						</td>
+						 <td width="33%">**A-TCCV - Annual Total contract committed value**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/17">![](https://cloud.githubusercontent.com/assets/11552289/20792303/104fd0a2-b7e7-11e6-9ea8-710ea7206b71.png)</a>
+					  		<p>Another important annualized metric to keep track of is the Annual Contract Value, or ACV.
+This is an annualized metric to keep track of is the Annual Contract Value, or ACV. ACV measures the value of the contract over a 12-month period.</p>
+						</td>
+						<td width="33%">**Recurring Revenue**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/18">![](https://cloud.githubusercontent.com/assets/11552289/20793250/259a9302-b7ec-11e6-9a2e-b912aa13f6f4.png)</a>
+					  		<p>Recurring revenue is the portion of a company's revenue that is highly likely to continue in the future. This is revenue that is predictable, stable and can be counted on in the future with a high degree of certainty.</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
