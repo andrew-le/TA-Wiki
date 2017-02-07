@@ -116,5 +116,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>The churn rate, also known as the rate of attrition, is the percentage of subscribers to a service who discontinue their subscriptions to that service within a given time period. For a company to expand its clientele, its growth rate, as measured by the number of new customers, must exceed its churn rate.</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**Top Partner/Region**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/25">![](https://cloud.githubusercontent.com/assets/21331368/21312008/14952b12-c610-11e6-8167-3109b238a080.png)</a>
+					  		<p>A partner will sell your products alongside their own, which can be a great way to quickly and affordably scale your top line.</p>
+						</td>
+						 <td width="33%">**Grouping in the chart and legends**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/26">![](https://cloud.githubusercontent.com/assets/11552289/21347126/5bf29554-c6cd-11e6-97cc-710c14af0aec.png)</a>
+					  		<p></p>
+						</td>
+						<td width="33%">**Opportunities by Close date and Opportunity Stage**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/27">![](https://cloud.githubusercontent.com/assets/11552289/20711987/5295c06e-b668-11e6-8ea7-0a5721c00a2c.png)</a>
+					  		<p>Stacking the chart by Stage gives high-quality visibility of the overall health of the application.</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
