@@ -47,13 +47,13 @@
 								<a href="https://github.com/intelligaia/catalog-KPIs/issues/10">![](https://cloud.githubusercontent.com/assets/11552289/20708822/c2c5c854-b657-11e6-843c-0b27321b55a3.png)</a>
 					  		<p>A sales process is used to determine which opportunity stages are selectable when record types are enabled.</p>
 						</td>
-						 <td width="33%">**Open Opportunities by Created Date**<br>
-								<a href="https://github.com/intelligaia/catalog-KPIs/issues/8">![](https://cloud.githubusercontent.com/assets/11552289/20711784/6808ef76-b667-11e6-80a6-f17ad6a0633d.png)</a>
-					  		<p>A sales process is used to determine which opportunity stages are selectable when record types are enabled. A sales process is not required if record types are not enabled. See Record Types for more information.</p>
+						 <td width="33%">**Opportunity Conversion Ratio**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/11">![](https://cloud.githubusercontent.com/assets/11552289/20708894/21f3966c-b658-11e6-85b2-dfcc0660c8f2.png)</a>
+					  		<p>A conversion is any action that you define. It could be a purchase, an old fashioned phone call, contact form submission, newsletter signup, social share, a specified length of time a visitor spends on a web page, playing a video, a download, etc.</p>
 						</td>
-						<td width="33%">**Future Sales Performance**<br>
-								<a href="https://github.com/intelligaia/catalog-KPIs/issues/9">![](https://cloud.githubusercontent.com/assets/21331368/20885225/aa1b7dd6-bb15-11e6-9d86-d7fdb361d391.png)</a>
-					  		<p>Future Sales Performance is an important factor to keep in consideration for any Business and to know this in advance we might need to keep in mind the size and quality of sales pipeline.</p>
+						<td width="33%">**Top Five Leads and Prospects by Open Opportunities**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/12">![](https://cloud.githubusercontent.com/assets/21331368/20885043/b4b51f78-bb14-11e6-8a30-be8acc1ea620.png)</a>
+					  		<p>he Top Lead and Prospects matrix lists those Accounts with the highest value of Open Opportunities. It’s a significant help to managers in prioritizing their time.</p>
 						</td>
 				</tr>
 		</tbody>
