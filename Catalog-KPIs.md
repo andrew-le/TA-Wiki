@@ -200,5 +200,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>Common examples of asset accounts are cash on hand, cash in bank, real estate, inventory, prepaid expenses, goodwill, and accounts receivable. Liability accounts represent the different types of economic obligations of an entity, such as accounts payable, bank loans, bonds payable, and accrued expenses.</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**Average size of closed Accounts**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/43">![](https://cloud.githubusercontent.com/assets/21331368/21708777/bf199bc8-d401-11e6-8e0b-8ac0fee3c951.png)</a>
+					  		<p>Accounts that were not paid as agreed and charged off (meaning the debt became seriously delinquent and the creditor has given up on being paid and has closed the account to future use, although the debt is still owed) will generally remain on your credit report for seven years.</p>
+						</td>
+						 <td width="33%">**Accounts by Status**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/44">![](https://cloud.githubusercontent.com/assets/21331368/21637123/8c682a36-d28b-11e6-8f13-26ba71b79dfc.png)</a>
+					  		<p>The status of accounts section details whether account payments are or have been made in full and on time. Lenders may view this section to assess credit risk and determine interest rates on new credit applications.</p>
+						</td>
+						<td width="33%">**Average Value of Quote or Deal**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/45">![](https://cloud.githubusercontent.com/assets/21331368/21601195/442c2292-d1ad-11e6-9229-936615170e5f.png)</a>
+					  		<p>The sales metric Average Deal Value is the average dollar amount spent (in an individual transaction) on your product or service. You could either calculate it based on the value of the overall contract, annual value, monthly value, weekly value or daily value depending on your business model and the length of the average contract.</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
