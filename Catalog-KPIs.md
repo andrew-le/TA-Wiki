@@ -53,7 +53,24 @@
 						</td>
 						<td width="33%">**Top Five Leads and Prospects by Open Opportunities**<br>
 								<a href="https://github.com/intelligaia/catalog-KPIs/issues/12">![](https://cloud.githubusercontent.com/assets/21331368/20885043/b4b51f78-bb14-11e6-8a30-be8acc1ea620.png)</a>
-					  		<p>he Top Lead and Prospects matrix lists those Accounts with the highest value of Open Opportunities. It’s a significant help to managers in prioritizing their time.</p>
+					  		<p>The Top Lead and Prospects matrix lists those Accounts with the highest value of Open Opportunities. It’s a significant help to managers in prioritizing their time.</p>
+						</td>
+				</tr>
+                <tr valign="top">
+						<td width="33%">**POQ - Percent of Opportunities Quoted**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/13">![](https://cloud.githubusercontent.com/assets/21331368/20884691/c4c1f244-bb12-11e6-82e2-e07313954fcf.png)</a>
+					  		<p>POQ is calculated using the number of opportunities quoted compared to total opportunities.
+Calculation:
+No: of Quoted Opportunities / No: of Opportunities</p>
+						</td>
+						 <td width="33%">**Opportunity PipeLine**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/14">![](https://cloud.githubusercontent.com/assets/11552289/20711853/af1e893e-b667-11e6-80d5-15286da01174.png)</a>
+					  		<p>The sales pipeline is a systematic and visual approach to selling a product or service.
+</p>
+						</td>
+						<td width="33%">**Open Opportunities**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/15">![](https://cloud.githubusercontent.com/assets/11552289/20712097/b84370be-b668-11e6-9d1c-74340b80ab65.png)</a>
+					  		<p>Total Value is the sum of all opportunities (excluding milestone percentages). This shows your pipeline’s maximum income.</p>
 						</td>
 				</tr>
 		</tbody>
