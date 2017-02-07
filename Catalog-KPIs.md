@@ -181,9 +181,23 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 								<a href="https://github.com/intelligaia/catalog-KPIs/issues/38">![](https://cloud.githubusercontent.com/assets/21331368/21837561/e54f9cd0-d7f2-11e6-92b2-e9a0ac9c5372.png)</a>
 					  		<p>Most of the time you have open - i.e. still in progress. Closed - can be either closed won, or closed lost (so disqualified etc). Then closed won are just your deals that have been set as won (according to the stage set in the opp).</p>
 						</td>
-						<td width="33%">**Type of product benefits from closed Leads.**<br>
+						<td width="33%">**Type of product benefits from closed Leads**<br>
 								<a href="https://github.com/intelligaia/catalog-KPIs/issues/39">![](https://cloud.githubusercontent.com/assets/11552289/20714304/977bb3f6-b671-11e6-9953-b0b3ca3ff934.jpg)</a>
 					  		<p>In Nutshell, you can close a lead with three statuses: won, lost, or cancelled. Canceling may mean that your team canceled the lead due to requirements that were not met, as opposed to the Company or Person backing out (Losing a lead).</p>
+						</td>
+				</tr>
+                <tr valign="top">
+						<td width="33%">**Leads by Status**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/40">![](https://cloud.githubusercontent.com/assets/21331368/21758229/93e1bbf6-d65f-11e6-8fc1-18a0a43d6314.png)</a>
+					  		<p>By status helps you to filter the leads based on their status. Lead status has the seed values as default they are “New”, “Assigned”, “In Process", “Converted”, “Recycled”, “Dead” and “All”.</p>
+						</td>
+						 <td width="33%">**Accounts by Country**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/41">![](https://cloud.githubusercontent.com/assets/21331368/21806781/5b89bfb2-d761-11e6-8f1a-67331a0c9fef.png)</a>
+					  		<p>A sales territory is the customer group or geographical area for which an individual salesperson or a sales team holds responsibility. Territories can be defined on the basis of geography, sales potential, history, or a combination of factors. Companies strive to balance their territories because this can reduce costs and increase sales.</p>
+						</td>
+						<td width="33%">**Accounts by Type**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/42">![](https://cloud.githubusercontent.com/assets/21331368/21709246/97fc87d6-d405-11e6-8922-76d2976be259.png)</a>
+					  		<p>Common examples of asset accounts are cash on hand, cash in bank, real estate, inventory, prepaid expenses, goodwill, and accounts receivable. Liability accounts represent the different types of economic obligations of an entity, such as accounts payable, bank loans, bonds payable, and accrued expenses.</p>
 						</td>
 				</tr>
 		</tbody>
