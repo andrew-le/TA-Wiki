@@ -10,7 +10,7 @@
 					  		<p>Price–sales ratio, P/S ratio, or PSR, is a valuation metric for stocks. It is calculated by dividing the company's market cap by the revenue in the most recent year; or, equivalently, divide the per-share stock price by the per-share revenue.</p>
 						</td>
 						<td width="33%">**Sales Opportunities**<br>
-								<a href="">![](https://cloud.githubusercontent.com/assets/11552289/20712077/a3f37992-b668-11e6-9bde-b0f0e7123856.png)</a>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/3">![](https://cloud.githubusercontent.com/assets/11552289/20712077/a3f37992-b668-11e6-9bde-b0f0e7123856.png)</a>
 					  		<p>A sales opportunity is a contact or an account which has been qualified. This person has entered into your sales cycle and is committed to working with you. You have already contacted, called or met him and know their needs or requirements.</p>
 						</td>
 				</tr>
