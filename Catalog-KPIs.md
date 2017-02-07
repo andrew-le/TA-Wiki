@@ -158,5 +158,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>A conversion is any action that you define. It could be a purchase, an old fashioned phone call, contact form submission, newsletter signup, social share, a specified length of time a visitor spends on a web page, playing a video, a download, etc. Number of conversions done in a single quarter are called Conversion per Quarter.</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**Open Leads**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/34">![](https://cloud.githubusercontent.com/assets/11552289/20711651/c6853362-b666-11e6-9209-65a0068ee8d2.png)</a>
+					  		<p>Open Leads is a web-based Sales Lead Management and simple Customer Relationship Management (CRM) application, designed to be flexible, yet easy to use – so it will work your way. ... Sort, organize, maintain, and manage your sales leads online.</p>
+						</td>
+						 <td width="33%">**Shared Deals - Number/ Percentage**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/35">![](https://cloud.githubusercontent.com/assets/21331368/21801164/8dbdb58a-d746-11e6-89af-ece8df5f1052.png)</a>
+					  		<p>Sharing enables record-level access control for all custom objects, as well as many standard objects (such as Account, Contact, Opportunity and Case). Administrators first set an object’s organization-wide default sharing access level, and then grant additional access based on record ownership, the role hierarchy, sharing rules, and manual sharing.</p>
+						</td>
+						<td width="33%">**Closed Leads (W.I.P.)**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/36">![](https://cloud.githubusercontent.com/assets/11552289/20714304/977bb3f6-b671-11e6-9953-b0b3ca3ff934.jpg)</a>
+					  		<p>In Nutshell, you can close a lead with three statuses: won, lost, or cancelled. Canceling may mean that your team canceled the lead due to requirements that were not met, as opposed to the Company or Person backing out (Losing a lead).</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
