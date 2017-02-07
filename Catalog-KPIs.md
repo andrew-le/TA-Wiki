@@ -214,5 +214,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>The sales metric Average Deal Value is the average dollar amount spent (in an individual transaction) on your product or service. You could either calculate it based on the value of the overall contract, annual value, monthly value, weekly value or daily value depending on your business model and the length of the average contract.</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**Big Deals**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/46">![](https://cloud.githubusercontent.com/assets/21331368/21634178/3266531a-d27b-11e6-839a-bcf50e906322.png)</a>
+					  		<p>When you close bigger deals you need fewer sales to make your numbers.Going after larger sales makes your sales life easier and makes room for more selling or other activities if selling is only part of your role.</p>
+						</td>
+						 <td width="33%">**Deals/Quotes by Status**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/47">![](https://cloud.githubusercontent.com/assets/21331368/21586990/06689ed2-d0fd-11e6-97f1-5b0140e0ef50.png)</a>
+					  		<p>Deal/Quote Status is a great way to track the health of the deals in your PipelineDeals account.</p>
+						</td>
+						<td width="33%">**Average purchase value**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/48">![](https://cloud.githubusercontent.com/assets/21331368/21585580/25e1ae0c-d0e9-11e6-938d-33a7ee36049e.png)</a>
+					  		<p>The Average Purchase Value KPI measures the average value of each purchase made by your customers and will often compare that to the average number of units per transaction.</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
