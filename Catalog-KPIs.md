@@ -130,5 +130,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>Stacking the chart by Stage gives high-quality visibility of the overall health of the application.</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**Opportunity Stage Movement Report**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/28">![](https://cloud.githubusercontent.com/assets/21331368/21543726/08c85782-cdef-11e6-9f52-c62a1d8f2a8a.png)</a>
+					  		<p>High quality visibility of sales trends and sales performance means sales people must manage deals through the sales process. As such we should see the majority of opportunities moving successively through each Opportunity Stage. The Opportunity Stage Movement Report shows, for any given period, what has happened to Opportunities.</p>
+						</td>
+						 <td width="33%">**Total Leads generated**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/29">![](https://cloud.githubusercontent.com/assets/21331368/21804055/03db9e42-d753-11e6-923d-e99c3aa508cc.jpg)</a>
+					  		<p>Lead generation describes the marketing process of stimulating and capturing interest in a product or service for the purpose of developing sales pipeline.</p>
+						</td>
+						<td width="33%">**Lead Response Time by Month**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/30">![](https://cloud.githubusercontent.com/assets/21331368/21584986/ce1968c4-d0dc-11e6-8f53-c00e93093145.gif)</a>
+					  		<p>The sales metric Lead Response Time is the average time it takes for a sales rep to follow-up with a lead after self-identifying as a lead (submitting a form, downloading an ebook, etc.). This is more meaningful if you calculate the average time it takes to follow-up on a lead segmented by lead source since the warmer a lead is the more important it is to follow-up quickly.</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
