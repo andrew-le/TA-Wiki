@@ -88,5 +88,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>Recurring revenue is the portion of a company's revenue that is highly likely to continue in the future. This is revenue that is predictable, stable and can be counted on in the future with a high degree of certainty.</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**RTM - Route to Market**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/19">![](https://cloud.githubusercontent.com/assets/11552289/20888102/6b42b148-bb23-11e6-8dcb-9bf63888d63e.jpg)</a>
+					  		<p>RTM helps in how we sell our product and how we plan our sales. It's one of the most important things to get right: if you don't sell the way your customers want, they won't buy your product.</p>
+						</td>
+						 <td width="33%">**Recognized Revenue**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/20">![](https://cloud.githubusercontent.com/assets/21331368/21350395/1b39043e-c6dd-11e6-8661-049d94cdb3d8.jpg)</a>
+					  		<p>Revenue recognition is an accounting principle under generally accepted accounting principles (GAAP) that determines the specific conditions under which revenue is recognized or accounted for. Generally, revenue is recognized only when a specific critical event has occurred and the amount of revenue is measurable.</p>
+						</td>
+						<td width="33%">**Deferred Revenue**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/21">![](https://cloud.githubusercontent.com/assets/21331368/21345778/7f48eaf4-c6c7-11e6-911f-59561d93ffd4.jpg)</a>
+					  		<p>Deferred revenue is not yet revenue. It is an amount that was received by a company in advance of earning it. The amount unearned (and therefore deferred) as of the date of the financial statements should be reported as a liability. The title of the liability account might be Unearned Revenues or Deferred Revenues.</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
