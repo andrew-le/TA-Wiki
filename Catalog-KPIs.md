@@ -144,5 +144,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>The sales metric Lead Response Time is the average time it takes for a sales rep to follow-up with a lead after self-identifying as a lead (submitting a form, downloading an ebook, etc.). This is more meaningful if you calculate the average time it takes to follow-up on a lead segmented by lead source since the warmer a lead is the more important it is to follow-up quickly.</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**Lead to Quote Target**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/31">![](https://cloud.githubusercontent.com/assets/21331368/21838213/bf6ac608-d7f6-11e6-8d0e-989663cc707d.jpg)</a>
+					  		<p>Lead and prospect – for two terms that you likely hear on a regular basis, they’re surprisingly difficult to define. Both terms are deeply ingrained in business processes, leading to a variety of company-specific (or even business-unit-specific) definitions.</p>
+						</td>
+						 <td width="33%">**Leads Conversion Rate**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/32">![](https://cloud.githubusercontent.com/assets/21331368/21802370/78dec262-d74b-11e6-9b07-0f568bb576e7.png)</a>
+					  		<p>A conversion is any action that you define. It could be a purchase, an old fashioned phone call, contact form submission, newsletter signup, social share, a specified length of time a visitor spends on a web page, playing a video, a download, etc.</p>
+						</td>
+						<td width="33%">**Conversion per Quarter**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/33">![](https://cloud.githubusercontent.com/assets/21331368/21802096/700a8b54-d74a-11e6-8768-db3e2fcea25c.png)</a>
+					  		<p>A conversion is any action that you define. It could be a purchase, an old fashioned phone call, contact form submission, newsletter signup, social share, a specified length of time a visitor spends on a web page, playing a video, a download, etc. Number of conversions done in a single quarter are called Conversion per Quarter.</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
