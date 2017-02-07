@@ -228,5 +228,19 @@ This is an annualized metric to keep track of is the Annual Contract Value, or A
 					  		<p>The Average Purchase Value KPI measures the average value of each purchase made by your customers and will often compare that to the average number of units per transaction.</p>
 						</td>
 				</tr>
+                <tr valign="top">
+						<td width="33%">**Sales per Quarter**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/49">![](https://cloud.githubusercontent.com/assets/21331368/21585438/1b82f360-d0e6-11e6-82ff-6ffbf9f60f28.png)</a>
+					  		<p>A three-month period on a financial calendar that acts as a basis for the reporting of earnings and the paying of dividends. A quarter refers to one-fourth of a year and is typically expressed as "Q." The four quarters that make up the year are: January, February and March (Q1); April, May and June (Q2); July, August and September (Q3); and October, November and December (Q4).</p>
+						</td>
+						 <td width="33%">**Sales this Month**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/50">![](https://cloud.githubusercontent.com/assets/21331368/21584986/ce1968c4-d0dc-11e6-8f53-c00e93093145.gif)</a>
+					  		<p>A report made every month showing the number of items sold or the amount of money a company has received for selling stock.</p>
+						</td>
+						<td width="33%">**Sales this Quarter**<br>
+								<a href="https://github.com/intelligaia/catalog-KPIs/issues/51">![](https://cloud.githubusercontent.com/assets/21331368/21544745/d8f535f8-cdf7-11e6-9e1f-c6f8441768df.jpg)</a>
+					  		<p>'Quarter - Q1, Q2, Q3, Q4' ... A quarter refers to one-fourth of a year and is typically expressed as "Q." The four quarters that make up the year are: January, February and March (Q1); April, May and June (Q2); July, August and September (Q3); and October, November and December (Q4)</p>
+						</td>
+				</tr>
 		</tbody>
 </table>
