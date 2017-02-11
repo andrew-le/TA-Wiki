@@ -571,6 +571,8 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 </tr>
 <tr>
         <td>Bertifier - to visually encode and reorder data<br><a href="http://www.bertifier.com"><img width="133" src="http://charles.perin.free.fr/data/proj/bertifier_thumbnail.png"></a></td>
+
+        <td>Font co-usage Force-directed graph (v4)<br><a href="https://datascopeanalytics.com/fontstellations/"><img width="133" src="https://datascopeanalytics.com/blog/fontstellations/thumbnails/600x250/thumbnail.png"></a></td>
 </tr>
 </table>
 
