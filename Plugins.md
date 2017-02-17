@@ -35,6 +35,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [herkulano/d3-hist2d](https://github.com/herkulano/d3-hist2d) - two-dimensional histogram
 * [AndreaSimeone/d3-hypergraph](https://github.com/AndreaSimeone/d3-hypergraph) - hypergraphs linking using force layout
 * [ttdtrang/d3-colorbar](https://github.com/ttdtrang/d3-colorbar) - quick color bar to accompany sequential color scale
+* [squarednob/d3-electrophoresis](https://github.com/squarednob/d3-electrophoresis) - simulate electrophoresis by cutting text
 
 
 ## v3
