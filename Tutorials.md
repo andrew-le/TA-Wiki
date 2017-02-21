@@ -25,7 +25,6 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [D3, Conceptually](http://code.hazzens.com/d3tut/) - Mikey Levine
 * [Introduction to D3](http://dealloc.me/2011/06/24/d3-is-not-a-graphing-library/) - Justin Palmer
 * [A tiny introduction to d3.js with Moon Phase Visualizer](http://palerdot.github.io/moon-phase-visualizer/d3-moon-viz.html) - palerdot
-* [D3.js experiments in the console](http://www.ultrasaurus.com/sarahblog/2012/03/d3-js-experiments-in-the-console/) - Sarah Allen
 * [Creating Basic Charts using d3.js](http://www.verisi.com/resources/d3-tutorial-basic-charts.htm) - Ben Lorica
 * [Get dirty with data using d3.js](https://web.archive.org/web/20130926015910/http://2011.12devsofxmas.co.uk/2012/01/data-visualisation/) - Clinton Montague
 * [For Protovis Users](http://mbostock.github.com/d3/tutorial/protovis.html)
