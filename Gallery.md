@@ -575,7 +575,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 
         <td>Font co-usage Force-directed graph (v4)<br><a href="https://datascopeanalytics.com/fontstellations/"><img width="133" src="https://datascopeanalytics.com/blog/fontstellations/thumbnails/600x250/thumbnail.png"></a></td>
         <td>Open Knowledge Festival<br><a href="http://www.floapps.com/cases/open-knowledge-festival/"><img width="133" src="http://floapps.com/lab/misc/oklogo/ok.png"></a></td>
-
+       <td>Motion Capture Data<br><a href="https://mviz.omid.al"><img width="133" src="http://mviz.omid.al/assets/thumb.png"></a></td>
 </tr>
 </table>
 
