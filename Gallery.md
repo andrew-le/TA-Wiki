@@ -686,6 +686,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
   </tr>
   <tr valign="top">
     <td>Firework ~ Night<br><a href="http://www.decembercafe.org/demo/firework/"><img width="133" src="http://lzhlzz.github.io/img/20161210_firework.gif"></a></td>
+    <td>DNA Electrophoresis Simulator<br><a href="https://bl.ocks.org/squarednob/raw/846808f07995e537dc7af2e9bcffdf3b/"><img width="133" src="https://github.com/squarednob/d3-electrophoresis/blob/master/assets/result_text_name1_small1.png"></a></td>
   </tr>
 </table>
 
