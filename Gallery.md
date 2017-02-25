@@ -540,9 +540,9 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <td>Bosnia and Herzegovina 2013 Census Visualization<br/><a href="http://census-ba.statick.org"><img width="133" src="http://census-ba.statick.org/vis.png"></a></td>
 </tr>
 <tr>
-<td>3D Torus with Force Layout<br/><a href="http://www.vizarto.com/gallery/torus/"><img width="133" src="http://i.imgur.com/3IZGC56.jpg"></a></td>
-<td>3D Honeycomb Bar Chart<br/><a href="http://www.vizarto.com/gallery/honeycomb/"><img width="133" src="http://i.imgur.com/F0pazGV.jpg"></a></td>
-<td>3D Bar Chart<br/><a href="http://vizarto.com/gallery/3dbar/"><img width="133" src="http://i.imgur.com/CFtrj9r.jpg"></a></td>
+<td>3D Torus with Force Layout<br/><a href="https://toucano.uk/#gallery-torus"><img width="133" src="http://i.imgur.com/3IZGC56.jpg"></a></td>
+<td>3D Honeycomb Bar Chart<br/><a href="https://toucano.uk/#gallery-honeycomb"><img width="133" src="http://i.imgur.com/F0pazGV.jpg"></a></td>
+<td>3D Bar Chart<br/><a href="https://toucano.uk/#gallery-3dbar"><img width="133" src="http://i.imgur.com/CFtrj9r.jpg"></a></td>
 
 <td>Chord Viz<br><a href="http://bl.ocks.org/npashap/2d76492981106691cdcf843d7e3f765a"><img width="133" src="https://gist.githubusercontent.com/NPashaP/2d76492981106691cdcf843d7e3f765a/raw/ff1ccb6429650cf7bd44d913a9c401e6ead59cb0/thumbnail.png"></a></td>
 
