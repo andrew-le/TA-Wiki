@@ -577,6 +577,13 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Open Knowledge Festival<br><a href="http://www.floapps.com/cases/open-knowledge-festival/"><img width="133" src="http://floapps.com/lab/misc/oklogo/ok.png"></a></td>
        <td>Motion Capture Data<br><a href="https://mviz.omid.al"><img width="133" src="http://mviz.omid.al/assets/thumb.png"></a></td>
 </tr>
+
+<tr>
+<td>Spot Matrix Chart<br><a href="https://arpitnarechania.github.io/d3-spotmatrix/"><img width="133" src="https://github.com/arpitnarechania/d3-spotmatrix/blob/master/SpotMatrix.gif?raw=true"></a></td>
+
+<td>Tally Chart<br><a href="https://arpitnarechania.github.io/d3-tallychart/"><img width="133" src="https://raw.githubusercontent.com/arpitnarechania/d3-tallychart/master/TallyChart.gif"></a></td>
+</tr>
+
 </table>
 
 
