@@ -583,7 +583,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 
 <td>Tally Chart<br><a href="https://arpitnarechania.github.io/d3-tallychart/"><img width="133" src="https://raw.githubusercontent.com/arpitnarechania/d3-tallychart/master/TallyChart.gif"></a></td>
 
-<td>Share MindMap<br><a href="http://www.decembercafe.org/demo/mindmap/"><img width="130" src="http://lzhlzz.github.io/img/mindmap.png" alt="share your mindmap"></a></td>
+<td>MindMap<br><a href="http://www.decembercafe.org/demo/mindmap/"><img width="130" src="http://lzhlzz.github.io/img/mindmap.png" alt="share your mindmap"></a></td>
 </tr>
 
 </table>
