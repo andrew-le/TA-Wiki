@@ -186,8 +186,8 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Wimbledon 2013<br><a href="http://charts.animateddata.co.uk/tennis/"><img width="133" src="http://animateddata.co.uk/img/ext/w2012-match-tree.jpg"></a></td>
         <td>Force directed tag/site explorer<br><a href="http://ramblings.mcpher.com/Home/excelquirks/gassites/d3nodefocus"><img width="133" src="http://xliberation.com/googlecharts/1731.png"></a></td>
         <td>Circos.js
-            <a href="http://bl.ocks.org/nicgirault/777c8f74aaf95e46d7e7" target="_blank">
-            <img width="133"       src="https://cdn.rawgit.com/nicgirault/circosJS/master/demo/screenshot.png">
+            <a href="https://github.com/nicgirault/circosjs" target="_blank">
+            <img width="133"       src="https://github.com/nicgirault/circosJS/raw/master/doc/scatter.png">
         </td>
         <td>Airline data from Fusion Tables<br/><a href="http://xliberation.com/googlecharts/d3flights.html"><img width="133" src="http://xliberation.com/googlecharts/1746.png"></a></td>
     </tr>
