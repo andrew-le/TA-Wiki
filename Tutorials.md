@@ -123,6 +123,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [JingTong D3.js (Chinese)](http://item.jd.com/11757441.html)<br> Zhihua Lv, 2015
 * [D3 in Depth](http://d3indepth.com)
 * [Learning d3.js Data Visualization - Second Edition](https://www.packtpub.com/web-development/learning-d3js-data-visualization-second-edition)<br> Ændrew Rininsland, Swizec Teller, Packt, April 2016
+* [Data Visualization with D3 4.x Cookbook - Second Edition](https://www.packtpub.com/web-development/data-visualization-d3-4x-cookbook-second-edition)<br> Nick Zhu, Packt, February 2017
 
 ## Courses
 
