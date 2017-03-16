@@ -89,20 +89,12 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <td>NFL Predictions<br><a href="http://www.brightpointinc.com/2015-nfl-predictions/" title="2015 NFL Predictions"><img width="133" src="http://www.brightpointinc.com/labs/nfl_predictions/assets/nfl_predictions.png"></a></td>
         <td>Corona Radar<a href="http://vizuly.io/product/corona/?demo=d3js" title="Corona Radar d3.js"><img width="133" src="http://vizuly.io/vizuly/assets/Corona_D3.gif"></a></td>
     </tr>
-
-
     <tr valign="top">
-
         <td>Koalas to the Max<br><a href="http://www.koalastothemax.com/"><img width="133" src="http://d3js.org/ex/koalas.png"></a></td>
-
         <td>Sankey Creator<br><a href="http://infocaptor.com/sankey-diagram-software.php" title="Sankey Visualization Builder"><img width="133" src="http://infocaptor.com/img/sankey_infocaptor.gif"></a></td>
-
         <td>Convert any page into bubbles<br><a href="http://www.infocaptor.com/bubble-my-page"><img width="133" src="http://www.infocaptor.com/wikipedia_visualization.png"></a></td>
-
         <td>D3 Builder<br><a href="https://my.infocaptor.com/free_data_visualization.php"><img width="133" src="http://www.infocaptor.com/dashboard/wp-content/uploads/2014/10/image-358.jpg"></a></td>
-
     </tr>
-
     <tr valign="top">
         <td>Particles<br><a href="http://bl.ocks.org/mbostock/1062544"><img width="133" src="http://d3js.org/ex/particles.png"></a></td>
         <td>Indented Tree<br><a href="http://bl.ocks.org/mbostock/1093025"><img width="133" src="http://d3js.org/ex/indented-tree.png"></a></td>
@@ -144,7 +136,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Bederson Publications<br><a href="http://www.cs.umd.edu/~bederson/papers/index.html"><img width="133" src="http://d3js.org/ex/bederson-pubs.png"></a></td>
         <td>Force Layout Editor<br><a href="http://bl.ocks.org/benzguo/4370043"><img width="133" src="http://bl.ocks.org/benzguo/raw/4362310/thumbnail.png"></a></td>
         <td>Tally Chart<br><a href="https://bl.ocks.org/arpitnarechania/64b7994d99afe392063a6efaf5eb86d0"><img width="200" src="https://gist.githubusercontent.com/arpitnarechania/64b7994d99afe392063a6efaf5eb86d0/raw/eb05090f7728c49ea57e49413f31246ebbd1e350/thumbnail.gif"></a></td>
-
     </tr>
     <tr valign="top">
         <td>Hierarchical Classification Tree<br><a href="http://www.bitjuice.com.au/research/#hierarchicalclassificationexample"><img width="133" src="http://www.bitjuice.com.au/wp-content/uploads/2013/08/hierarchical_visualisation_example.png"></a></td>
@@ -187,7 +178,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Force directed tag/site explorer<br><a href="http://ramblings.mcpher.com/Home/excelquirks/gassites/d3nodefocus"><img width="133" src="http://xliberation.com/googlecharts/1731.png"></a></td>
         <td>Circos.js
             <a href="https://github.com/nicgirault/circosjs" target="_blank">
-            <img width="133"       src="https://github.com/nicgirault/circosJS/raw/master/doc/scatter.png">
+            <img width="133" src="https://github.com/nicgirault/circosJS/raw/master/doc/scatter.png">
         </td>
         <td>Airline data from Fusion Tables<br/><a href="http://xliberation.com/googlecharts/d3flights.html"><img width="133" src="http://xliberation.com/googlecharts/1746.png"></a></td>
     </tr>
@@ -252,7 +243,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Data Heatmap with Sorting Functions<br><a href="http://bl.ocks.org/ianyfchang/8119685"><img width="133" src="http://bl.ocks.org/ianyfchang/raw/8119685/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
-
         <td>3D Force Layout<br><a href="https://vida.io/documents/N4jSip7n68yQ48DXp"><img width="133" src="https://s3.amazonaws.com/vida-production/thumbnails/N4jSip7n68yQ48DXp"></a></td>
         <td>Lifespan<br><a href="http://www.cotrino.com/2014/02/lifespan-longevidad-animal/"><img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/lifespan.png"></a></td>
         <td>Choropleth word map<br><a href="http://www.ezglot.com/word-of-the-day.php"><img width="133" src="http://www.ezglot.com/hund-map.png" alt="word of the day"></a></td>
@@ -309,7 +299,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
         <td>Create D3 Visualizations<br><a href="https://my.infocaptor.com/free_data_visualization.php"><img width="133" src="http://www.infocaptor.com/dashboard/wp-content/uploads/2014/10/image-358.jpg"></a></td>
         <td>-<br><a href="#"><img width="133" src="#"></a></td>
-
         <td>Node Focusable Tree<br><a href="http://codepen.io/mikefab/full/IDdts/"><img width="133" src="http://s12.postimg.org/abee893h9/node_focusable_radial_tree.jpg"></a></td>
     </tr>
     <tr valign="top">
@@ -374,8 +363,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
         <td>Zoomable Unilevel Partition<br><a href="http://bl.ocks.org/apoorvnandan/8eb44a1990d4d9250700"><img width="133" src="https://5a44583fb28d25c751971f24d9bfeab2b7c159c6.googledrive.com/host/0B4hMaI5ok_84fi1oYWN6RzJCQ1BfTk5MSnVBQjdsMFhCeVBpZ19YMHpsTVdlM0FNZ2pWTTQ/thumbnail.png"></a></td>
         <td>Apps Script dependency analysis<br><a href="http://ramblings.mcpher.com/Home/excelquirks/drivesdk/vizdependencies"><img width="133" src="https://googledrive.com/host/0B92ExLh4POiZfkZsSDMwaHZUV3hneWdEbVV5aWVqenpWNjYtc29oYUZyYzVKVE50eFBMQm8/vizgas.png"></a></td>
-
-
         <td> Editable Tree <br> <a target="_blank" href="http://www.mockapi.io/#/docs"> <img width="133" src="http://www.mockapi.io/images/d3gallery.gif"> </a> </td>
         <td>Automated Biography of a Nation<br> <a href="https://annalyzin.wordpress.com/2015/06/04/automated-biography/"> <img width="133" src="https://annalyzin.files.wordpress.com/2015/06/chartstill.png"> </a> </td>
     </tr>
@@ -389,7 +376,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Visualizing a genetic algorithm <a href="http://karstenahnert.com/gp/"><img width="133" src="http://karstenahnert.com/gp/thumbnail3_133.png"></a></td>
         <td>Create D3 Visualizations<br><a href="https://my.infocaptor.com/free_data_visualization.php"><img width="133" src="http://www.infocaptor.com/dashboard/wp-content/uploads/2014/10/image-358.jpg"></a></td>
         <td>Rectangular Area Chart<br /><a href="http://bl.ocks.org/brattonc/b1abb535227b2f722b51" target="_blank"><img width="133" src="https://gist.githubusercontent.com/brattonc/b1abb535227b2f722b51/raw/thumbnail.gif"></a></td>
-
         <td>Gaussian curve from random variable<br /><a href="http://plnkr.co/GOH3XH" target="_blank"><img width="133" src="https://raw.githubusercontent.com/samyBadjoudj/gaussian-function/master/gaussian_function_d3.png"></a></td>
     </tr>
     <tr>
@@ -425,7 +411,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
                 <img width="133" src="https://www.infino.me/static/img/screenshots/mort.png?v=2">
              </a>
          </td>
-
     </tr>
     <tr>
      <td>Cluster Purity Visualizer<br>
@@ -433,25 +418,21 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
             <img width="133" src="http://bl.ocks.org/nswamy14/raw/e28ec2c438e9e8bd302f/thumbnail.png">
          </a>
      </td>
-
     <td>Platlets<br>
         <a href="http://bl.ocks.org/lokesh005/1b23c84b68f5be134ff0">
           <img width="133" src="http://bl.ocks.org/lokesh005/raw/1b23c84b68f5be134ff0/Pl.png">
         </a>
     </td>
-
     <td>Map with Latitude & Longitude<br>
         <a href="http://bl.ocks.org/lokesh005/7640d9b562bf59b561d6">
           <img width="133" src="http://bl.ocks.org/lokesh005/raw/7640d9b562bf59b561d6/India.jpg">
         </a>
     </td>
-
     <td>Higher education data explorer by parliamentary constituency<br>
         <a href="https://www.ucas.com/corporate/data-and-analysis/ucas-undergraduate-releases/he-entry-rates">
           <img width="133" src="https://cloud.githubusercontent.com/assets/16351706/11899207/5ab41c12-a595-11e5-919c-25627c7a70c2.png">
         </a>
     </td>
-
     </tr>
     <tr>
     <td>Clustergrammer: interactive clustergram/heatmap maker<br>
@@ -503,7 +484,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://risacher.org/galaxy-chart/galaxy-chart.PNG">
         </a>
       </td>
-
        <td>Configurable circular timer<br><a href="http://ramblings.mcpher.com/Home/excelquirks/bigapps/bigquiz/dashtimer"><img width="133" src="https://storage.googleapis.com/goinggas.com/assets/images/d3/configtimer.png"></a></td>
        <td>Clock built with Configurable circular timer<br><a href="http://ramblings.mcpher.com/Home/excelquirks/bigapps/bigquiz/clocktimer"><img width="133" src="https://storage.googleapis.com/goinggas.com/assets/images/d3/configTimerclock.png"></a></td>
 <td>traversable pie menu<br><a href="https://rawgit.com/lgrkvst/d3-sunburst-menu/master/demo/d3-sunburst-demo.html"><img width="133" src="https://raw.githubusercontent.com/lgrkvst/d3-sunburst-menu/master/img/observatory.jpg"></a></td>
@@ -532,20 +512,15 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 </tr>
 <tr>
        <td>BiPartite Viz<br><a href="http://bl.ocks.org/NPashaP/cd80ab54c52f80c4d84cad0ba9da72c2"><img width="133" src="https://gist.githubusercontent.com/NPashaP/cd80ab54c52f80c4d84cad0ba9da72c2/raw/6c96c4ee6328f356e832036a2e34458e6907fec7/thumbnail.png"></a></td>
-
 <td>Gauge Viz<br><a href="http://bl.ocks.org/NPashaP/59c2c7483fb61070486835d15c807941"><img width="133" src="https://gist.githubusercontent.com/NPashaP/59c2c7483fb61070486835d15c807941/raw/3ffa1cbb653f62ad60baf1db8c8c9dd9a2b94031/thumbnail.png"></a></td>
-
 <td>Chord Viz<br><a href="http://bl.ocks.org/NPashaP/ba4c802d5ef68f70c019a9706f77ebf1"><img width="133" src="https://gist.githubusercontent.com/NPashaP/ba4c802d5ef68f70c019a9706f77ebf1/raw/6d49945f1e7f12a194a2fcc6962c0574a258bf31/thumbnail.png"></a></td>
-
 <td>Bosnia and Herzegovina 2013 Census Visualization<br/><a href="http://census-ba.statick.org"><img width="133" src="http://census-ba.statick.org/vis.png"></a></td>
 </tr>
 <tr>
 <td>3D Torus with Force Layout<br/><a href="https://toucano.uk/#gallery-torus"><img width="133" src="http://i.imgur.com/3IZGC56.jpg"></a></td>
 <td>3D Honeycomb Bar Chart<br/><a href="https://toucano.uk/#gallery-honeycomb"><img width="133" src="http://i.imgur.com/F0pazGV.jpg"></a></td>
 <td>3D Bar Chart<br/><a href="https://toucano.uk/#gallery-3dbar"><img width="133" src="http://i.imgur.com/CFtrj9r.jpg"></a></td>
-
 <td>Chord Viz<br><a href="http://bl.ocks.org/npashap/2d76492981106691cdcf843d7e3f765a"><img width="133" src="https://gist.githubusercontent.com/NPashaP/2d76492981106691cdcf843d7e3f765a/raw/ff1ccb6429650cf7bd44d913a9c401e6ead59cb0/thumbnail.png"></a></td>
-
 </tr>
 <tr>
 <td>Russian State Duma<br /><a href="http://petrdevaikin.com/duma/en/" target="_blank"><img width="133" src="http://petrdevaikin.com/duma/screen2.jpg" alt="Visualization of Russian State Duma structure"></a></td>
@@ -553,7 +528,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <td>Curve Comparison Tool<br><a href="https://cemrajc.github.io/d3-curve-comparison"><img width="133" src="http://i.imgur.com/oCUoxXm.png" alt="Useful tool for looking at the different curves offered by D3 v4."></a></td>
 <td>Flight Visualization<br><a href="http://www.decembercafe.org/demo/plane/"><img width="133" src="http://lzhlzz.github.io/img/20161210_2_plane.gif" alt="Flight Visualization By D3 v4.x and Leaflet"></a></td>
 </tr>
-
 <tr>
 <td>D3.js v4.x Modules<br><a href="http://www.decembercafe.org/demo/d3modules/"><img width="133" src="http://lzhlzz.github.io/img/20161211_d3modules.png" alt="D3.js v4.x Modules"></a></td>
 <td>Calendar View (v4, Commented)<br><a href="http://bl.ocks.org/joshua-golub/2f7a5cc3be8f1f3a170bacdeebb987b5/eb68f534fde5d07c424e26a88767d0efed454e81"><img width="133" src="http://bl.ocks.org/joshua-golub/raw/2f7a5cc3be8f1f3a170bacdeebb987b5/eb68f534fde5d07c424e26a88767d0efed454e81/thumbnail.png"></a></td>
@@ -572,22 +546,16 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 </tr>
 <tr>
         <td>Bertifier - to visually encode and reorder data<br><a href="http://www.bertifier.com"><img width="133" src="http://charles.perin.free.fr/data/proj/bertifier_thumbnail.png"></a></td>
-
         <td>Font co-usage Force-directed graph (v4)<br><a href="https://datascopeanalytics.com/fontstellations/"><img width="133" src="https://datascopeanalytics.com/blog/fontstellations/thumbnails/600x250/thumbnail.png"></a></td>
         <td>Open Knowledge Festival<br><a href="http://www.floapps.com/cases/open-knowledge-festival/"><img width="133" src="http://floapps.com/lab/misc/oklogo/ok.png"></a></td>
        <td>Motion Capture Data<br><a href="https://mviz.omid.al"><img width="133" src="http://mviz.omid.al/assets/thumb.png"></a></td>
 </tr>
-
 <tr>
 <td>Spot Matrix Chart<br><a href="https://arpitnarechania.github.io/d3-spotmatrix/"><img width="133" src="https://github.com/arpitnarechania/d3-spotmatrix/blob/master/SpotMatrix.gif?raw=true"></a></td>
-
 <td>Tally Chart<br><a href="https://arpitnarechania.github.io/d3-tallychart/"><img width="133" src="https://raw.githubusercontent.com/arpitnarechania/d3-tallychart/master/TallyChart.gif"></a></td>
-
 <td>MindMap<br><a href="http://www.decembercafe.org/demo/mindmap/"><img width="130" src="http://lzhlzz.github.io/img/mindmap.png" alt="share your mindmap"></a></td>
 </tr>
-
 </table>
-
 
 ## Basic Charts
 
