@@ -1473,3 +1473,4 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * fibonacci scale
 * data table (maybe the airline table at the bottom of [the crossfilter example](http://square.github.com/crossfilter/)?)
 * hypergraph
+test
