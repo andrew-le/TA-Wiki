@@ -20,6 +20,7 @@
 * [한국어](/zziuni/d3/wiki)
 * [日本語](/d3/d3/wiki/JP-Home)
 * [中文手册](API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
+* [中文手册v4](https://github.com/xswei/D3-V4-API-CN)
 * [简体中文](CN-Home)
 * [繁體中文](TW-Home)
 * [Русский](API-Reference-\(русскоязычная-версия\))
