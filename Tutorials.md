@@ -85,13 +85,13 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Bringing SVG files to life with d3.js](https://datascience.blog.wzb.eu/2016/08/29/bringing-svg-to-life-with-d3-js/)
 
 ### D3 v4
+* [D3.js (v4) Essentials](http://rajapradhan.com/blogs/d3-js-v4-essentials/)
 * [Let’s Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/)
 * [Reactive visualizations with D3 v4](https://t.co/4lp3OwO2xi)
 * [A simple D3 plugin](https://537.io/a-simple-d3-plugin/)
 * [Notes from the Unconf 2015](https://github.com/visfest/topics2015/wiki/Session-3A:-D3-v4-(modular))
 * [D3 in Depth](http://d3indepth.com) (covers v4)
 * [Force directed graphs with D3 v4](http://www.puzzlr.org/?page_id=133)
-* [D3.js (v4) Essentials](http://rajapradhan.com/blogs/d3-js-v4-essentials/)
 
 ## Blogs
 
@@ -106,6 +106,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [infographics.tw](http://blog.infographics.tw/tag/d3js/)
 * [neposlab.com (italian)](http://www.neposlab.com/tag/d3js/)
 * [Learning D3.js(Chinese)](http://d3.decembercafe.org)
+* [Raja Pradhan](http://rajapradhan.com/blogs/d3-js-v4-essentials/)
 
 ## Books
 
