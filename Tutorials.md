@@ -60,7 +60,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Moreal D3.js Wiki](https://kb.moreal.co/d3) by Crypteia Networks
 * [10 D3 Must Knows](http://animateddata.co.uk/articles/d3/whatisd3/) by Peter Cook
 * [Let's Make a Grid - Applying data joins, selections, and click events](http://cagrimmett.com/til/2016/08/17/d3-lets-make-a-grid.html) by Chuck Grimmett
-*[A gentle introduction to D3: how to build a reusable bubble chart](https://medium.freecodecamp.com/a-gentle-introduction-to-d3-how-to-build-a-reusable-bubble-chart-9106dc4f6c46) by Déborah Mesquita
+* [A gentle introduction to D3: how to build a reusable bubble chart](https://medium.freecodecamp.com/a-gentle-introduction-to-d3-how-to-build-a-reusable-bubble-chart-9106dc4f6c46) by Déborah Mesquita
 
 
 ### Specific Techniques
