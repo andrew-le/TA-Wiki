@@ -565,11 +565,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://cloud.githubusercontent.com/assets/16351706/24951206/84fc59ac-1f6b-11e7-9abd-695947a7bde7.png">
         </a>
     </td>
-    <td>Higher education application rates data explorer<br>
-        <a href="https://www.ucas.com/corporate/data-and-analysis/ucas-undergraduate-releases/application-rates-data-explorer">
-          <img width="133" src="https://cloud.githubusercontent.com/assets/16351706/24951391/21ee39b0-1f6c-11e7-827c-7e93f151c168.png">
-        </a>
-    </td>
 </tr>
 </table>
 
