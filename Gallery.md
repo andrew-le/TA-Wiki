@@ -553,6 +553,11 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <td>Spot Matrix Chart<br><a href="https://arpitnarechania.github.io/d3-spotmatrix/"><img width="133" src="https://github.com/arpitnarechania/d3-spotmatrix/blob/master/SpotMatrix.gif?raw=true"></a></td>
 <td>Tally Chart<br><a href="https://arpitnarechania.github.io/d3-tallychart/"><img width="133" src="https://raw.githubusercontent.com/arpitnarechania/d3-tallychart/master/TallyChart.gif"></a></td>
 <td>MindMap<br><a href="http://www.decembercafe.org/demo/mindmap/"><img width="130" src="http://lzhlzz.github.io/img/mindmap.png" alt="share your mindmap"></a></td>
+    <td>Higher education equality data explorer<br>
+        <a href="https://www.ucas.com/corporate/data-and-analysis/ucas-undergraduate-releases/equality-he-reports">
+          <img width="133" src="https://cloud.githubusercontent.com/assets/16351706/24950945/a002f9e6-1f6a-11e7-8f72-dba670eb88dd.png">
+        </a>
+    </td>
 </tr>
 </table>
 
