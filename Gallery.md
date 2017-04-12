@@ -559,6 +559,13 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         </a>
     </td>
 </tr>
+<tr>
+    <td>Higher education equality entry rates data explorer<br>
+        <a href="https://www.ucas.com/corporate/data-and-analysis/ucas-undergraduate-releases/equality-and-entry-rates-data-explorer">
+          <img width="133" src="https://cloud.githubusercontent.com/assets/16351706/24951206/84fc59ac-1f6b-11e7-9abd-695947a7bde7.png">
+        </a>
+    </td>
+</tr>
 </table>
 
 ## Basic Charts
