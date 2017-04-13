@@ -565,7 +565,13 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://cloud.githubusercontent.com/assets/16351706/24951206/84fc59ac-1f6b-11e7-9abd-695947a7bde7.png">
         </a>
     </td>
+    <td>Interactive bubble chart combining Circle Pack and Force Layout<br>
+        <a href="https://naustud.io/tech-stack/">
+            <img width="133" src="https://raw.githubusercontent.com/naustudio/techstack/master/thumb.png">
+        </a>
+    </td>
 </tr>
+
 </table>
 
 ## Basic Charts
