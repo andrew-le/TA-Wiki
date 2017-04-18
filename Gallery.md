@@ -1463,7 +1463,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [C3:D3-based reusable chart library](http://c3js.org/)
 * [Configurable Chart Collection: A variety of visualizations with a declarative and extensible API.  Includes line/area/bar/stacked charts, pie/donut charts, scatter plots, swimlanes, flamechart, sunburst, sankey flow graphs, data tables, etc.](https://github.com/drarmstr/chartcollection)
 * [Cubism.js: Time Series Visualization](http://square.github.com/cubism/)
-* [dex.js:Reusable chart library](https://dexvis.net/)
+* [dex.js: Reusable charting framework](https://dexjs.net/)
 * [Crossfilter](http://square.github.com/crossfilter/)
 * [Rickshaw: JavaScript toolkit for creating interactive real-time graphs](https://github.com/shutterstock/rickshaw)
 * [wq/chart.js: Simple reusable time series charts and boxplots](http://wq.io/docs/chart-js)
