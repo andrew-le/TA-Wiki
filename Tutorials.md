@@ -61,7 +61,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [10 D3 Must Knows](http://animateddata.co.uk/articles/d3/whatisd3/) by Peter Cook
 * [Let's Make a Grid - Applying data joins, selections, and click events](http://cagrimmett.com/til/2016/08/17/d3-lets-make-a-grid.html) by Chuck Grimmett
 * [A gentle introduction to D3: how to build a reusable bubble chart](https://medium.freecodecamp.com/a-gentle-introduction-to-d3-how-to-build-a-reusable-bubble-chart-9106dc4f6c46) by Déborah Mesquita
-* [Sunburst In Detail (v4), Part 1](https://bl.ocks.org/denjn5/e1cdbbe586ac31747b4a304f8f86efa5) by David Richards
+* [Sunburst In Detail (v4), Part 1](https://bl.ocks.org/denjn5/e1cdbbe586ac31747b4a304f8f86efa5), [Part 2](https://bl.ocks.org/denjn5/f059c1f78f9c39d922b1c208815d18af) by David Richards
 
 ### Specific Techniques
 
