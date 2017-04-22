@@ -36,6 +36,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [AndreaSimeone/d3-hypergraph](https://github.com/AndreaSimeone/d3-hypergraph) - hypergraphs linking using force layout
 * [ttdtrang/d3-colorbar](https://github.com/ttdtrang/d3-colorbar) - quick color bar to accompany sequential color scale
 * [squarednob/d3-electrophoresis](https://github.com/squarednob/d3-electrophoresis) - simulate electrophoresis by cutting text
+* [t3o-it/d3-multi-brush](https://github.com/t3o-it/d3-multi-brush) - multi dimensional brushing for single axis,multiple axis or areas
 
 
 ## v3
