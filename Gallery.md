@@ -602,18 +602,18 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <td>Stacked Bar Charts on time scale<br><a href="http://bl.ocks.org/anupsavvy/9513382"><img width="133" src="http://bl.ocks.org/anupsavvy/raw/9513382/thumbnail.png"></a></td>
   </tr>
 <tr valign="top">
-	<td>
-		Line Chart - Zoom, Stack, Stream<br><a href="http://vizuly.io/product/line-area-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/LineArea.gif"></a>
-	</td>
-	<td>
-		Column Chart - Zoom, Stack, Group<br><a href="http://vizuly.io/product/column-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/column_d3_gallery.png"></a>
-	</td>
-	<td>
-		Scatter Plot - Transitions, Skins<br><a href="http://vizuly.io/product/scatter-plot/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/scatter_d3_gallery.png"></a>
-	</td>
-	<td>
-		Bar Chart - Zoom, Stack, Group<br><a href="http://vizuly.io/product/bar-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/bar_d3_gallery.png"></a>
-	</td>
+  <td>
+    Line Chart - Zoom, Stack, Stream<br><a href="http://vizuly.io/product/line-area-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/LineArea.gif"></a>
+  </td>
+  <td>
+    Column Chart - Zoom, Stack, Group<br><a href="http://vizuly.io/product/column-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/column_d3_gallery.png"></a>
+  </td>
+  <td>
+    Scatter Plot - Transitions, Skins<br><a href="http://vizuly.io/product/scatter-plot/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/scatter_d3_gallery.png"></a>
+  </td>
+  <td>
+    Bar Chart - Zoom, Stack, Group<br><a href="http://vizuly.io/product/bar-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/bar_d3_gallery.png"></a>
+  </td>
 </tr>
   <tr valign="top">
     <td>Bar Chart Multiples<br><a href="https://vida.io/documents/ZCzewTza4ZSzMWSBG"><img width="133" src="https://s3.amazonaws.com/vida-production/thumbnails/ZCzewTza4ZSzMWSBG" width="100"></a></td>
@@ -636,6 +636,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
   <tr valign="top">
     <td>Dendrogram + Grouped Bar<br><a href="https://bl.ocks.org/dahis39/f28369f0b17b456ac2f1fa9b937c5002"><img width="133" src="https://gist.githubusercontent.com/dahis39/f28369f0b17b456ac2f1fa9b937c5002/raw/67e0ca422cae469bdd0c200105d0bc8dcb834231/thumbnail.png"></a></td>
     <td>Multiseries Floating Bar Chart<br><a href="https://bl.ocks.org/arpitnarechania/4c803717a57f747c774b5e83903ddde4"><img width="133" src="https://gist.githubusercontent.com/arpitnarechania/4c803717a57f747c774b5e83903ddde4/raw/f608b586b819323f5e840543c30df466deeaeed4/thumbnail.png"></a></td>
+    <td>Interactive Gantt Chart<br><a href="https://bl.ocks.org/varun-raj/5d2caa6a9ad7de08bd5d86698e3a2403"><img width="133" src="https://raw.githubusercontent.com/varun-raj/interactive-gantt-chart/master/thumb.png"></a></td>
   </tr>
 </table>
 
