@@ -93,6 +93,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Notes from the Unconf 2015](https://github.com/visfest/topics2015/wiki/Session-3A:-D3-v4-(modular))
 * [D3 in Depth](http://d3indepth.com) (covers v4)
 * [Force directed graphs with D3 v4](http://www.puzzlr.org/?page_id=133)
+* [D3, ES6 and React examples](https://github.com/artyomtrityak/d3-explorer)
 
 ## Blogs
 
