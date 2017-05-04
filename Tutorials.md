@@ -128,6 +128,8 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Learning d3.js Data Visualization - Second Edition](https://www.packtpub.com/web-development/learning-d3js-data-visualization-second-edition)<br> Ændrew Rininsland, Swizec Teller, Packt, April 2016
 * [Data Visualization with D3 4.x Cookbook - Second Edition](https://www.packtpub.com/web-development/data-visualization-d3-4x-cookbook-second-edition)<br> Nick Zhu, Packt, February 2017
 * [D3.js: Cutting-edge Data Visualization](https://www.packtpub.com/web-development/d3js-cutting-edge-data-visualization)<br> Ændrew Rininsland, Michael Heydt & Pablo Navarro Castillo, Packt, March 2017
+* [D3.js 4.x Data Visualization - Third Edition](https://www.packtpub.com/web-development/d3js-4x-data-visualization-third-edition)<br> Ændrew Rininsland & Swizec Teller, Packt, April 2017
+* [Expert Data Visualization](https://www.packtpub.com/web-development/expert-data-visualization)<br> Jos Dirksen, Packt, April 2017
 
 ## Courses
 
@@ -136,6 +138,8 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 
 ## Talks and Videos
 
+* [Introduction to D3 (Video)](https://www.packtpub.com/web-development/introduction-d3-video) <br> Nick Zhu, Packt, April 2017
+* [Mapping and Styling in D3 (Video)](https://www.packtpub.com/web-development/mapping-and-styling-d3-video) <br> Nick Zhu, Packt, April 2017
 * [Building Data Visualizations with D3 and Angular 2 (Video)](https://www.packtpub.com/web-development/building-data-visualizations-d3-and-angular-2-video) <br> Matt Dionis, Packt, January 2017
 * [Build Interactive JavaScript Charts with D3 v4](https://egghead.io/courses/build-interactive-javascript-charts-with-d3-v4) <br> Ben Clinkinbeard, November 2016
 * [Introduction to D3](https://www.youtube.com/watch?v=8jvoTV54nXw)<br>Curran Kelleher, Bay Area D3 Meetup, April 2015
