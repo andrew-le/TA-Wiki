@@ -236,7 +236,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Dot Matrix Chart<br><a href="https://arpitnarechania.github.io/d3-dotmatrix/"><img width="200" src="https://gist.githubusercontent.com/arpitnarechania/71740f18ae4ef6052ebe8e7ced9cff1b/raw/5dc7fd3c01de9dd1c53f355e020e996363a2a268/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Reusable VIS Components(responsive)<br><a href="http://hijiangtao.github.io/ss-vis-component/"><img width="133" src="https://raw.githubusercontent.com/hijiangtao/ss-vis-component/gh-pages/assets/Example.png"></a></td>
+        <td>Reusable VIS Components(responsive)<br><a href="http://hijiangtao.github.io/ss-vis-component/"><img width="133" src="https://hijiangtao.github.io/assets/in-post/2015-09-08-reusable-vis-component.png"></a></td>
         <td>Epidemic Game <a href="http://vax.herokuapp.com"><img width="133" src="http://imgur.com/h3anuVg.gif"></a></td>
         <td>UK Temperature Graphs<br><a href="http://charts.animateddata.co.uk/uktemperaturelines"><img width="133" src="http://animateddata.co.uk/img/d3-gallery/uktemperaturelines3.jpg"></a></td>
         <td>Data Heatmap with Sorting Functions<br><a href="http://bl.ocks.org/ianyfchang/8119685"><img width="133" src="http://bl.ocks.org/ianyfchang/raw/8119685/thumbnail.png"></a></td>
