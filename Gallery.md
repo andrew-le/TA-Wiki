@@ -1490,6 +1490,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [BlackHole.js: you can make the same visualization such as GitHub Visualizer and WBCA](https://github.com/artzub/blackhole.js)
 * [Vega: A Visualization Grammar built on D3](https://vega.github.io)
 * [Victory: d3 components for React](http://victory.formidable.com/)
+* [d3-balloon: interactive balloon plots (d3js v4)](https://github.com/WZBSocialScienceCenter/d3-balloon)
 
 ### Games
 
