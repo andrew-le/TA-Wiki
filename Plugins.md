@@ -23,6 +23,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [pbeshai/d3-line-chunked](https://github.com/pbeshai/d3-line-chunked) - visual styling for missing data in lines.
 * [pbeshai/d3-scale-interactive](https://github.com/pbeshai/d3-scale-interactive) - a GUI for editing scales.
 * [susielu/d3-legend](https://github.com/susielu/d3-legend) - reusable legends!
+* [susielu/d3-annotation](https://github.com/susielu/d3-annotation) - built-in annotation types
 * [tomgp/d3-iconarray](https://github.com/tomgp/d3-iconarray) - draw an array of icons.
 * [vijithassar/d3-history](https://github.com/vijithassar/d3-history) - deep-linking for dynamic user interfaces.
 * [vijithassar/d3-parent](https://github.com/vijithassar/d3-parent) - select an ancestor element.
