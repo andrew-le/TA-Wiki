@@ -78,10 +78,16 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Facebook IPO<br><a href="http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html"><img width="133" src="http://d3js.org/ex/facebook-ipo.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Federal Budget<br><a href="http://www.brightpointinc.com/2013-federal-budget/" title="federal budget d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Budget_202px.png"></a></td>
+<td>D3 Mobile Application<br><a href="http://vizuly.io/product/mobile-app/?demo=d3js" title="D3 Mobile Application"><img width="133" src="http://vizuly.io/vizuly/assets/Mobile.gif"></a></td>
+        <td>Federal Budget<br><a href="http://vizuly.io/product/weighted-tree/?demo=d3js" title="federal budget d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Budget_202px.png"></a></td>
         <td>US Trade Deficit<br><a href="http://www.brightpointinc.com/united-states-trade-deficit/" title="US Trade Deficit d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Deficit_202px.png"></a></td>
         <td>Sequences sunburst<br><a href="http://bl.ocks.org/kerryrodden/7090426"><img width="133" src="https://gist.githubusercontent.com/kerryrodden/7090426/raw/66e9ce05ea907b3cb6b753cacc61aba45a78e21f/thumbnail.gif"></a></td>
-        <td>NFL Predictions<br><a href="http://www.brightpointinc.com/2015-nfl-predictions/" title="2015 NFL Predictions"><img width="133" src="http://www.brightpointinc.com/labs/nfl_predictions/assets/nfl_predictions.png"></a></td>
+    </tr>
+    <tr valign="top">
+        <td>Halo<br><a href="http://vizuly.io/product/halo/?demo=d3js" title="vizuly halo chart"><img width="133" src="http://vizuly.io/vizuly/assets/Halo.gif"></a></td>
+        <td>Radial Progress<br><a href="http://vizuly.io/product/radial-progress/?demo=d3js" title="radial progress component d3.js"><img width="133" src="http://www.brightpointinc.com/clients/brightpointinc.com/library/radialProgress/image.gif"></a></td>
+<td>NFL Predictions<br><a href="http://www.brightpointinc.com/2015-nfl-predictions/" title="2015 NFL Predictions"><img width="133" src="http://www.brightpointinc.com/labs/nfl_predictions/assets/nfl_predictions.png"></a></td>
+        <td>Corona Radar<a href="http://vizuly.io/product/corona/?demo=d3js" title="Corona Radar d3.js"><img width="133" src="http://vizuly.io/vizuly/assets/Corona_D3.gif"></a></td>
     </tr>
     <tr valign="top">
         <td>Koalas to the Max<br><a href="http://www.koalastothemax.com/"><img width="133" src="http://d3js.org/ex/koalas.png"></a></td>
@@ -605,6 +611,20 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <td>Animated Donut Chart with Labels<br><a href="http://bl.ocks.org/dbuezas/9306799"><img width="133" src="https://gist.githubusercontent.com/dbuezas/9306799/raw/ceb4d5cdaeebe4acd83d7cb1b1fe9cccb624ab5a/thumbnail.gif"></a></td>
     <td>Stacked Bar Charts on time scale<br><a href="http://bl.ocks.org/anupsavvy/9513382"><img width="133" src="http://bl.ocks.org/anupsavvy/raw/9513382/thumbnail.png"></a></td>
   </tr>
+<tr valign="top">
+  <td>
+    Line Chart - Zoom, Stack, Stream<br><a href="http://vizuly.io/product/line-area-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/LineArea.gif"></a>
+  </td>
+  <td>
+    Column Chart - Zoom, Stack, Group<br><a href="http://vizuly.io/product/column-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/column_d3_gallery.png"></a>
+  </td>
+  <td>
+    Scatter Plot - Transitions, Skins<br><a href="http://vizuly.io/product/scatter-plot/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/scatter_d3_gallery.png"></a>
+  </td>
+  <td>
+    Bar Chart - Zoom, Stack, Group<br><a href="http://vizuly.io/product/bar-chart/?demo=d3js"><img width="133" src="http://vizuly.io/vizuly/assets/bar_d3_gallery.png"></a>
+  </td>
+</tr>
   <tr valign="top">
     <td>Bar Chart Multiples<br><a href="https://vida.io/documents/ZCzewTza4ZSzMWSBG"><img width="133" src="https://s3.amazonaws.com/vida-production/thumbnails/ZCzewTza4ZSzMWSBG" width="100"></a></td>
     <td>d3pie - pie chart generator and lib<br><a href="http://d3pie.org"><img width="133" src="http://d3pie.org/website/images/d3pie-screenshot.png"></a></td>
