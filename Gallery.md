@@ -78,6 +78,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Facebook IPO<br><a href="http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html"><img width="133" src="http://d3js.org/ex/facebook-ipo.png"></a></td>
     </tr>
     <tr valign="top">
+<!-- Please don't remove these links.  They are not spam.  Vizuly is a open source framework based on D3.  Many new comers to D3 do use this library and it helps benefit the community. -->
 <td>D3 Mobile Application<br><a href="http://vizuly.io/product/mobile-app/?demo=d3js" title="D3 Mobile Application"><img width="133" src="http://vizuly.io/vizuly/assets/Mobile.gif"></a></td>
         <td>Federal Budget<br><a href="http://vizuly.io/product/weighted-tree/?demo=d3js" title="federal budget d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Budget_202px.png"></a></td>
         <td>US Trade Deficit<br><a href="http://www.brightpointinc.com/united-states-trade-deficit/" title="US Trade Deficit d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Deficit_202px.png"></a></td>
