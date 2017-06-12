@@ -134,6 +134,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 
 ## Courses
 
+* [D3 4.x: Mastering Data Visualization](https://www.packtpub.com/web-development/d3-4x-mastering-data-visualization) <br> Nick Zhu & Matt Dionis, Packt. April 2017
 * [Data Visualization and D3.js](https://www.udacity.com/course/ud507)<br>Jonathan Dinu + Ryan Orban, Udacity, 2014
 * [Data Visualization and Infographics with D3.js](http://journalismcourses.org/D3.html)<br>Alberto Cairo + Scott Murray, Knight Center, 2015
 
