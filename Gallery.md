@@ -164,7 +164,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
         <td>Binary tree with transitions<br><a href="http://animateddata.co.uk/lab/d3-tree"><img width="133" src="http://animateddata.co.uk/img/ext/tree.jpg"></a></td>
         <td>D3 JezzBall<br><a href="http://bl.ocks.org/ericcitaire/5408146"><img width="133" src="http://bl.ocks.org/ericcitaire/raw/5408146/thumbnail.png"></a></td>
-        <td>Tetris<br><a href="http://d3tetris.herokuapp.com/"><img width="133" src="http://imageshack.us/a/img841/8619/tetrisn.png"></a></td>
+        <td>Tetris<br><a href="http://d3tetris.herokuapp.com/"><img width="133" src="http://www.mockapi.io/tetris.png"></a></td>
         <td>Gantt Chart<br><a href="http://bl.ocks.org/dk8996/5538271/"><img width="133" src="https://raw.github.com/dk8996/Gantt-Chart/master/examples/screenshot2.png"></a></td>
     </tr>
     <tr valign="top">
