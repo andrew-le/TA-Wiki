@@ -583,6 +583,20 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     </td>
 </tr>
 
+<tr>
+    <td>Parabola Multiplication<br>
+        <a href="http://xuchen-81.appspot.com/parabola_multiplication">
+          <img width="133" src="http://xuchen-81.appspot.com/img/parabola.gif">
+        </a>
+    </td>
+    <td>Nonogram Game<br>
+        <a href="http://xuchen-81.appspot.com/nonogram">
+            <img width="133" src="http://xuchen-81.appspot.com/img/cross.gif">
+        </a>
+    </td>
+
+</tr>
+
 </table>
 
 ## Basic Charts
