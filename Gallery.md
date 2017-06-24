@@ -594,7 +594,11 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
             <img width="133" src="http://xuchen-81.appspot.com/img/cross.gif">
         </a>
     </td>
-
+    <td>Spinning Pie Chart<br>
+        <a href="http://xuchen-81.appspot.com/dj">
+            <img width="133" src="http://xuchen-81.appspot.com/img/dj.gif">
+        </a>
+    </td>
 </tr>
 
 </table>
