@@ -29,7 +29,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Get dirty with data using d3.js](https://web.archive.org/web/20130926015910/http://2011.12devsofxmas.co.uk/2012/01/data-visualisation/) - Clinton Montague
 * [For Protovis Users](http://mbostock.github.com/d3/tutorial/protovis.html)
 * [Manipulating data like a boss with d3](http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/) - Jerome Cukier
-* [Creating Animations and Transitions With D3](http://blog.visual.ly/creating-animations-and-transitions-with-d3-js/) - Jerome Cukier
+* [Creating Animations and Transitions With D3](https://visual.ly/blog/creating-animations-and-transitions-with-d3-js/) - Jerome Cukier
 * [Introduction to D3](http://thecodingtutorials.blogspot.com/2012/07/introduction-to-d3.html) and [more tutorials](http://thecodingtutorials.blogspot.com/search/label/D3) - Andrew Davis
 * [d3 O'Clock: Building a Virtual Analog Clock with d3.js (Part I)](https://www.ericbullington.com/blog/2012/10/27/d3-oclock/) - Eric S. Bullington
 * [How to Make an Interactive Network Visualization](http://flowingdata.com/2012/08/02/how-to-make-an-interactive-network-visualization/) - Jim Vallandingham
