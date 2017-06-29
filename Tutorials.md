@@ -7,6 +7,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 ### Introductions & Core Concepts
 
 * [Introduction](https://d3js.org/#introduction)
+* [Simple Bar Chart Video Tutorial](https://scrimba.com/casts/cast-1953)
 * [Let’s Make a Bar Chart, Parts I](http://bost.ocks.org/mike/bar/), [II](http://bost.ocks.org/mike/bar/2/) & [III](http://bost.ocks.org/mike/bar/3/)
 * [Three Little Circles](http://bost.ocks.org/mike/circles/)
 * [Thinking with Joins](http://bost.ocks.org/mike/join/)
