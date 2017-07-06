@@ -141,6 +141,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 
 ## Talks and Videos
 
+* [SVG and Interactive Visualization in D3 (Video)](https://www.packtpub.com/web-development/svg-and-interactive-visualization-d3-video) <br> Nick Zhu, Packt, June 2017
 * [Introduction to D3 (Video)](https://www.packtpub.com/web-development/introduction-d3-video) <br> Nick Zhu, Packt, April 2017
 * [Mapping and Styling in D3 (Video)](https://www.packtpub.com/web-development/mapping-and-styling-d3-video) <br> Nick Zhu, Packt, April 2017
 * [Building Data Visualizations with D3 and Angular 2 (Video)](https://www.packtpub.com/web-development/building-data-visualizations-d3-and-angular-2-video) <br> Matt Dionis, Packt, January 2017
