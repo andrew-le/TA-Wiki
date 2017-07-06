@@ -599,6 +599,11 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
             <img width="133" src="http://xuchen-81.appspot.com/img/dj.gif">
         </a>
     </td>
+    <td>Deep Learning Snake Game<br>
+        <a href="https://deep-snake.herokuapp.com/">
+            <img width="133" src="https://raw.githubusercontent.com/gmamaladze/deep-snake/master/deep-snake.gif">
+        </a>
+    </td>
 </tr>
 
 </table>
