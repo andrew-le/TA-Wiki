@@ -587,12 +587,12 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 <tr>
     <td>Parabola Multiplication<br>
         <a href="http://xuchen-81.appspot.com/parabola_multiplication">
-          <img width="133" src="http://xuchen-81.appspot.com/img/parabola.gif">
+          <img width="133" src="https://raw.githubusercontent.com/xuchen81/xuchen-81/master/img/parabola.gif">
         </a>
     </td>
     <td>Nonogram Game<br>
         <a href="http://xuchen-81.appspot.com/nonogram">
-            <img width="133" src="http://xuchen-81.appspot.com/img/cross.gif">
+            <img width="133" src="https://raw.githubusercontent.com/xuchen81/xuchen-81/master/img/cross.gif">
         </a>
     </td>
     <td>Spinning Pie Chart<br>
