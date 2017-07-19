@@ -597,7 +597,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     </td>
     <td>Spinning Pie Chart<br>
         <a href="http://xuchen-81.appspot.com/dj">
-            <img width="133" src="http://xuchen-81.appspot.com/img/dj.gif">
+            <img width="133" src="https://raw.githubusercontent.com/xuchen81/xuchen-81/master/img/dj.gif">
         </a>
     </td>
     <td>Deep Learning Snake Game<br>
