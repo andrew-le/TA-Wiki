@@ -719,7 +719,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <td>Firework ~ Night<br><a href="http://www.decembercafe.org/demo/firework/"><img width="133" src="http://lzhlzz.github.io/img/20161210_firework.gif"></a></td>
     <td>DNA Electrophoresis Simulator<br><a href="https://bl.ocks.org/squarednob/raw/846808f07995e537dc7af2e9bcffdf3b/"><img width="133" src="https://github.com/squarednob/d3-electrophoresis/blob/master/assets/result_text_name1_small1.png"></a></td>
     <td>Atoms,Molecules and Chemistry<br><a href="https://arpitnarechania.github.io/d3-molecule/"><img src="https://raw.githubusercontent.com/arpitnarechania/d3-molecule/gh-pages/assets/screenshot.png"></a></td>
-    <td>Interactive Bar Chart<br><a href="http://xuchen-81.appspot.com/growth"><img src="https://raw.githubusercontent.com/xuchen81/xuchen-81/master/img/growth.gif"></a></td>
+    <td>Interactive Bar Chart<br><a href="http://xuchen-81.appspot.com/growth"><img src="https://xuchen.me/"></a></td>
 
   </tr>
 </table>
