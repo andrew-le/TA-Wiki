@@ -258,7 +258,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <tr valign="top">
         <td>Viroscope - virus taxonomy viewer<br><a href="http://viroscope.info/"><img width="133" src="http://jon.es/other/viroscope.png"></a></td>
         <td>Twitter & Reddit topics during week one of MH-370's disappearance<br><a href="http://mlvl.github.io/Hierarchie"><img width="133" src="http://mlvl.github.io/Hierarchie/app/img/layer.png"></a></td>
-        <td>-<br><a href="#"><img width="133" src="#"></a></td>
+        <td>Elliptic Forces<br/><a href="https://bl.ocks.org/jpurma/6dd2081cf25a5d2dfcdcab1a4868f237"><img width="133" src="https://gist.githubusercontent.com/jpurma/6dd2081cf25a5d2dfcdcab1a4868f237/raw/657a32736a3614511c101119c566619dd324ca33/thumbnail.png"></a></td>
         <td>SizeViewer<br/><a href="https://d3.artzub.com/sv/"><img width="133" src="http://artzub.com/d3/sv/images/sv.gif"></a></td>
     </tr>
     <tr valign="top">
@@ -1166,6 +1166,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 
 * [Symbols](http://bl.ocks.org/mbostock/1062383)
 * [Custom Forces](http://bl.ocks.org/mbostock/1021841)
+* [Elliptic Forces](https://bl.ocks.org/jpurma/6dd2081cf25a5d2dfcdcab1a4868f237)
 * [Multiple Foci](http://bl.ocks.org/mbostock/1021953)
 * [Multi Foci with Convex Hulls](http://bl.ocks.org/mbostock/2920551)
 * [Nodes snapping to four colored clusters](http://bl.ocks.org/gmamaladze/9320969)
