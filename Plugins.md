@@ -40,7 +40,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [olihawkins/d3-hexjson](https://github.com/olihawkins/d3-hexjson) - generate hexmaps from data in HexJSON format
 * [GordonSmith/d3-bullet](https://github.com/GordonSmith/d3-bullet) - Port of v3 Bullet Chart to v4.
 * [ee2dev/d3-sankeySeq](https://github.com/EE2dev/d3-sankeySeq) - an adaptation of the sankey plugin for sequential data.
-
+* [madams1/d3-summary-tiles](https://github.com/madams1/d3-summary-tiles) - Visualizing summarized data with colored tiles!
 ## v3
 
 * [2D Histogram](https://github.com/herkulano/d3-plugin-hist2d)
