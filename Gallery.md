@@ -674,6 +674,9 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <td>Interactive Gantt Chart<br><a href="https://bl.ocks.org/varun-raj/5d2caa6a9ad7de08bd5d86698e3a2403"><img width="133" src="https://raw.githubusercontent.com/varun-raj/interactive-gantt-chart/master/thumb.png"></a></td>
     <td>Scree Plot<br><a href="https://arpitnarechania.github.io/d3-screeplot/"><img width="133" src="https://raw.githubusercontent.com/arpitnarechania/d3-screeplot/gh-pages/screeplot.png"></a></td>
   </tr>
+<tr>
+ <td>Calculate Largest Rectangle in skyline<br><a href="https://bl.ocks.org/ravi4j/0e9a69a81bb8ccf989e6715df9931890"><img width="133" src="https://gist.githubusercontent.com/ravi4j/0e9a69a81bb8ccf989e6715df9931890/raw/f2fff5e3a9f89560c97c4d222cf0a7ebab265eec/preview.PNG"></a></td>
+</tr>
 </table>
 
 ## Techniques, Interaction & Animation
