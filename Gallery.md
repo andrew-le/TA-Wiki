@@ -675,7 +675,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     <td>Scree Plot<br><a href="https://arpitnarechania.github.io/d3-screeplot/"><img width="133" src="https://raw.githubusercontent.com/arpitnarechania/d3-screeplot/gh-pages/screeplot.png"></a></td>
   </tr>
 <tr>
- <td>Calculate Largest Rectangle in skyline<br><a href="https://bl.ocks.org/ravi4j/0e9a69a81bb8ccf989e6715df9931890"><img width="133" src="https://gist.githubusercontent.com/ravi4j/0e9a69a81bb8ccf989e6715df9931890/raw/f2fff5e3a9f89560c97c4d222cf0a7ebab265eec/preview.PNG"></a></td>
+ <td>Largest rectangle in histogram<br><a href="https://bl.ocks.org/ravi4j/0e9a69a81bb8ccf989e6715df9931890"><img width="133" src="https://gist.githubusercontent.com/ravi4j/0e9a69a81bb8ccf989e6715df9931890/raw/f2fff5e3a9f89560c97c4d222cf0a7ebab265eec/preview.PNG"></a></td>
 </tr>
 </table>
 
