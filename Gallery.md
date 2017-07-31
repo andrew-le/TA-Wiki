@@ -607,6 +607,20 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     </td>
 </tr>
 
+<tr>
+    <td>Ball of string<br>
+        <a href="https://bl.ocks.org/animateddata/1f6522d3fcec29c01e7f4a5894e1fd94">
+          <img width="133" src="http://animateddata.co.uk/img/ext/ballofstring.png">
+        </a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+</tr>
+
 </table>
 
 ## Basic Charts
