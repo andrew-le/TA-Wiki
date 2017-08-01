@@ -41,6 +41,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [GordonSmith/d3-bullet](https://github.com/GordonSmith/d3-bullet) - Port of v3 Bullet Chart to v4.
 * [ee2dev/d3-sankeySeq](https://github.com/EE2dev/d3-sankeySeq) - an adaptation of the sankey plugin for sequential data.
 * [madams1/d3-summary-tiles](https://github.com/madams1/d3-summary-tiles) - Visualizing summarized data with colored tiles!
+* [zazuko/d3-sparql](https://github.com/zazuko/d3-sparql) - load data directly from sparql endpoints with a select query
 ## v3
 
 * [2D Histogram](https://github.com/herkulano/d3-plugin-hist2d)
@@ -89,3 +90,4 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Venn Layout](https://github.com/christophe-g/d3-venn)
 * [Geodesic grid](https://github.com/d3/d3-plugins/tree/master/geodesic)
 * [Polyhedral geographic projections](https://github.com/d3/d3-plugins/tree/master/geo/polyhedron)
+* [zazuko/d3-sparql](https://github.com/zazuko/d3-sparql/tree/v3) - load data directly from sparql endpoints with a select query
