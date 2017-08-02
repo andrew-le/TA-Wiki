@@ -753,7 +753,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
   <tr valign="top">
     <td>US States Map - Side by Side<br><a href="https://vida.io/gists/JrG2Luv6pfJWyRvbw"><img width="133" src="https://vida-production.s3.amazonaws.com/thumbnails/3xHNc7JCLGRWoq9BG"></a></td>
     <td>UK Election choropleth<br><a href="https://bl.ocks.org/animateddata/32e61728c63448fa24965c406f8a7755"><img width="133" src="http://animateddata.co.uk/img/ext/uk-2017-election-choropleth.png"></a></td>
-    <td></td>
+    <td>World rivers<br><a href="https://bl.ocks.org/animateddata/0949801eba0d51c80f22490db665f8c3"><img width="133" src="http://animateddata.co.uk/img/ext/worldrivers-thumbnail.png"></a></td>
     <td></td>
   </tr>
 </table>
