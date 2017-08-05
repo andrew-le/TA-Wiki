@@ -769,6 +769,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 </table>
 
 ## Examples
+* [Suicide statistics of India 2001-2013](http://www.vinodlouis.com/demos/suicide-stats-of-india/) - [Data Source data.gov.in](https://data.gov.in/catalog/stateut-wise-professional-profile-suicide-victim) - [Vinod Louis](http://www.vinodlouis.com/)
 * [Padma Awards - India's  Honour System - Interactive Explorer](http://dashboard-padmaawards.gov.in/) - [Pratap Vardhan](https://twitter.com/PratapVardhan)
 * [Data From a Local NGO - Prayaas]
 (https://prayaas.iiita.ac.in/visual.php)
