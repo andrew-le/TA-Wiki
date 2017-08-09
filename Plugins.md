@@ -92,3 +92,4 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Geodesic grid](https://github.com/d3/d3-plugins/tree/master/geodesic)
 * [Polyhedral geographic projections](https://github.com/d3/d3-plugins/tree/master/geo/polyhedron)
 * [zazuko/d3-sparql](https://github.com/zazuko/d3-sparql/tree/v3) - load data directly from sparql endpoints with a select query
+* [lushen/d3-v4-bundler](https://github.com/lushen/d3-v4-bundler) - A rollup-based bundler for customizing the combination of d3(v4) methods depend on the need.
