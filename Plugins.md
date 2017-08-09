@@ -42,6 +42,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [ee2dev/d3-sankeySeq](https://github.com/EE2dev/d3-sankeySeq) - an adaptation of the sankey plugin for sequential data.
 * [madams1/d3-summary-tiles](https://github.com/madams1/d3-summary-tiles) - Visualizing summarized data with colored tiles!
 * [zazuko/d3-sparql](https://github.com/zazuko/d3-sparql) - load data directly from sparql endpoints with a select query
+* [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz) - Graphviz DOT rendering and animated transitions
 ## v3
 
 * [2D Histogram](https://github.com/herkulano/d3-plugin-hist2d)
