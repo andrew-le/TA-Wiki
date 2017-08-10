@@ -3,8 +3,8 @@
 Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbostock](http://bl.ocks.org/mbostock). If you want to share an example and don't have your own hosting, consider using [Gist](http://gist.github.com) and [bl.ocks.org](http://bl.ocks.org). If you want to share or view live examples try [runnable.com](http://runnable.com/d3.js) or [vida.io](https://vida.io/explore).
 
 ## Visual Index 
-
-```html
+```
+html
 <table>
     <tr valign="top">
         <td width="25%">Box Plots<br><a href="http://bl.ocks.org/mbostock/4061502"><img width="133" src="http://d3js.org/ex/box.png"></a></td>
