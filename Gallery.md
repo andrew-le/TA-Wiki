@@ -4,6 +4,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 
 ## Visual Index 
 
+```html
 <table>
     <tr valign="top">
         <td width="25%">Box Plots<br><a href="http://bl.ocks.org/mbostock/4061502"><img width="133" src="http://d3js.org/ex/box.png"></a></td>
@@ -740,6 +741,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 
   </tr>
 </table>
+```
 
 ## Maps
 
