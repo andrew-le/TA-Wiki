@@ -136,7 +136,6 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         <td>Open Budget<br><a href="http://marcinignac.com/projects/open-budget/"><img width="133" src="http://d3js.org/ex/open-budget.png"></a></td>
         <td>Bederson Publications<br><a href="http://www.cs.umd.edu/~bederson/papers/index.html"><img width="133" src="http://d3js.org/ex/bederson-pubs.png"></a></td>
         <td>Force Layout Editor<br><a href="http://bl.ocks.org/benzguo/4370043"><img width="133" src="http://bl.ocks.org/benzguo/raw/4362310/thumbnail.png"></a></td>
-    
     </tr>
     <tr valign="top">
         <td>Hierarchical Classification Tree<br><a href="http://www.bitjuice.com.au/research/#hierarchicalclassificationexample"><img width="133" src="http://www.bitjuice.com.au/wp-content/uploads/2013/08/hierarchical_visualisation_example.png"></a></td>
