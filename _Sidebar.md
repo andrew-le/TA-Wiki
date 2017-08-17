@@ -5,14 +5,15 @@ Data-Driven Documents
 
 - [[Home]]
 - [[Gallery]]
-- [Examples](http://bl.ocks.org/mbostock)
+- [Examples](https://bl.ocks.org/mbostock)
 - [[Tutorials]]
 - [[Plugins]]
 
-###Help
-- [D3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
-- [D3.js Google Group](http://groups.google.com/group/d3-js)
-- [D3.js on Gitter](https://gitter.im/d3/d3)
+### Help
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/d3.js)
+- [Slack](https://d3js.slack.com)
+- [Google Group](https://groups.google.com/group/d3-js)
+- [Gitter](https://gitter.im/d3/d3)
 
 ### [API Reference](https://github.com/d3/d3/blob/master/API.md)
 * [Arrays](https://github.com/d3/d3/blob/master/API.md#arrays-d3-array)
@@ -46,8 +47,8 @@ Data-Driven Documents
 * [Voronoi Diagrams](https://github.com/d3/d3/blob/master/API.md#voronoi-diagrams-d3-voronoi)
 * [Zooming](https://github.com/d3/d3/blob/master/API.md#zooming-d3-zoom)
 
-###Translations (unofficial)
-- [中文手册 (4.0)](https://github.com/tianxuzhang/d3.v4-API-Translation) [(3.x)](https://github.com/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
+### Translations (Unofficial)
+- [中文手册 (v4)](https://github.com/tianxuzhang/d3.v4-API-Translation) [(v3)](https://github.com/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
 - [한국어](/zziuni/d3/wiki)
 - [日本語](/mbostock/d3/wiki/JP-Home)
 - [繁體中文](/mbostock/d3/wiki/TW-Home)
