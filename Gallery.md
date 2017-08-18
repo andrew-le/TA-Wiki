@@ -1348,7 +1348,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Manhattan Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/0620e41591f278431b8b98bfdf361b40)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/0620e41591f278431b8b98bfdf361b40) 
 * [Worm Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)- By Chandrakant Thakkar 
   [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)
-* [Partnership Chartg/ChandrakantThakkarDigiCorp/5f3abb974af37d8a5066d97a5a7a73a3)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/5f3abb974af37d8a5066d97a5a7a73a3)
+* [Partnership Chart D3 V4](http://bl.ocks.org/ChandrakantThakkarDigiCorp/5f3abb974af37d8a5066d97a5a7a73a3)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/5f3abb974af37d8a5066d97a5a7a73a3)
 
 #### Miscellaneous visualizations
 
