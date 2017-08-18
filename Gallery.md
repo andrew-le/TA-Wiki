@@ -1336,6 +1336,9 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Hierarchical Edge Bundling](http://bl.ocks.org/mbostock/1044242)
 * [Spiral for John Hunter](http://bl.ocks.org/mbostock/3543186)
 * [Hexagonal Heatmaps for e.g. Self Organizing Maps (SOM)](http://www.visualcinnamon.com/2013/07/self-organizing-maps-adding-boundaries.html) and [code](http://bl.ocks.org/nbremer/6052681)
+* [Manhattan Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/0620e41591f278431b8b98bfdf361b40)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/0620e41591f278431b8b98bfdf361b40) 
+* [Worm Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)
+
 
 #### Miscellaneous visualizations
 
