@@ -1111,6 +1111,12 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Diverging Stacked Bar Chart](http://bl.ocks.org/wpoely86/e285b8e4c7b84710e463)
 * [Horizontally Grouped Bar Chart](http://bl.ocks.org/erikvullings/51cc5332439939f1f292)
 * [Magical Bar Charts](http://www.ankerst.de/Mihael/proj/mbc/) - Mihael Ankerst
+* [Bar Chart with D3 V4](http://bl.ocks.org/ChandrakantThakkarDigiCorp/4b02121337892ea1834ec13a82bb5d5b) - Chandrakant Thakkar
+* [Horizontal Bar Chart with D3 V4](http://bl.ocks.org/ChandrakantThakkarDigiCorp/9587e667a3fab912537de03717af84a2) - Chandrakant Thakkar
+* [Group Bar Chart D3 V4](http://bl.ocks.org/ChandrakantThakkarDigiCorp/5b5569ff6977ba45fa9e810f14e37026) - Chandrakant Thakkar
+* [Grouped Horizontal Bar Chart with D3 V4](http://bl.ocks.org/ChandrakantThakkarDigiCorp/f0e2cf699d9b96aa09e283550bfef1e4) - Chandrakant Thakkar
+* [Stack Bar Chart D3 V4](http://bl.ocks.org/ChandrakantThakkarDigiCorp/82aecccae722e96f8f350a02e009fa23) - Chandrakant Thakkar
+* [Horizontal Stack Bar Chart D3 V4](http://bl.ocks.org/ChandrakantThakkarDigiCorp/2a9e6f11f2a27b6af0c28c4e5e524f10)- Chandrakant Thakkar
 
 #### Histogram
 
