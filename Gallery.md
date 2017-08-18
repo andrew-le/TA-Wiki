@@ -1149,6 +1149,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Multiple time-series with object constancy](http://bl.ocks.org/mbostock/4175202) - Nikhil Sonnad
 * [Overlapped distribution Area chart](http://bl.ocks.org/nswamy14/083a1e3181c81428f817) - Narayana Swamy
 * [Mortgage overpayment calculator in D3 4.0](https://github.com/paulhoughton/mortgage)
+* [Multi-Series Line Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/be18bb176b5050b55a32c05060bad11e) - Chandrakant Thakkar
 
 #### Pie Chart
 
@@ -1345,8 +1346,9 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Spiral for John Hunter](http://bl.ocks.org/mbostock/3543186)
 * [Hexagonal Heatmaps for e.g. Self Organizing Maps (SOM)](http://www.visualcinnamon.com/2013/07/self-organizing-maps-adding-boundaries.html) and [code](http://bl.ocks.org/nbremer/6052681)
 * [Manhattan Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/0620e41591f278431b8b98bfdf361b40)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/0620e41591f278431b8b98bfdf361b40) 
-* [Worm Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)
-
+* [Worm Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)- By Chandrakant Thakkar 
+  [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)
+* [Partnership Chartg/ChandrakantThakkarDigiCorp/5f3abb974af37d8a5066d97a5a7a73a3)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/5f3abb974af37d8a5066d97a5a7a73a3)
 
 #### Miscellaneous visualizations
 
