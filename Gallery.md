@@ -1156,6 +1156,8 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Pie Multiples](http://bl.ocks.org/mbostock/1305111) / [Pie Multiples with Nesting](http://bl.ocks.org/mbostock/1305337)
 * [Pie Chart Updating (Part 1)](http://bl.ocks.org/mbostock/1346395) [(Part 2)](http://bl.ocks.org/mbostock/1346410)
 * [Hierarchical Pie Chart](http://bl.ocks.org/4710330/94a7c0aeb6f09d681dbfdd0e5150578e4935c6ae) - [Andreas Dewes](http://www.andreas-dewes.de/code_is_beautiful)
+* [Pie Chart D3 V4](http://bl.ocks.org/ChandrakantThakkarDigiCorp/c8ce360f8bc896ffa6c16d30a4cd026b) - Chandrakant Thakkar
+* [Donult Chart D3 V4](http://bl.ocks.org/ChandrakantThakkarDigiCorp/f73b89c530d8d38e074d4f3ab157032b) - Chandrakant Thakkar
 
 #### Scatterplot and Bubble chart
 
