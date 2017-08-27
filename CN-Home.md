@@ -75,7 +75,7 @@ require(["d3"], function(d3) {
 
 ## 修改
 
-如果你想对D3进行修改的话，单击本页右上角的 "Fork" 按钮来fork你自己的D3项目，然后在命令行中输入如下命令来克隆到本地
+如果你想对D3进行修改的话，单击本页右上角的 "Fork" 按钮来fork你自己的D3项目，然后在命令行中输入如下命令来克隆到本地：
 
 ```bash
 git clone git://github.com/username/d3.git
