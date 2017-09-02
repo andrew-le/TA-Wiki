@@ -612,7 +612,10 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="http://animateddata.co.uk/img/ext/ballofstring.png">
         </a>
     </td>
-    <td>
+    <td>Force Directed Graph Labeled<br>
+        <a href="https://bl.ocks.org/heybignick/3faf257bbbbc7743bb72310d03b86ee8">
+          <img width="133" src="https://gist.githubusercontent.com/heybignick/3faf257bbbbc7743bb72310d03b86ee8/raw/443eb6276ba6bb5f938622a89e5f35c29a9e2c6d/thumbnail.png">
+        </a>
     </td>
     <td>
     </td>
