@@ -98,7 +98,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Force directed graphs with D3 v4](http://www.puzzlr.org/?page_id=133)
 * [D3, ES6 and React examples](https://github.com/artyomtrityak/d3-explorer)
 * [Understanding Zoom with D3 v4](http://www.puzzlr.org/zoom-in-d3-v4/)
-* [D3 v4 and TypeScript - getting set up](https://hstefanski.wordpress.com/2017/07/23/d3-v4-and-typescript-getting-set-up/)
+* [Creating a chart with D3 (v4) and TypeScript](https://hstefanski.wordpress.com/2017/08/15/creating-a-chart-with-d3-v4-and-typescript-or-es6/)
 
 ## Blogs
 
