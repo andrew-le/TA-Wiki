@@ -1,5 +1,3 @@
-[[[https://drive.google.com/file/d/0B87iW_nvaZEFUTBkb0ZUeVZPYWc/view?usp=sharing|alt="smartUSV Logo"|height=210px|width=210px]]]
-
 Data-Driven Documents
 ===============
 
