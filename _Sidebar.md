@@ -1,7 +1,7 @@
 [[[https://d3js.org/logo.svg|alt="D3js Logo"|height=210px|width=210px]]](https://d3js.org)
 
 Data-Driven Documents
-===============
+=====================
 
 - [[Home]]
 - [[Gallery]]
