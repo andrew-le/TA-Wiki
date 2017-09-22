@@ -1228,6 +1228,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Connectome explorer for the "brain" of C. elegans](https://elegans.herokuapp.com)
 * [Ontology Visualization (VOWL)](http://vowl.visualdataweb.org/webvowl/)
 * [NBA 2016/17 Regular Season Transactions](http://vizproj.000webhostapp.com/) - Igal Klebanov
+* [Graph for Sets (g4s) - Twitter Followers intersections](https://kirdan.github.io/)
 
 #### Tree
 
