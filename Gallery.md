@@ -617,7 +617,10 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://gist.githubusercontent.com/heybignick/3faf257bbbbc7743bb72310d03b86ee8/raw/443eb6276ba6bb5f938622a89e5f35c29a9e2c6d/thumbnail.png">
         </a>
     </td>
-    <td>
+    <td>Federal Contractors Sunburst<br>
+        <a href="https://fedspendingtransparency.18f.gov/data-lab/contract-sunburst/">
+          <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/burst.png">
+        </a>
     </td>
     <td>
     </td>
