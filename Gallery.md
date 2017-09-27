@@ -618,18 +618,18 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         </a>
     </td>
     <td>Federal Contractors Sunburst with Panel and Icons<br>
-        <a href="https://fedspendingtransparency.18f.gov/data-lab/contract-sunburst/">
+        <a href="http://fedspendingtransparency.github.io/data-lab/contract-sunburst/">
           <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/burst.png">
         </a>
     </td>
     <td>Government Spending Sankey with Panel<br>
-        <a href="https://fedspendingtransparency.18f.gov/data-lab/budget-sankey/">
+        <a href="http://fedspendingtransparency.github.io/data-lab/budget-sankey/">
           <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/sankey.png">
     </td>
 </tr>
 <tr>
     <td>Federal Accounts Dendrogram<br>
-        <a href="https://fedspendingtransparency.18f.gov/data-lab/federal-accounts/">
+        <a href="http://fedspendingtransparency.github.io/data-lab/federal-accounts/">
           <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/accounts.png">
         </a>
     </td>
