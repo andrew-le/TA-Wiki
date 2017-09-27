@@ -622,7 +622,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/burst.png">
         </a>
     </td>
-    <td>Government Spending Sankey<br>
+    <td>Government Spending Sankey with Panel<br>
         <a href="https://fedspendingtransparency.18f.gov/data-lab/budget-sankey/">
           <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/sankey.png">
     </td>
