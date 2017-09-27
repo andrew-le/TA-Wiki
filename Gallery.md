@@ -627,6 +627,19 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/sankey.png">
     </td>
 </tr>
+<tr>
+    <td>Federal Accounts Dendrogram<br>
+        <a href="https://fedspendingtransparency.18f.gov/data-lab/federal-accounts/">
+          <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/accounts.png">
+        </a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+</tr>
 
 </table>
 
