@@ -64,6 +64,29 @@ var document = jsdom.jsdom(),
     svg = d3.select(document.body).append("svg");
 ```
 
+When using D3 in an environment that supports [ES modules](http://exploringjs.com/es6/ch_modules.html), you can import the default D3 bundle as a namespace:
+
+```js
+import * as d3 from "d3";
+```
+
+If you want to import a D3 module that is not included in the default bundle, you must assign it a separate namespace:
+
+```js
+import * as d3 from "d3";
+import * as d3GeoProjection from "d3-geo-projection";
+```
+
+For this reason, the preferred pattern is to import symbols from the [D3 modules](https://github.com/d3) directly, rather than using the default bundle:
+
+```js
+import {select, selectAll} from "d3-selection";
+import {geoPath} from "d3-geo";
+import {geoPatterson} from "d3-geo-projection";
+```
+
+If you are using a bundler, make sure your bundler is configured to consume the `modules` entry point in the package.json. See webpack’s [resolve.mainFields](https://webpack.js.org/configuration/resolve/#resolve-mainfields), for example.
+
 ## Local Development
 
 Browsers enforce strict security permissions to prevent you from reading files out of the local file system. To develop locally, you must run a local web server rather than using file://…. Node’s [http-server](https://www.npmjs.com/package/http-server) is recommended. To install:
