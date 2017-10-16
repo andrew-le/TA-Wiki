@@ -44,6 +44,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [zazuko/d3-sparql](https://github.com/zazuko/d3-sparql) - load data directly from sparql endpoints with a select query
 * [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz) - Graphviz DOT rendering and animated transitions
 * [lushen/d3-v4-bundler](https://github.com/lushen/d3-v4-bundler) - A rollup-based bundler for customizing the combination of d3(v4) methods depend on the need.
+* [solgenomics/d3-pedigree-tree](https://github.com/solgenomics/d3-pedigree-tree) - A layout for visualizing pedigree trees.
 
 ## v3
 
