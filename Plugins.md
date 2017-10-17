@@ -45,7 +45,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz) - Graphviz DOT rendering and animated transitions
 * [lushen/d3-v4-bundler](https://github.com/lushen/d3-v4-bundler) - A rollup-based bundler for customizing the combination of d3(v4) methods depend on the need.
 * [solgenomics/d3-pedigree-tree](https://github.com/solgenomics/d3-pedigree-tree) - A layout for visualizing pedigree trees.
-
+* [niekes/d3-3d](https://github.com/Niekes/d3-3d) - 3d visualization
 ## v3
 
 * [2D Histogram](https://github.com/herkulano/d3-plugin-hist2d)
