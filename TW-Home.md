@@ -95,7 +95,7 @@ require(["d3"], function(d3) {
 git clone git://github.com/username/d3.git
 ```
 
-如果你要用 D3 來做視覺化應用，建議你要獨立在一個專案中開發，另一方面，假如你想要未 D3 擴充新的功能、修 bug 或執行測試，你應該要 [fork the D3 repository](/mbostock/d3)，並安裝 [Node.js](http://nodejs.org/) (v0.10.x 或更新的版本)，然後在 D3 repository 的根目錄中安裝 D3 的相依套件：
+如果你要用 D3 來做視覺化應用，建議你要獨立在一個專案中開發，另一方面，假如你想要為 D3 擴充新的功能、修 bug 或執行測試，你應該要 [fork the D3 repository](/mbostock/d3)，並安裝 [Node.js](http://nodejs.org/) (v0.10.x 或更新的版本)，然後在 D3 repository 的根目錄中安裝 D3 的相依套件：
 
     npm install
 
