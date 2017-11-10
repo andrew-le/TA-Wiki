@@ -390,7 +390,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
              <a href="http://uo-lca.github.io/dist/#/home/fragment-lcia"><img width="133"       src="https://github.com/binaworks/binaworks.github.io/blob/master/images/GalleryWaterfalls.png"></a>
          </td>
          <td>Small Multiple Circle Packing</br>
-             <a href="http://visualcinnamon.com/occupations" target="_blank"><img width="133"       src="https://raw.githubusercontent.com/nbremer/thumbnails/master/Small%20Multiple%20Packing.png"></a></td>
+             <a href="https://www.visualcinnamon.com/2015/11/learnings-from-a-d3-js-addict-on-starting-with-canvas.html" target="_blank"><img width="133"       src="https://raw.githubusercontent.com/nbremer/thumbnails/master/Small%20Multiple%20Packing.png"></a></td>
 <td>Nested Layouts<br><br><a href="http://emptypipes.org/2015/10/11/layouts-upon-layouts/"><img width="133" align="center" src="http://emptypipes.org/img/layouts_upon_layouts_itemprop.png"></a></td>
     </tr>
     <tr>
