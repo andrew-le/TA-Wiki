@@ -790,13 +790,12 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
 </table>
 
 ## Examples
-* [A machine learning powered experiment that shows 'connections' between artworks from the Ars Electronica Archive.](http://arsexplorer.martinnadal.eu/) - [Martin Nadal] (http://martinnadal.eu/)
+* [Artworks from the Ars Electronica Archive](http://arsexplorer.martinnadal.eu/) - [Martin Nadal](http://martinnadal.eu/)
 * [Frequency of the first name in Venezuela, 100 years and 3000 names](https://asosab.github.io/nombres-venezolanos/) - Alejandro Sosa Briceño
 * [Suicide statistics of India 2001-2013](http://www.vinodlouis.com/demos/suicide-stats-of-india/) - [Data Source data.gov.in](https://data.gov.in/catalog/stateut-wise-professional-profile-suicide-victim) - [Vinod Louis](http://www.vinodlouis.com/)
 * [Padma Awards - India's  Honour System - Interactive Explorer](http://dashboard-padmaawards.gov.in/) - [Pratap Vardhan](https://twitter.com/PratapVardhan)
-* [Data From a Local NGO - Prayaas]
-(https://prayaas.iiita.ac.in/visual.php)
-[Source] (https://github.com/aedorado/d3-visuals) by [Anurag El Dorado] (https://github.com/aedorado/)
+* [Data From a Local NGO - Prayaas](https://prayaas.iiita.ac.in/visual.php) 
+[Source](https://github.com/aedorado/d3-visuals) by [Anurag El Dorado](https://github.com/aedorado/)
 * [Visualizing the attendees at the World Economic Forum – Braid.io]
 (http://braid.io/tile/wef-attendees-2016) - Braid.io
 * [Presidents of USA and their Birth Signs – Sankey Visualization](http://www.infocaptor.com/dashboard/presidents-of-usa-and-their-birth-signs-sankey-visualization) - Sankey Viz
