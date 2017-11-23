@@ -87,7 +87,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Sankey diagram (by @soxofaan)](https://github.com/soxofaan/d3-plugin-captain-sankey)
 * [Sankey diagram (by @emeeks, multi-part)](https://github.com/emeeks/d3-plugins/tree/master/sankey)
 * [Superformula](https://github.com/d3/d3-plugins/tree/master/superformula)
-* [Template](https://github.com/jkutianski/d3.template/tree/d3v3) support template compilation engines as Handlebars, Mustache, Hogan and probably others.
+* [Template](https://github.com/jkutianski/d3.template/tree/d3v3) support template engines as Handlebars, Mustache, Hogan and probably others.
 * [Transform format](https://github.com/trinary/d3-transform)
 * [URL format](https://github.com/d3/d3-plugins/tree/master/urlencode)
 * [Vertical Sankey](https://github.com/benlogan1981/VerticalSankey) ([demo](http://benlogan1981.github.io/VerticalSankey/UBS.html))
