@@ -191,6 +191,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [Bangalore d3.js User Group](http://www.meetup.com/Bangalore-d3-js-User-Group/)
 * [Boulder-Denver D3.js and Data Visualization] (http://www.meetup.com/Boulder-Denver-D3-and-Data-Visualization/)
 * [Taipei D3.js Meetup](http://www.meetup.com/Taipei-D3-js-Meetup/)
+* [Munich Data Visualization Group](https://www.meetup.com/Data-Visualization-Meetup-Munich/)
 
 
 ## Research Papers
