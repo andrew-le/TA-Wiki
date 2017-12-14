@@ -27,6 +27,7 @@
 * [Türkçe](/ahmetkurnaz/d3/wiki)
 * [Indonesian](/widiantonugroho/d3/wiki)
 * [Português](/jeanbauer/d3/wiki)
+* [Español](/19cah/d3/wiki)
 
 ## Installing
 
