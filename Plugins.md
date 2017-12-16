@@ -28,6 +28,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [vijithassar/d3-history](https://github.com/vijithassar/d3-history) - deep-linking for dynamic user interfaces.
 * [vijithassar/d3-parent](https://github.com/vijithassar/d3-parent) - select an ancestor element.
 * [vijithassar/d3-rect](https://github.com/vijithassar/d3-rect) - draw rectangles.
+* [jkutianski/d3-templating](https://github.com/jkutianski/d3-templating) - Plugin to support templating engines, like Handlebars, Mustache and Hogan.js on D3.
 * [vijithassar/d3-textwrap](https://github.com/vijithassar/d3-textwrap) - wrap long lines of text in SVG.
 * [YellowTugboat/d3-symbol-extra](https://github.com/YellowTugboat/d3-symbol-extra) - extended symbol types.
 * [skokenes/d3-lasso](https://github.com/skokenes/d3-lasso) - lasso select elements
