@@ -28,7 +28,6 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [vijithassar/d3-history](https://github.com/vijithassar/d3-history) - deep-linking for dynamic user interfaces.
 * [vijithassar/d3-parent](https://github.com/vijithassar/d3-parent) - select an ancestor element.
 * [vijithassar/d3-rect](https://github.com/vijithassar/d3-rect) - draw rectangles.
-* [jkutianski/d3-templating](https://github.com/jkutianski/d3-templating) - Plugin to support templating engines on D3.
 * [vijithassar/d3-textwrap](https://github.com/vijithassar/d3-textwrap) - wrap long lines of text in SVG.
 * [YellowTugboat/d3-symbol-extra](https://github.com/YellowTugboat/d3-symbol-extra) - extended symbol types.
 * [skokenes/d3-lasso](https://github.com/skokenes/d3-lasso) - lasso select elements
@@ -47,6 +46,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [lushen/d3-v4-bundler](https://github.com/lushen/d3-v4-bundler) - A rollup-based bundler for customizing the combination of d3(v4) methods depend on the need.
 * [solgenomics/d3-pedigree-tree](https://github.com/solgenomics/d3-pedigree-tree) - A layout for visualizing pedigree trees.
 * [niekes/d3-3d](https://github.com/Niekes/d3-3d) - 3d visualization
+* [jkutianski/d3-templating](https://github.com/jkutianski/d3-templating) - Plugin to support templating engines on D3.
 ## v3
 
 * [2D Histogram](https://github.com/herkulano/d3-plugin-hist2d)
@@ -96,3 +96,4 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Geodesic grid](https://github.com/d3/d3-plugins/tree/master/geodesic)
 * [Polyhedral geographic projections](https://github.com/d3/d3-plugins/tree/master/geo/polyhedron)
 * [zazuko/d3-sparql](https://github.com/zazuko/d3-sparql/tree/v3) - load data directly from sparql endpoints with a select query
+* [jkutianski/d3-templating](https://github.com/jkutianski/d3-templating) - Plugin to support templating engines on D3.
