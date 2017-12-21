@@ -628,6 +628,13 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
     </td>
 </tr>
 <tr>
+    <td>Federal Accounts Dendrogram<br>
+        <a href="http://fedspendingtransparency.github.io/data-lab/federal-accounts/">
+          <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/accounts.png">
+        </a>
+    </td>
+
+
 
     <td>
         Fisheye Navigation and viewing for Google Sheets add-ons<br>
@@ -636,17 +643,9 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
         </a>
     </td>
 
-    <td>Federal Accounts Dendrogram<br>
-        <a href="http://fedspendingtransparency.github.io/data-lab/federal-accounts/">
-          <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/accounts.png">
-        </a>
-    </td>
-
-
     <td>
     </td>
-    <td>
-    </td>
+
     <td>
     </td>
 </tr>
