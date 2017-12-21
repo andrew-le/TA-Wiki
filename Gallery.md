@@ -633,6 +633,13 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/accounts.png">
         </a>
     </td>
+
+    <td>Fisheye Navigation and viewing for Google Sheets add-ons<br>
+        <a href="https://bl.ocks.org/brucemcpherson/3551aabaebb0bfa3f4b6fc528b763154">
+          <img width="133" src="https://storage.googleapis.com/goinggas.com/assets/images/d3/fishpreview.png">
+        </a>
+    </td>
+
     <td>
     </td>
     <td>
