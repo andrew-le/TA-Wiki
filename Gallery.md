@@ -638,9 +638,7 @@ Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbost
           <img width="133" src="https://github.com/fedspendingtransparency/analytics-usaspending-website/blob/master/accounts.png">
         </a>
     </td>
-   
-    <td></td>
-    <td></td>
+
 </tr>
 
 </table>
