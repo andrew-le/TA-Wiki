@@ -47,6 +47,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [solgenomics/d3-pedigree-tree](https://github.com/solgenomics/d3-pedigree-tree) - A layout for visualizing pedigree trees.
 * [niekes/d3-3d](https://github.com/Niekes/d3-3d) - 3d visualization
 * [jkutianski/d3-templating](https://github.com/jkutianski/d3-templating) - Plugin to support templating engines on D3.
+* [jkutianski/d3-clone](https://github.com/jkutianski/d3-clone) - Plugin to append/insert node clones by D3 selections.
 * [Kcnarf/d3-beeswarm](https://github.com/Kcnarf/d3-beeswarm) - D3 plugin which computes a 'beeswarm' arrangement
 * [Kcnarf/d3-weigthed-voronoi](https://github.com/Kcnarf/d3-weighted-voronoi) - Compute a Weighted Voronoi diagram of a set of weighted two-dimensional sites
 * [Kcnarf/d3-voronoi-map](https://github.com/Kcnarf/d3-voronoi-map) - D3 plugin which computes a map (one-level treemap) based on a Voronoi tesselation
