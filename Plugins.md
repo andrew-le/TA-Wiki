@@ -4,7 +4,6 @@ Please feel free to add links to your work!
 
 For more information on creating your own plugin, see [Let's Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/). All D3 4.x+ plugins should be published with the [d3-module keyword](https://www.npmjs.com/browse/keyword/d3-module) on npm.
 
-## v4
 * [d3/d3-geo-projection](https://github.com/d3/d3-geo-projection) - extended geographic projections.
 * [d3/d3-hcg](https://github.com/d3/d3-hcg) - the hue-chroma-grayness color space derived from Munsell.
 * [d3/d3-hexbin](https://github.com/d3/d3-hexbin) - group two-dimensional points into hexagonal bins.
@@ -17,6 +16,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [benfred/venn.js](https://github.com/benfred/venn.js) - area-proportional Venn and Euler diagrams.
 * [binaworks/d3-container](https://github.com/binaworks/d3-container) - a reusable margin convention.
 * [emeeks/d3-bboxCollide](https://github.com/emeeks/d3-bboxCollide) - bounding-box collision detection.
+* [ErikOnBike/d3-template](https://github.com/ErikOnBike/d3-template) - templates using data joins.
 * [etiennecrb/d3-xyzoom](https://github.com/etiennecrb/d3-xyzoom) - independent zoom scaling on x and y axis.
 * [Fil/d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) - spherical Voronoi and Delaunay.
 * [pbeshai/d3-interpolate-path](https://github.com/pbeshai/d3-interpolate-path) - smoothly interpolate between arbitrary paths.
