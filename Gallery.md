@@ -1,6 +1,6 @@
 > [Wiki](Home) ▸ **Gallery**
 
-Welcome to the **D3 gallery**! More examples are available on [bl.ocks.org/mbostock](http://bl.ocks.org/mbostock). If you want to share an example and don't have your own hosting, consider using [Gist](http://gist.github.com) and [bl.ocks.org](http://bl.ocks.org). If you want to share or view live examples try [vida.io](https://vida.io/explore).
+Welcome to the **D3 gallery**! More examples are available for forking on [Observable](https://beta.observablehq.com)’s; see [my profile](https://beta.observablehq.com/@mbostock) and the [visualization collection](https://beta.observablehq.com/collection/visualization). Feel free to publish and share your own!
 
 ## Visual Index 
 
