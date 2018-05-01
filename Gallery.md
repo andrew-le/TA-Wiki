@@ -1,6 +1,6 @@
 > [Wiki](Home) ▸ **Gallery**
 
-Welcome to the **D3 gallery**! More examples are available for forking on [Observable](https://beta.observablehq.com)’s; see [my profile](https://beta.observablehq.com/@mbostock) and the [visualization collection](https://beta.observablehq.com/collection/visualization). Feel free to publish and share your own!
+Welcome to the **D3 gallery**! More examples are available for forking on [Observable](https://beta.observablehq.com); see [my profile](https://beta.observablehq.com/@mbostock) and the [visualization collection](https://beta.observablehq.com/collection/visualization). Feel free to publish and share your own!
 
 ## Visual Index 
 
