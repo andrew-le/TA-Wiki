@@ -30,7 +30,7 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
         <td>Voronoi Diagram<br><a href="http://bl.ocks.org/mbostock/4060366"><img width="133" src="http://d3js.org/ex/voronoi.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Hierarchical Edge Bundling<br><a href="http://mbostock.github.com/d3/talk/20111116/bundle.html"><img width="133" src="http://d3js.org/ex/bundle.png"></a></td>
+        <td>Hierarchical Edge Bundling<br><a href="https://beta.observablehq.com/@mbostock/d3-hierarchical-edge-bundling"><img width="133" src="http://d3js.org/ex/bundle.png"></a></td>
         <td>Voronoi Diagram<br><a href="http://mbostock.github.com/d3/talk/20111116/airports-all.html"><img width="133" src="http://d3js.org/ex/airports-all.png"></a></td>
         <td>Symbol Map<br><a href="http://mbostock.github.com/d3/talk/20111116/airports.html"><img width="133" src="http://d3js.org/ex/airports.png"></a></td>
         <td>Parallel Coordinates<br><a href="http://mbostock.github.com/d3/talk/20111116/iris-parallel.html"><img width="133" src="http://d3js.org/ex/iris-parallel.png"></a></td>
