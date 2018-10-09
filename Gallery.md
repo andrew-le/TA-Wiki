@@ -7,27 +7,27 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
 <table>
     <tr valign="top">
         <td width="25%">Box Plots<br><a href="http://bl.ocks.org/mbostock/4061502"><img width="133" src="http://d3js.org/ex/box.png"></a></td>
-        <td width="25%">Bubble Chart<br><a href="http://bl.ocks.org/mbostock/4063269"><img width="133" src="http://d3js.org/ex/bubble.png"></a></td>
+        <td width="25%">Bubble Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-bubble-chart"><img width="133" src="http://d3js.org/ex/bubble.png"></a></td>
         <td width="25%">Bullet Charts<br><a href="http://bl.ocks.org/mbostock/4061961"><img width="133" src="http://d3js.org/ex/bullet.png"></a></td>
-        <td width="25%">Calendar View<br><a href="http://bl.ocks.org/mbostock/4063318"><img width="133" src="http://d3js.org/ex/calendar.png"></a></td>
+        <td width="25%">Calendar View<br><a href="https://beta.observablehq.com/@mbostock/d3-calendar-view"><img width="133" src="http://d3js.org/ex/calendar.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Non-contiguous Cartogram<br><a href="http://bl.ocks.org/mbostock/4055908"><img width="133" src="http://d3js.org/ex/cartogram.png"></a></td>
-        <td>Chord Diagram<br><a href="http://bl.ocks.org/mbostock/4062006"><img width="133" src="http://d3js.org/ex/chord.png"></a></td>
-        <td>Dendrogram<br><a href="http://bl.ocks.org/mbostock/4063570"><img width="133" src="http://d3js.org/ex/cluster.png"></a></td>
-        <td>Force-Directed Graph<br><a href="http://bl.ocks.org/mbostock/4062045"><img width="133" src="http://d3js.org/ex/force.png"></a></td>
+        <td>Chord Diagram<br><a href="https://beta.observablehq.com/@mbostock/d3-chord-diagram"><img width="133" src="http://d3js.org/ex/chord.png"></a></td>
+        <td>Dendrogram<br><a href="https://beta.observablehq.com/@mbostock/d3-cluster-dendrogram"><img width="133" src="http://d3js.org/ex/cluster.png"></a></td>
+        <td>Force-Directed Graph<br><a href="https://beta.observablehq.com/@mbostock/d3-force-directed-graph"><img width="133" src="http://d3js.org/ex/force.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Circle Packing<br><a href="http://bl.ocks.org/mbostock/4063530"><img width="133" src="http://d3js.org/ex/pack.png"></a></td>
+        <td>Circle Packing<br><a href="https://beta.observablehq.com/@mbostock/d3-circle-packing"><img width="133" src="http://d3js.org/ex/pack.png"></a></td>
         <td>Population Pyramid<br><a href="http://bl.ocks.org/mbostock/4062085"><img width="133" src="http://d3js.org/ex/population.png"></a></td>
         <td>Stacked Bars<br><a href="http://bl.ocks.org/mbostock/3943967"><img width="133" src="http://d3js.org/ex/stack.png"></a></td>
-        <td>Streamgraph<br><a href="http://bl.ocks.org/mbostock/4060954"><img width="133" src="http://d3js.org/ex/stream.png"></a></td>
+        <td>Streamgraph<br><a href="https://beta.observablehq.com/@mbostock/streamgraph-transitions"><img width="133" src="http://d3js.org/ex/stream.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Sunburst<br><a href="http://bl.ocks.org/mbostock/4063423"><img width="133" src="http://d3js.org/ex/sunburst.png"></a></td>
-        <td>Node-Link Tree<br><a href="http://bl.ocks.org/mbostock/4063550"><img width="133" src="http://d3js.org/ex/tree.png"></a></td>
-        <td>Treemap<br><a href="http://bl.ocks.org/mbostock/4063582"><img width="133" src="http://d3js.org/ex/treemap.png"></a></td>
-        <td>Voronoi Diagram<br><a href="http://bl.ocks.org/mbostock/4060366"><img width="133" src="http://d3js.org/ex/voronoi.png"></a></td>
+        <td>Sunburst<br><a href="https://beta.observablehq.com/@mbostock/d3-sunburst"><img width="133" src="http://d3js.org/ex/sunburst.png"></a></td>
+        <td>Node-Link Tree<br><a href="https://beta.observablehq.com/@mbostock/d3-tidy-tree"><img width="133" src="http://d3js.org/ex/tree.png"></a></td>
+        <td>Treemap<br><a href="https://beta.observablehq.com/@mbostock/d3-treemap"><img width="133" src="http://d3js.org/ex/treemap.png"></a></td>
+        <td>Voronoi Diagram<br><a href="https://beta.observablehq.com/@mbostock/hover-voronoi"><img width="133" src="http://d3js.org/ex/voronoi.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Hierarchical Edge Bundling<br><a href="https://beta.observablehq.com/@mbostock/d3-hierarchical-edge-bundling"><img width="133" src="http://d3js.org/ex/bundle.png"></a></td>
@@ -36,10 +36,10 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
         <td>Parallel Coordinates<br><a href="http://mbostock.github.com/d3/talk/20111116/iris-parallel.html"><img width="133" src="http://d3js.org/ex/iris-parallel.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Scatterplot Matrix<br><a href="http://mbostock.github.com/d3/talk/20111116/iris-splom.html"><img width="133" src="http://d3js.org/ex/iris-splom.png"></a></td>
+        <td>Scatterplot Matrix<br><a href="https://beta.observablehq.com/@mbostock/d3-scatterplot-matrix"><img width="133" src="http://d3js.org/ex/iris-splom.png"></a></td>
         <td>Zoomable Pack Layout<br><a href="http://mbostock.github.com/d3/talk/20111116/pack-hierarchy.html"><img width="133" src="http://d3js.org/ex/pack-hierarchy.png"></a></td>
         <td>Hierarchical Bars<br><a href="http://mbostock.github.com/d3/talk/20111116/bar-hierarchy.html"><img width="133" src="http://d3js.org/ex/bar-hierarchy.png"></a></td>
-        <td>Epicyclical Gears<br><a href="http://bl.ocks.org/mbostock/1353700"><img width="133" src="http://d3js.org/ex/gears.png"></a></td>
+        <td>Epicyclical Gears<br><a href="https://beta.observablehq.com/@mbostock/epicyclic-gearing"><img width="133" src="http://d3js.org/ex/gears.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Collision Detection<br><a href="http://mbostock.github.com/d3/talk/20111018/collision.html"><img width="133" src="http://d3js.org/ex/force-collision.png"></a></td>
@@ -48,7 +48,7 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
         <td>Azimuthal Projections<br><a href="http://mbostock.github.com/d3/talk/20111018/azimuthal.html"><img width="133" src="http://d3js.org/ex/azimuthal.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Choropleth<br><a href="http://bl.ocks.org/mbostock/4060606"><img width="133" src="http://d3js.org/ex/choropleth.png"></a></td>
+        <td>Choropleth<br><a href="https://beta.observablehq.com/@mbostock/d3-choropleth"><img width="133" src="http://d3js.org/ex/choropleth.png"></a></td>
         <td>Collapsible Tree Layout<br><a href="http://mbostock.github.com/d3/talk/20111018/tree.html"><img width="133" src="http://d3js.org/ex/tree-zoom.png"></a></td>
         <td>Zoomable Treemap<br><a href="http://mbostock.github.com/d3/talk/20111018/treemap.html"><img width="133" src="http://d3js.org/ex/treemap-zoom.png"></a></td>
         <td>Zoomable Partition Layout<br><a href="http://mbostock.github.com/d3/talk/20111018/partition.html"><img width="133" src="http://d3js.org/ex/partition-zoom.png"></a></td>
@@ -57,7 +57,7 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
         <td>Zoomable Area Chart<br><a href="http://mbostock.github.com/d3/talk/20111018/area-gradient.html"><img width="133" src="http://d3js.org/ex/area-gradient.png"></a></td>
         <td>Drag and Drop Collapsible Tree Layout<br><a href="http://bl.ocks.org/robschmuecker/7880033"><img width="133" src="https://cloud.githubusercontent.com/assets/4923966/6143256/7da0855e-b17a-11e4-817e-5f33b4077283.png"></a></td>
         <td>Rotating Cluster Layout<br><a href="http://mbostock.github.com/d3/talk/20111018/cluster.html"><img width="133" src="http://d3js.org/ex/cluster-radial.png"></a></td>
-        <td>Sankey Diagram<br><a href="http://bost.ocks.org/mike/sankey/"><img width="133" src="http://d3js.org/ex/sankey.png"></a></td>
+        <td>Sankey Diagram<br><a href="https://beta.observablehq.com/@mbostock/d3-sankey-diagram"><img width="133" src="http://d3js.org/ex/sankey.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Fisheye Distortion<br><a href="http://bost.ocks.org/mike/fisheye/"><img width="133" src="http://d3js.org/ex/fisheye.png"></a></td>
