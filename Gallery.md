@@ -49,14 +49,14 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
     </tr>
     <tr valign="top">
         <td>Choropleth<br><a href="https://beta.observablehq.com/@mbostock/d3-choropleth"><img width="133" src="http://d3js.org/ex/choropleth.png"></a></td>
-        <td>Collapsible Tree Layout<br><a href="http://mbostock.github.com/d3/talk/20111018/tree.html"><img width="133" src="http://d3js.org/ex/tree-zoom.png"></a></td>
+        <td>Collapsible Tree Layout<br><a href="https://beta.observablehq.com/@mbostock/collapsible-tree"><img width="133" src="http://d3js.org/ex/tree-zoom.png"></a></td>
         <td>Zoomable Treemap<br><a href="http://mbostock.github.com/d3/talk/20111018/treemap.html"><img width="133" src="http://d3js.org/ex/treemap-zoom.png"></a></td>
         <td>Zoomable Partition Layout<br><a href="http://mbostock.github.com/d3/talk/20111018/partition.html"><img width="133" src="http://d3js.org/ex/partition-zoom.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Zoomable Area Chart<br><a href="http://mbostock.github.com/d3/talk/20111018/area-gradient.html"><img width="133" src="http://d3js.org/ex/area-gradient.png"></a></td>
         <td>Drag and Drop Collapsible Tree Layout<br><a href="http://bl.ocks.org/robschmuecker/7880033"><img width="133" src="https://cloud.githubusercontent.com/assets/4923966/6143256/7da0855e-b17a-11e4-817e-5f33b4077283.png"></a></td>
-        <td>Rotating Cluster Layout<br><a href="http://mbostock.github.com/d3/talk/20111018/cluster.html"><img width="133" src="http://d3js.org/ex/cluster-radial.png"></a></td>
+        <td>Radial Cluster Layout<br><a href="https://beta.observablehq.com/@mbostock/d3-radial-dendrogram"><img width="133" src="http://d3js.org/ex/cluster-radial.png"></a></td>
         <td>Sankey Diagram<br><a href="https://beta.observablehq.com/@mbostock/d3-sankey-diagram"><img width="133" src="http://d3js.org/ex/sankey.png"></a></td>
     </tr>
     <tr valign="top">
