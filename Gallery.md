@@ -67,8 +67,8 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
     </tr>
     <tr valign="top">
         <td>Chord Diagram<br><a href="http://bost.ocks.org/mike/uberdata/"><img width="133" src="http://d3js.org/ex/uber.png"></a></td>
-        <td>Animated Béziers<br><a href="http://www.jasondavies.com/animated-bezier/"><img width="133" src="http://d3js.org/ex/bezier.png"></a></td>
-        <td>Zoomable Sunburst<br><a href="http://www.jasondavies.com/coffee-wheel/"><img width="133" src="http://d3js.org/ex/coffee.png"></a></td>
+        <td>Animated Béziers<br><a href="https://beta.observablehq.com/@mbostock/de-casteljaus-algorithm"><img width="133" src="http://d3js.org/ex/bezier.png"></a></td>
+        <td>Zoomable Sunburst<br><a href="https://beta.observablehq.com/@mbostock/d3-zoomable-sunburst"><img width="133" src="http://d3js.org/ex/coffee.png"></a></td>
         <td>Collatz Graph<br><a href="http://www.jasondavies.com/collatz-graph/"><img width="133" src="http://d3js.org/ex/collatz.png"></a></td>
     </tr>
     <tr valign="top">
