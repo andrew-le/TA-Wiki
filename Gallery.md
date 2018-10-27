@@ -536,7 +536,6 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
 <td>US H1b Worker Salaries<br><a href="http://www.h1bsalary.info/index.html?employerName=AMAZON%20CORPORATE%20LLC&year=2016"><img width="133" src="http://i.imgur.com/yCyjDBA.png" alt="H1b Salaries visualization with D3 v4"></a></td>
 <td>Correlation Matrix<br><a href="https://bl.ocks.org/arpitnarechania/caeba2e6579900ea12cb2a4eb157ce74"><img width="133" src="https://gist.githubusercontent.com/arpitnarechania/caeba2e6579900ea12cb2a4eb157ce74/raw/414c6c79a27ea2e379f2045a795844e0a8ffe722/thumbnail.png"></a></td>
         <td>Map and context with brushing<br><a href="http://rbspd3.herokuapp.com"><img width="133" src="https://raw.github.com/sdelarquier/rbspd3/mr/snapshot.png"></a></td>
-        <td>Interactive Sales Data Pie Chart<br><a href="https://live.zoomdata.com/zoomdata/visualization?__target=embedded&key=52265abb6abdbcaa8c217789#51db7ad4e4b04caf9ab346db-51db7ad4e4b04caf9ab346d5"><img width="133" src="https://dl.dropboxusercontent.com/u/56332995/sales%20interactive%20pie%20d3js.png"></a></td>
 </tr>
 <tr>
         <td>Bertifier - to visually encode and reorder data<br><a href="http://www.bertifier.com"><img width="133" src="http://charles.perin.free.fr/data/proj/bertifier_thumbnail.png"></a></td>
@@ -669,12 +668,6 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
     <td>d3pie - pie chart generator and lib<br><a href="http://d3pie.org"><img width="133" src="http://d3pie.org/website/images/d3pie-screenshot.png"></a></td>
     <td>3D Donut<br><a href="http://bl.ocks.org/NPashaP/9994181"><img width="133" src="http://bl.ocks.org/NPashaP/raw/9994181/thumbnail.png"></a></td>
     <td>Gradient Pie<br><a href="http://bl.ocks.org/NPashaP/9999786"><img width="133" src="http://bl.ocks.org/NPashaP/raw/9999786/thumbnail.png"></a></td>
-  </tr>
-  <tr valign="top">
-    <td>100% Stacked Bars<br><a href="https://live.zoomdata.com/zoomdata/visualization?__target=embedded&key=544fb187e4b0f4966438c4c3#51db7ad4e4b04caf9ab346db-5411ace4e4b065842f0df371"><img width="133" src="http://i57.tinypic.com/1pynhw.png"></a></td>
-    <td>Interactive Scatterplot<br><a href="https://live2.zoomdata.com/zoomdata/visualization?__target=embedded&key=546ca53ae4b0f6e2257e3295#54292b07e4b011a99e1252ba-5411ace4e4b065842f0df36e"><img width="133" src="http://i61.tinypic.com/2hq9s2b.png"></a></td>
-    <td>Interactive Multi-Metric Bars<br><a href="https://live2.zoomdata.com/zoomdata/visualization?__target=embedded&key=546df937e4b0f6e226bdeb04#51db7ad4e4b04caf9ab346db-53c6a37ae4b040073c0b32c5"><img width="133" src="http://i62.tinypic.com/nphqmu.png"></a></td>
-    <td>United States Map with Mapbox Tiles<br><a href="https://live2.zoomdata.com/zoomdata/visualization#53f22849e4b08f9d5f15360a-522655b0e4b00f4f3af30f12"><img width="133" src="http://i62.tinypic.com/rsfo79.png"></a></td>
   </tr>
   <tr valign="top">
     <td>Waterfall Chart<br><a href="http://bl.ocks.org/chucklam/f3c7b3e3709a0afd5d57"><img width="133" src="http://bl.ocks.org/chucklam/raw/f3c7b3e3709a0afd5d57/thumbnail.png"></a></td>
