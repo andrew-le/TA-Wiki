@@ -641,22 +641,22 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
 
 <table>
   <tr valign="top">
-    <td>Area Chart<br><a href="http://bl.ocks.org/mbostock/3883195"><img width="133" src="http://bl.ocks.org/mbostock/raw/3883195/thumbnail.png"></a></td>
-    <td>Line Chart<br><a href="http://bl.ocks.org/mbostock/3883245"><img width="133" src="http://bl.ocks.org/mbostock/raw/3883245/thumbnail.png"></a></td>
+    <td>Area Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-area-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3883195/thumbnail.png"></a></td>
+    <td>Line Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-line-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3883245/thumbnail.png"></a></td>
     <td>Bivariate Area Chart<br><a href="http://bl.ocks.org/mbostock/3884914"><img width="133" src="http://bl.ocks.org/mbostock/raw/3884914/thumbnail.png"></a></td>
-    <td>Multi-Series Line Chart<br><a href="http://bl.ocks.org/mbostock/3884955"><img width="133" src="http://bl.ocks.org/mbostock/raw/3884955/thumbnail.png"></a></td>
+    <td>Multi-Series Line Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-multi-line-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3884955/thumbnail.png"></a></td>
   </tr>
   <tr valign="top">
-    <td>Stacked Area Chart<br><a href="http://bl.ocks.org/mbostock/3885211"><img width="133" src="http://bl.ocks.org/mbostock/raw/3885211/thumbnail.png"></a></td>
-    <td>Bar Chart<br><a href="http://bl.ocks.org/mbostock/3885304"><img width="133" src="http://bl.ocks.org/mbostock/raw/3885304/thumbnail.png"></a></td>
-    <td>Stacked Bar Chart<br><a href="http://bl.ocks.org/mbostock/3886208"><img width="133" src="http://bl.ocks.org/mbostock/raw/3886208/thumbnail.png"></a></td>
-    <td>Normalized Stacked Bar Chart<br><a href="http://bl.ocks.org/mbostock/3886394"><img width="133" src="http://bl.ocks.org/mbostock/raw/3886394/thumbnail.png"></a></td>
+    <td>Stacked Area Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-stacked-area-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3885211/thumbnail.png"></a></td>
+    <td>Bar Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-bar-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3885304/thumbnail.png"></a></td>
+    <td>Stacked Bar Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-stacked-bar-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3886208/thumbnail.png"></a></td>
+    <td>Normalized Stacked Bar Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-stacked-normalized-horizontal-bar-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3886394/thumbnail.png"></a></td>
   </tr>
   <tr valign="top">
     <td>Grouped Bar Chart<br><a href="http://bl.ocks.org/mbostock/3887051"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887051/thumbnail.png"></a></td>
-    <td>Scatterplot<br><a href="http://bl.ocks.org/mbostock/3887118"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887118/thumbnail.png"></a></td>
-    <td>Donut Chart<br><a href="http://bl.ocks.org/mbostock/3887193"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887193/thumbnail.png"></a></td>
-    <td>Pie Chart<br><a href="http://bl.ocks.org/mbostock/3887235"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887235/thumbnail.png"></a></td>
+    <td>Scatterplot<br><a href="https://beta.observablehq.com/@mbostock/d3-scatterplot"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887118/thumbnail.png"></a></td>
+    <td>Donut Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-donut-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887193/thumbnail.png"></a></td>
+    <td>Pie Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-pie-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887235/thumbnail.png"></a></td>
   </tr>
   <tr valign="top">
     <td>Donut Multiples<br><a href="http://bl.ocks.org/mbostock/3888852"><img width="133" src="http://bl.ocks.org/mbostock/raw/3888852/thumbnail.png"></a></td>
