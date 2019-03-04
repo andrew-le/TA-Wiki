@@ -1,63 +1,63 @@
 > [Wiki](Home) ▸ **Gallery**
 
-Welcome to the **D3 gallery**! More examples are available for forking on [Observable](https://beta.observablehq.com); see [my profile](https://beta.observablehq.com/@mbostock) and the [visualization collection](https://beta.observablehq.com/collection/visualization). Feel free to publish and share your own!
+Welcome to the **D3 gallery**! More examples are available for forking on [Observable](https://observablehq.com); see [my profile](https://observablehq.com/@mbostock) and the [visualization collection](https://observablehq.com/collection/visualization). Feel free to publish and share your own!
 
-## Visual Index 
+## Visual Index
 
 <table>
     <tr valign="top">
-        <td width="25%">Box Plots<br><a href="https://beta.observablehq.com/@mbostock/d3-box-plot"><img width="133" src="http://d3js.org/ex/box.png"></a></td>
-        <td width="25%">Bubble Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-bubble-chart"><img width="133" src="http://d3js.org/ex/bubble.png"></a></td>
+        <td width="25%">Box Plots<br><a href="https://observablehq.com/@d3/box-plot"><img width="133" src="http://d3js.org/ex/box.png"></a></td>
+        <td width="25%">Bubble Chart<br><a href="https://observablehq.com/@d3/bubble-chart"><img width="133" src="http://d3js.org/ex/bubble.png"></a></td>
         <td width="25%">Bullet Charts<br><a href="http://bl.ocks.org/mbostock/4061961"><img width="133" src="http://d3js.org/ex/bullet.png"></a></td>
-        <td width="25%">Calendar View<br><a href="https://beta.observablehq.com/@mbostock/d3-calendar-view"><img width="133" src="http://d3js.org/ex/calendar.png"></a></td>
+        <td width="25%">Calendar View<br><a href="https://observablehq.com/@d3/calendar-view"><img width="133" src="http://d3js.org/ex/calendar.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Non-contiguous Cartogram<br><a href="http://bl.ocks.org/mbostock/4055908"><img width="133" src="http://d3js.org/ex/cartogram.png"></a></td>
-        <td>Chord Diagram<br><a href="https://beta.observablehq.com/@mbostock/d3-chord-diagram"><img width="133" src="http://d3js.org/ex/chord.png"></a></td>
-        <td>Dendrogram<br><a href="https://beta.observablehq.com/@mbostock/d3-cluster-dendrogram"><img width="133" src="http://d3js.org/ex/cluster.png"></a></td>
-        <td>Force-Directed Graph<br><a href="https://beta.observablehq.com/@mbostock/d3-force-directed-graph"><img width="133" src="http://d3js.org/ex/force.png"></a></td>
+        <td>Chord Diagram<br><a href="https://observablehq.com/@d3/chord-diagram"><img width="133" src="http://d3js.org/ex/chord.png"></a></td>
+        <td>Dendrogram<br><a href="https://observablehq.com/@d3/cluster-dendrogram"><img width="133" src="http://d3js.org/ex/cluster.png"></a></td>
+        <td>Force-Directed Graph<br><a href="https://observablehq.com/@d3/force-directed-graph"><img width="133" src="http://d3js.org/ex/force.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Circle Packing<br><a href="https://beta.observablehq.com/@mbostock/d3-circle-packing"><img width="133" src="http://d3js.org/ex/pack.png"></a></td>
+        <td>Circle Packing<br><a href="https://observablehq.com/@d3/circle-packing"><img width="133" src="http://d3js.org/ex/pack.png"></a></td>
         <td>Population Pyramid<br><a href="http://bl.ocks.org/mbostock/4062085"><img width="133" src="http://d3js.org/ex/population.png"></a></td>
-        <td>Stacked Bars<br><a href="http://bl.ocks.org/mbostock/3943967"><img width="133" src="http://d3js.org/ex/stack.png"></a></td>
-        <td>Streamgraph<br><a href="https://beta.observablehq.com/@mbostock/streamgraph-transitions"><img width="133" src="http://d3js.org/ex/stream.png"></a></td>
+        <td>Stacked Bars<br><a href="https://observablehq.com/@d3/stacked-to-grouped-bars"><img width="133" src="http://d3js.org/ex/stack.png"></a></td>
+        <td>Streamgraph<br><a href="https://observablehq.com/@mbostock/streamgraph-transitions"><img width="133" src="http://d3js.org/ex/stream.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Sunburst<br><a href="https://beta.observablehq.com/@mbostock/d3-sunburst"><img width="133" src="http://d3js.org/ex/sunburst.png"></a></td>
-        <td>Node-Link Tree<br><a href="https://beta.observablehq.com/@mbostock/d3-tidy-tree"><img width="133" src="http://d3js.org/ex/tree.png"></a></td>
-        <td>Treemap<br><a href="https://beta.observablehq.com/@mbostock/d3-treemap"><img width="133" src="http://d3js.org/ex/treemap.png"></a></td>
-        <td>Voronoi Diagram<br><a href="https://beta.observablehq.com/@mbostock/hover-voronoi"><img width="133" src="http://d3js.org/ex/voronoi.png"></a></td>
+        <td>Sunburst<br><a href="https://observablehq.com/@d3/sunburst"><img width="133" src="http://d3js.org/ex/sunburst.png"></a></td>
+        <td>Node-Link Tree<br><a href="https://observablehq.com/@d3/tidy-tree"><img width="133" src="http://d3js.org/ex/tree.png"></a></td>
+        <td>Treemap<br><a href="https://observablehq.com/@d3/treemap"><img width="133" src="http://d3js.org/ex/treemap.png"></a></td>
+        <td>Voronoi Diagram<br><a href="https://observablehq.com/@mbostock/hover-voronoi"><img width="133" src="http://d3js.org/ex/voronoi.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Hierarchical Edge Bundling<br><a href="https://beta.observablehq.com/@mbostock/d3-hierarchical-edge-bundling"><img width="133" src="http://d3js.org/ex/bundle.png"></a></td>
-        <td>Voronoi Diagram<br><a href="https://beta.observablehq.com/@mbostock/u-s-airports-voronoi"><img width="133" src="http://d3js.org/ex/airports-all.png"></a></td>
-        <td>Symbol Map<br><a href="http://mbostock.github.com/d3/talk/20111116/airports.html"><img width="133" src="http://d3js.org/ex/airports.png"></a></td>
-        <td>Parallel Coordinates<br><a href="http://mbostock.github.com/d3/talk/20111116/iris-parallel.html"><img width="133" src="http://d3js.org/ex/iris-parallel.png"></a></td>
+        <td>Hierarchical Edge Bundling<br><a href="https://observablehq.com/@d3/hierarchical-edge-bundling"><img width="133" src="http://d3js.org/ex/bundle.png"></a></td>
+        <td>Voronoi Diagram<br><a href="https://observablehq.com/@mbostock/u-s-airports-voronoi"><img width="133" src="http://d3js.org/ex/airports-all.png"></a></td>
+        <td>Bubble Map<br><a href="https://observablehq.com/@d3/bubble-map"><img width="133" src="http://d3js.org/ex/airports.png"></a></td>
+        <td>Parallel Coordinates<br><a href="https://observablehq.com/@d3/parallel-coordinates"><img width="133" src="http://d3js.org/ex/iris-parallel.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Scatterplot Matrix<br><a href="https://beta.observablehq.com/@mbostock/d3-scatterplot-matrix"><img width="133" src="http://d3js.org/ex/iris-splom.png"></a></td>
-        <td>Zoomable Pack Layout<br><a href="http://mbostock.github.com/d3/talk/20111116/pack-hierarchy.html"><img width="133" src="http://d3js.org/ex/pack-hierarchy.png"></a></td>
-        <td>Hierarchical Bars<br><a href="http://mbostock.github.com/d3/talk/20111116/bar-hierarchy.html"><img width="133" src="http://d3js.org/ex/bar-hierarchy.png"></a></td>
-        <td>Epicyclical Gears<br><a href="https://beta.observablehq.com/@mbostock/epicyclic-gearing"><img width="133" src="http://d3js.org/ex/gears.png"></a></td>
+        <td>Scatterplot Matrix<br><a href="https://observablehq.com/@d3/scatterplot-matrix"><img width="133" src="http://d3js.org/ex/iris-splom.png"></a></td>
+        <td>Zoomable Pack Layout<br><a href="https://observablehq.com/@d3/zoomable-circle-packing"><img width="133" src="http://d3js.org/ex/pack-hierarchy.png"></a></td>
+        <td>Hierarchical Bars<br><a href="https://bl.ocks.org/mbostock/1283663"><img width="133" src="http://d3js.org/ex/bar-hierarchy.png"></a></td>
+        <td>Epicyclical Gears<br><a href="https://observablehq.com/@mbostock/epicyclic-gearing"><img width="133" src="http://d3js.org/ex/gears.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Collision Detection<br><a href="http://mbostock.github.com/d3/talk/20111018/collision.html"><img width="133" src="http://d3js.org/ex/force-collision.png"></a></td>
-        <td>Collapsible Force Layout<br><a href="http://mbostock.github.com/d3/talk/20111116/force-collapsible.html"><img width="133" src="http://d3js.org/ex/force-collapsible.png"></a></td>
-        <td>Force-Directed States<br><a href="http://mbostock.github.com/d3/talk/20111018/force-states.html"><img width="133" src="http://d3js.org/ex/force-states.png"></a></td>
-        <td>Azimuthal Projections<br><a href="http://mbostock.github.com/d3/talk/20111018/azimuthal.html"><img width="133" src="http://d3js.org/ex/azimuthal.png"></a></td>
+        <td>Collision Detection<br><a href="https://bl.ocks.org/mbostock/3231298"><img width="133" src="http://d3js.org/ex/force-collision.png"></a></td>
+        <td>Collapsible Force Layout<br><a href="https://bl.ocks.org/mbostock/1062288"><img width="133" src="http://d3js.org/ex/force-collapsible.png"></a></td>
+        <td>Force-Directed States<br><a href="https://bl.ocks.org/mbostock/1073373"><img width="133" src="http://d3js.org/ex/force-states.png"></a></td>
+        <td>Versor Dragging<br><a href="https://observablehq.com/@d3/versor-dragging"><img width="133" src="http://d3js.org/ex/azimuthal.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Choropleth<br><a href="https://beta.observablehq.com/@mbostock/d3-choropleth"><img width="133" src="http://d3js.org/ex/choropleth.png"></a></td>
-        <td>Collapsible Tree Layout<br><a href="https://beta.observablehq.com/@mbostock/collapsible-tree"><img width="133" src="http://d3js.org/ex/tree-zoom.png"></a></td>
-        <td>Zoomable Treemap<br><a href="http://mbostock.github.com/d3/talk/20111018/treemap.html"><img width="133" src="http://d3js.org/ex/treemap-zoom.png"></a></td>
-        <td>Zoomable Partition Layout<br><a href="http://mbostock.github.com/d3/talk/20111018/partition.html"><img width="133" src="http://d3js.org/ex/partition-zoom.png"></a></td>
+        <td>Choropleth<br><a href="https://observablehq.com/@d3/choropleth"><img width="133" src="http://d3js.org/ex/choropleth.png"></a></td>
+        <td>Collapsible Tree Layout<br><a href="https://observablehq.com/@d3/collapsible-tree"><img width="133" src="http://d3js.org/ex/tree-zoom.png"></a></td>
+        <td>Zoomable Treemap<br><a href="https://bost.ocks.org/mike/treemap/"><img width="133" src="http://d3js.org/ex/treemap-zoom.png"></a></td>
+        <td>Zoomable Icicle<br><a href="https://observablehq.com/@d3/zoomable-icicle"><img width="133" src="http://d3js.org/ex/partition-zoom.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Zoomable Area Chart<br><a href="http://mbostock.github.com/d3/talk/20111018/area-gradient.html"><img width="133" src="http://d3js.org/ex/area-gradient.png"></a></td>
+        <td>Zoomable Area Chart<br><a href="https://bl.ocks.org/mbostock/4015254"><img width="133" src="http://d3js.org/ex/area-gradient.png"></a></td>
         <td>Drag and Drop Collapsible Tree Layout<br><a href="http://bl.ocks.org/robschmuecker/7880033"><img width="133" src="https://cloud.githubusercontent.com/assets/4923966/6143256/7da0855e-b17a-11e4-817e-5f33b4077283.png"></a></td>
-        <td>Radial Cluster Layout<br><a href="https://beta.observablehq.com/@mbostock/d3-radial-dendrogram"><img width="133" src="http://d3js.org/ex/cluster-radial.png"></a></td>
-        <td>Sankey Diagram<br><a href="https://beta.observablehq.com/@mbostock/d3-sankey-diagram"><img width="133" src="http://d3js.org/ex/sankey.png"></a></td>
+        <td>Radial Cluster Layout<br><a href="https://observablehq.com/@d3/radial-dendrogram"><img width="133" src="http://d3js.org/ex/cluster-radial.png"></a></td>
+        <td>Sankey Diagram<br><a href="https://observablehq.com/@d3/sankey-diagram"><img width="133" src="http://d3js.org/ex/sankey.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Fisheye Distortion<br><a href="http://bost.ocks.org/mike/fisheye/"><img width="133" src="http://d3js.org/ex/fisheye.png"></a></td>
@@ -66,9 +66,9 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
         <td>Motion Chart<br><a href="http://bost.ocks.org/mike/nations/"><img width="133" src="http://d3js.org/ex/nations.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Chord Diagram<br><a href="http://bost.ocks.org/mike/uberdata/"><img width="133" src="http://d3js.org/ex/uber.png"></a></td>
-        <td>Animated Béziers<br><a href="https://beta.observablehq.com/@mbostock/de-casteljaus-algorithm"><img width="133" src="http://d3js.org/ex/bezier.png"></a></td>
-        <td>Zoomable Sunburst<br><a href="https://beta.observablehq.com/@mbostock/d3-zoomable-sunburst"><img width="133" src="http://d3js.org/ex/coffee.png"></a></td>
+        <td>Chord Diagram<br><a href="https://observablehq.com/@d3/chord-dependency-diagram"><img width="133" src="http://d3js.org/ex/uber.png"></a></td>
+        <td>Animated Béziers<br><a href="https://observablehq.com/@mbostock/de-casteljaus-algorithm"><img width="133" src="http://d3js.org/ex/bezier.png"></a></td>
+        <td>Zoomable Sunburst<br><a href="https://observablehq.com/@d3/zoomable-sunburst"><img width="133" src="http://d3js.org/ex/coffee.png"></a></td>
         <td>Collatz Graph<br><a href="http://www.jasondavies.com/collatz-graph/"><img width="133" src="http://d3js.org/ex/collatz.png"></a></td>
     </tr>
     <tr valign="top">
@@ -79,33 +79,31 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
     </tr>
     <tr valign="top">
         <td>US Trade Deficit<br><a href="http://www.brightpointinc.com/united-states-trade-deficit/" title="US Trade Deficit d3.js"><img width="133" src="http://www.brightpointinc.com/interactive/images/Deficit_202px.png"></a></td>
-        <td>Sequences sunburst<br><a href="http://bl.ocks.org/kerryrodden/7090426"><img width="133" src="https://gist.githubusercontent.com/kerryrodden/7090426/raw/66e9ce05ea907b3cb6b753cacc61aba45a78e21f/thumbnail.gif"></a></td>
+        <td>Sequences sunburst<br><a href="https://bl.ocks.org/kerryrodden/766f8f6d31f645c39f488a0befa1e3c8"><img width="133" src="https://gist.githubusercontent.com/kerryrodden/7090426/raw/66e9ce05ea907b3cb6b753cacc61aba45a78e21f/thumbnail.gif"></a></td>
     </tr>
     <tr valign="top">
 <td>NFL Predictions<br><a href="http://www.brightpointinc.com/2015-nfl-predictions/" title="2015 NFL Predictions"><img width="133" src="http://www.brightpointinc.com/labs/nfl_predictions/assets/nfl_predictions.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Koalas to the Max<br><a href="http://www.koalastothemax.com/"><img width="133" src="http://d3js.org/ex/koalas.png"></a></td>
-        <td>Sankey Creator<br><a href="http://infocaptor.com/sankey-diagram-software.php" title="Sankey Visualization Builder"><img width="133" src="http://infocaptor.com/img/sankey_infocaptor.gif"></a></td>
-        <td>Convert any page into bubbles<br><a href="http://www.infocaptor.com/bubble-my-page"><img width="133" src="http://www.infocaptor.com/wikipedia_visualization.png"></a></td>
-        <td>D3 Builder<br><a href="https://my.infocaptor.com/free_data_visualization.php"><img width="133" src="http://www.infocaptor.com/dashboard/wp-content/uploads/2014/10/image-358.jpg"></a></td>
+        <td>Owls to the Max<br><a href="https://observablehq.com/@mbostock/owls-to-the-max/"><img width="133" src="http://d3js.org/ex/koalas.png"></a></td>
+        <td>Flow-o-Matic<br><a href="https://observablehq.com/@mbostock/flow-o-matic"><img width="133" src="https://static.observableusercontent.com/thumbnail/6bd919162ae00ed8ed74f864a02ea0e03fd38fa8eebf3b526c405db376606120.jpg"></a></td>
     </tr>
     <tr valign="top">
         <td>Particles<br><a href="http://bl.ocks.org/mbostock/1062544"><img width="133" src="http://d3js.org/ex/particles.png"></a></td>
         <td>Indented Tree<br><a href="http://bl.ocks.org/mbostock/1093025"><img width="133" src="http://d3js.org/ex/indented-tree.png"></a></td>
         <td>Rounded Rect<br><a href="http://bl.ocks.org/mbostock/1123639"><img width="133" src="http://d3js.org/ex/rounded-rect.png"></a></td>
-        <td>Tadpoles<br><a href="http://bl.ocks.org/mbostock/1136236"><img width="133" src="http://d3js.org/ex/sperm.png"></a></td>
+        <td>Tadpoles<br><a href="https://observablehq.com/@mbostock/tadpoles"><img width="133" src="http://d3js.org/ex/sperm.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Showreel<br><a href="http://bl.ocks.org/mbostock/1256572"><img width="133" src="http://d3js.org/ex/show-reel.png"></a></td>
         <td>Euro Debt<br><a href="http://bl.ocks.org/mbostock/1308257"><img width="133" src="http://d3js.org/ex/debt.png"></a></td>
-        <td>Labeled Force Layout<br><a href="http://bl.ocks.org/mbostock/1377729"><img width="133" src="http://d3js.org/ex/force-labels.png"></a></td>
+        <td>Labeled Force Layout<br><a href="http://bl.ocks.org/MoritzStefaner/1377729"><img width="133" src="http://d3js.org/ex/force-labels.png"></a></td>
         <td>Circle-Square Illusion<br><a href="http://bl.ocks.org/mbostock/1386444"><img width="133" src="http://d3js.org/ex/illusion.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Voronoi Picking<br><a href="http://bl.ocks.org/mbostock/1405439"><img width="133" src="http://d3js.org/ex/voronoi-picker.png"></a></td>
-        <td>Zoomable Map<br><a href="http://bl.ocks.org/mbostock/2206590"><img width="133" src="http://d3js.org/ex/map-zoom.png"></a></td>
-        <td>Raindrops<br><a href="http://bl.ocks.org/mbostock/849853"><img width="133" src="http://d3js.org/ex/rain.png"></a></td>
+        <td>Voronoi Picking<br><a href="http://bl.ocks.org/njvack/1405439"><img width="133" src="http://d3js.org/ex/voronoi-picker.png"></a></td>
+        <td>Zoomable Map<br><a href="https://bl.ocks.org/mbostock/2206590"><img width="133" src="http://d3js.org/ex/map-zoom.png"></a></td>
+        <td>Raindrops<br><a href="https://bl.ocks.org/mbostock/849853"><img width="133" src="http://d3js.org/ex/rain.png"></a></td>
         <td>Color<br><a href="http://color.method.ac/"><img width="133" src="http://d3js.org/ex/color.png"></a></td>
     </tr>
     <tr valign="top">
@@ -129,13 +127,12 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
     <tr valign="top">
         <td>Open Budget<br><a href="http://marcinignac.com/projects/open-budget/"><img width="133" src="http://d3js.org/ex/open-budget.png"></a></td>
         <td>Bederson Publications<br><a href="http://www.cs.umd.edu/~bederson/papers/index.html"><img width="133" src="http://d3js.org/ex/bederson-pubs.png"></a></td>
+        <td>Build Your Own Graph!<br><a href="https://bl.ocks.org/mbostock/929623"><img width="133" src="http://bl.ocks.org/mbostock/raw/929623/thumbnail.png"></a></td>
         <td>Force Layout Editor<br><a href="http://bl.ocks.org/benzguo/4370043"><img width="133" src="http://bl.ocks.org/benzguo/raw/4362310/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Hierarchical Classification Tree<br><a href="http://www.bitjuice.com.au/research/#hierarchicalclassificationexample"><img width="133" src="http://www.bitjuice.com.au/wp-content/uploads/2013/08/hierarchical_visualisation_example.png"></a></td>
         <td>Gene Expression<br><a href="http://sulab.org/2013/02/data-chart-plugin-beta/"><img width="133" src="http://sulab.org/wordpress/wp-content/uploads/2013/02/data_chart_icon_2.jpg"></a></td>
         <td>spacetime<br><a href="http://bl.ocks.org/clayzermk1/9142407"><img width="133" src="https://gist.githubusercontent.com/clayzermk1/9142407/raw/thumbnail.png"></a></td>
-        <td>d3 Analog Clock Dashboard<br><a href="http://www.infocaptor.com/dashboard/d3-javascript-visualization-to-build-world-analog-clocks"><img width="133" src="http://www.infocaptor.com/dashboard/wp-content/uploads/2013/02/image-217-small.jpg"></a></td>
     </tr>
     <tr valign="top">
         <td>Concept network browser<br/><a href="http://www.findtheconversation.com/concept-map"><img width="133" src="http://www.findtheconversation.com/concept-map-d3-wiki.png"></a></td>
@@ -152,7 +149,6 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
     <tr valign="top">
 <td>What makes us happy?<br><a href="http://charts.animateddata.co.uk/whatmakesushappy/"><img width="133" src="http://animateddata.co.uk/img/ext/what-makes-us-happy2.jpg"></a></td>
         <td>Simple SOM Animation<br><a href="http://bl.ocks.org/e-/5244131"><img width="133" src="https://gist.github.com/e-/5244131/raw/2b721ed08e2361731b4d45370c9c8ddec63304e0/thumbnail.png"></a></td>
-        <td>A mower demo<br><a href="http://bertranddechoux.github.io/d3js-sandbox/mower-demo/index.html"><img width="133" src="https://raw.github.com/BertrandDechoux/d3js-sandbox/gh-pages/mower-demo/screenshot.png"></a></td>
         <td>Confusion Matrix<br><a href="https://bl.ocks.org/arpitnarechania/dbf03d8ef7fffa446379d59db6354bac"><img width="133" src="https://gist.githubusercontent.com/arpitnarechania/dbf03d8ef7fffa446379d59db6354bac/raw/1445686d596b42a2283c268dbf9ed34fd3f5038d/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
@@ -163,7 +159,6 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
     </tr>
     <tr valign="top">
         <td>Day/Hour Heatmap<br><a href="http://bl.ocks.org/tjdecke/5558084"><img width="133" src="https://gist.github.com/tjdecke/5558084/raw/thumbnail2.png"></a></td>
-        <td>Sunburst and parse.com<br><a href="http://xliberation.com/parse/colortable/parsed3.html"><img width="133" src="http://xliberation.com/googlecharts/1716.png"></a></td>
         <td>Worldwide remittance flows<br><a href="http://remittances.herokuapp.com/?en"><img width="133" src="https://raw.github.com/ilyabo/remittances/mr/design/screenshots/explore-en-square-200px.png"></a></td>
         <td>Language Network<br><a href="http://www.cotrino.com/2012/11/language-network/"><img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/langnet.png"></a></td>
     </tr>
@@ -184,21 +179,16 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
     </tr>
     <tr valign="top">
         <td>Site or blog concept browser<br/><a href="http://xliberation.com/googlecharts/d3concept.html"><img width="133" src="http://xliberation.com/googlecharts/1774.png"></a></td>
-        <td>Global power structure<br/><a href="http://WhoDoTheyServe.com"><img width="133" src="http://dizzib.github.io/wdts/asset/d3-thumb-200x200.png"></a></td>
         <td>Choropleth on canvas<br><a href="http://ssz.fr/parite"><img width="133" src="http://ssz.fr/brdl/parite.png"></a></td>
         <td>Google calendar like visualization<br><a href="http://bl.ocks.org/chaitanyagurrapu/6007521"><img width="133" src="http://bl.ocks.org/chaitanyagurrapu/raw/6007521/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Kagi Chart<br><a href="https://arpitnarechania.github.io/d3-kagi/"><img width="200" src="https://gist.githubusercontent.com/arpitnarechania/41d53792f562df4a2ad6f704ef242af5/raw/29b18c0ec9bd4864b7d0a08beebecad6687089da/thumbnail.png"></a></td>
         <td>Wikistalker - Wikipedia Visualization<br><a href="http://sepans.com/wikistalker"><img width="133" src="http://sepans.com/sp/wp-content/uploads/2013/07/wikistalker_history.png"></a></td>
-        <td>D3 Cesium - Health and Wealth of Nations<br><a href="http://cesiumjs.org/demos/d3.html"><img width="133" src="http://cesiumjs.org/demos/images/d3.png"></a></td>
         <td>Starpaths<br><a href="http://www.cotrino.com/2013/05/starpaths/"><img width="133" src="https://raw.githubusercontent.com/cotrino/experimentos/master/starpaths.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Kent + Sussex river levels mapped<br><a href="http://maps-n-apps.github.io/Rivers_Viz/"><img width="133" src="http://mapsnapps.com/public/themes/portfolio-monstra-theme/assets/blogimages/d3map.png"></a></td>
-        <td>CoreNLP Sentence Parse Tree<br><a href="http://nlpviz.bpodgursky.com/home"><img width="133" src="http://bpodgursky.files.wordpress.com/2013/08/nlp-screenshot-cropped.png"></a></td>
-        <td>Publications in journals over time<br><a href="http://neuralengr.com/asifr/journals"><img width="133" src="http://neuralengr.com/asifr/journals/journals.png"></a></td>
-        <td>Another state budget visualization with open api<br><a href="http://statick.org:3000"><img width="133" src="http://www.demodems.org/gtt/otvoreni-budzet-d3.png"></a></td>
     </tr>
     <tr valign="top">
         <td>Interactive Bible contradictions & bar charts [<a href="https://github.com/danielgtaylor/bibviz">source</a>]<br/><a href="http://bibviz.com/"><img width="133" src="http://bibviz.com/img/square.png"/></a></td>
@@ -291,7 +281,6 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
         <td>Trend Chart (Area + Line)<br><a href="http://bl.ocks.org/rkirsling/33a9e350516da54a5d4f"><img width="133" src="http://bl.ocks.org/rkirsling/raw/33a9e350516da54a5d4f/thumbnail.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Create D3 Visualizations<br><a href="https://my.infocaptor.com/free_data_visualization.php"><img width="133" src="http://www.infocaptor.com/dashboard/wp-content/uploads/2014/10/image-358.jpg"></a></td>
         <td>-<br><a href="#"><img width="133" src="#"></a></td>
         <td>Node Focusable Tree<br><a href="http://codepen.io/mikefab/full/IDdts/"><img width="133" src="http://s12.postimg.org/abee893h9/node_focusable_radial_tree.jpg"></a></td>
     </tr>
@@ -368,7 +357,6 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
     </tr>
     <tr>
         <td>Visualizing a genetic algorithm <a href="http://karstenahnert.com/gp/"><img width="133" src="http://karstenahnert.com/gp/thumbnail3_133.png"></a></td>
-        <td>Create D3 Visualizations<br><a href="https://my.infocaptor.com/free_data_visualization.php"><img width="133" src="http://www.infocaptor.com/dashboard/wp-content/uploads/2014/10/image-358.jpg"></a></td>
         <td>Rectangular Area Chart<br /><a href="http://bl.ocks.org/brattonc/b1abb535227b2f722b51" target="_blank"><img width="133" src="https://gist.githubusercontent.com/brattonc/b1abb535227b2f722b51/raw/thumbnail.gif"></a></td>
         <td>Gaussian curve from random variable<br /><a href="http://plnkr.co/GOH3XH" target="_blank"><img width="133" src="https://raw.githubusercontent.com/samyBadjoudj/gaussian-function/master/gaussian_function_d3.png"></a></td>
     </tr>
@@ -640,22 +628,22 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
 
 <table>
   <tr valign="top">
-    <td>Area Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-area-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3883195/thumbnail.png"></a></td>
-    <td>Line Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-line-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3883245/thumbnail.png"></a></td>
+    <td>Area Chart<br><a href="https://observablehq.com/@mbostock/d3-area-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3883195/thumbnail.png"></a></td>
+    <td>Line Chart<br><a href="https://observablehq.com/@mbostock/d3-line-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3883245/thumbnail.png"></a></td>
     <td>Bivariate Area Chart<br><a href="http://bl.ocks.org/mbostock/3884914"><img width="133" src="http://bl.ocks.org/mbostock/raw/3884914/thumbnail.png"></a></td>
-    <td>Multi-Series Line Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-multi-line-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3884955/thumbnail.png"></a></td>
+    <td>Multi-Series Line Chart<br><a href="https://observablehq.com/@mbostock/d3-multi-line-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3884955/thumbnail.png"></a></td>
   </tr>
   <tr valign="top">
-    <td>Stacked Area Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-stacked-area-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3885211/thumbnail.png"></a></td>
-    <td>Bar Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-bar-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3885304/thumbnail.png"></a></td>
-    <td>Stacked Bar Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-stacked-bar-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3886208/thumbnail.png"></a></td>
-    <td>Normalized Stacked Bar Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-stacked-normalized-horizontal-bar-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3886394/thumbnail.png"></a></td>
+    <td>Stacked Area Chart<br><a href="https://observablehq.com/@mbostock/d3-stacked-area-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3885211/thumbnail.png"></a></td>
+    <td>Bar Chart<br><a href="https://observablehq.com/@mbostock/d3-bar-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3885304/thumbnail.png"></a></td>
+    <td>Stacked Bar Chart<br><a href="https://observablehq.com/@mbostock/d3-stacked-bar-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3886208/thumbnail.png"></a></td>
+    <td>Normalized Stacked Bar Chart<br><a href="https://observablehq.com/@mbostock/d3-stacked-normalized-horizontal-bar-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3886394/thumbnail.png"></a></td>
   </tr>
   <tr valign="top">
     <td>Grouped Bar Chart<br><a href="http://bl.ocks.org/mbostock/3887051"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887051/thumbnail.png"></a></td>
-    <td>Scatterplot<br><a href="https://beta.observablehq.com/@mbostock/d3-scatterplot"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887118/thumbnail.png"></a></td>
-    <td>Donut Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-donut-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887193/thumbnail.png"></a></td>
-    <td>Pie Chart<br><a href="https://beta.observablehq.com/@mbostock/d3-pie-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887235/thumbnail.png"></a></td>
+    <td>Scatterplot<br><a href="https://observablehq.com/@mbostock/d3-scatterplot"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887118/thumbnail.png"></a></td>
+    <td>Donut Chart<br><a href="https://observablehq.com/@mbostock/d3-donut-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887193/thumbnail.png"></a></td>
+    <td>Pie Chart<br><a href="https://observablehq.com/@mbostock/d3-pie-chart"><img width="133" src="http://bl.ocks.org/mbostock/raw/3887235/thumbnail.png"></a></td>
   </tr>
   <tr valign="top">
     <td>Donut Multiples<br><a href="http://bl.ocks.org/mbostock/3888852"><img width="133" src="http://bl.ocks.org/mbostock/raw/3888852/thumbnail.png"></a></td>
@@ -767,11 +755,10 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
 * [Frequency of the first name in Venezuela, 100 years and 3000 names](https://asosab.github.io/nombres-venezolanos/) - Alejandro Sosa Briceño
 * [Suicide statistics of India 2001-2013](http://www.vinodlouis.com/demos/suicide-stats-of-india/) - [Data Source data.gov.in](https://data.gov.in/catalog/stateut-wise-professional-profile-suicide-victim) - [Vinod Louis](http://www.vinodlouis.com/)
 * [Padma Awards - India's  Honour System - Interactive Explorer](http://dashboard-padmaawards.gov.in/) - [Pratap Vardhan](https://twitter.com/PratapVardhan)
-* [Data From a Local NGO - Prayaas](https://prayaas.iiita.ac.in/visual.php) 
+* [Data From a Local NGO - Prayaas](https://prayaas.iiita.ac.in/visual.php)
 [Source](https://github.com/aedorado/d3-visuals) by [Anurag El Dorado](https://github.com/aedorado/)
 * [Visualizing the attendees at the World Economic Forum – Braid.io]
 (http://braid.io/tile/wef-attendees-2016) - Braid.io
-* [Presidents of USA and their Birth Signs – Sankey Visualization](http://www.infocaptor.com/dashboard/presidents-of-usa-and-their-birth-signs-sankey-visualization) - Sankey Viz
 * [Replay Edits - Visualizing the edits in a Wikipedia article](https://cosmiclattes.github.io/wikireplay/player.html) - Jeph Paul
 * [India SECC Census Explorer](https://gramener.com/playground/secc/) - [Pratap Vardhan](https://twitter.com/PratapVardhan)
 * [Light up! Denver](http://glennaxie.com/light-up-denver/) - Glenna Xie
@@ -1343,8 +1330,8 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Hierarchical Edge Bundling](http://bl.ocks.org/mbostock/1044242)
 * [Spiral for John Hunter](http://bl.ocks.org/mbostock/3543186)
 * [Hexagonal Heatmaps for e.g. Self Organizing Maps (SOM)](http://www.visualcinnamon.com/2013/07/self-organizing-maps-adding-boundaries.html) and [code](http://bl.ocks.org/nbremer/6052681)
-* [Manhattan Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/0620e41591f278431b8b98bfdf361b40)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/0620e41591f278431b8b98bfdf361b40) 
-* [Worm Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)- By Chandrakant Thakkar 
+* [Manhattan Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/0620e41591f278431b8b98bfdf361b40)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/0620e41591f278431b8b98bfdf361b40)
+* [Worm Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)- By Chandrakant Thakkar
   [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/bc0cf8e621f23faff5244062c06e82f8)
 * [Partnership Chart D3 V4](http://bl.ocks.org/ChandrakantThakkarDigiCorp/5f3abb974af37d8a5066d97a5a7a73a3)- By Chandrakant Thakkar [Source Code](https://gist.github.com/ChandrakantThakkarDigiCorp/5f3abb974af37d8a5066d97a5a7a73a3)
 
@@ -1504,7 +1491,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [8x8 Matrix Designer](http://gurgleapps.com/tools/matrix)
 
 #### Products
-* [InfoCaptor: Tableau like Drag and Drop D3 Chart Builder](http://www.infocaptor.com)
 * [Chart.io: The Easiest Business Dashboard You'll Ever Use](http://chart.io/)
 * [Cube: Time Series Data Collection & Analysis](http://square.github.com/cube/)
 * [Datacopia.com: Automated data visualization, Charts, and Analysis](http://www.datacopia.com)
