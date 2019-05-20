@@ -135,6 +135,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 * [D3.js: Cutting-edge Data Visualization](https://www.packtpub.com/web-development/d3js-cutting-edge-data-visualization)<br> Ændrew Rininsland, Michael Heydt & Pablo Navarro Castillo, Packt, March 2017
 * [D3.js 4.x Data Visualization - Third Edition](https://www.packtpub.com/web-development/d3js-4x-data-visualization-third-edition)<br> Ændrew Rininsland & Swizec Teller, Packt, April 2017
 * [Expert Data Visualization](https://www.packtpub.com/web-development/expert-data-visualization)<br> Jos Dirksen, Packt, April 2017
+* [Fullstack D3 and Data Visualization](https://fullstack.io/fullstack-d3)<br>Amelia Wattenberger, May 2019
 
 ## Courses
 
