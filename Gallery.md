@@ -1452,7 +1452,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [d3.js force diagrams straight from Excel](http://ramblings.mcpher.com/Home/excelquirks/d3/anyforce) - Bruce McPherson
 * [Instant interactive visualization with d3 + ggplot2](http://blog.echen.me/2012/03/05/instant-interactive-visualization-with-d3-and-ggplot2/)
 * [d3.js force diagrams with markers straight from Excel](http://excelramblings.blogspot.co.uk/2012/07/visualizing-system-integrations-using.html) - Bruce McPherson
-* [Visualising a real-time DataSift feed with Node and D3.js](http://www.benh.co.uk/datasift/visualising-a-datasift-feed-with-node-and-d3/)
 * [Very limited, in-progress attempt to hook d3.js up to three.js](https://github.com/asutherland/d3-threeD)
 * [SVG to Canvas to PNG using Canvg](http://jsfiddle.net/plaliberte/HAXyd/)
 * [Canvas with d3 and Underscore](http://exposedata.com/canvas/stacked.html)
@@ -1461,14 +1460,12 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [d3 rendered with RaphaelJS for IE Compatibility](https://github.com/mhemesath/r2d3/)
 * [d34raphael](http://webmonarch.github.com/d34raphael/usage.html)
 * [D3 graphics in a Pergola SVG UI](http://www.dotuscomus.com/pergola/pergola_1.4.0/ExamplesHTML/D3/multiD3.html)
-* [Visualising ConAir Data With Cubism.js (Arduino, TempoDB, Sinatra)](http://sammyd.github.com/blog/2012/09/16/visualising-conair-data-with-cubism-dot-js/)
 * [Render Geographic Information in 3D With Three.js and D3.js](http://css.dzone.com/articles/render-geographic-information)
 * [D3 heatmap using Backbone.js and CoffeeScript](http://bl.ocks.org/mbostock/2759731) - Nacho Caballero
 * [Visualizing a network with Cypher and d3.js](http://maxdemarzi.com/2012/02/13/visualizing-a-network-with-cypher/)
 * [ggplot2 + d3 = r2d3](https://github.com/hadley/r2d3)
-* [Using the D3.js Visualization Library with AngularJS](http://briantford.com/blog/angular-d3.html) - Brian Ford
 * [Zoomable Partition Charts directly from Excel](http://ramblings.mcpher.com/Home/excelquirks/d3/partition) - Bruce McPherson
-* [SHEETSEE.JS: Fill up Websites with Stuff from Google Spreasheet](http://jllord.github.com/sheetsee.js/) -Jessica Lord
+* [SHEETSEE.JS: Fill up Websites with Stuff from Google Spreadsheet](http://jlord.us/sheetsee.js/) -Jessica Lord
 * [Web reporting with D3js and R using RStudio Shiny](http://timelyportfolio.blogspot.com/2012/12/d3-shiny-and-r-reporting-performance.html) - klr @timelyportfolio
 * [d3.js partition chart serving data from parse.com](http://ramblings.mcpher.com/Home/excelquirks/parse/d3parse) - Bruce McPherson
 * [Force directed node focus generated from Excel](http://ramblings.mcpher.com/Home/excelquirks/gassites/d3nodefocus) - Bruce McPherson
@@ -1483,8 +1480,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 #### Online Editors
 
 * [Bar chart code generator and online editor](http://www.d3-generator.com/)
-* [Live coding based on Bret Victor's Inventing on Principle talk](http://livecoding.gabrielflor.it)
-* [Tributary](http://enjalot.com/tributary/2165875/sinwaves.js)
 * [D3.js playground](http://phrogz.net/JS/d3-playground/#BlankDefault)
 * [A CoffeeScript console for d3.js visualization](http://fleetinbeing.net/beans/d3)
 * [CSSdeck: Repulsion example](http://cssdeck.com/labs/d3-repulsive)
@@ -1499,16 +1494,12 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Explore Analytics: cloud-based data analytics and visualization](http://exploreanalytics.com/)
 * [Free Chart Builder in the cloud](https://my.infocaptor.com/free_data_visualization.php)
 * [Meshu turns your places into beautiful objects.](http://meshu.io/)
-* [Mohiomap: A Visual Memory for Evernote](https://www.moh.io/)
 * [MortgageBloom Calculator](http://mortgagebloom.com)
-* [Nodal is a fun way to view your GitHub network graph](http://nodal.me/login) - Jesse Vogt, Matt Stockton, and Kris Gösser
-* [Plot.io (swallowed by Platfora)](http://plot.io/)
 * [Polychart: A browser-based platform for exploring data and creating charts](http://polychart.com/)
 * [Reports for Simple](http://www.simple.com/blog/Simple/announcing-reports)
 * [Trisul Network Analytic](http://trisul.org/)
 * [Ubiq Analytics: MySQL Analytics & Reporting made easy](http://www.ubiq.co)
 * [Viima: Visual Idea Management Software](https://www.viima.com)
-* [Branch: Explore Biological Data with Decision Trees](http://biobranch.org/)
 * [Viz: Create A Thematic Map In Minutes](http://viz.socialcops.com)
 
 #### Store Apps
@@ -1528,7 +1519,6 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 * [Rickshaw: JavaScript toolkit for creating interactive real-time graphs](https://github.com/shutterstock/rickshaw)
 * [wq/chart.js: Simple reusable time series charts and boxplots](http://wq.io/docs/chart-js)
 * [Dynamic Visualization LEGO](https://github.com/vogievetsky/DVL)
-* [xCharts: a D3-based library for building custom charts and graphs](http://tenxer.github.com/xcharts/)
 * [VisualSedimentation.js: visualizing streaming data, inspired by the process of physical sedimentation](http://www.visualsedimentation.org/)
 * [Insights: Interactive Force Graph Component](https://github.com/ignacioola/insights)
 * [Lepracursor](http://sepans.com/sp/postes/lepracursor/), a d3.js based library which adds a virtual pointer to the page that grows in number with every click
@@ -1545,7 +1535,7 @@ http://www.healthmetricsandevaluation.org/tools/data-visualizations
 
 * [Insanity](https://github.com/jirislav/Insanity) is an D3js based online game developed to train people's reaction time and awareness. Try it here: http://insanity.jkozlovsky.cz/
 * [Cure](https://bitbucket.org/sulab/thecure) is an D3js based game that utilizes crowdsourcing to aid in selecting genes that are predictive of breast cancer recurrence. Try it here: http://genegames.org/cure/
-* [color-linez](https://github.com/four-js/color-linez) is an D3js based color matching game. Try it here: https://four-js.github.io/color-linez/
+* [color-linez](https://github.com/four-js/color-linez) is an D3js based color matching game. Try it here: https://jing-viz.github.io/color-linez/
 
 ### Wish List
 
