@@ -297,7 +297,6 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
         <td>Collapsible 2-Way Tree Layout<br><a href="http://bl.ocks.org/kanesee/5d6c48bffd4ea31201fb"><img width="133" src="https://raw.githubusercontent.com/kanesee/d3-2way-tree/master/screenshot.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Animated Pie<br><a href="http://vyacheslavryabinin.com/datavis/pie/"><img width="133" src="http://vyacheslavryabinin.com/datavis/pie/pie.png"></a></td>
         <td>Exoplanets in Orbit<br><a href="http://www.visualcinnamon.com/2014/12/creating-interactive-exoplanets-in.html"><img width="133" src="https://raw.githubusercontent.com/nbremer/exoplanets/gh-pages/img/Exoplanets%20-%20Animated.gif"></a></td>
         <td>Worldcup'14 Drag & Drop Brackets<br><a href="http://romain.vuillemot.net/projects/worldcup14/"><img width="133" src="http://romain.vuillemot.net/projects/worldcup14/tutorial.gif"></a></td>
         <td>A Scatterplot as Bar chart<br><a href="http://www.visualcinnamon.com/2015/01/the-top-2000-equalizer-songs.html"><img width="133" src="https://raw.githubusercontent.com/nbremer/thumbnails/master/Top2000Animated.gif"></a></td>
