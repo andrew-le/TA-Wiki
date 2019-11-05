@@ -107,7 +107,6 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
         <td>Color<br><a href="http://color.method.ac/"><img width="133" src="http://d3js.org/ex/color.png"></a></td>
     </tr>
     <tr valign="top">
-        <td>Hacker News Popularity<br><a href="http://hn.metamx.com/"><img width="133" src="http://d3js.org/ex/hn.png"></a></td>
         <td>Life Expectancy<br><a href="http://projects.flowingdata.com/life-expectancy/"><img width="133" src="http://d3js.org/ex/world.png"></a></td>
         <td>Slopegraphs<br><a href="http://skedasis.com/d3/slopegraph/"><img width="133" src="http://d3js.org/ex/slope.png"></a></td>
         <td>Parallel Coordinates<br><a href="http://exposedata.com/parallel/"><img width="133" src="http://d3js.org/ex/nutrient.png"></a></td>
@@ -812,7 +811,6 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
 * [Colony - Visualising Javascript projects and their dependencies](http://hughsk.github.com/colony) - Hugh Kennedy
 * [Euro Debt Crisis](http://bl.ocks.org/mbostock/1308257)
 * [Inequality in America](http://visual.ly/vizbox/inequality-in-america/) - EJ Fox for Visual.ly
-* [Current Article Popularity Trends on Hacker News](http://hn.metamx.com/) -  Vadim Ogievetsky
 * [Hacker News statistics using PhantomJS](http://labs.im/hnstat/)
 * [AFL Brownlow Medalists](http://www.vislives.com/2011/09/brownlow-medal-winners-visualization.html), [Summer Olympics Home Ground Advantage](http://www.vislives.com/2012/10/summer-olympics-home-ground-advantage.html), [Formula 1 Lap Chart](http://www.vislives.com/2012/05/d3js-transitions-zoom-zoom.html) and [David Foster Wallace's "Infinite Jest"](http://www.vislives.com/2011/12/infinite-jest-visualization.html), and [more...](http://www.vislives.com/search/label/d3.js) - Chris Pudney (VisLives!)
 * [Uber Rides by Neighborhood](http://bost.ocks.org/mike/uberdata/)
