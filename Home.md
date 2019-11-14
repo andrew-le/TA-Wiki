@@ -6,14 +6,17 @@
 * [API Reference](/d3/d3/blob/master/API.md)
 * [Release Notes](/d3/d3/blob/master/CHANGES.md)
 * [Gallery](Gallery)
-* [Examples](http://bl.ocks.org/mbostock)
+* [Examples](https://observablehq.com/@d3)
 * [Tutorials](Tutorials)
 * [Plugins](Plugins)
-* [d3.js on Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
-* [d3-js Google Group](http://groups.google.com/group/d3-js)
-* [d3-js Slack Channel](https://d3js.slack.com) ([Invite](https://d3-slackin.herokuapp.com/))
-* [d3-js Gitter Channel](https://gitter.im/d3/d3)
-* d3-js IRC Channel => #d3.js on irc.freenode.net
+
+## Help & Community
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
+* [Google Group](http://groups.google.com/group/d3-js)
+* [Slack](https://d3js.slack.com) ([Invite](https://d3-slackin.herokuapp.com/))
+* [Gitter](https://gitter.im/d3/d3)
+* IRC: #d3.js on irc.freenode.net
 
 ### Translations (Unofficial)
 
