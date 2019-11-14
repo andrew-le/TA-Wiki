@@ -10,7 +10,7 @@
 * [Tutorials](Tutorials)
 * [Plugins](Plugins)
 
-## Help & Community
+### Help & Community
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/d3.js)
 * [Google Group](http://groups.google.com/group/d3-js)
