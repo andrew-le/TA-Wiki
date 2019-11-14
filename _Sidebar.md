@@ -11,7 +11,7 @@ Data-Driven Documents
 
 ### Help
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/d3.js)
-- [Slack](https://d3js.slack.com)
+- [Slack](https://d3js.slack.com) ([Invite](https://d3-slackin.herokuapp.com/))
 - [Google Group](https://groups.google.com/group/d3-js)
 - [Gitter](https://gitter.im/d3/d3)
 
