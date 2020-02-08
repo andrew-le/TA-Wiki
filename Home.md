@@ -5,8 +5,7 @@
 * [Introduction](https://d3js.org/#introduction)
 * [API Reference](/d3/d3/blob/master/API.md)
 * [Release Notes](/d3/d3/blob/master/CHANGES.md)
-* [Gallery](Gallery)
-* [Examples](https://observablehq.com/@d3)
+* [Examples](https://observablehq.com/@d3/gallery)
 * [Tutorials](Tutorials)
 * [Plugins](Plugins)
 
