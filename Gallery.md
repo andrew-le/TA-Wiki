@@ -275,7 +275,6 @@ Welcome to the **D3 gallery**! More examples are available for forking on [Obser
     </tr>
     <tr valign="top">
         <td>-<br><a href="#"><img width="133" src="#"></a></td>
-        <td>Interactive Unit Circle (Trigonometry)<br><a href="http://derrick.cohodas.me/unit-circle/"><img width="133" src="http://i.imgur.com/Rh8bSNY.png?1"></a></td>
         <td>Days-Hours Heatmap<br><a href="http://bl.ocks.org/oyyd/859fafc8122977a3afd6"><img width="133" src="http://bl.ocks.org/oyyd/raw/859fafc8122977a3afd6/thumbnail.png"></a></td>
         <td>Trend Chart (Area + Line)<br><a href="http://bl.ocks.org/rkirsling/33a9e350516da54a5d4f"><img width="133" src="http://bl.ocks.org/rkirsling/raw/33a9e350516da54a5d4f/thumbnail.png"></a></td>
     </tr>
