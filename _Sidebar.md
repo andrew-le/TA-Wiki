@@ -4,8 +4,7 @@ Data-Driven Documents
 =====================
 
 - [[Home]]
-- [[Gallery]]
-- [Examples](https://bl.ocks.org/mbostock)
+- [Gallery](https://observablehq.com/@d3/gallery)
 - [[Tutorials]]
 - [[Plugins]]
 
