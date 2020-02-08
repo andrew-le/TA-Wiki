@@ -4,7 +4,7 @@ Data-Driven Documents
 =====================
 
 - [[Home]]
-- [Gallery](https://observablehq.com/@d3/gallery)
+- [Examples](https://observablehq.com/@d3/gallery)
 - [[Tutorials]]
 - [[Plugins]]
 
