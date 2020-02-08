@@ -4,7 +4,7 @@
 
 * [Introduction](https://d3js.org/#introduction)
 * [API Reference](/d3/d3/blob/master/API.md)
-* [Release Notes](https://github.com/d3/d3/releases)
+* [Releases](https://github.com/d3/d3/releases)
 * [Examples](https://observablehq.com/@d3/gallery)
 * [Tutorials](Tutorials)
 * [Plugins](Plugins)
