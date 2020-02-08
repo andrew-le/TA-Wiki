@@ -33,7 +33,7 @@
 
 ## Getting Started
 
-[Observable](https://observablehq.com/?utm_source=d3js-org&utm_medium=banner&utm_campaign=try-observable) is the quickest way to start playing with D3. Browse the [visualization collection](https://observablehq.com/collection/visualization?utm_source=d3js-org&utm_medium=banner&utm_campaign=try-observable) for inspiration, and then fork a notebook!
+[Observable](https://observablehq.com/?utm_source=d3js-org&utm_medium=banner&utm_campaign=try-observable) is the quickest way to start playing with D3. Browse the [D3 gallery](https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=banner&utm_campaign=try-observable) for inspiration, and then fork a notebook!
 
 ## Installing
 
