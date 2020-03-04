@@ -7,8 +7,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 ### Introductions & Core Concepts
 
 - [Introduction](https://d3js.org/#introduction)
-- [Simple Bar Chart Video Tutorial](https://scrimba.com/p/pEKMsN/cast-1953)
-- [Let’s Make a Bar Chart, Parts I](http://bost.ocks.org/mike/bar/), [II](http://bost.ocks.org/mike/bar/2/) & [III](http://bost.ocks.org/mike/bar/3/)
+- [Let’s Make a Bar Chart](https://observablehq.com/@d3/lets-make-a-bar-chart)
 - [Three Little Circles](http://bost.ocks.org/mike/circles/)
 - [Thinking with Joins](http://bost.ocks.org/mike/join/)
 - [How Selections Work](http://bost.ocks.org/mike/selection/)
@@ -18,6 +17,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 - [Object Constancy](http://bost.ocks.org/mike/constancy/)
 - [Working with Transitions](http://bost.ocks.org/mike/transition/)
 - [D3 Tutorials](http://alignedleft.com/tutorials/d3/) - Scott Murray
+- [Simple Bar Chart Video Tutorial](https://scrimba.com/p/pEKMsN/cast-1953)
 - [D3 Interactive Bar Chart Tutorial](https://www.codeanalogies.com/d3garden/) - Kevin Kononenko
 - [Create A Bar Chart With D3 JavaScript](http://vegibit.com/create-a-bar-chart-with-d3-javascript/) - Vegibit
 - [Try D3 Now](http://christopheviau.com/d3_tutorial/) - Christophe Viau
