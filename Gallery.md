@@ -1,5 +1,13 @@
 > [Wiki](Home) ▸ **Gallery**
 
+---
+
+# Please see the [new D3 Gallery](https://observablehq.com/@d3/gallery) on Observable.
+
+Many examples below are broken or use older versions of D3. We’re in the process of cleaning up this gallery, and writing new examples and tutorials. Thanks for your patience!
+
+---
+
 Welcome to the **D3 gallery**! More examples are available for forking on [Observable](https://observablehq.com); see [D3’s profile](https://observablehq.com/@d3) and the [visualization collection](https://observablehq.com/collection/visualization). Please share your work on Observable, or [tweet us a link](https://twitter.com/d3js_org)!
 
 ## Visual Index
