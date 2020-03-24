@@ -6,7 +6,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 
 ### Introductions & Core Concepts
 
-- [Introduction](https://d3js.org/#introduction)
+- [Introduction](https://observablehq.com/@d3/learn-d3)
 - [Let’s Make a Bar Chart](https://observablehq.com/@d3/lets-make-a-bar-chart)
 - [Three Little Circles](http://bost.ocks.org/mike/circles/)
 - [Thinking with Joins](http://bost.ocks.org/mike/join/)
