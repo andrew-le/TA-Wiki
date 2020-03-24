@@ -2,7 +2,7 @@
 
 ## Resources
 
-* [Introduction](https://d3js.org/#introduction)
+* [Introduction](https://observablehq.com/@d3/learn-d3)
 * [API Reference](/d3/d3/blob/master/API.md)
 * [Releases](https://github.com/d3/d3/releases)
 * [Examples](https://observablehq.com/@d3/gallery)
@@ -33,7 +33,7 @@
 
 ## Getting Started
 
-[Observable](https://observablehq.com/?utm_source=d3js-org&utm_medium=banner&utm_campaign=try-observable) is the quickest way to start playing with D3. Browse the [D3 example gallery](https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=banner&utm_campaign=try-observable) for inspiration, and then fork a notebook!
+[Observable](https://observablehq.com/?utm_source=d3js-org&utm_medium=banner&utm_campaign=try-observable) is the quickest way to start playing with D3. Read the [introduction](https://observablehq.com/@d3/learn-d3) or browse the [D3 example gallery](https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=banner&utm_campaign=try-observable) for inspiration, and then fork a notebook!
 
 ## Installing
 
