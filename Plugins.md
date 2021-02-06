@@ -53,6 +53,7 @@ For more information on creating your own plugin, see [Let's Make a (D3) Plugin]
 * [Kcnarf/d3-voronoi-map](https://github.com/Kcnarf/d3-voronoi-map) - D3 plugin which computes a map (one-level treemap) based on a Voronoi tesselation
 * [Kcnarf/d3-voronoi-treemap](https://github.com/Kcnarf/d3-voronoi-treemap) - D3 plugin which computes a treemap based on a Voronoi tesselation
 * [Force-directed labels](https://github.com/TylerRick/d3-force-labels)
+* [carpiediem/d3-curve-circlecorners](https://github.com/carpiediem/d3-curve-circlecorners) - a curve function that uses circular corners instead of Bézier curves
 
 ## v3
 
