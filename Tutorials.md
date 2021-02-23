@@ -75,7 +75,7 @@ Tutorials may not be up-to-date with the latest version 4.0 of D3; consider read
 - [Towards Reusable Charts](http://bost.ocks.org/mike/chart/)
 - [Using Inkscape with d3](http://christopheviau.com/d3_tutorial/d3_inkscape/) - Christophe Viau
 - [How to Make Choropleth Maps in D3](http://blog.visual.ly/how-to-make-choropleth-maps-in-d3/) - EJ Fox
-- [Converting dynamic SVG to PNG with node.js, d3 and Imagemagick](http://eng.wealthfront.com/2011/12/converting-dynamic-svg-to-png-with.html) - Wealthfront
+- [Converting dynamic SVG to PNG with node.js, d3 and Imagemagick](https://eng.wealthfront.com/2011/12/22/converting-dynamic-svg-to-png-with-node-js-d3-and-imagemagick/) - Wealthfront
 - [Creating Animated Bubble Charts in D3](http://vallandingham.me/bubble_charts_in_d3.html) - Jim Vallandingham
 - [Multiple area charts with D3](http://tympanus.net/codrops/2012/08/29/multiple-area-charts-with-d3-js/)
 - [Building a lightweight, flexible D3 dashboard (3-part series)](http://mobiledevmemo.com/building-a-lightweight-flexible-d3-js-dashboard-part-1-of-2/) - Eric Seufert
