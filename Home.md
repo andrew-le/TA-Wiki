@@ -3,7 +3,7 @@
 ## Resources
 
 * [Introduction](https://observablehq.com/@d3/learn-d3)
-* [API Reference](/d3/d3/blob/master/API.md)
+* [API Reference](/d3/d3/blob/main/API.md)
 * [Releases](https://github.com/d3/d3/releases)
 * [Examples](https://observablehq.com/@d3/gallery)
 * [Tutorials](Tutorials)
@@ -37,25 +37,68 @@
 
 ## Installing
 
-For NPM, `npm install d3`. For Yarn, `yarn add d3`. Otherwise, download the [latest release](https://unpkg.com/d3/build/). The released bundle supports AMD, CommonJS, and vanilla environments. Create a [custom bundle using Rollup](http://bl.ocks.org/mbostock/bb09af4c39c79cffcde4) or your preferred bundler. You can also load directly from [d3js.org](https://d3js.org):
+If you use npm, `npm install d3`. You can also download the [latest release on GitHub](https://github.com/d3/d3/releases/latest). For vanilla HTML in modern browsers, import D3 from Skypack:
 
 ```html
-<script src="https://d3js.org/d3.v5.js"></script>
+<script type="module">
+
+import * as d3 from "https://cdn.skypack.dev/d3@7";
+
+const div = d3.selectAll("div");
+
+</script>
 ```
 
-For the minified version:
+For legacy environments, you can load D3’s UMD bundle from an npm-based CDN such as jsDelivr; a `d3` global is exported:
 
 ```html
-<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script>
+
+const div = d3.selectAll("div");
+
+</script>
 ```
 
 You can also use the standalone D3 microlibraries. For example, [d3-selection](https://github.com/d3/d3-selection):
 
 ```html
-<script src="https://d3js.org/d3-selection.v1.min.js"></script>
+<script type="module">
+
+import {selectAll} from "https://cdn.skypack.dev/d3-selection@3";
+
+const div = selectAll("div");
+
+</script>
 ```
 
-If you prefer to pin to a specific release, try [CDNJS](https://cdnjs.com/libraries/d3) or [unpkg](https://unpkg.com/d3/).
+D3 is written using [ES2015 modules](http://www.2ality.com/2014/09/es6-modules-final.html). Create a custom bundle using Rollup, Webpack, or your preferred bundler. To import D3 into an ES2015 application, either import specific symbols from specific D3 modules:
+
+```js
+import {scaleLinear} from "d3-scale";
+```
+
+Or import everything into a namespace (here, `d3`):
+
+```js
+import * as d3 from "d3";
+```
+
+Or using dynamic import:
+
+```js
+const d3 = await import("d3");
+```
+
+You can also import individual modules and combine them into a `d3` object using [Object.assign](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign):
+
+```js
+const d3 = await Promise.all([
+  import("d3-format"),
+  import("d3-geo"),
+  import("d3-geo-projection")
+]).then(d3 => Object.assign({}, ...d3));
+```
 
 ## Supported Environments
 
@@ -64,11 +107,11 @@ D3 5+ supports recent browsers, such as Chrome, Edge, Firefox and Safari. D3 4 a
 D3 also runs on [Node](http://nodejs.org/) and [web workers](http://www.whatwg.org/specs/web-apps/current-work/multipage/workers.html). To use the DOM in Node, you must provide your own DOM implementation; [JSDOM](https://github.com/tmpvar/jsdom) is recommended. To avoid defining a global `document`, pass a DOM element to d3.select or a NodeList to d3.selectAll, like so:
 
 ```js
-var d3 = require("d3"),
-    jsdom = require("jsdom");
+import {select} from "d3-selection";
+import {JSDOM} from "jsdom";
 
-var document = jsdom.jsdom(),
-    svg = d3.select(document.body).append("svg");
+const jsdom = new JSDOM(html);
+const svg = select(jsdom.window.document.body).append("svg");
 ```
 
 When using D3 in an environment that supports [ES modules](http://exploringjs.com/es6/ch_modules.html), you can import the default D3 bundle as a namespace:
@@ -90,6 +133,7 @@ For this reason, the preferred pattern is to import symbols from the [D3 modules
 import {select, selectAll} from "d3-selection";
 import {geoPath} from "d3-geo";
 import {geoPatterson} from "d3-geo-projection";
+import "d3-transition";
 ```
 
 If you are using a bundler, make sure your bundler is configured to consume the `modules` entry point in the package.json. See webpack’s [resolve.mainFields](https://webpack.js.org/configuration/resolve/#resolve-mainfields), for example.
